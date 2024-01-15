@@ -1,0 +1,31 @@
+{
+  "raw": {
+    "status_code": 200,
+    "data": {
+      "samples": 0,
+      "industry_epds_count": 531,
+      "generic_estimates_count": 0,
+      "average": "308.3052299 kgCO2e",
+      "standard_deviation": "168.653462 kgCO2e",
+      "gwp_z": 0.5470340611440936,
+      "conservative_estimate": "439.8410262 kgCO2e",
+      "pct60_gwp": "348.1870546 kgCO2e",
+      "pct40_gwp": "270.7448113 kgCO2e",
+      "best_practice": "175.1573443 kgCO2e",
+      "min_gwp": "-1042.06861 kgCO2e",
+      "max_gwp": "1011.783829 kgCO2e",
+      "pct20_gwp_no_bod": "175.1573443 kgCO2e",
+      "pct40_gwp_no_bod": "270.7448113 kgCO2e",
+      "pct60_gwp_no_bod": "348.1870546 kgCO2e",
+      "pct80_gwp_no_bod": "439.8410262 kgCO2e",
+      "mean_gwp_no_bod": "308.3052299 kgCO2e",
+      "unit": "1 kg",
+      "mass_per_declared_unit": null,
+      "density": null,
+      "baselines": {},
+      "materials": null,
+      "excluded_search_terms": []
+    },
+    "duration": 1.1224868297576904
+  }
+}
