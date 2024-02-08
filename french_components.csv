@@ -1,0 +1,124 @@
+,French_Raw,French_Code,SoldAfterDays,CountEntity,French_Code_Parent,Code,Title,Rank_SoldAfterDays,Rank_CountEntity,Score
+91,chair,IfcFurniture.CHAIR,99.03529411764706,85,IfcFurniture.CHAIR,,,10.0,10.0,20.0
+0,table,IfcFurniture.TABLE,121.77906976744185,86,IfcFurniture.TABLE,,,15.0,9.0,24.0
+115,Bureaux,Pr_40_50_21_10,92.75806451612904,62,Pr_40_50,Pr_40_50,Furnishings,9.0,20.0,29.0
+12,waterheating  coil,IfcCoil.WATERHEATINGCOIL,71.6896551724138,29,IfcCoil.WATERHEATINGCOIL,,,6.0,34.0,40.0
+28,Sliding shutter doorsets,Pr_30_59_24_84,149.0188679245283,159,Pr_30_59,Pr_30_59,Openings and opening component products,35.0,5.0,40.0
+5,Double slips,Pr_20_76_71_24,150.17171717171718,99,Pr_20_76,Pr_20_76,Sectional products,36.0,8.0,44.0
+215,Aluminium edges,Pr_25_93_60_02,43.0,20,Pr_25_93,Pr_25_93,Unit skin products,2.0,42.0,44.0
+36,Soffit grilles,Pr_30_59_94_78,90.81481481481481,27,Pr_30_59,Pr_30_59,Openings and opening component products,8.0,37.0,45.0
+44,turnstile,IfcDoor.TURNSTILE,142.84057971014494,69,IfcDoor.TURNSTILE,,,28.0,17.0,45.0
+15,staple,IfcMechanicalFastener.STAPLE,145.986301369863,73,IfcMechanicalFastener.STAPLE,,,32.0,15.0,47.0
+67,Console tables,Pr_40_50_21_16,125.7741935483871,31,Pr_40_50,Pr_40_50,Furnishings,18.0,32.0,50.0
+114,stair,IfcStair,142.83333333333334,48,IfcStair,,,27.0,23.0,50.0
+368,Aluminium shutters,Pr_30_59_07_02,38.8235294117647,17,Pr_30_59,Pr_30_59,Openings and opening component products,1.0,51.0,52.0
+6,Pendant luminaires,Pr_70_70_48_62,166.4825174825175,143,Pr_70_70,Pr_70_70,Power and lighting outlet products,50.0,6.0,56.0
+2,Pliable conduit,Pr_65_70_11_63,172.4847645429363,361,Pr_65_70,Pr_65_70,"Cables, conductors and fittings products",58.0,1.0,59.0
+4,Water coolers,Pr_40_70_15_96,170.98130841121494,107,Pr_40_70,Pr_40_70,Equipment,56.0,7.0,63.0
+19,parapet,IfcWall.PARAPET,168.25,84,IfcWall.PARAPET,,,53.0,11.0,64.0
+27,tee,IfcCableCarrierFitting.TEE,174.0923913043478,184,IfcCableCarrierFitting.TEE,,,62.0,2.0,64.0
+41,Guard barriers,Pr_40_30_22_34,138.3,20,Pr_40_30,Pr_40_30,Fittings,25.0,42.0,67.0
+131,pot,IfcBearing.POT,124.6470588235294,17,IfcBearing.POT,,,16.0,51.0,67.0
+63,distribution  element,IfcDistributionElement,135.66666666666666,18,IfcDistributionElement,,,21.0,48.0,69.0
+152,computer,IfcCommunicationsAppliance.COMPUTER,157.5142857142857,35,IfcCommunicationsAppliance.COMPUTER,,,41.0,31.0,72.0
+134,Bin stores,Pr_40_50_07_07,167.4878048780488,41,Pr_40_50,Pr_40_50,Furnishings,52.0,25.0,77.0
+86,rafter,IfcMember.RAFTER,165.57894736842104,38,IfcMember.RAFTER,,,49.0,28.0,77.0
+40,electrical,IfcDistributionSystem.ELECTRICAL,175.44155844155844,77,IfcDistributionSystem.ELECTRICAL,,,64.0,14.0,78.0
+11,door,IfcDoor,186.38953488372093,172,IfcDoor,,,75.0,3.0,78.0
+56,Acoustic batten cradles,Pr_20_85_47_04,86.27272727272727,11,Pr_20_85,Pr_20_85,Support and restraint products,7.0,73.0,80.0
+74,Manual trapdoors,Pr_30_59_36_50,169.82926829268294,41,Pr_30_59,Pr_30_59,Openings and opening component products,55.0,25.0,80.0
+118,Heat pumps,Pr_70_60_37,156.7,20,Pr_70_60,Pr_70_60,Space heating and cooling products,39.0,42.0,81.0
+30,suspender,IfcMember.SUSPENDER,173.25,60,IfcMember.SUSPENDER,,,60.0,21.0,81.0
+140,port,IfcPort,136.13333333333333,15,IfcPort,,,23.0,58.0,81.0
+16,Joist seals,Pr_25_57_21_44,192.62111801242236,161,Pr_25_57,Pr_25_57,"Non-rigid sheet, mat and strip skin products",79.0,4.0,83.0
+35,ceiling,IfcCovering.CEILING,182.67088607594937,79,IfcCovering.CEILING,,,73.0,13.0,86.0
+210,Lamps,Pr_70_70_46,120.36363636363636,11,Pr_70_70,Pr_70_70,Power and lighting outlet products,14.0,73.0,87.0
+137,Strip ventilators,Pr_30_59_29_82,144.21428571428572,14,Pr_30_59,Pr_30_59,Openings and opening component products,31.0,61.0,92.0
+173,Dovecotes,Pr_40_30_04_25,119.6,10,Pr_40_30,Pr_40_30,Fittings,13.0,79.0,92.0
+70,finned,IfcTubeBundle.FINNED,175.55555555555554,36,IfcTubeBundle.FINNED,,,65.0,30.0,95.0
+256,Kitchenette units,Pr_20_65_50_46,124.9,10,Pr_20_65,Pr_20_65,Prefabricated buildings and structures,17.0,79.0,96.0
+124,Electrical diagrams,Pr_40_10_57_23,126.8,10,Pr_40_10,Pr_40_10,Signage products,19.0,79.0,98.0
+26,Murals,Pr_40_50_05_55,194.625,72,Pr_40_50,Pr_40_50,Furnishings,83.0,16.0,99.0
+48,quay,IfcMarineFacility.QUAY,171.85,20,IfcMarineFacility.QUAY,,,57.0,42.0,99.0
+324,Wardrobes,Pr_40_30_87_96,109.11111111111111,9,Pr_40_30,Pr_40_30,Fittings,11.0,89.0,100.0
+71,main,IfcReinforcingBar.MAIN,158.92857142857142,14,IfcReinforcingBar.MAIN,,,42.0,61.0,103.0
+58,Air conditioning units,Pr_70_65_03,137.5,10,Pr_70_65,Pr_70_65,Air and fume outlet products,24.0,79.0,103.0
+21,Radiators,Pr_70_60_36_73,196.65079365079364,63,Pr_70_60,Pr_70_60,Space heating and cooling products,85.0,19.0,104.0
+267,entrance works,IfcElementAssembly.ENTRANCEWORKS,112.75,8,IfcElementAssembly.ENTRANCEWORKS,,,12.0,94.0,106.0
+98,strand,IfcTendon.STRAND,180.17857142857142,28,IfcTendon.STRAND,,,71.0,36.0,107.0
+1,projector,IfcAudioVisualAppliance.PROJECTOR,147.0,11,IfcAudioVisualAppliance.PROJECTOR,,,34.0,73.0,107.0
+24,Sprigs,Pr_20_29_56_82,206.925,80,Pr_20_29,Pr_20_29,Fastener products,96.0,12.0,108.0
+23,Bidets,Pr_40_20_06_11,206.015625,64,Pr_40_20,Pr_40_20,Sanitary fittings and accessories,94.0,18.0,112.0
+276,rail,IfcRail,168.6,15,IfcRail,,,54.0,58.0,112.0
+78,Newspaper dispensers,Pr_40_70_22_56,197.85,40,Pr_40_70,Pr_40_70,Equipment,86.0,27.0,113.0
+8,suspension,IfcBridge.SUSPENSION,199.97674418604652,43,IfcBridge.SUSPENSION,,,90.0,24.0,114.0
+93,Balancing veneers,Pr_25_71_94_06,131.625,8,Pr_25_71,Pr_25_71,"Rigid board, panel, sheet and sectional products",20.0,94.0,114.0
+52,Grommets,Pr_20_29_60_34,191.04,25,Pr_20_29,Pr_20_29,Fastener products,78.0,38.0,116.0
+142,Glassware,Pr_40_70_23_36,48.166666666666664,6,Pr_40_70,Pr_40_70,Equipment,3.0,113.0,116.0
+143,Duct banks,Pr_65_70_11_25,135.75,8,Pr_65_70,Pr_65_70,"Cables, conductors and fittings products",22.0,94.0,116.0
+353,Meeting room tables,Pr_40_50_21_51,55.0,6,Pr_40_50,Pr_40_50,Furnishings,4.0,113.0,117.0
+315,Garden awnings,Pr_40_50_33_33,70.16666666666667,6,Pr_40_50,Pr_40_50,Furnishings,5.0,113.0,118.0
+113,Window walls,Pr_30_59_99,189.6,20,Pr_30_59,Pr_30_59,Openings and opening component products,76.0,42.0,118.0
+209,Food preparation tables,Pr_40_50_21_32,143.11111111111111,9,Pr_40_50,Pr_40_50,Furnishings,30.0,89.0,119.0
+96,wash handbasin,IfcSanitaryTerminal.WASHHANDBASIN,157.5,10,IfcSanitaryTerminal.WASHHANDBASIN,,,40.0,79.0,119.0
+168,Wood lathings,Pr_20_85_46_96,198.06451612903226,31,Pr_20_85,Pr_20_85,Support and restraint products,88.0,32.0,120.0
+364,fire  sensor,IfcSensor.FIRESENSOR,163.27272727272728,11,IfcSensor.FIRESENSOR,,,47.0,73.0,120.0
+392,Power and lighting outlet products,Pr_70_70,194.0,22,Pr_70_70,Pr_70_70,Power and lighting outlet products,80.0,41.0,121.0
+53,footing,IfcFooting,210.59259259259258,54,IfcFooting,,,100.0,22.0,122.0
+170,Water strainers,Pr_65_57_95_96,166.9090909090909,11,Pr_65_57,Pr_65_57,Filter products,51.0,73.0,124.0
+39,Modular cassette ventilated ceilings,Pr_70_65_04_53,177.5625,16,Pr_70_65,Pr_70_65,Air and fume outlet products,69.0,55.0,124.0
+133,co  sensor,IfcSensor.COSENSOR,162.3,10,IfcSensor.COSENSOR,,,45.0,79.0,124.0
+80,Wood veneers,Pr_25_71_94_98,172.53846153846155,13,Pr_25_71,Pr_25_71,"Rigid board, panel, sheet and sectional products",59.0,66.0,125.0
+144,Furnishings,Pr_40_50,182.625,16,Pr_40_50,Pr_40_50,Furnishings,72.0,55.0,127.0
+139,shelf,IfcFurniture.SHELF,141.42857142857142,7,IfcFurniture.SHELF,,,26.0,102.0,128.0
+246,Automatic revolving doorsets,Pr_30_59_24_04,150.5,8,Pr_30_59,Pr_30_59,Openings and opening component products,37.0,94.0,131.0
+65,watercooling  coil,IfcCoil.WATERCOOLINGCOIL,195.88888888888889,18,IfcCoil.WATERCOOLINGCOIL,,,84.0,48.0,132.0
+314,plate,IfcPlate,173.33333333333334,12,IfcPlate,,,61.0,71.0,132.0
+266,Prefabricated balconies,Pr_20_65_50_65,146.85714285714286,7,Pr_20_65,Pr_20_65,Prefabricated buildings and structures,33.0,102.0,135.0
+32,cable,IfcDistributionPort.CABLE,240.31578947368422,38,IfcDistributionPort.CABLE,,,108.0,28.0,136.0
+155,lighting,IfcSpatialZone.LIGHTING,179.0,13,IfcSpatialZone.LIGHTING,,,70.0,66.0,136.0
+22,Soap dispensers,Pr_40_70_22_81,199.61111111111111,18,Pr_40_70,Pr_40_70,Equipment,89.0,48.0,137.0
+393,discrete  accessory,IfcDiscreteAccessory,194.0,15,IfcDiscreteAccessory,,,80.0,58.0,138.0
+82,Pedestal washbasins,Pr_40_20_96_63,197.88235294117646,17,Pr_40_20,Pr_40_20,Sanitary fittings and accessories,87.0,51.0,138.0
+51,chute conveyor,IfcConveyorSegment.CHUTECONVEYOR,176.5,12,IfcConveyorSegment.CHUTECONVEYOR,,,67.0,71.0,138.0
+423,external,IfcExternalSpatialElement.EXTERNAL,143.0,6,IfcExternalSpatialElement.EXTERNAL,,,29.0,113.0,142.0
+99,Recessed luminaires,Pr_70_70_48_71,221.5,24,Pr_70_70,Pr_70_70,Power and lighting outlet products,103.0,39.0,142.0
+3,Glass fins,Pr_25_71_33_34,190.15384615384616,13,Pr_25_71,Pr_25_71,"Rigid board, panel, sheet and sectional products",77.0,66.0,143.0
+10,alarm,IfcAlarm,244.17241379310346,29,IfcAlarm,,,109.0,34.0,143.0
+55,miter,IfcVoidingFeature.MITER,209.3684210526316,19,IfcVoidingFeature.MITER,,,98.0,47.0,145.0
+243,Gratings,Pr_25_96_30,159.0,7,Pr_25_96,Pr_25_96,Grid and grating skin products,43.0,102.0,145.0
+68,Coaxial cables,Pr_65_70_15_13,176.4,10,Pr_65_70,Pr_65_70,"Cables, conductors and fittings products",66.0,79.0,145.0
+90,Suspended luminaires,Pr_70_70_48_86,230.3913043478261,23,Pr_70_70,Pr_70_70,Power and lighting outlet products,106.0,40.0,146.0
+94,Water flumes,Pr_40_30_86_78,159.14285714285714,7,Pr_40_30,Pr_40_30,Fittings,44.0,102.0,146.0
+161,Projectors,Pr_40_70_67,163.0,7,Pr_40_70,Pr_40_70,Equipment,46.0,102.0,148.0
+77,diverting,IfcValve.DIVERTING,206.75,16,IfcValve.DIVERTING,,,95.0,55.0,150.0
+31,Vanity and washroom furniture,Pr_40_20_76_95,156.5,6,Pr_40_20,Pr_40_20,Sanitary fittings and accessories,38.0,113.0,151.0
+148,Concealed hinges,Pr_30_36_36_15,200.5,14,Pr_30_36,Pr_30_36,Hardware products,91.0,61.0,152.0
+34,bollard,IfcMooringDevice.BOLLARD,184.6,10,IfcMooringDevice.BOLLARD,,,74.0,79.0,153.0
+37,dera iler,IfcTrackElement.DERAILER,204.0,14,IfcTrackElement.DERAILER,,,92.0,61.0,153.0
+116,Metal casement putties,Pr_30_31_68_51,176.66666666666666,9,Pr_30_31,Pr_30_31,Formless openings products,68.0,89.0,157.0
+260,Escalators,Pr_65_80_28_21,175.375,8,Pr_65_80,Pr_65_80,Transport distribution products,63.0,94.0,157.0
+176,Whiteboards,Pr_40_30_25_96,163.5,6,Pr_40_30,Pr_40_30,Fittings,48.0,113.0,161.0
+100,shower,IfcSanitaryTerminal.SHOWER,251.05882352941177,17,IfcSanitaryTerminal.SHOWER,,,112.0,51.0,163.0
+281,basin,IfcTank.BASIN,216.69230769230768,13,IfcTank.BASIN,,,101.0,66.0,167.0
+141,Acoustic duct linings,Pr_65_67_78_02,205.2,10,Pr_65_67,Pr_65_67,Air and fume distribution products,93.0,79.0,172.0
+14,camera,IfcAudioVisualAppliance.CAMERA,261.35714285714283,14,IfcAudioVisualAppliance.CAMERA,,,113.0,61.0,174.0
+390,energy conversion  device,IfcEnergyConversionDevice,194.0,7,IfcEnergyConversionDevice,,,80.0,102.0,182.0
+54,Wood doorsets,Pr_30_59_24_97,321.61538461538464,13,Pr_30_59,Pr_30_59,Openings and opening component products,117.0,66.0,183.0
+128,Plaques,Pr_40_10_77_63,278.54545454545456,11,Pr_40_10,Pr_40_10,Signage products,116.0,73.0,189.0
+43,Metal sways,Pr_20_29_87_52,248.6,10,Pr_20_29,Pr_20_29,Fastener products,111.0,79.0,190.0
+84,terrain,IfcGeographicElement.TERRAIN,208.625,8,IfcGeographicElement.TERRAIN,,,97.0,94.0,191.0
+13,Garage door holders,Pr_30_36_59_32,226.77777777777777,9,Pr_30_36,Pr_30_36,Hardware products,104.0,89.0,193.0
+303,thermal,IfcProtectiveDeviceTrippingUnit.THERMAL,209.42857142857142,7,IfcProtectiveDeviceTrippingUnit.THERMAL,,,99.0,102.0,201.0
+127,balustrade,IfcRailing.BALUSTRADE,275.55555555555554,9,IfcRailing.BALUSTRADE,,,114.0,89.0,203.0
+153,elevator,IfcTransportElement.ELEVATOR,247.375,8,IfcTransportElement.ELEVATOR,,,110.0,94.0,204.0
+76,Sample coolers,Pr_65_55_84_75,227.42857142857142,7,Pr_65_55,Pr_65_55,Liquid and gas distribution products,105.0,102.0,207.0
+46,Metal armouring grilles,Pr_25_96_35_53,237.0,7,Pr_25_96,Pr_25_96,Grid and grating skin products,107.0,102.0,209.0
+112,thermostat,IfcUnitaryControlElement.THERMOSTAT,277.5,8,IfcUnitaryControlElement.THERMOSTAT,,,115.0,94.0,209.0
+105,water,IfcBoiler.WATER,220.16666666666666,6,IfcBoiler.WATER,,,102.0,113.0,215.0
+108,Multistage pumps,Pr_65_53_86_55,323.7142857142857,7,Pr_65_53,Pr_65_53,Pump products,118.0,102.0,220.0
+177,Extender cables,Pr_65_70_50_28,443.85714285714283,7,Pr_65_70,Pr_65_70,"Cables, conductors and fittings products",123.0,102.0,225.0
+61,Aluminium doorsets,Pr_30_59_24_02,326.0,6,Pr_30_59,Pr_30_59,Openings and opening component products,119.0,113.0,232.0
+270,Built-in gas hobs,Pr_40_70_24_09,332.0,6,Pr_40_70,Pr_40_70,Equipment,120.0,113.0,233.0
+73,airconditioning unit,IfcUnitaryEquipment.AIRCONDITIONINGUNIT,356.6666666666667,6,IfcUnitaryEquipment.AIRCONDITIONINGUNIT,,,121.0,113.0,234.0
+7,Metal gate surrounds,Pr_30_59_33_52,398.0,6,Pr_30_59,Pr_30_59,Openings and opening component products,122.0,113.0,235.0
