@@ -1,0 +1,1620 @@
+,Feature,Importance
+11,Category_Doors and  Windows,0.082019806
+27,Category_Miscellaneous Used Items,0.044382483
+14,Category_Fenster,0.04268931
+72,Category_desc,0.026983691
+425,Material_Terracotta,0.023985714
+21,Category_Gebäudetechnik & Sanitär,0.022336738
+43,Category_Türen & Zargen,0.01971665
+179,Category_seated,0.018759241
+42,Category_Timber and Floors,0.018591689
+33,Category_Rohbau,0.01716729
+2,Category_Ausbau,0.016778579
+8,Category_Dach,0.015565057
+23,Category_Innenausbau,0.014098441
+1461,Code_heat  exchanger,0.0136910435
+1381,Code_bollard,0.012208104
+22,Category_Haustechnik & Sanitär,0.011694101
+351,Material_Net,0.011580997
+13,Category_Fassade,0.0115290815
+16,Category_Floor,0.011291199
+1,Category_Antique & Reclaimed,0.010720294
+20,Category_Gebäudehülle & Konstruktion,0.008674426
+223,Material_Aluminium,0.008099048
+0,Price,0.007808144
+307,Material_Gravel,0.0077760643
+1420,Code_diverting,0.007492911
+1503,Code_parapet,0.007471447
+665,Code_Desks,0.007377293
+121,Category_linoleum_pvc_vinyl,0.007314416
+688,Code_Double slips,0.0067643966
+25,Category_Masonry Materials,0.006658898
+1310,Code_Water coolers,0.0063045616
+407,Material_Sitka spruce,0.0062668845
+294,Material_Gas,0.006218771
+1390,Code_ceiling,0.0057342835
+1563,Code_stair,0.0056736846
+160,Category_ovens,0.005585562
+1578,Code_tee,0.005528315
+57,Category_bath_and_toilet_accessories,0.005410415
+265,Material_Decorative aggregates,0.0053480137
+675,Code_Domestic cooking equipment,0.0053431257
+1053,Code_Power and lighting outlet products,0.0053412057
+378,Material_Porcelain,0.0053026527
+62,Category_cable_path,0.0051826015
+1439,Code_finned,0.0051067513
+938,Code_Manual trapdoors,0.0050183083
+1335,Code_Wood doorsets,0.00496265
+96,Category_flower_pot_planter,0.004956865
+984,Code_Murals,0.0049539367
+1421,Code_door,0.0048500625
+39,Category_Sonstiges,0.0048288438
+9,Category_Door,0.004813594
+88,Category_faucets,0.004710921
+91,Category_fire_doors,0.004665889
+1159,Code_Soffit grilles,0.0046445713
+138,Category_other_furniture,0.0046276585
+1610,Code_waterheating  coil,0.0045440774
+1391,Code_chair,0.0044806013
+1596,Code_turnstile,0.0044790953
+369,Material_Pisé,0.0042464016
+69,Category_cooling_system,0.0042300476
+402,Material_Sheet glass,0.0040339986
+120,Category_lighting_general_equipment,0.0040268493
+1416,Code_discrete  accessory,0.00399809
+1067,Code_Radiators,0.003978073
+405,Material_Silt,0.003956461
+286,Material_Fir,0.0038639489
+541,Code_Bureaux,0.0037821708
+206,Category_wall_panelling,0.003773469
+893,Code_Joist seals,0.003675473
+1377,Code_birdcage,0.0036115968
+10,Category_Doors,0.003528065
+183,Category_simple_solid_doors,0.0033985921
+333,Material_Loose surfacing decorative aggregates,0.0033637006
+74,Category_domestic_water_systems_equipment,0.0032970437
+191,Category_storage_unit,0.003296236
+211,Category_wires_connections,0.003255384
+87,Category_fan_coil,0.0032112862
+1073,Code_Recessed luminaires,0.00320432
+788,Code_Garage door holders,0.0031573686
+1344,Code_Wood louvre frames,0.0030740038
+93,Category_fire_extinguishing_device,0.0030592885
+393,Material_Reflective glass,0.0030589388
+30,Category_Per Building,0.003027656
+1583,Code_thermal,0.0029835843
+1417,Code_dishwasher,0.0029379765
+783,Code_Furnishings,0.0027698965
+29,Category_Objet Trouvé,0.0027516617
+772,Code_Food preparation tables,0.0027221881
+343,Material_Metal,0.0027204936
+90,Category_fire_alarm_device,0.002717827
+106,Category_hot_water_boiler,0.0026718583
+329,Material_Lignite,0.0025879962
+17,Category_Floors,0.002585712
+1604,Code_wash handbasin,0.0025756587
+575,Code_Clay plain tiles,0.0025215684
+1021,Code_Pendant luminaires,0.002513758
+706,Code_Electrochromic glass,0.0025058745
+85,Category_false_floor,0.0024906571
+1353,Code_Wood window walls,0.0024899559
+1509,Code_plate,0.0024761283
+3,Category_Baustoffe & Werkzeuge,0.0024716475
+960,Code_Metal newel posts,0.0024693634
+76,Category_electronically_heat,0.0024689792
+440,Material_Wood,0.0024513812
+15,Category_Fliesen & Steine,0.0024281477
+71,Category_demountable_partitions,0.002407608
+898,Code_Kitchenette units,0.002390645
+188,Category_solid_exterior_door,0.0023868438
+1170,Code_Sprigs,0.002377426
+207,Category_wardrobe,0.0023731228
+832,Code_Grommets,0.0023659656
+285,Material_Film,0.0023465725
+140,Category_other_interior_special_door,0.00232448
+102,Category_guardrail_barrier,0.0023238526
+249,Material_Ceramic,0.0023150383
+237,Material_Blinding aggregates,0.0023113564
+1267,Code_Uncontrolled door closers,0.0023079042
+1387,Code_camera,0.0022975998
+124,Category_main_switchboard,0.0022954212
+40,Category_Technical,0.0022895702
+436,Material_Weathering steel,0.0022683751
+170,Category_railing,0.0022635108
+335,Material_Marble,0.0022033614
+257,Material_Compressed air,0.0021918716
+672,Code_Display plinths,0.0021871657
+954,Code_Metal casement putties,0.0021519833
+1590,Code_trap  door,0.0021465758
+399,Material_Sandstone,0.002133131
+789,Code_Garden awnings,0.0021303617
+366,Material_Petroleum,0.0021019746
+1523,Code_quay,0.00210157
+521,Code_Bidets,0.002063129
+283,Material_Figured glass,0.0020626385
+232,Material_Basalt,0.0020198205
+809,Code_Glass brise-soleil louvre blades,0.0020010255
+1149,Code_Sinks,0.00197333
+304,Material_Granule,0.001967137
+227,Material_Architectural glass,0.0019643046
+94,Category_fixed_partitions,0.0019450221
+217,Material_Aerogel,0.001899293
+1201,Code_Steel spiles,0.0018817727
+1498,Code_mullion,0.0018648875
+75,Category_door_hardware,0.0018645138
+713,Code_Equipment heaters,0.0018568134
+1343,Code_Wood lathings,0.0018347066
+996,Code_Natural stone slates,0.0018218223
+139,Category_other_illuminations_and_wires_connections,0.0018117145
+327,Material_Lightweight general aggregates,0.001769129
+34,Category_Roof,0.0017670607
+210,Category_windows,0.0017647173
+1538,Code_roof,0.0017425582
+1313,Code_Water flumes,0.0017408786
+1440,Code_fire  sensor,0.0017342835
+1562,Code_sprinkler,0.0017301046
+313,Material_Heat-resisting glass,0.001727549
+1434,Code_external,0.001727148
+301,Material_Granite-powder cement,0.0016693511
+1120,Code_Sectional overhead doorsets,0.0016237637
+185,Category_slab_apron,0.0016215341
+363,Material_Patterned glass,0.0016121712
+398,Material_Safety glass,0.001609613
+1330,Code_Window walls,0.0016080562
+1476,Code_lamp,0.0016034672
+1484,Code_main,0.0015974812
+1062,Code_Projectors,0.0015818035
+167,Category_portal,0.0015685312
+273,Material_Encaustic,0.0015653457
+438,Material_White poplar,0.0015587383
+423,Material_Teak,0.001525542
+454,Code_Acoustic duct linings,0.001515132
+1430,Code_energy conversion  device,0.0015108474
+1568,Code_strand,0.0015056931
+867,Code_Heat pumps,0.0014939497
+1208,Code_Stone bollards,0.0014857383
+128,Category_metal_construction_system,0.0014711242
+1207,Code_Stone balusters and newel posts,0.0014709904
+77,Category_elevators,0.0014667723
+1345,Code_Wood panelled door leaves,0.0014645393
+1039,Code_Plastics window films,0.0014540291
+1561,Code_spool,0.0014359422
+957,Code_Metal gate surrounds,0.0014018882
+679,Code_Door dampers,0.0014015433
+419,Material_Stone,0.0013945665
+460,Code_Air conditioning units,0.0013704372
+813,Code_Glass infill gate leaves,0.0013632888
+835,Code_Guard barriers,0.0012406806
+414,Material_Spandrel glass,0.0012352462
+1525,Code_radiator,0.0012331468
+1412,Code_dera iler,0.0012151125
+807,Code_Glass blocks,0.0012121326
+371,Material_Plate glass,0.0012056021
+417,Material_Stainless steel,0.0012045297
+421,Material_Structural steel,0.0012006517
+1513,Code_pot,0.0011897082
+1236,Code_Thermostatic control glazed roof ventilators,0.0011645334
+968,Code_Metal sways,0.001148397
+264,Material_Daub,0.00114487
+1554,Code_sleevi ng,0.0011434166
+705,Code_Electrical diagrams,0.0011427331
+1226,Code_Tee hinges,0.0011086884
+685,Code_Doorsets,0.0011037904
+161,Category_overhead_doors,0.001092566
+144,Category_other_plumbing_fixture,0.0010775084
+103,Category_gutter_downspout,0.0010712892
+439,Material_Wired glass,0.0010551921
+107,Category_hot_water_supply,0.0010459609
+491,Code_Aluminium window walls,0.001039597
+779,Code_Frameless glass door leaves,0.0010262225
+995,Code_Natural stone quoins,0.0009954795
+1587,Code_thermostat,0.00095580495
+198,Category_terracotta_faience_natural_stone,0.00094719394
+1512,Code_port,0.0009469084
+220,Material_Air-cooled steel slag,0.000906248
+163,Category_paved_surfaces,0.000793007
+105,Category_handrail,0.00077309785
+1334,Code_Wood door frames,0.0006894135
+951,Code_Mesh panels,0.0005850875
+429,Material_Ultrapure water,0.00056991505
+563,Code_Chute automatic fire doors,0.0005413838
+145,Category_other_production_of_heat,0.00053666614
+683,Code_Door hinges,0.00051451416
+1616,Code_window,0.000489508
+389,Material_Radon,0.00037985528
+980,Code_Modular cassette ventilated ceilings,0.00030741174
+433,Material_Wallaba,0.00022265012
+652,Code_Cylinder locks,0.00022083233
+553,Code_Cavity sliding doorsets,0.00016029779
+320,Material_Insulating glass,0.00010318918
+89,Category_fencing_gates,4.813915e-05
+180,Category_security_structure,0.0
+176,Category_roof_opening_support,0.0
+177,Category_roof_slab,0.0
+178,Category_room_for_specific_use,0.0
+516,Code_Bathroom pods,0.0
+782,Code_Fridge-freezers,0.0
+196,Category_taps_and_hoses_connection,0.0
+130,Category_music_equipment,0.0
+142,Category_other_outer_envelope,0.0
+143,Category_other_partition,0.0
+162,Category_parking_equipment,0.0
+171,Category_ramp,0.0
+174,Category_restractable_partitions,0.0
+132,Category_other_built_in_accessory,0.0
+158,Category_other_type_of_coverage,0.0
+137,Category_other_floor_finish,0.0
+134,Category_other_distribution_system,0.0
+133,Category_other_coating,0.0
+141,Category_other_layout,0.0
+181,Category_security_system,0.0
+146,Category_other_services_and_electric_distribution,0.0
+182,Category_showers_baths,0.0
+147,Category_other_source_of_energy,0.0
+298,Material_Glass wool,0.0
+299,Material_Gneiss,0.0
+300,Material_Granite,0.0
+302,Material_Granular cork aggregates,0.0
+303,Material_Granular soil,0.0
+305,Material_Graphite,0.0
+129,Category_miscellaneous_fixed_mobile_equipment,0.0
+331,Material_Lodgepole pine,0.0
+118,Category_lift_and_rolling_doors,0.0
+235,Material_Bentonite clays,0.0
+164,Category_pavement_coating,0.0
+165,Category_pierre,0.0
+166,Category_plants,0.0
+168,Category_primary_processor,0.0
+169,Category_product.fire_pump,0.0
+131,Category_notice_board_chalk_board,0.0
+175,Category_retaining_walls,0.0
+173,Category_residential_equipment,0.0
+222,Material_Alkyd resin,0.0
+186,Category_sliding_and_folding_doors,0.0
+194,Category_sub_flooring_cones,0.0
+224,Material_American red oak,0.0
+225,Material_Ammonia,0.0
+226,Material_Anti-bandit glass,0.0
+228,Material_Asphalt,0.0
+229,Material_Asphaltite,0.0
+230,Material_Balsam resin,0.0
+231,Material_Barytes aggregates,0.0
+119,Category_lighting_equipment,0.0
+233,"Material_Base, bed and fill aggregates",0.0
+297,Material_Glass fibre-reinforced concrete,0.0
+122,Category_loading_dock_equipment,0.0
+213,Category_woodwork,0.0
+123,Category_locker,0.0
+209,Category_welcome_desk,0.0
+189,Category_sports_fields,0.0
+190,Category_stage_theater_equipment,0.0
+127,Category_mat_and_accessory,0.0
+192,Category_storefronts,0.0
+193,Category_storm_drainage_equipment,0.0
+172,Category_removing_air,0.0
+187,Category_slope_/_flat_roof,0.0
+159,Category_outdoor_sun_protection_device,0.0
+148,Category_other_special_control_instrument,0.0
+149,Category_other_special_equipment,0.0
+150,Category_other_special_fire_protection_system,0.0
+151,Category_other_special_installation,0.0
+152,Category_other_special_interior_furnishings,0.0
+153,Category_other_special_plumbing_system,0.0
+154,Category_other_special_roofing_system,0.0
+155,Category_other_special_structure,0.0
+156,Category_other_special_system_device,0.0
+157,Category_other_terminal,0.0
+184,Category_sinks,0.0
+219,Material_Aggregates,0.0
+221,Material_Air-entrained concrete,0.0
+296,Material_Glass,0.0
+214,"Category_{'id': 1549, 'level': 4, 'value': 'material.category.ovens', 'codeBim': 'E.10.90.02', 'category': {'id': 1547, 'level': 3, 'value': 'material.category.other_equipment', 'codeBim': 'E.10.90', 'category': {'id': 1525, 'level': 2, 'value': 'material.category.equipment', 'codeBim': 'E.10', 'category': {'id': 1524, 'level': 1, 'value': None, 'codeBim': 'E', 'category': None, 'quantityUnit': None, 'differencingCriterion': None, 'technical_package': None, 'exclusion_guaranteed': False}, 'quantityUnit': None, 'differencingCriterion': None, 'technical_package': None, 'exclusion_guaranteed': False}, 'quantityUnit': None, 'differencingCriterion': None, 'technical_package': {'id': '17fb3ca4-5d4e-4698-b529-b609c5222cc5', 'name': 'Ameublement - Décoration - Mobilier spécial', 'label': 'material.technical_package.decoration_special_mobilier'}, 'exclusion_guaranteed': False}, 'quantityUnit': {'key': 'global.unit.piece', 'unit': 'PIECE'}, 'differencingCriterion': None, 'technical_package': None, 'exclusion_guaranteed': False}",0.0
+215,Material_Acetal resin,0.0
+216,Material_Acrylic resin,0.0
+218,Material_Aerosol,0.0
+238,Material_Blown glass,0.0
+328,Material_Lightweight insulating concrete,0.0
+330,Material_Liquid,0.0
+269,Material_Dolerite,0.0
+276,Material_Expanded glass aggregates,0.0
+277,Material_Expanded slag aggregates,0.0
+278,Material_Expanded slate aggregates,0.0
+279,Material_Expansive concrete,0.0
+280,Material_Extruded polystyrene foam (XPS),0.0
+271,Material_Earthenware,0.0
+281,Material_Fibre,0.0
+268,Material_Dichromatic glass,0.0
+258,Material_Concrete,0.0
+239,Material_Bonded surfacing decorative aggregates,0.0
+240,Material_Bone,0.0
+241,Material_Borosilicate glass,0.0
+242,Material_Brass,0.0
+243,Material_Bronze,0.0
+244,Material_Bullet-resistant glass,0.0
+245,Material_Cast iron,0.0
+246,Material_Cement,0.0
+274,Material_Epoxy resin,0.0
+259,Material_Condensed silica fume,0.0
+116,Category_junction_electric_panel,0.0
+317,Material_Hydraulic road binder bound mixtures,0.0
+903,Code_Lacquer resins,0.0
+533,Code_Bronze window units,0.0
+531,Code_Boxed sash window hanging fittings,0.0
+73,Category_direct_expansion_system,0.0
+784,Code_Furniture locks,0.0
+785,Code_Furniture trolleys,0.0
+786,Code_Futons,0.0
+787,Code_Gantries,0.0
+765,Code_Flue liners,0.0
+261,Material_Copper,0.0
+275,Material_European larch,0.0
+272,Material_Emulsion,0.0
+270,Material_Douglas fir,0.0
+262,Material_Crushed stone aggregates,0.0
+263,Material_Crystal glass,0.0
+115,Category_interior_portal,0.0
+266,Material_Designated concrete,0.0
+267,Material_Designed concretes,0.0
+318,Material_In situ concrete,0.0
+111,Category_industrial_door,0.0
+260,Material_Copal resin,0.0
+247,Material_Cement replacement materials,0.0
+109,Category_identifying_devices,0.0
+117,Category_lavatories,0.0
+321,Material_Iron,0.0
+250,Material_Chlorine,0.0
+306,Material_Grass,0.0
+324,Material_Lead,0.0
+325,Material_Lead glass,0.0
+326,Material_Leather,0.0
+110,Category_indoor_sun_protection_device,0.0
+113,Category_intercommunication_system,0.0
+295,Material_Gases,0.0
+319,Material_Insulating concrete,0.0
+251,Material_Chlorofluorocarbons,0.0
+112,Category_insulation_vapor_barrier,0.0
+287,Material_Fire clay,0.0
+288,Material_Float glass,0.0
+289,Material_Fluids,0.0
+290,Material_Foam,0.0
+293,Material_Galvanized steel,0.0
+291,Material_Foamed concrete,0.0
+292,Material_French oak,0.0
+308,Material_Green glass,0.0
+322,Material_Kaolin,0.0
+114,Category_interior_distribution_transformeur,0.0
+309,Material_Grog,0.0
+252,Material_Cinder concrete,0.0
+253,Material_Clinker,0.0
+254,Material_Coade stone,0.0
+255,Material_Cob,0.0
+256,Material_Coloured glass,0.0
+323,Material_Lacquer resin,0.0
+248,Material_Cement-bound granular mixtures,0.0
+282,Material_Fibreglass,0.0
+284,Material_Filament,0.0
+310,Material_Halon,0.0
+311,Material_Heat-absorbing glass,0.0
+312,Material_Heat-resistant concrete,0.0
+314,Material_Heat-strengthened glass,0.0
+315,Material_High-strength concrete,0.0
+316,Material_Hydraulic lime,0.0
+234,"Material_Base, bed and fill fine aggregates",0.0
+895,Code_Kitchen scales,0.0
+212,Category_wood_flooring,0.0
+361,Material_Paper,0.0
+101,Category_glazed_partitions_and_storefronts,0.0
+359,Material_Organic materials,0.0
+387,Material_Pulverized fuel ash,0.0
+373,Material_Polymer-impregnated cement,0.0
+374,Material_Polymer-impregnated concrete,0.0
+375,Material_Polystyrene resin,0.0
+376,Material_Polyurethane (PU),0.0
+360,Material_Oyster shells,0.0
+338,Material_Mastic resin,0.0
+379,Material_Potable water,0.0
+380,Material_Potassium bentonite,0.0
+372,Material_Polyester,0.0
+358,Material_Opal glass,0.0
+357,Material_Oil,0.0
+356,Material_Oak,0.0
+336,Material_Maritime pine,0.0
+337,Material_Masonry cement,0.0
+367,Material_Photosensitive glass,0.0
+377,Material_Polyvinyl chloride (PVC),0.0
+100,Category_glass_interior_door,0.0
+370,Material_Plastics,0.0
+504,Code_Balises,0.0
+505,Code_Ball float steam traps,0.0
+506,Code_Balusters and newel posts,0.0
+498,Code_Armrests,0.0
+499,Code_Artwork products,0.0
+500,Code_Auditorium chairs,0.0
+501,Code_Auditorium seating,0.0
+502,Code_Automatic revolving doorsets,0.0
+503,Code_Balancing veneers,0.0
+507,Code_Bandings,0.0
+368,Material_Pine,0.0
+365,Material_Petrol,0.0
+364,Material_Peat,0.0
+508,Code_Barrier rails,0.0
+442,Material_Wych elm,0.0
+441,Material_Wrought iron,0.0
+86,Category_fan,0.0
+437,Material_White pine,0.0
+495,Code_Annealed glass sheets,0.0
+496,Code_Anti-burglar window bars,0.0
+362,Material_Partially ground granulated blast-furnace slag (PGGBS),0.0
+339,Material_Materials by form,0.0
+408,Material_Slag bound mixtures,0.0
+340,Material_Medium-density polyethylene (MDPE),0.0
+385,Material_Prismatic glass,0.0
+341,Material_Membrane,0.0
+430,Material_Urea formaldehyde resin,0.0
+418,Material_Steel,0.0
+420,Material_Structural glass,0.0
+422,Material_Surface dressing aggregates,0.0
+410,Material_Small-area repair concrete,0.0
+424,Material_Terne-coated steel,0.0
+497,Code_Antique glass,0.0
+427,Material_Tufa,0.0
+413,Material_Solid,0.0
+431,Material_Vermiculite aggregates,0.0
+342,Material_Mesh,0.0
+432,Material_Vinyl ester resin,0.0
+434,Material_Walnut,0.0
+435,Material_Water,0.0
+92,Category_fire_extinguisher_cabinet,0.0
+409,Material_Slate,0.0
+406,Material_Sintered pulverized fuel ash,0.0
+411,Material_Soap,0.0
+415,Material_Special-class performance concrete,0.0
+104,Category_gypsum_wallboard_ceiling_finishes,0.0
+412,Material_Soil,0.0
+344,Material_Microemulsion,0.0
+345,Material_Mineral wool,0.0
+346,Material_Modified bituminous material,0.0
+347,Material_Mortar coarse aggregates,0.0
+348,Material_Mosaic glass,0.0
+416,Material_Spruce,0.0
+349,Material_Natural stone dusts,0.0
+350,Material_Neat cement,0.0
+352,Material_No-fines concrete,0.0
+353,Material_Non-reflective glass,0.0
+354,Material_Normal-weight concrete,0.0
+355,Material_Norway spruce,0.0
+381,Material_Pozzolana,0.0
+532,Code_Bronze sections,0.0
+382,Material_Pre-blended concrete,0.0
+384,Material_Prestressed concrete,0.0
+781,Code_Freezers,0.0
+195,Category_suspension_system,0.0
+470,Code_Aluminium bronze slot ties,0.0
+475,Code_Aluminium door leaves,0.0
+477,Code_Aluminium edges,0.0
+478,Code_Aluminium expanded gratings,0.0
+479,Code_Aluminium frame roof window units,0.0
+480,Code_Aluminium frames,0.0
+481,Code_Aluminium gates,0.0
+482,Code_Aluminium infill panels,0.0
+469,Code_Aluminium bronze brackets,0.0
+447,Code_Abdominal machines,0.0
+476,Code_Aluminium doorsets,0.0
+485,Code_Aluminium louvre blades,0.0
+465,Code_Air-to-air heat pumps,0.0
+463,Code_Air ventilation grilles,0.0
+443,Material_Wychert,0.0
+444,Material_Zinc,0.0
+445,Code_ vehicle wheeled,0.0
+446,Code_Abat-voix,0.0
+474,Code_Aluminium door frames,0.0
+483,Code_Aluminium loft ladders,0.0
+484,Code_Aluminium long strips,0.0
+526,Code_Bogie presses,0.0
+126,Category_masts,0.0
+125,Category_maintenance_equipment,0.0
+208,Category_warehouse_shelving,0.0
+200,Category_tiles_finishes,0.0
+201,Category_toilet_compartment_cabin_division,0.0
+202,Category_urinals,0.0
+203,Category_vent_equipment_and_sanatory,0.0
+204,Category_wall_foot_finish,0.0
+205,Category_wall_interior_partition_bearing,0.0
+236,Material_Bitumen,0.0
+466,Code_Airfield guidance signs,0.0
+473,Code_Aluminium damp-proof courses and cavity trays,0.0
+472,Code_Aluminium composite material (ACM) panels,0.0
+332,Material_Long fibre-reinforced plastics resin,0.0
+108,Category_hvac_regulation,0.0
+334,Material_Mahogany,0.0
+467,Code_Alkyd resins,0.0
+468,Code_Aluminium brise-soleil louvre blades,0.0
+528,Code_Bottle brush water filters,0.0
+494,Code_Angled active fire curtain barriers,0.0
+471,Code_Aluminium clips,0.0
+448,Code_Above-ground drainage pipe brackets,0.0
+490,Code_Aluminium window units,0.0
+449,Code_Access floor pedestals,0.0
+493,Code_Angle fasteners,0.0
+450,Code_Accessible baths,0.0
+529,Code_Bottle racks,0.0
+512,Code_Bath panels,0.0
+84,Category_exterior_furnishings,0.0
+523,Code_Bitumen bonded kraft papers,0.0
+524,Code_Bitumen sheets,0.0
+525,Code_Bitumen-impregnated softboard joint fillers,0.0
+199,Category_the_room_bar,0.0
+527,Code_Bolsters,0.0
+518,Code_Bayonet batten lampholders,0.0
+530,Code_Bouldering walls,0.0
+464,Code_Air-handling luminaires,0.0
+522,Code_Bin stores,0.0
+511,Code_Bath mixer taps,0.0
+510,Code_Basketball hoops,0.0
+509,Code_Baryte bricks,0.0
+489,Code_Aluminium trusses,0.0
+492,Code_Analogue metering equipment,0.0
+197,Category_television_system,0.0
+519,Code_Beams and joists,0.0
+461,Code_Air plenum boxes,0.0
+517,Code_Baths,0.0
+451,Code_Accessible shower equipment packages,0.0
+453,Code_Acoustic batten cradles,0.0
+455,Code_Acrylic resins,0.0
+456,Code_Aeronautical ground lighting,0.0
+457,Code_Aggregate concrete blocks,0.0
+520,Code_Bidet wastes,0.0
+458,Code_Air and fume outlet products,0.0
+459,Code_Air compressors,0.0
+462,Code_Air preparation units,0.0
+452,Code_Acetal resins,0.0
+486,Code_Aluminium post tops,0.0
+487,Code_Aluminium shutters,0.0
+488,Code_Aluminium stair treads,0.0
+513,Code_Bath wastes,0.0
+514,Code_Bathroom cabinets,0.0
+515,Code_Bathroom mirrors,0.0
+1274,Code_Upright pianos,0.0
+428,Material_Turpentine resin,0.0
+573,Code_Clay chimney pots,0.0
+556,Code_Cements and limes,0.0
+554,Code_Cavity ventilators,0.0
+535,Code_Built-in electric ovens,0.0
+536,Code_Built-in gas hobs,0.0
+537,Code_Built-in microwave ovens,0.0
+538,Code_Bulk anodes,0.0
+539,Code_Buoyancy-aided movable floors,0.0
+572,Code_Clay bricks,0.0
+550,Code_Cast stone sills,0.0
+542,Code_Cabinet and countertop hinges,0.0
+555,Code_Cellulose fibre loose insulation,0.0
+543,Code_Cable troughs,0.0
+545,Code_Carbon steel framed vertical section panels,0.0
+546,Code_Cast brass glass fixing brackets,0.0
+547,Code_Cast iron bollards,0.0
+548,Code_Cast iron columns,0.0
+549,Code_Cast iron products,0.0
+568,Code_Clamp brackets,0.0
+540,Code_Buoys,0.0
+83,Category_exterior_door_ironsmith,0.0
+716,Code_Escutcheons,0.0
+562,Code_Chlorine catchpots,0.0
+564,Code_Circlips,0.0
+565,Code_Cladding and lining panels,0.0
+624,Code_Concretes,0.0
+622,Code_Concrete tile ornamental fittings,0.0
+558,Code_Centrifugal pumps,0.0
+559,Code_Ceramic sinks,0.0
+560,Code_Ceramic slates,0.0
+561,Code_Chandeliers,0.0
+566,Code_Cladding support products,0.0
+577,Code_Cleaning equipment,0.0
+576,Code_Clay tile ornamental fittings,0.0
+82,Category_exterior_claddings,0.0
+557,Code_Centrifugal air separators,0.0
+567,Code_Cladding tile clips,0.0
+569,Code_Classroom desks and tables,0.0
+570,Code_Clay blocks,0.0
+571,Code_Clay brick sills,0.0
+692,Code_Downlights,0.0
+625,Code_Conductor rails,0.0
+574,Code_Clay paving tiles,0.0
+551,Code_Catering freezers,0.0
+593,Code_Commercial gas bratt pans,0.0
+552,Code_Catering refrigerators,0.0
+595,Code_Commercial gas griddles,0.0
+544,Code_Carbon steel doorsets,0.0
+586,Code_Collapsible timber bollards,0.0
+602,Code_Composite glass sheets,0.0
+601,Code_Composite doorsets,0.0
+600,Code_Composite door leaves,0.0
+581,Code_Coated woven glass fibre cloth flexible cavity barriers,0.0
+582,Code_Coaxial cables,0.0
+718,Code_Exercise bikes,0.0
+584,Code_Cold-formed galvanized steel sections,0.0
+620,Code_Concrete shaft cover slabs,0.0
+587,Code_Column casings,0.0
+578,"Code_Clips, clamps and couplers",0.0
+588,Code_Combination doorsets,0.0
+589,Code_Commercial cooking equipment,0.0
+590,Code_Commercial display and service catering products,0.0
+591,Code_Commercial electric griddles,0.0
+592,Code_Commercial freezer cabinets,0.0
+594,Code_Commercial gas cooking ranges,0.0
+618,Code_Concrete quadrant and angle kerbs,0.0
+621,Code_Concrete stair risers,0.0
+609,Code_Concrete access cover seatings,0.0
+619,Code_Concrete setts,0.0
+579,Code_Clocks,0.0
+580,Code_Coated polyester fabrics,0.0
+604,Code_Composite window units,0.0
+605,Code_Composite window walls,0.0
+606,Code_Compressed air hose couplings,0.0
+613,Code_Concrete glazed stair landing panels,0.0
+607,Code_Compressed air manifolds,0.0
+608,Code_Concealed hinges,0.0
+610,Code_Concrete balusters and newel posts,0.0
+611,Code_Concrete bollards,0.0
+603,Code_Composite sound-insulating panels,0.0
+612,Code_Concrete containment parapet units,0.0
+614,Code_Concrete helical stair flight units,0.0
+615,Code_Concrete interlocking tiles,0.0
+616,Code_Concrete pavers,0.0
+617,Code_Concrete plain tiles,0.0
+715,Code_Escalators,0.0
+386,Material_Proprietary concrete,0.0
+81,Category_exterior_building_stair,0.0
+626,Code_Conference tables,0.0
+627,Code_Connection cables,0.0
+628,Code_Console tables,0.0
+629,Code_Controlled door closers,0.0
+630,Code_Copal resins,0.0
+631,Code_Copper alloy sections,0.0
+632,Code_Copper brackets,0.0
+664,Code_Derailers,0.0
+643,Code_Crushed stone aggregates,0.0
+634,Code_Coriolis flowmeters,0.0
+636,Code_Corner cupboards,0.0
+637,Code_Corrugated fasteners,0.0
+638,Code_Corrugated wired glass sheets,0.0
+639,Code_Countertop washbasins,0.0
+640,Code_Cranked hinges,0.0
+641,Code_Cremulators,0.0
+642,Code_Crockery,0.0
+646,Code_Cupboards,0.0
+633,Code_Copper capping units,0.0
+645,Code_Cupboard safes,0.0
+79,Category_escalators,0.0
+655,Code_Decorative facings,0.0
+656,Code_Decorative metal panels,0.0
+647,Code_Curved internal staircases,0.0
+648,Code_Cushions,0.0
+649,Code_Cut floor brads,0.0
+650,Code_Cutlery,0.0
+651,Code_Cycle ramps,0.0
+653,Code_Daybeds,0.0
+654,Code_Deckchairs,0.0
+657,Code_Decorative metal tiles,0.0
+644,Code_Cubicle and partition legs,0.0
+667,Code_Dimensioned stones,0.0
+658,Code_Decorative sectional finishing products,0.0
+659,Code_Decorative stone finishing battens,0.0
+660,Code_Decorative timber panels,0.0
+661,Code_Decorative veneered medium-density fibreboards (MDF),0.0
+662,Code_Defibrillator units,0.0
+663,Code_Demountable podiums and staging,0.0
+677,Code_Domestic refrigerators and freezers,0.0
+691,Code_Dovecotes,0.0
+666,Code_Desks and tables,0.0
+635,Code_Corkboards,0.0
+78,Category_emergency_device,0.0
+668,Code_Dining chairs,0.0
+690,Code_Double-capped tubular LED lamps,0.0
+669,Code_Dining tables,0.0
+678,Code_Door chains and locks,0.0
+693,Code_Drafting machines,0.0
+671,Code_Dish and utensil washers,0.0
+80,Category_exhaust_hood_system,0.0
+673,Code_Divans,0.0
+674,Code_Domestic air diffusers and grilles,0.0
+597,Code_Commodes,0.0
+676,Code_Domestic dishwashers,0.0
+708,Code_Embroideries,0.0
+680,Code_Door edge protectors,0.0
+670,Code_Disc filters,0.0
+681,Code_Door frame protectors,0.0
+682,Code_Door frames and leaves,0.0
+684,Code_Door locks,0.0
+686,Code_Dormers,0.0
+687,Code_Double disc pumps,0.0
+689,Code_Double window steam sight glasses,0.0
+780,Code_Freezer blinds,0.0
+695,Code_Draw-off taps,0.0
+704,Code_Electrical connection boxes,0.0
+717,Code_Espresso machines,0.0
+697,Code_Dry air coolers,0.0
+698,Code_Drying lines,0.0
+699,Code_Duct banks,0.0
+700,Code_Ductwork security bars,0.0
+701,Code_Duvets,0.0
+694,Code_Drainage flame traps,0.0
+702,Code_Earth plates,0.0
+703,Code_Electric sliding door mechanisms,0.0
+696,Code_Drippers,0.0
+707,Code_Electronic sounders,0.0
+709,Code_Engineering bricks,0.0
+710,Code_Epoxy resin-based bonding compounds,0.0
+711,Code_Equipment,0.0
+712,"Code_Equipment enclosures, cabinets, boxes and housings",0.0
+714,Code_Equipment protection cages,0.0
+583,Code_Coir geotextiles,0.0
+585,Code_Collapsible metal bollards,0.0
+790,Code_Garden furnishings,0.0
+755,Code_Flange nuts,0.0
+761,Code_Flexible glass wool mat insulation,0.0
+762,Code_Floats,0.0
+754,Code_Flange jointing rings for steel flanges,0.0
+743,Code_Firebreak shutters,0.0
+742,Code_Fire-resisting air transfer grilles,0.0
+741,Code_Fire-rated glass block wall panels,0.0
+722,Code_Fabric bags,0.0
+753,Code_Flange adaptors,0.0
+733,Code_Fibre-reinforced resin composite mineral boards,0.0
+725,Code_Fender washers,0.0
+726,Code_Fenders,0.0
+727,Code_Fermenters,0.0
+728,Code_Ferrules,0.0
+729,Code_Ferrules and sleeves,0.0
+730,Code_Fibre-cement slate coursing fittings,0.0
+731,Code_Fibre-cement slates,0.0
+732,Code_Fibre-reinforced cement sheets,0.0
+759,Code_Flat washers,0.0
+723,Code_Fabric facings,0.0
+724,Code_Fabric grouting socks,0.0
+778,Code_Framed rooflights,0.0
+745,Code_Fireplace hearths,0.0
+746,Code_Fireplace surrounds,0.0
+747,Code_Fishplates,0.0
+879,Code_Indoor ornaments,0.0
+880,Code_Industrial bells,0.0
+815,Code_Glass louvre window units,0.0
+814,Code_Glass louvre blades,0.0
+812,Code_Glass fins,0.0
+811,Code_Glass fin splice plates,0.0
+748,Code_Fishwashers,0.0
+760,Code_Flexible doorsets,0.0
+758,Code_Flap valves,0.0
+757,Code_Flap control gates,0.0
+749,"Code_Fitted desks, tables and worktops",0.0
+750,Code_Fixed hoists,0.0
+751,"Code_Fixed roof ventilators, terminals and accessories",0.0
+752,Code_Fixed seats,0.0
+744,Code_Firefighting valves and devices,0.0
+599,Code_Composite door frames,0.0
+136,Category_other_floor_construction,0.0
+756,Code_Flannels,0.0
+734,Code_Filter products,0.0
+777,Code_Framed plastics mirrors,0.0
+735,Code_Fire and smoke dampers,0.0
+805,Code_Glass barrier panels,0.0
+736,Code_Fire bucket wall brackets,0.0
+767,Code_Fly/ pulley bars,0.0
+806,Code_Glass block wall panels,0.0
+808,Code_Glass blocks and panels,0.0
+67,Category_circuits_breackers,0.0
+810,Code_Glass fibre fleeces,0.0
+801,Code_Gate arches,0.0
+793,Code_Garden taps,0.0
+68,Category_compressed_air_system,0.0
+802,Code_Gates and turnstiles,0.0
+768,Code_Foam proportioners,0.0
+737,Code_Fire dampers,0.0
+769,Code_Foamed aminoplastic resin moisture retention mats,0.0
+771,Code_Food mincers,0.0
+774,Code_Footrests,0.0
+775,Code_Footstools,0.0
+776,Code_Fountains,0.0
+804,Code_Glass and glazing sheets and profiles,0.0
+598,Code_Compact fluorescent lamps,0.0
+792,Code_Garden sheds,0.0
+738,Code_Fire equipment cabinets,0.0
+739,Code_Fire equipment signs,0.0
+740,Code_Fire protection safes,0.0
+763,Code_Floor gully covers and gratings,0.0
+534,Code_Brushwood fascines,0.0
+764,"Code_Floor plates, gratings and edgings",0.0
+766,Code_Flux,0.0
+876,Code_Hot cupboards,0.0
+803,Code_Gauges and sight glasses,0.0
+794,Code_Gas bains-marie,0.0
+795,Code_Gas cooking ranges,0.0
+796,Code_Gas fire-extinguishing pneumatic alarm devices,0.0
+797,Code_Gas free-standing cookers,0.0
+798,Code_Gas meters,0.0
+799,Code_Gas ovens,0.0
+791,Code_Garden ornaments,0.0
+800,Code_Gas-fired unit heaters,0.0
+878,Code_Impact-resistant sound-insulating panels,0.0
+596,Code_Commercial washers,0.0
+70,Category_curtain_wall,0.0
+822,Code_Glassware,0.0
+837,Code_Gypsum,0.0
+834,Code_Ground-recessed luminaires,0.0
+816,Code_Glass noise barrier panels,0.0
+817,Code_Glass panels,0.0
+818,Code_Glass patch plates,0.0
+819,Code_Glass stair treads,0.0
+852,Code_Hardwood roofing battens,0.0
+843,Code_Handblown polished plate glass,0.0
+823,Code_Glazed enclosures,0.0
+848,Code_Hardwood dowels,0.0
+836,Code_Gutter linings,0.0
+824,Code_Glazed floorlight panels,0.0
+826,Code_Glazed half-height turnstiles,0.0
+827,Code_Glazed rooflight panels,0.0
+828,Code_Glazed security window panels,0.0
+829,Code_Glazed structures,0.0
+855,Code_Hardwood trusses,0.0
+856,Code_Hardwood weatherboards,0.0
+857,Code_Hardwood wedges,0.0
+854,Code_Hardwood stair treads,0.0
+863,Code_Heat meters,0.0
+853,Code_Hardwood stair landing units,0.0
+623,Code_Concrete-framed modules,0.0
+719,Code_Expanded metal lathings,0.0
+720,Code_Extender cables,0.0
+721,Code_Extinguishers and fire blankets,0.0
+839,Code_Hammer-in fasteners,0.0
+840,Code_Hand dryers,0.0
+841,Code_Handblown crown glass,0.0
+842,Code_Handblown plate glass,0.0
+875,Code_Hook and band hinges,0.0
+865,Code_Heat pump dehumidifiers,0.0
+845,Code_Hardwood beams,0.0
+846,Code_Hardwood cladding battens,0.0
+838,Code_Hairdryers,0.0
+847,Code_Hardwood deck boards,0.0
+849,Code_Hardwood fence boards,0.0
+850,Code_Hardwood framed panels,0.0
+851,Code_Hardwood log poles,0.0
+844,Code_Hardwood balusters and newel posts,0.0
+830,Code_Glued laminated timber columns,0.0
+831,Code_Gratings,0.0
+66,Category_chest,0.0
+874,Code_Hollow box galvanized steel brackets,0.0
+901,Code_Laboratory storage units,0.0
+864,Code_Heat protective blankets,0.0
+902,Code_Laboratory worktops,0.0
+894,Code_Key safes,0.0
+883,Code_Inset open fireplace surrounds and hearths,0.0
+882,Code_Insect houses,0.0
+881,Code_Insect guard mesh,0.0
+861,Code_Healthcare clinical washbasins,0.0
+862,Code_Heat emitters,0.0
+889,Code_Intumescent fire and smoke dampers,0.0
+64,Category_ceiling_woodwork,0.0
+833,Code_Ground source heat pumps,0.0
+866,Code_Heat pump driven air curtains,0.0
+868,Code_Heat-strengthened glass sheets,0.0
+869,Code_High strength concrete,0.0
+870,Code_High-security doorsets,0.0
+871,Code_High-security safes,0.0
+872,Code_Hinges and hanging hardware,0.0
+873,Code_Hip irons,0.0
+900,Code_Laboratory freezers,0.0
+821,Code_Glass-to-wall clips,0.0
+888,Code_Interior linings,0.0
+825,Code_Glazed gates,0.0
+858,Code_Harnesses and lanyards,0.0
+859,Code_Hassocks,0.0
+860,Code_Hat stands,0.0
+885,Code_Insulating timber floor battens,0.0
+886,Code_Insulation fasteners,0.0
+887,Code_Insulation fixing straps,0.0
+820,Code_Glass-to-glass clips,0.0
+899,Code_LED light panels,0.0
+890,Code_Irrigation water outlets,0.0
+891,Code_Isolation hangers,0.0
+892,Code_Joint fillers,0.0
+884,Code_Instant boiling and cold water taps,0.0
+65,Category_chairs_and_armchairs,0.0
+51,Category_air_heating_cooling_distribution,0.0
+896,Code_Kitchen splashbacks,0.0
+897,Code_Kitchen worktops,0.0
+426,Material_Thermoplastic elastomer resin,0.0
+1278,Code_Veneer edgings and lippings,0.0
+770,Code_Foamed concrete,0.0
+994,Code_Natural stone paving slabs,0.0
+1002,Code_Office chairs,0.0
+1003,Code_Office desks,0.0
+1004,Code_Office equipment,0.0
+1005,Code_Office tables,0.0
+970,Code_Metal tubes and hollow sections,0.0
+965,Code_Metal stair spines,0.0
+1080,Code_Refrigerators,0.0
+1007,Code_Oils,0.0
+992,Code_Natural stone cornices,0.0
+966,Code_Metal stair stringers,0.0
+975,Code_Mineral-based boards and sheets,0.0
+978,Code_Modified wood deck boards,0.0
+979,Code_Modular bearer tie plates,0.0
+974,Code_Microsilica,0.0
+999,Code_Nylon gutter bolts,0.0
+981,Code_Modular mezzanines,0.0
+967,Code_Metal suspended ceiling hangers,0.0
+982,Code_Motorized valves,0.0
+1001,Code_Obtuse crossings,0.0
+972,Code_Metallized plastics window films,0.0
+1081,Code_Resin concretes,0.0
+998,Code_Newspaper dispensers,0.0
+1083,Code_Rigid pendants,0.0
+1084,Code_Rigid polyurethane frame roof window units,0.0
+1085,Code_Rivets,0.0
+1086,Code_Road traffic signs,0.0
+1087,Code_Rock dowels,0.0
+945,Code_Medicine cabinets,0.0
+944,Code_Medical and laboratory equipment,0.0
+943,Code_Matchboarded door leaves,0.0
+1089,Code_Rod anodes,0.0
+969,Code_Metal tiles,0.0
+1043,Code_Plugs,0.0
+1106,Code_Sailcloth,0.0
+1042,Code_Pliable conduit,0.0
+1040,Code_Plate (square) washers,0.0
+971,Code_Metal-framed structures,0.0
+1088,Code_Rocker bearings,0.0
+997,Code_Nave lecterns,0.0
+946,Code_Medium boards,0.0
+983,Code_Multistage pumps,0.0
+1032,Code_Plastics kerbs,0.0
+1079,Code_Refrigerated display cabinet doors,0.0
+1033,Code_Plastics linings,0.0
+1035,Code_Plastics rafter ventilator trays,0.0
+1036,Code_Plastics sheet wall claddings,0.0
+958,Code_Metal hanging rails,0.0
+1037,Code_Plastics sheets,0.0
+1038,Code_Plastics sleeving,0.0
+956,Code_Metal flues and chimneys,0.0
+955,"Code_Metal dowels, pins and rods",0.0
+961,Code_Metal panels,0.0
+59,Category_bidet,0.0
+986,Code_Musical instruments,0.0
+1025,Code_Pin kerbs,0.0
+1011,Code_Overchair tables,0.0
+964,Code_Metal spacers assemblies,0.0
+1012,Code_Overhead ventilators,0.0
+99,Category_glass_doors,0.0
+963,Code_Metal sections,0.0
+1014,Code_Padlock and key cabinets,0.0
+993,Code_Natural stone kerbs,0.0
+1034,Code_Plastics one-piece gullies,0.0
+1026,Code_Plant room pods,0.0
+1015,Code_Panel connectors,0.0
+1017,Code_Paper towel dispensers,0.0
+987,Code_Nails,0.0
+988,Code_Natural dimensioned stones,0.0
+989,Code_Natural rubble stones,0.0
+973,Code_Meter cabinets,0.0
+990,Code_Natural stone blocks,0.0
+959,Code_Metal mullions and transoms,0.0
+1027,Code_Plaques,0.0
+991,Code_Natural stone capping units,0.0
+1009,Code_Oriented strand boards (OSBs),0.0
+1010,Code_Over batten roll clips,0.0
+1028,Code_Plaster chairs,0.0
+1029,Code_Plasterboard panels,0.0
+1030,Code_Plastics balusters and newel posts,0.0
+60,Category_blast_resistant_doors,0.0
+1031,Code_Plastics brise-soleil louvre blades,0.0
+985,Code_Museum showcases,0.0
+1008,Code_Operable roof ventilators,0.0
+1082,Code_Resin-bonded mineral wool infill panels,0.0
+1013,Code_Overmantel mirrors,0.0
+1499,Code_occupancy,0.0
+1243,Code_Timber sarking boards,0.0
+949,Code_Meeting room tables,0.0
+1065,Code_Quicklime,0.0
+1066,Code_Rack cabinets,0.0
+1061,Code_Projection window hinges,0.0
+1496,Code_motorcontrol centre,0.0
+1069,Code_Rail foot insulators,0.0
+1078,Code_Refractory bricks,0.0
+1070,Code_Rainwater weirs,0.0
+1071,Code_Raised access floor panels with finish,0.0
+1064,Code_Pump accessories,0.0
+1072,Code_Recessed downlights,0.0
+947,Code_Meeting booths,0.0
+1068,Code_Radio communications products,0.0
+54,Category_awning_canopy_awning,0.0
+1275,Code_Urinal dividers,0.0
+1060,Code_Projection screens,0.0
+952,Code_Metal armouring grilles,0.0
+953,Code_Metal bollards,0.0
+950,Code_Mesh anodes,0.0
+1063,Code_Puddle flanges,0.0
+1018,Code_Pavement heating cables,0.0
+1244,Code_Timber sections,0.0
+1480,Code_light  fixture,0.0
+1481,Code_lighting,0.0
+1482,Code_lock,0.0
+1483,Code_louvre,0.0
+1485,Code_manufacturing,0.0
+1486,Code_marine  part,0.0
+1488,Code_membrane,0.0
+1489,Code_meter chamber,0.0
+1490,Code_microwave,0.0
+135,Category_other_exterior_personnel_doors,0.0
+1491,Code_mirror,0.0
+1492,Code_miter,0.0
+1493,Code_modem,0.0
+1494,Code_mooring  device,0.0
+1495,Code_mortar,0.0
+1487,Code_material,0.0
+1245,Code_Timber stair stringers,0.0
+1016,Code_Paper pulp linings,0.0
+1044,Code_Plywood framed panels,0.0
+1076,Code_Recycled lightweight aggregates,0.0
+55,Category_balcony_railing_terrace_roof,0.0
+1094,Code_Roof ventilator unit,0.0
+1095,Code_Roofing and cladding units,0.0
+1096,Code_Roofing straps,0.0
+940,Code_Masking plates,0.0
+939,Code_Marble dust,0.0
+941,Code_Masonry capping and coping units,0.0
+1097,Code_Roofing swags,0.0
+1099,Code_Room heaters,0.0
+1101,Code_Roses,0.0
+1046,Code_Polyester resins,0.0
+61,Category_border_gutter,0.0
+1103,Code_Rugs,0.0
+1104,Code_Runners,0.0
+1105,Code_Saccardo nozzles,0.0
+1098,Code_Room divider panels,0.0
+1091,Code_Roof anchors for solar modules,0.0
+942,Code_Masonry cements,0.0
+1090,Code_Roman concretes,0.0
+1045,Code_Points heating harnesses,0.0
+1100,Code_Rope and pulley devices,0.0
+1102,Code_Round pin socket outlets,0.0
+1077,Code_Recycling bins,0.0
+948,Code_Meeting room chairs,0.0
+1047,Code_Polyester straps,0.0
+1048,Code_Polyethylene sheets,0.0
+1049,Code_Polypropylene resins,0.0
+1059,Code_Printers,0.0
+1050,Code_Polyvinyl chloride (PVC) shutters,0.0
+1092,Code_Roof gutter brackets,0.0
+1093,Code_Roof lanterns,0.0
+1052,Code_Post room racks,0.0
+1055,Code_Pre-blended concretes,0.0
+1056,Code_Prefabricated balconies,0.0
+1057,Code_Premises information boxes,0.0
+1058,Code_Pressure relief valves,0.0
+1051,Code_Post boxes,0.0
+1074,Code_Reclining chairs,0.0
+1075,Code_Rectifiers,0.0
+56,Category_balcony_wall_handrail,0.0
+1054,Code_Power over ethernet (POE) network switches,0.0
+1114,Code_Sauna room packages,0.0
+937,Code_Manual control glazed roof ventilators,0.0
+1478,Code_lifting gear,0.0
+1115,"Code_School art, design and technology tables",0.0
+1121,Code_Sectional products,0.0
+1109,Code_Sand plant,0.0
+1110,Code_Sanitary accessories,0.0
+1111,Code_Sanitary fittings and accessories,0.0
+1112,Code_Sanitary towel dispensers,0.0
+1113,Code_Sash locks,0.0
+1134,Code_Shower curtains,0.0
+1221,Code_Suspension rigs,0.0
+936,Code_Manual air vents,0.0
+1123,Code_Self-closing trapdoors,0.0
+1116,Code_Screening and ventilation access doors,0.0
+935,Code_Manifold nuts,0.0
+1117,Code_Screw pumps,0.0
+1118,Code_Sculptural reliefs,0.0
+1119,Code_Scuttles,0.0
+934,Code_Mail equipment,0.0
+1135,Code_Shower doors,0.0
+928,Code_Low-temperature hot water underfloor heating,0.0
+1122,Code_Security shutters,0.0
+1162,Code_Soleplates,0.0
+1157,Code_Soap dispensers,0.0
+1128,Code_Services wire rope hangers,0.0
+1107,Code_Salvaged natural stones,0.0
+1166,Code_Special lamps,0.0
+1164,Code_Space heating and cooling products,0.0
+1125,Code_Self-pierce rivets,0.0
+1222,Code_Swags,0.0
+1223,Code_Swimming pool fittings,0.0
+1127,Code_Separators,0.0
+930,"Code_Luminaires, lighting track and lighting accessories",0.0
+929,Code_Luminaire smoke hoods,0.0
+932,Code_Magnetic boards,0.0
+1124,Code_Self-drilling screws,0.0
+1129,Code_Settees,0.0
+1130,Code_Sheet metal screws,0.0
+927,Code_Low-density polyethylene (PE-LD) sheets,0.0
+1131,Code_Shellac resins,0.0
+1132,"Code_Shelves, hangers and racks",0.0
+1133,Code_Shower beds,0.0
+933,Code_Magnetic tool holders,0.0
+931,Code_Macerators,0.0
+1126,Code_Semi-tubular rivets,0.0
+1143,Code_Silicone resins,0.0
+1150,Code_Ski lift cables,0.0
+1139,Code_Shower seats,0.0
+1140,Code_Signboards,0.0
+1141,Code_Signs and markers,0.0
+924,Code_Lounge chairs,0.0
+923,Code_Loudspeakers,0.0
+1142,Code_Silica grouts,0.0
+1165,Code_Special function door locks,0.0
+1163,Code_Solid fuel room heaters,0.0
+920,Code_Linseed oil putties,0.0
+1137,Code_Shower fittings package,0.0
+922,Code_Load cells,0.0
+1146,Code_Single small orifice air valves,0.0
+1497,Code_movable,0.0
+1477,Code_le velcrossing,0.0
+1147,Code_Sink spouts,0.0
+921,Code_Lintels,0.0
+1148,Code_Sink taps,0.0
+1145,Code_Single axis door hinges,0.0
+925,Code_Louvre door leaves,0.0
+1144,Code_Silyl-terminated polyurethane (STP) construction joint sealants,0.0
+926,Code_Louvre doorsets,0.0
+976,Code_Mirrors,0.0
+1136,Code_Shower enclosures,0.0
+1138,Code_Shower manual water supply sets,0.0
+1152,Code_Sliding folding shutter doorsets,0.0
+918,Code_Linen chutes and openings,0.0
+1153,Code_Sliding shutter doorsets,0.0
+1154,Code_Smoke and fire barriers,0.0
+1155,Code_Smoke and fire-stopping,0.0
+1156,Code_Soap dishes,0.0
+917,Code_Linen chute hoppers,0.0
+919,Code_Linen containers,0.0
+916,Code_Light-gauge steel floors and roofs,0.0
+1158,Code_Sofas,0.0
+53,Category_auxiliary_equipment,0.0
+915,Code_Light tables,0.0
+1160,Code_Soft furnishings,0.0
+1161,Code_Solders,0.0
+1151,Code_Slab urinals,0.0
+1205,Code_Steppers,0.0
+1172,Code_Sprung (split lock) washers,0.0
+58,Category_bedding,0.0
+1168,Code_Sports netting,0.0
+912,Code_Letter boxes,0.0
+1202,Code_Steel wedges,0.0
+1195,Code_Steam valves,0.0
+1185,Code_Stainless steel hexagon head screws,0.0
+913,Code_Library shelf units,0.0
+1186,Code_Stainless steel hinged bollards,0.0
+1219,Code_Surveillance camera brackets,0.0
+1184,Code_Stainless steel gates,0.0
+1173,Code_Stage curtains,0.0
+1197,Code_Steel bridge pedestals,0.0
+1174,Code_Stained glass sheets,0.0
+1175,Code_Stainless steel angles,0.0
+914,Code_Light switches,0.0
+1176,Code_Stainless steel balusters and newel posts,0.0
+1169,Code_Spray jets,0.0
+1177,Code_Stainless steel capping units,0.0
+1171,Code_Sprinklers,0.0
+1178,Code_Stainless steel chimney pots,0.0
+1200,Code_Steel sills,0.0
+1199,Code_Steel profiled sheet,0.0
+52,Category_autonomous_piece,0.0
+1196,Code_Steel bearers,0.0
+1022,Code_Perlite aggregates,0.0
+1023,Code_Perlite loose insulation,0.0
+1024,Code_Pillar hinges,0.0
+962,Code_Metal posts,0.0
+1041,Code_Pleated blinds,0.0
+977,Code_Mobile plain top hot cupboards,0.0
+1108,Code_Sample coolers,0.0
+1187,Code_Stainless steel stair treads,0.0
+1188,Code_Stainless steel struts,0.0
+1198,Code_Steel frame roof window units,0.0
+1189,Code_Stainless steel support rails,0.0
+1190,Code_Stainless steel traditional sheets,0.0
+1191,Code_Stainless steel trusses,0.0
+1192,Code_Stair climbing trolleys,0.0
+1193,Code_Stair lift signs,0.0
+63,Category_call_system,0.0
+1194,Code_Steam traps and strainers,0.0
+1220,Code_Suspended luminaires,0.0
+1179,Code_Stainless steel cladding angles,0.0
+1237,Code_Thermostatic steam traps,0.0
+1019,Code_Pavement heating mats,0.0
+1240,Code_Timber bollards,0.0
+1241,Code_Timber floorboards,0.0
+1242,Code_Timber newel posts,0.0
+1235,Code_Thermochromic glass,0.0
+909,Code_Laundry troughs and cabinets,0.0
+1225,Code_Taxiway elevated lights,0.0
+1224,Code_Taps and water supply outlet fittings,0.0
+911,Code_Lecterns,0.0
+1209,Code_Stone columns,0.0
+1181,Code_Stainless steel door frames,0.0
+1182,Code_Stainless steel door leaves,0.0
+1211,Code_Stools,0.0
+1212,Code_Storage units and cupboards,0.0
+1213,Code_Strip ventilators,0.0
+1214,Code_Structural wood composites,0.0
+1215,Code_Sundials,0.0
+1216,Code_Surface boxes,0.0
+1217,Code_Surface luminaires,0.0
+1180,Code_Stainless steel clips,0.0
+910,Code_Laundry washer-dryers,0.0
+1210,Code_Stone stair treads,0.0
+1218,Code_Surface wipe dispensers,0.0
+1020,Code_Pedestal washbasins,0.0
+1183,Code_Stainless steel doorsets,0.0
+1203,Code_Steel window walls,0.0
+1167,Code_Special purpose cements,0.0
+1204,Code_Step lifts,0.0
+1206,Code_Stethosets,0.0
+1238,Code_Tiered seating,0.0
+1239,Code_Tilt meters,0.0
+1228,Code_Television outlet plates,0.0
+1231,"Code_Tensile, stretch and suspended fabrics",0.0
+1232,Code_Terracotta panels,0.0
+1233,Code_Terracotta units,0.0
+908,Code_Laundry troughs,0.0
+1227,Code_Telecoms equipment,0.0
+1234,Code_Terrazzo mix ,0.0
+907,Code_Lathings and furrings,0.0
+1229,Code_Temperature gauges,0.0
+1230,Code_Tennis nets,0.0
+1479,Code_light,0.0
+388,Material_Radiata pine,0.0
+1000,Code_Nylon-insert jam nuts,0.0
+1284,Code_Vermiculite aggregates,0.0
+1273,Code_Upper body trainers,0.0
+905,Code_Lamps,0.0
+1276,Code_Vanity and washroom furniture,0.0
+1279,Code_Veneers and facings,0.0
+49,Category_acoustical_panels_adhered_to_wall,0.0
+1281,Code_Ventilation ducts,0.0
+1394,Code_chute conveyor,0.0
+1283,Code_Venturi flumes,0.0
+1285,Code_Vertical balers,0.0
+1271,Code_Unit heaters,0.0
+1277,Code_Vapour meters,0.0
+1286,Code_Vertical extended spindles,0.0
+1266,Code_U-profiled glass channels,0.0
+1264,Code_Tyre bales,0.0
+1269,Code_Underfloor heating and cooling manifolds,0.0
+1246,Code_Timber stair treads,0.0
+1270,Code_Unframed glass mirrors,0.0
+1247,Code_Timber strips,0.0
+1272,Code_Up-and-over doorsets,0.0
+1268,Code_Under-mounted washbasins,0.0
+1291,Code_Vision panels,0.0
+1332,Code_Wood brise-soleil louvre blades,0.0
+1386,Code_cableladder segment,0.0
+44,Category_Umgebung,0.0
+1388,Code_canal,0.0
+1389,Code_carriageway,0.0
+41,Category_Techniques,0.0
+1402,Code_condenser,0.0
+38,Category_Sol et plafond,0.0
+1393,Code_chimney,0.0
+1384,Code_burner,0.0
+1290,Code_Vinyl sheet facings,0.0
+1396,Code_circula tor,0.0
+1397,Code_cladding,0.0
+1398,Code_co  sensor,0.0
+1399,Code_coated,0.0
+1400,Code_column,0.0
+1392,Code_chiller,0.0
+1425,Code_electricheating  coil,0.0
+1395,Code_circuit breaker,0.0
+1248,Code_Timber-framed and panelled shelters,0.0
+1289,Code_Vinyl ester resins,0.0
+1383,Code_building,0.0
+1315,Code_Water strainers,0.0
+1316,Code_Water supply and wastewater valves,0.0
+1317,Code_Water-to-air heat pumps,0.0
+1318,Code_Water-to-water heat pumps,0.0
+1319,Code_Wattmeters,0.0
+1320,Code_Welded steel hurdles,0.0
+1311,Code_Water extraction presses,0.0
+1321,Code_Wheelchair ramps,0.0
+1324,Code_Whiteboards,0.0
+1250,Code_Toilet paper dispensers,0.0
+1251,Code_Toilet roll holders,0.0
+1326,Code_Window curtains,0.0
+1327,Code_Window hinges,0.0
+1328,Code_Window panels,0.0
+1329,Code_Window sash fasteners,0.0
+1331,"Code_Wires, ropes, twines and chains",0.0
+1322,Code_Wheels,0.0
+1288,Code_Vinyl adhesives,0.0
+1249,Code_Toilet brush holders,0.0
+1323,Code_Whirlpool baths,0.0
+1325,Code_Window casement fasteners,0.0
+50,Category_air_handling_unit,0.0
+1308,Code_Waste traps,0.0
+1252,Code_Toilet showers,0.0
+1253,Code_Tool chests,0.0
+1265,Code_U-bolts,0.0
+1254,Code_Tool dispensers,0.0
+1256,Code_Towels,0.0
+1312,Code_Water fire-extinguishing outlets,0.0
+1314,Code_Water grilles,0.0
+1257,Code_Triaxial concentric (LSF) cables,0.0
+1260,Code_Tubular fluorescent lamps,0.0
+1261,Code_Tubular mortice latches,0.0
+1262,Code_Tundishes,0.0
+1263,Code_Turpentine resins,0.0
+1255,Code_Tool vaults,0.0
+1333,Code_Wood brise-soleil units,0.0
+1287,Code_Vertical lifting fabric doors,0.0
+1258,Code_Trickle vents,0.0
+1259,Code_Trouser presses,0.0
+1385,Code_cable,0.0
+1280,Code_Ventilated ceilings,0.0
+1464,Code_humidif ier,0.0
+1375,Code_belowground,0.0
+1367,Code_armour unit,0.0
+1368,Code_assistednatur algas,0.0
+1360,Code_Zinc core anodes,0.0
+1369,Code_audio,0.0
+1371,Code_bar,0.0
+1372,Code_basin,0.0
+906,Code_Lantern lights,0.0
+400,Material_Sedimentary rocks,0.0
+1376,Code_bilinear,0.0
+1365,Code_airconditioning unit,0.0
+46,Category_Wall Cladding,0.0
+1378,Code_blade,0.0
+1370,Code_balustrade,0.0
+1379,Code_blocking device,0.0
+1359,Code_Wrought iron sections,0.0
+1357,Code_Wrought iron decorative panels,0.0
+1363,Code_adiabaticair washer,0.0
+1364,Code_adiabaticrigid media,0.0
+1366,Code_alarm,0.0
+1362,Code_abutment,0.0
+37,Category_Scénographie,0.0
+1361,Code_Zinc powders,0.0
+391,Material_Recycled lightweight aggregates,0.0
+392,Material_Recycled rubber granules,0.0
+773,Code_Food preparation worktops,0.0
+394,Material_Resin,0.0
+395,Material_Rolled glass,0.0
+396,Material_Rubber,0.0
+397,Material_Rubble concrete,0.0
+98,Category_general_construction_element,0.0
+1401,Code_computer,0.0
+1418,Code_display,0.0
+97,Category_frame,0.0
+403,Material_Shell,0.0
+404,Material_Silicon carbide,0.0
+95,Category_floor_covering_membrane,0.0
+383,Material_Precast architectural concrete,0.0
+904,Code_Laminboard core plywoods,0.0
+877,Code_Icemakers,0.0
+401,Material_Sheet,0.0
+1337,Code_Wood frame roof window units,0.0
+1338,Code_Wood frames,0.0
+1339,Code_Wood gate surrounds,0.0
+1403,Code_construction,0.0
+1407,Code_cowl,0.0
+36,Category_Sanitary,0.0
+1408,Code_culvert,0.0
+1409,Code_curtain  wall,0.0
+1410,Code_cyclonic,0.0
+1411,Code_dehumidif ier,0.0
+1413,Code_desk,0.0
+1404,Code_convector,0.0
+1414,Code_devia tor,0.0
+1351,Code_Wood veneers,0.0
+1382,Code_bridge,0.0
+1340,Code_Wood gates,0.0
+1419,Code_distribution  element,0.0
+35,Category_Sanitaires,0.0
+1422,Code_electric  appliance,0.0
+1423,Code_electric cooker,0.0
+1424,Code_electrical,0.0
+1415,Code_directevaporativeair washer,0.0
+45,Category_WC,0.0
+1406,Code_covering,0.0
+1374,Code_battery,0.0
+1350,Code_Wood veneered boards,0.0
+1341,Code_Wood hand posts,0.0
+1342,Code_Wood ladder stiles,0.0
+48,Category_acoustic_panel,0.0
+1346,Code_Wood post and rail stiles,0.0
+1358,Code_Wrought iron gates,0.0
+1347,Code_Wood shutters,0.0
+1349,Code_Wood tapered furring pieces,0.0
+1373,Code_bath,0.0
+1405,Code_cornice,0.0
+1352,Code_Wood window units,0.0
+47,Category_Wood,0.0
+1354,Code_Wood-burning stoves,0.0
+1355,Code_Work area and patch cord cables,0.0
+1356,Code_Wrought iron decorative gate leaves,0.0
+1348,Code_Wood subframes,0.0
+1336,Code_Wood fibre boards,0.0
+1380,Code_boiler,0.0
+1282,Code_Ventilation grilles,0.0
+1466,Code_hydraulic  actuator,0.0
+1006,Code_Oil filters and strainers,0.0
+1468,Code_internal,0.0
+1460,Code_hauling gear,0.0
+31,Category_Per building,0.0
+1453,Code_gateway,0.0
+1462,Code_heat pipe,0.0
+1524,Code_radial,0.0
+1465,Code_humidis tat,0.0
+1576,Code_table,0.0
+1467,Code_inspection chamber,0.0
+1469,Code_isolating,0.0
+1458,Code_halogen,0.0
+1470,Code_jalousie,0.0
+1471,Code_jet grouting,0.0
+1463,Code_hermetic,0.0
+1472,Code_joist,0.0
+1454,Code_geo slice,0.0
+1452,Code_gas cock,0.0
+1456,Code_grille,0.0
+1450,Code_furniture,0.0
+1459,Code_hand dryer,0.0
+1457,Code_group,0.0
+18,Category_Garden,0.0
+1522,Code_pump,0.0
+1580,Code_temperature  sensor,0.0
+1581,Code_tensioning equipment,0.0
+1582,Code_terrain,0.0
+12,Category_Droguerie,0.0
+6,Category_Cloisons,0.0
+1584,Code_thermometer,0.0
+1588,Code_topping,0.0
+1589,Code_transformer,0.0
+7,Category_D Technik Gebäude,0.0
+1455,Code_girder,0.0
+1591,Code_triangular,0.0
+1592,Code_trochoi dal,0.0
+1593,Code_truss,0.0
+1594,Code_tumble dryer,0.0
+1585,Code_thermosiphoncoiltypeheat exchangers,0.0
+1586,Code_thermosiphonsealedtubeheat exchangers,0.0
+24,Category_Insulation,0.0
+1577,Code_tank,0.0
+1429,Code_emergency stop,0.0
+1473,Code_kerb,0.0
+1595,Code_tuner,0.0
+1502,Code_panel,0.0
+28,Category_Mobilier,0.0
+1504,Code_parking,0.0
+1505,Code_partitioning,0.0
+1506,Code_pavement milling,0.0
+1507,Code_pavilion_  roof,0.0
+1508,Code_pier,0.0
+26,Category_Matière brute,0.0
+1510,Code_plumbing  wall,0.0
+1432,Code_entrance works,0.0
+1433,Code_exit,0.0
+1515,Code_power  outlet,0.0
+1516,Code_printer,0.0
+1517,Code_profile de f,0.0
+1518,Code_projector,0.0
+1519,Code_propellor axial,0.0
+1520,Code_protection,0.0
+1521,Code_protective  device,0.0
+1431,Code_engine,0.0
+1501,Code_opticalcable segment,0.0
+1514,Code_power,0.0
+1511,Code_polygonal,0.0
+1292,Code_WC cisterns,0.0
+1435,Code_fax,0.0
+1436,Code_fence,0.0
+1437,Code_fiber segment,0.0
+1438,Code_filter,0.0
+1451,Code_g fa,0.0
+1474,Code_kilo point,0.0
+1475,Code_kitchen machine,0.0
+32,Category_Portes et fenêtres,0.0
+1444,Code_floor waste,0.0
+1445,Code_flooring,0.0
+1446,Code_fluorescent,0.0
+1447,Code_footing,0.0
+1448,Code_freestandingwater heater,0.0
+1449,Code_freezer,0.0
+1441,Code_fire safety,0.0
+1442,Code_flexible,0.0
+1443,Code_floor,0.0
+1579,Code_telephone,0.0
+1293,Code_WC pans,0.0
+1294,Code_WC suites,0.0
+1569,Code_strut,0.0
+1558,Code_solar  device,0.0
+1549,Code_sign,0.0
+1559,Code_solar panel,0.0
+19,Category_Garten & Freianlagen,0.0
+1427,Code_elevator,0.0
+1565,Code_starter,0.0
+1597,Code_urinal,0.0
+1567,Code_storage,0.0
+1570,Code_superstructure,0.0
+1556,Code_smoke  sensor,0.0
+1571,Code_support,0.0
+1560,Code_sound absorption,0.0
+1572,Code_suspender,0.0
+1548,Code_shutter,0.0
+1551,Code_skirting board,0.0
+1546,Code_shelland tube,0.0
+1553,Code_sleeper,0.0
+1527,Code_rail,0.0
+1557,Code_sofa,0.0
+1555,Code_smoke  damper,0.0
+390,Material_Recycled aggregates,0.0
+1550,Code_signal,0.0
+1295,Code_Wall hangings,0.0
+1296,Code_Wall mirrors,0.0
+1297,Code_Wall-hung WC support brackets,0.0
+1309,Code_Wastewater plugs and chains,0.0
+1298,Code_Wall-hung urinals,0.0
+1300,Code_Wall-mounted kitchen cupboards,0.0
+1302,"Code_Wash basin, soap dispenser and hand dryer units",0.0
+1303,Code_Wash troughs,0.0
+1304,Code_Washbasin spouts,0.0
+1552,Code_slab,0.0
+1305,Code_Washers,0.0
+1306,Code_Washing products,0.0
+1307,Code_Waste bins,0.0
+1299,Code_Wall-hung washbasins,0.0
+1426,Code_elemented  wall,0.0
+1301,Code_Wardrobes,0.0
+1428,Code_embankment,0.0
+1500,Code_oilretention tray,0.0
+1528,Code_rail joint,0.0
+1573,Code_suspension,0.0
+1564,Code_staple,0.0
+1600,Code_vehicle,0.0
+1601,Code_ventilation,0.0
+1602,Code_vertical turbine,0.0
+1603,Code_wall,0.0
+5,Category_Ceiling,0.0
+1605,Code_washing machine,0.0
+1606,Code_water,0.0
+1598,Code_varis tor,0.0
+1609,Code_watercooling  coil,0.0
+1530,Code_rectangular,0.0
+1531,Code_reducer,0.0
+1611,Code_wave  wall,0.0
+1612,Code_wc seat,0.0
+1613,Code_weld,0.0
+1614,Code_wind  sensor,0.0
+1615,Code_winder,0.0
+1617,Code_wireless,0.0
+1608,Code_watercooledshell tube,0.0
+1529,Code_railway,0.0
+1607,Code_water cooled,0.0
+4,Category_Bricks,0.0
+1574,Code_suspension assembly,0.0
+1566,Code_steam,0.0
+1532,Code_refrigerator,0.0
+1533,Code_register,0.0
+1534,Code_regulating,0.0
+1547,Code_shower,0.0
+1535,Code_revetment,0.0
+1575,Code_system,0.0
+1599,Code_vegetation,0.0
+1537,Code_rocker,0.0
+1541,Code_rubber,0.0
+1542,Code_safety cage,0.0
+1543,Code_screw,0.0
+1544,Code_security,0.0
+1545,Code_shelf,0.0
+1536,Code_ring,0.0
+1526,Code_rafter,0.0
+1539,Code_roofing,0.0
+1540,Code_rooftop unit,0.0
+1618,Code_zone,0.0
