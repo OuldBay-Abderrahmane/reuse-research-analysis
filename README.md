@@ -3,6 +3,7 @@
 ### 1. Common and Different features available for each website
 
 #### Belgium 
+2 levels
 - 'SellerID', 'SellersStockID', 'Imagefiles',
 'LastUpOn', 'Weight', 'Weight_Units','Product_Units', 'Imagefile',
 'Initial_Price', 'Latest_Price', 'Initial_Stock', 'Stock_Now',
@@ -12,6 +13,7 @@
 'quantity_n'
 
 #### French
+2 levels
 - 'BIM_class', 'location',
 'date_published', 'price_initial', 'price_latest', 'price_change',
 'imagefiles', 'material_type', 'co2', 'avoided_waste',
@@ -24,6 +26,7 @@
 'object', 'material', 'dim', 'quantity_n'
 
 #### Swiss 
+4 levels
 - 'Imagefiles','LastUpOn', 'Condition', 'eBKP_H',
        'eBKP_H_EN', 'MateriuumCategory','Material', 'Length', 'Width', 'Height',
        'Diameter', 'Weight', 'Color', 'Energy_Efficiency', 'Availability',
@@ -34,6 +37,7 @@
        'material', 'dim', 'quantity_n'
 
 #### Danish 
+2 levels
 - 'ID', 'Imagefile','Thickness', 'Thickness_unit', 'Door frame', 'Quantity', 'LastPrice',
         'Saved', 'LastUpOn', 'Hanging', 'Width w/frame', 'Width w/frame_unit',
         'Height w/frame', 'Height w/frame_unit', 'Frame thickness',
@@ -45,16 +49,20 @@
         'Press tested', 'Store'
 
 #### GERMANY 
+2 levels
 - 'Condition', 'MinAmount',
        'Location', 'Manufacturer', 'Properties', 'FirstPriceNumeric',
        'FirstAvailableNumeric', 'LastPriceNumeric', 'LastAvailableNumeric',
        'LastPrice', 'LastAvailable', 'Sold', 'SoldAfter'
 
 #### UK 
+2 levels
 - 'Name', 'URL', 'Price', 'Business', 'Category', 'Subcategory',
        'Country', 'Location', 'Description', 'Dimensions', 'Age', 'ItemID',
        'SellerID', 'SellersStockID', 'DateOfListing', 'Imagefiles',
        'LastUpOn'
+
+
 
 
 
