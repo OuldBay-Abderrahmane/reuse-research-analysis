@@ -1,12 +1,8 @@
-categories_first_level,count
-Door&Windows,559
-"Trusses, Beam, Columns",116
-Fondation Components,83
-Furnishings,41
-"WC, Baths, Sinks",16
-Blocks&Panels,12
-"Chimneys, Radiators",5
-"Stairs, Ramps, Lift, Hardware",5
-"Dock shelters, equipment boxes",4
-"Pipes, ovens, Humidifier",4
-"Roof, Slabs, Stairs",2
+second_level,count
+"Door, Windows, Gates",944
+Other,484
+"Blocks, Panels, Fences, Bricks",357
+"Covering, Finish",306
+"Floors, Ceiling",122
+Furnishings,92
+"Stairs, Ramps, Lift, Hardware",41

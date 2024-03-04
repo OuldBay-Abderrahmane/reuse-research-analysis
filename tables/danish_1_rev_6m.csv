@@ -1,6 +1,8 @@
-categories_first_level,LastPrice
-Openings,913908.0
-Structural elements,249622.0
-Furnishings,36296.0
-Technical elements,35053.0
-"Roof, Slabs, Stairs",2025.0
+first_level,LastPrice
+"Wall, Barriers, Pannels",1913081.0
+"Roof, Slabs, Stairs",831539.0
+Other,603543.5
+Openings,255268.0
+Technical elements,142640.0
+Furnishings,140824.0
+Structural elements,38085.0
