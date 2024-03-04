@@ -1,11 +1,12 @@
 Danish_Raw,LastPrice
 Door&Windows,913908.0
 door,874307.0
-Fondation Components,249622.0
+"Trusses, Beam, Columns",169422.0
 trap  door,131512.0
 window,79850.0
 Joist seals,62600.0
 Thermochromic glass,55500.0
+Fondation Components,53570.0
 balustrade,47609.0
 staple,39849.0
 sleevi ng,38698.5
@@ -14,6 +15,7 @@ thermal,29700.0
 Museum showcases,29000.0
 parapet,28709.0
 Glassware,27250.0
+Blocks&Panels,26630.0
 "Chimneys, Radiators",24500.0
 Chute automatic fire doors,22450.0
 Raised access floor panels with finish,18124.0
@@ -51,12 +53,12 @@ Antique glass,3500.0
 Stainless steel capping units,3280.0
 Swags,3250.0
 Lamps,3039.0
-mirror,3000.0
-sofa,3000.0
 Lounge chairs,3000.0
+sofa,3000.0
+mirror,3000.0
 wash handbasin,2900.0
-Icemakers,2800.0
 Cupboards,2800.0
+Icemakers,2800.0
 table,2600.0
 pavement milling,2599.0
 Hot food dispensers,2500.0
@@ -71,16 +73,16 @@ chair,1900.0
 Tundishes,1819.0
 refrigerator,1800.0
 truss,1594.0
-Veneers and facings,1500.0
-vehicle,1500.0
+Bouldering walls,1500.0
 heat  exchanger,1500.0
 smoke  sensor,1500.0
+Veneers and facings,1500.0
 opticalcable segment,1500.0
-Bouldering walls,1500.0
+vehicle,1500.0
 Glass barrier panels,1349.0
 Hot cupboards,1300.0
-Natural stone blocks,1200.0
 Daybeds,1200.0
+Natural stone blocks,1200.0
 Ductwork security bars,1200.0
 Special lamps,1110.0
 washing machine,1100.0
@@ -92,53 +94,53 @@ Air-handling luminaires,950.0
 Natural stone quoins,900.0
 isolating,850.0
 Stair climbing trolleys,825.0
-Taxiway elevated lights,800.0
 Wheels,800.0
+Taxiway elevated lights,800.0
 Cable troughs,750.0
-"Roof, Slabs, Stairs",725.0
 Rigid pendants,725.0
+"Roof, Slabs, Stairs",725.0
 Double-pole switches,710.0
 Welded steel hurdles,700.0
 Strapping machines,650.0
 Kitchen splashbacks,635.0
-construction,625.0
 temperature  sensor,625.0
+construction,625.0
 abutment,622.5
 sign,600.0
 Harnesses and lanyards,535.0
-Room divider panels,500.0
+desk,500.0
 bridge,500.0
 Signs and markers,500.0
-desk,500.0
-Cladding and lining panels,475.0
+Room divider panels,500.0
 Airfield guidance signs,475.0
+Cladding and lining panels,475.0
 automaton,475.0
 protection,455.0
 cladding,425.0
 chimney,425.0
 lamp,400.0
 Laboratory worktops,400.0
-Plasterboard panels,400.0
 Solders,400.0
-Auditorium seating,375.0
+Plasterboard panels,400.0
 Luminaire smoke hoods,375.0
 Paper pulp linings,375.0
+Auditorium seating,375.0
 revetment,360.0
 Cushions,300.0
 Mesh anodes,292.0
 Towels,275.0
 g fa,260.0
-Timber strips,250.0
 Loudspeakers,250.0
+Timber strips,250.0
 Plaster chairs,240.0
 Hat stands,240.0
 strut,237.0
 Earth rods,225.0
 Ceramic slates,220.0
-Road traffic signs,200.0
-fiber segment,200.0
 Footrests,200.0
 Meeting room chairs,200.0
+fiber segment,200.0
+Road traffic signs,200.0
 Insect houses,200.0
 alarm,175.0
 Fire and smoke dampers,150.0
@@ -149,25 +151,25 @@ audio,140.0
 Rope and pulley devices,125.0
 Bitumen bonded kraft papers,125.0
 dowel,120.0
-Furnishings,100.0
-High-security safes,100.0
 Fixed hoists,100.0
+High-security safes,100.0
 Laboratory storage units,100.0
+Furnishings,100.0
 Extinguishers and fire blankets,96.0
 Steel profiled sheet,95.0
 Fender strips,90.0
-Sons et lumières,75.0
-Smoke and fire barriers,75.0
 Ski lift cables,75.0
-Tool dispensers,50.0
-Gantries,50.0
+Smoke and fire barriers,75.0
+Sons et lumières,75.0
 Artwork products,50.0
 Handblown crown glass,50.0
 fax,50.0
+Tool dispensers,50.0
+Gantries,50.0
 wave  wall,40.0
 Upright pianos,40.0
-chute conveyor,37.0
 Handblown plate glass,37.0
+chute conveyor,37.0
 mullion,36.0
 Vapour meters,30.0
 Plaques,25.0

@@ -1,301 +1,33 @@
-French_Raw,price_latest
-Door&Windows,51689.09
-elevator,49500.0
-thermostat,46012.0
-"Chimneys, Radiators",41216.0
-Commercial display and service catering products,28850.0
-"WC, Baths, Sinks",27410.48
-Fondation Components,26445.5
-door,23706.95
-Dry air coolers,22800.0
-Pliable conduit,21129.4
-Load cells,16000.0
-turnstile,13395.4
-tee,12127.0
-stair,11502.0
-Icemakers,10000.0
-"Stairs, Ramps, Lift, Hardware",8528.0
-table,8235.0
-chiller,7500.0
-port,7368.0
-"Pipes, ovens, Humidifier",6407.4
-parapet,6336.1
-transformer,6220.0
-Multistage pumps,6200.0
-Food preparation tables,5940.0
-chute conveyor,5516.0
-staple,5417.38
-Escalators,5395.0
-bilinear,5000.0
-suspender,4562.0
-Pendant luminaires,4482.91
-quay,4477.0
-Water coolers,3961.62
-Commercial gas griddles,3750.0
-Equipment,3620.14
-strand,3491.0
-computer,3478.0
-external,3400.0
-Furnishings,3165.0
-Joist seals,3112.14
-Bureaux,2880.0
-lighting,2751.0
-heat  exchanger,2610.0
-bar,2550.0
-footing,2292.2599999999998
-chair,2205.0
-Projectors,2196.0
-waterheating  coil,2175.0
-shower,2100.3199999999997
-suspension,2063.05
-Exercise bikes,2038.0
-thermal,1940.0
-Sample coolers,1900.0
-finned,1849.77
-Murals,1846.83
-watercooling  coil,1790.0
-rafter,1721.0
-circula tor,1650.0
-airconditioning unit,1610.0
-distribution  element,1588.0
-Console tables,1580.0
-Aluminium edges,1555.0
-Recessed luminaires,1540.0
-Centrifugal air separators,1500.0
-radiator,1450.0
-Double disc pumps,1200.0
-Cleaning equipment,1200.0
-basin,1152.5
-Air conditioning units,1090.5
-Cushions,1075.0
-pot,1029.0
-Modular cassette ventilated ceilings,1022.0
-Bathroom cabinets,1000.0
-Wood veneers,994.0
-Meeting room tables,945.0
-Electrical diagrams,920.0
-Built-in gas hobs,900.0
-Glass fins,891.0
-trap  door,850.0
-Guard barriers,817.2
-diverting,816.0
-Irrigation water outlets,790.0
-Suspended luminaires,776.8
-refrigerator,770.0
-Refrigerators,750.0
-energy conversion  device,700.0
-Display plinths,670.0
-Dish and utensil washers,654.0
-mullion,650.0
-Commercial cooking equipment,650.0
-Bin stores,642.0
-Water flumes,640.0
-furniture,630.0
-alarm,624.33
-camera,620.0
-ceiling,616.34
-Garden awnings,600.0
-freezer,600.0
-Analogue metering equipment,600.0
-Catering freezers,600.0
-Projection screens,580.0
-Duct banks,567.0
-dera iler,553.33
-shelf,525.0
-Plaques,512.8
-Dovecotes,501.0
-dishwasher,500.0
-Commercial freezer cabinets,450.0
-"Dock shelters, equipment boxes",425.0
-Newspaper dispensers,405.22
-Water strainers,398.0
-condenser,383.0
-Stools,380.0
-water,378.0
-projector,370.0
-Metal casement putties,362.0
-Towels,355.27
-Overchair tables,350.0
-weld,350.0
-bollard,348.14
-balustrade,346.87
-rail,346.4
-Musical instruments,345.0
-Power and lighting outlet products,335.0
-main,329.0
-miter,325.5
-Gas bains-marie,320.0
-Lamps,317.83
-Commodes,310.0
-discrete  accessory,310.0
-cable,296.14
-tuner,291.0
-wash handbasin,285.0
-plate,282.0
-Decorative facings,275.0
-Metal armouring grilles,271.5
-Points heating harnesses,264.0
-co  sensor,262.5
-Office chairs,259.8
-Laboratory freezers,250.0
-High-security safes,250.0
-Whiteboards,240.0
-Flux,240.0
-window,230.0
-curtain  wall,215.0
-Storage units and cupboards,210.0
-Library shelf units,210.0
-Sofas,200.0
-Electrical connection boxes,200.0
-Manual air vents,200.0
-group,200.0
-Saccardo nozzles,200.0
-Soap dispensers,187.5
-Balancing veneers,185.0
-security,180.0
-Ceramic slates,170.0
-Glassware,164.0
-Air-handling luminaires,160.0
-Double window steam sight glasses,160.0
-Cupboard safes,150.0
-Printers,150.0
-thermosiphoncoiltypeheat exchangers,150.0
-terrain,146.0
-Television outlet plates,140.0
-Natural stone quoins,136.0
-Wardrobes,135.0
-Mesh anodes,132.0
-Coaxial cables,130.5
-Tubular fluorescent lamps,130.0
-Masking plates,125.0
-Basketball hoops,120.0
-Ball float steam traps,120.0
-Garden furnishings,120.0
-Desks,118.0
-Gratings,116.0
-light,115.0
-propellor axial,110.0
-circuit breaker,110.0
-abutment,110.0
-shelland tube,100.0
-lamp,100.0
-wireless,100.0
-Water fire-extinguishing outlets,100.0
-adiabaticair washer,95.0
-shutter,95.0
-fire  sensor,91.0
-Temperature gauges,90.0
-Decorative stone finishing battens,90.0
-Masonry capping and coping units,90.0
-urinal,89.0
-Intumescent fire and smoke dampers,88.5
-gateway,85.0
-desk,85.0
-Tennis nets,84.0
-Fire protection safes,83.0
-column,82.5
-Drying lines,80.0
-Vertical balers,80.0
-Suspension rigs,80.0
-Sports netting,78.0
-regulating,75.0
-Tundishes,75.0
-Post room racks,75.0
-rectangular,75.0
-Column casings,75.0
-bath,70.0
-Natural stone slates,70.0
-Window curtains,70.0
-dehumidif ier,65.0
-"Shelves, hangers and racks",61.0
-Sanitary towel dispensers,60.0
-Clay chimney pots,60.0
-Air and fume outlet products,60.0
-Heat protective blankets,60.0
-emergency stop,60.0
-Classroom desks and tables,60.0
-Downlights,60.0
-Domestic cooking equipment,60.0
-Fixed hoists,55.0
-Abat-voix,55.0
-Rigid pendants,50.0
-Sculptural reliefs,50.0
-Conference tables,50.0
-Fire dampers,50.0
-Defibrillator units,50.0
-Extender cables,49.0
-smoke  sensor,47.66
-"Roof, Slabs, Stairs",45.0
-louvre,45.0
-Ground-recessed luminaires,45.0
-ventilation,44.0
-Shower curtains,42.0
-rooftop unit,41.0
-Puddle flanges,40.0
-superstructure,40.0
-strut,40.0
-parking,40.0
-Food mincers,40.0
-construction,40.0
-skirting board,36.0
-birdcage,36.0
-Clocks,35.0
-Clay paving tiles,35.0
-Fixed seats,35.0
-protective  device,32.5
-Sundials,31.0
-Fountains,30.0
-Framed plastics mirrors,30.0
-Step lifts,30.0
-display,30.0
-Water grilles,30.0
-cornice,30.0
-Clay tile ornamental fittings,25.0
-coated,25.0
-fire safety,22.0
-Telecoms equipment,20.0
-Wall-mounted kitchen cupboards,20.0
-Decorative sectional finishing products,20.0
-Domestic refrigerators and freezers,20.0
-rail joint,20.0
-Footstools,20.0
-Natural stone blocks,20.0
-Cable troughs,20.0
-signal,19.0
-Reclining chairs,17.0
-Duvets,15.0
-Aluminium infill panels,15.0
-light  fixture,13.0
-canal,13.0
-Deckchairs,10.0
-Gas fire-extinguishing pneumatic alarm devices,10.0
-Filter products,10.0
-"Luminaires, lighting track and lighting accessories",10.0
-Industrial bells,10.0
-Floats,8.0
-embankment,6.0
-Glass fibre fleeces,6.0
-Vinyl sheet facings,5.3
-blocking device,5.0
-Connection cables,5.0
-Paper towel dispensers,5.0
-Concrete pavers,5.0
-humidis tat,3.0
-Tiered seating,3.0
-Plastics sheet wall claddings,2.0
-railway,2.0
-Clay brick sills,1.25
-Cycle ramps,1.0
-Ventilated ceilings,1.0
-wall,1.0
-Joint fillers,0.5
-manufacturing,0.0
-power,0.0
-Upper body trainers,0.0
-suspension assembly,0.0
-belowground,0.0
-telephone,0.0
-sprinkler,0.0
-printer,0.0
-entrance works,0.0
-carriageway,0.0
+third_level,price_latest
+Other,226647.05
+Space heating and cooling products,143083.62
+Furnishings,77949.65
+Handrails,68994.15
+Sanitary fittings and accessories,68400.81
+Power and lighting outlet products,59623.65
+"Lighting columns, brackets and bollards",49831.33
+Glass blocks and panels,43217.47
+Services support and containment products,28866.0
+Safety cages,27164.58
+"Floor plates, gratings and edgings",24260.98
+Treads and landing units,17575.02
+Fastener products,16331.5
+Headwall and swale inlet products,16105.0
+Air and fume distribution products,12755.66
+Structural roofing units,12501.759999999998
+Support and restraint products,10519.75
+Sectional products,9368.5
+Hardware products,7693.0
+Walling units,4209.33
+Trim products,3790.3
+Structural units,3710.0
+Prefabricated buildings and structures,3193.12
+Shaft-lining products,2265.0
+Wire structure and general products,2241.14
+Unit covering and finish products,2112.22
+Masonry walling units,1184.4
+Formless structure and general products,958.6
+Structure and general products,596.0
+"Non-rigid sheet, mat and strip covering and finish products",392.65
+Openings and opening component products,205.0
+Retaining wall units,5.0
