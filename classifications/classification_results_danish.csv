@@ -1,0 +1,108 @@
+,Code,report,features
+0,Pr_70_60_36,"              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        13
+
+    accuracy                           1.00        13
+   macro avg       1.00      1.00      1.00        13
+weighted avg       1.00      1.00      1.00        13
+","                                     Feature  Importance
+1                                  LastPrice         1.0
+0                                   Quantity         0.0
+16  Danish_Raw_Heat pump driven air curtains         0.0
+15                  Danish_Raw_Heat emitters         0.0
+14              Danish_Raw_Equipment heaters         0.0
+13                              Store_Genbyg         0.0
+12              material_emb_voltmeter_ peak         0.0
+11          material_emb_motorcontrol centre         0.0
+10        material_emb_geotechnical  element         0.0
+9        material_emb_geotechnical  assembly         0.0
+8                   Subcategory_Termovinduer         0.0
+7              Subcategory_Skillerumsvinduer         0.0
+6   Subcategory_Restpartier fra byggepladser         0.0
+5               Subcategory_Radiatorskjulere         0.0
+4                  Subcategory_Andre vinduer         0.0
+3          Category_Miscellaneous Used Items         0.0
+2                Category_Doors and  Windows         0.0
+17                      Danish_Raw_Radiators         0.0"
+1,Pr_30_59_23_32,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         2
+           1       0.93      1.00      0.96        26
+
+    accuracy                           0.93        28
+   macro avg       0.46      0.50      0.48        28
+weighted avg       0.86      0.93      0.89        28
+","                                         Feature  Importance
+1                                      LastPrice    0.550662
+9   Subcategory_Fyldningsdøre med glas uden karm    0.279737
+15               material_emb_element  component    0.169601
+0                                       Quantity    0.000000
+12                          Subcategory_Ståldøre    0.000000
+20                                  Store_Genbyg    0.000000
+19             material_emb_structural  activity    0.000000
+18                         material_emb_pavement    0.000000
+17            material_emb_geotechnical  element    0.000000
+16                          material_emb_freezer    0.000000
+14                            material_emb_asset    0.000000
+13                          Subcategory_Yderdøre    0.000000
+11                   Subcategory_Indvendige døre    0.000000
+10           Subcategory_Fyldningsdøre uden karm    0.000000
+8     Subcategory_Fyldningsdøre med glas og karm    0.000000
+7                    Subcategory_Folde-skydedøre    0.000000
+6                  Subcategory_Dobbelte yderdøre    0.000000
+5                        Subcategory_Dobbeltdøre    0.000000
+4                       Subcategory_Diverse Døre    0.000000
+3            Subcategory_BD30 / Brand og lyddøre    0.000000
+2                    Category_Doors and  Windows    0.000000
+21        Danish_Raw_Frameless glass door leaves    0.000000"
+2,Pr_30_36_36_21,"              precision    recall  f1-score   support
+
+           0       1.00      0.33      0.50         3
+           1       0.98      1.00      0.99        83
+
+    accuracy                           0.98        86
+   macro avg       0.99      0.67      0.74        86
+weighted avg       0.98      0.98      0.97        86
+","                                       Feature  Importance
+12                        Subcategory_Yderdøre    0.281521
+9           Subcategory_Fyldningsdøre med karm    0.258289
+0                                     Quantity    0.224604
+1                                    LastPrice    0.124826
+11                 Subcategory_Indvendige døre    0.110761
+3          Subcategory_BD30 / Brand og lyddøre    0.000000
+4                     Subcategory_Diverse Døre    0.000000
+5                      Subcategory_Dobbeltdøre    0.000000
+6                Subcategory_Dobbelte yderdøre    0.000000
+7                  Subcategory_Eksklusive døre    0.000000
+8   Subcategory_Fyldningsdøre med glas og karm    0.000000
+10         Subcategory_Fyldningsdøre uden karm    0.000000
+2                  Category_Doors and  Windows    0.000000
+13             material_emb_element  component    0.000000
+14                        material_emb_freezer    0.000000
+15                  material_emb_pipe  fitting    0.000000
+16                                Store_Genbyg    0.000000
+17                      Danish_Raw_Door hinges    0.000000"
+3,Pr_30_36_59_92,"              precision    recall  f1-score   support
+
+           0       1.00      0.67      0.80         6
+           1       0.98      1.00      0.99        90
+
+    accuracy                           0.98        96
+   macro avg       0.99      0.83      0.89        96
+weighted avg       0.98      0.98      0.98        96
+","                                         Feature  Importance
+1                                      LastPrice    0.552871
+0                                       Quantity    0.447129
+2                    Category_Doors and  Windows    0.000000
+3                       Subcategory_Diverse Døre    0.000000
+4   Subcategory_Fyldningsdøre med glas uden karm    0.000000
+5             Subcategory_Fyldningsdøre med karm    0.000000
+6            Subcategory_Fyldningsdøre uden karm    0.000000
+7                    Subcategory_Indvendige døre    0.000000
+8                           Subcategory_Yderdøre    0.000000
+9                           material_emb_freezer    0.000000
+10                    material_emb_pipe  fitting    0.000000
+11                          material_emb_product    0.000000
+12                                  Store_Genbyg    0.000000
+13          Danish_Raw_Uncontrolled door closers    0.000000"
