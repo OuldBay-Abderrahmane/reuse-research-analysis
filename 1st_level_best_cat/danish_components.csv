@@ -1,0 +1,8 @@
+,first_level,SoldAfterDays,CountEntity,Rank_SoldAfterDays,Rank_CountEntity,Score
+1,"Roof, Slabs, Stairs",82.88368055555556,576,2.0,2.0,4.0
+0,"Wall, Barriers, Pannels",101.45726102941177,2176,5.0,1.0,6.0
+3,Furnishings,81.43939393939394,132,1.0,5.0,6.0
+5,Technical elements,99.78571428571429,294,4.0,4.0,8.0
+2,Openings,89.16867469879519,83,3.0,6.0,9.0
+4,Other,123.29017857142857,448,7.0,3.0,10.0
+6,Structural elements,104.49152542372882,59,6.0,7.0,13.0

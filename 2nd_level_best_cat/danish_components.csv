@@ -1,0 +1,8 @@
+,second_level,SoldAfterDays,CountEntity,Rank_SoldAfterDays,Rank_CountEntity,Score
+0,"Door, Windows, Gates",86.471645143178,1781,4.0,1.0,5.0
+4,"Floors, Ceiling",76.58823529411765,204,1.0,5.0,6.0
+2,"Blocks, Panels, Fences, Bricks",115.80591497227357,541,5.0,3.0,8.0
+5,Furnishings,81.36708860759494,79,2.0,6.0,8.0
+3,Other,122.16353887399464,746,7.0,2.0,9.0
+1,"Covering, Finish",117.43351063829788,376,6.0,4.0,10.0
+6,"Stairs, Ramps, Lift, Hardware",82.95121951219512,41,3.0,7.0,10.0
