@@ -18,7 +18,7 @@ weighted avg       0.93      0.93      0.93        84
 83          Location_D-50968 Cologne    0.000000
 84         Location_D-53332 Bornheim    0.000000
 85        Location_D-53359 Rheinbach    0.000000
-226             material_emb_freezer    0.000000
+226        material_emb_Sitka spruce    0.000000
 
 [227 rows x 2 columns]"
 1,Pr_65_52_61_91,"              precision    recall  f1-score   support
@@ -40,7 +40,7 @@ weighted avg       0.94      0.93      0.94       104
 129           Location_D-61476 Kronberg    0.000000
 128         Location_D-61118 Bad Vilbel    0.000000
 127  Location_D-60311 Frankfurt am Main    0.000000
-383                material_emb_product    0.000000
+383                   material_emb_Pisé    0.000000
 
 [384 rows x 2 columns]"
 2,Pr_20_29_88_75,"              precision    recall  f1-score   support
@@ -94,7 +94,7 @@ weighted avg       0.71      0.77      0.74        13
 17               Location_D-42799 Leichlingen    0.000000
 18       Location_D-45478 Mülheim an der Ruhr    0.000000
 19                  Location_D-53332 Bornheim    0.000000
-42            material_emb_element  component    0.000000"
+42           material_emb_Architectural glass    0.000000"
 3,Pr_35_90_43_04,"              precision    recall  f1-score   support
 
          0.0       1.00      0.48      0.65        31
@@ -114,7 +114,7 @@ weighted avg       0.89      0.87      0.85       125
 143       Location_D-53111 Bonn    0.000000
 142      Location_D-52351 Düren    0.000000
 141  Location_D-52152 Simmerath    0.000000
-439           material_emb_root    0.000000
+439           material_emb_Silt    0.000000
 
 [440 rows x 2 columns]"
 4,Pr_45_63_64_90,"              precision    recall  f1-score   support
@@ -136,7 +136,7 @@ weighted avg       0.88      0.88      0.88        17
 25      Location_D-45768 Marl         0.0
 24     Location_D-45149 Essen         0.0
 23   Location_D-40699 Erkrath         0.0
-83       material_emb_product         0.0
+83          material_emb_Pisé         0.0
 
 [84 rows x 2 columns]"
 5,Pr_20_76_08_19,"              precision    recall  f1-score   support
@@ -147,18 +147,18 @@ weighted avg       0.88      0.88      0.88        17
     accuracy                           0.79        14
    macro avg       0.46      0.42      0.44        14
 weighted avg       0.85      0.79      0.82        14
-","                             Feature  Importance
-0                   LastPriceNumeric         1.0
-53       Location_D-82166 Gräfelfing         0.0
-61                 Hersteller_BBLOXx         0.0
-60             Location_HU-6500 Baja         0.0
-59                Location_Gebraucht         0.0
-..                               ...         ...
-26        Location_D-25499 Tangstedt         0.0
-25           Location_D-14089 Berlin         0.0
-24           Location_D-13353 Berlin         0.0
-23           Location_D-13055 Berlin         0.0
-83  material_emb_geographic  element         0.0
+","                        Feature  Importance
+0              LastPriceNumeric         1.0
+53  Location_D-82166 Gräfelfing         0.0
+61            Hersteller_BBLOXx         0.0
+60        Location_HU-6500 Baja         0.0
+59           Location_Gebraucht         0.0
+..                          ...         ...
+26   Location_D-25499 Tangstedt         0.0
+25      Location_D-14089 Berlin         0.0
+24      Location_D-13353 Berlin         0.0
+23      Location_D-13055 Berlin         0.0
+83        material_emb_Concrete         0.0
 
 [84 rows x 2 columns]"
 6,Pr_25_93_72,"              precision    recall  f1-score   support
@@ -180,7 +180,7 @@ weighted avg       0.86      0.86      0.86        14
 22             Location_D-42551 Velbert         0.0
 21          Location_D-40213 Düsseldorf         0.0
 20  Location_D-37235 Hessisch Lichtenau         0.0
-70                    material_emb_root         0.0
+70                    material_emb_Silt         0.0
 
 [71 rows x 2 columns]"
 7,Pr_20_85_86_30,"              precision    recall  f1-score   support
@@ -227,7 +227,7 @@ weighted avg       1.00      1.00      1.00         8
 14                             Location_D-59494 Soest         0.0
 15                     Location_D-67105 Schifferstadt         0.0
 16                         Location_D-69245 Bammental         0.0
-36                       material_emb_heat  exchanger         0.0"
+36                               material_emb_Ceramic         0.0"
 8,Pr_45_31_63_76,"              precision    recall  f1-score   support
 
          0.0       0.92      0.94      0.93        52
@@ -247,7 +247,7 @@ weighted avg       0.91      0.91      0.91        76
 86         Location_D-50181 Bedburg    0.000000
 87           Location_D-50354 Hürth    0.000000
 88         Location_D-50825 Cologne    0.000000
-238            material_emb_product    0.000000
+238               material_emb_Pisé    0.000000
 
 [239 rows x 2 columns]"
 9,Pr_40_10_57_23,"              precision    recall  f1-score   support
@@ -316,7 +316,7 @@ weighted avg       0.95      0.93      0.94        29
 25                           Location_D-48477 Hörstel    0.000000
 26                           Location_D-50823 Cologne    0.000000
 27                           Location_D-50825 Cologne    0.000000
-57                         material_emb_pipe  fitting    0.000000"
+57                             material_emb_Encaustic    0.000000"
 10,Pr_70_60_36_29,"              precision    recall  f1-score   support
 
          0.0       0.95      1.00      0.97        19
@@ -336,7 +336,7 @@ weighted avg       0.97      0.97      0.97        33
 32          Location_D-40489 Düsseldorf    0.000000
 31          Location_D-40213 Düsseldorf    0.000000
 30           Location_D-39122 Magdeburg    0.000000
-106      material_emb_breakglass button    0.000000
+106       material_emb_Weathering steel    0.000000
 
 [107 rows x 2 columns]"
 11,Pr_40_30_83_11,"              precision    recall  f1-score   support
@@ -357,7 +357,7 @@ weighted avg       1.00      1.00      1.00        16
 27   Location_D-53840 Troisdorf         0.0
 28   Location_D-53937 Schleiden         0.0
 29  Location_D-58285 Gevelsberg         0.0
-63          material_emb_bridge         0.0
+63  material_emb_Masonry cement         0.0
 
 [64 rows x 2 columns]"
 12,Pr_20_29_56_82,"              precision    recall  f1-score   support
@@ -373,13 +373,13 @@ weighted avg       0.80      0.73      0.76        26
 4    Subcategory_Fassadendämmung    0.224312
 0               LastPriceNumeric    0.161920
 1               Category_Fassade    0.076742
-124         material_emb_product    0.000000
+124            material_emb_Pisé    0.000000
 ..                           ...         ...
 38   Location_D-63486 Bruchköbel    0.000000
 37   Location_D-61479 Glashütten    0.000000
 36        Location_D-55129 Mainz    0.000000
 35       Location_D-54538 Bengel    0.000000
-125            material_emb_root    0.000000
+125            material_emb_Silt    0.000000
 
 [126 rows x 2 columns]"
 13,Pr_40_30_87_96,"              precision    recall  f1-score   support
@@ -401,7 +401,7 @@ weighted avg       0.97      0.90      0.93        21
 27     Location_D-40215 Düsseldorf         0.0
 28      Location_D-42119 Wuppertal         0.0
 29          Location_D-46414 Rhede         0.0
-62            material_emb_freezer         0.0
+62       material_emb_Sitka spruce         0.0
 
 [63 rows x 2 columns]"
 14,Pr_35_31_68_46,"              precision    recall  f1-score   support
@@ -412,17 +412,17 @@ weighted avg       0.97      0.90      0.93        21
     accuracy                           0.83        24
    macro avg       0.91      0.60      0.62        24
 weighted avg       0.86      0.83      0.79        24
-","                          Feature  Importance
-0                LastPriceNumeric     0.85578
-1                Category_Fassade     0.14422
-123           German_Raw_Lacquers     0.00000
-92           Hersteller_Fermacell     0.00000
-90                Hersteller_EJOT     0.00000
-..                            ...         ...
-36      Location_D-47053 Duisburg     0.00000
-35       Location_D-46399 Bocholt     0.00000
-34         Location_D-45127 Essen     0.00000
-33        Location_D-44787 Bochum     0.00000
-124  material_emb_voltmeter_ peak     0.00000
+","                       Feature  Importance
+0             LastPriceNumeric     0.85578
+1             Category_Fassade     0.14422
+123        German_Raw_Lacquers     0.00000
+92        Hersteller_Fermacell     0.00000
+90             Hersteller_EJOT     0.00000
+..                         ...         ...
+36   Location_D-47053 Duisburg     0.00000
+35    Location_D-46399 Bocholt     0.00000
+34      Location_D-45127 Essen     0.00000
+33     Location_D-44787 Bochum     0.00000
+124       material_emb_Lignite     0.00000
 
 [125 rows x 2 columns]"

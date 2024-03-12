@@ -11,15 +11,15 @@ weighted avg       0.68      0.69      0.68        32
 2                           Category_Door    0.768832
 0                                  Weight    0.092222
 1                            Latest_Price    0.065618
-7         material_emb_element  component    0.054970
-11          material_emb_wirepair segment    0.018358
+5        material_emb_Architectural glass    0.054970
+11                      material_emb_Wood    0.018358
 3                          Category_Doors    0.000000
 4   Belgium_Raw_Wood panelled door leaves    0.000000
-5                      material_emb_asset    0.000000
-6              material_emb_consumer unit    0.000000
-8                    material_emb_freezer    0.000000
-9                   material_emb_pavement    0.000000
-10        material_emb_telephony exchange    0.000000"
+6           material_emb_Insulating glass    0.000000
+7                        material_emb_Oak    0.000000
+8                       material_emb_Pine    0.000000
+9               material_emb_Sitka spruce    0.000000
+10          material_emb_Structural glass    0.000000"
 1,Pr_30_59_24_97,"              precision    recall  f1-score   support
 
            0       0.50      0.25      0.33         4
@@ -28,14 +28,14 @@ weighted avg       0.68      0.69      0.68        32
     accuracy                           0.20         5
    macro avg       0.25      0.12      0.17         5
 weighted avg       0.40      0.20      0.27         5
-","                           Feature  Importance
-1                     Latest_Price    0.380689
-0                           Weight    0.318318
-4  material_emb_element  component    0.163641
-6    material_emb_wirepair segment    0.137352
-2                   Category_Doors    0.000000
-3        Belgium_Raw_Wood doorsets    0.000000
-5          material_emb_road  part    0.000000"
+","                            Feature  Importance
+1                      Latest_Price    0.380689
+0                            Weight    0.318318
+4  material_emb_Architectural glass    0.163641
+6                 material_emb_Wood    0.137352
+2                    Category_Doors    0.000000
+3         Belgium_Raw_Wood doorsets    0.000000
+5   material_emb_Expansive concrete    0.000000"
 2,Pr_35_93_96_89,"              precision    recall  f1-score   support
 
            0       0.00      0.00      0.00       0.0
@@ -50,8 +50,8 @@ weighted avg       0.00      0.00      0.00       2.0
 2                      Category_Floors         0.0
 3               Category_Wall Cladding         0.0
 4  Belgium_Raw_Terrazzo tile skirtings         0.0
-5   material_emb_distribution  element         0.0
-6                    material_emb_pump         0.0"
+5         material_emb_Pozzolan cement         0.0
+6              material_emb_Terracotta         0.0"
 3,Pr_35_93_96,"              precision    recall  f1-score   support
 
            0       0.93      0.78      0.85        18
@@ -60,37 +60,39 @@ weighted avg       0.00      0.00      0.00       2.0
     accuracy                           0.81        27
    macro avg       0.80      0.83      0.81        27
 weighted avg       0.84      0.81      0.82        27
-","                                           Feature  Importance
-18                      Belgium_Raw_Terrazzo tiles    0.388823
-25                        material_emb_not defined    0.204877
-2                                   Category_Floor    0.183179
-14                        Belgium_Raw_Quarry tiles    0.048567
-7                           Category_Wall Cladding    0.042037
-29                       material_emb_two position    0.034577
-4                                  Category_Garden    0.030945
-27                               material_emb_pump    0.015116
-0                                           Weight    0.011546
-17             Belgium_Raw_Terrazzo tile skirtings    0.008917
-19           Belgium_Raw_Wall and floor tile units    0.008568
-1                                     Latest_Price    0.007012
-11                       Belgium_Raw_Ceramic tiles    0.005974
-22                    material_emb_heat  exchanger    0.005162
-3                                  Category_Floors    0.004699
-21             material_emb_electric time  control    0.000000
-28                      material_emb_spatial  zone    0.000000
-26                      material_emb_pipe  segment    0.000000
-5                            Category_Objet Trouvé    0.000000
-24                material_emb_navigation  element    0.000000
-23                  material_emb_motor  connection    0.000000
-9          Belgium_Raw_Ceramic tile cove skirtings    0.000000
-20              material_emb_distribution  element    0.000000
-10            Belgium_Raw_Ceramic tile round edges    0.000000
-6                                Category_Sanitary    0.000000
-16                         Belgium_Raw_Stone tiles    0.000000
-8                 Belgium_Raw_Ceramic tile borders    0.000000
-13                     Belgium_Raw_Porcelain tiles    0.000000
-12  Belgium_Raw_Natural stone wall and floor slabs    0.000000
-15                         Belgium_Raw_Stone slabs    0.000000"
+","                                              Feature  Importance
+18                         Belgium_Raw_Terrazzo tiles    0.426716
+2                                      Category_Floor    0.201592
+22                               material_emb_Granite    0.164909
+14                           Belgium_Raw_Quarry tiles    0.050958
+7                              Category_Wall Cladding    0.036960
+26                                material_emb_Marble    0.031766
+4                                     Category_Garden    0.023161
+31                            material_emb_Terracotta    0.017412
+0                                              Weight    0.012453
+19              Belgium_Raw_Wall and floor tile units    0.007838
+11                          Belgium_Raw_Ceramic tiles    0.006209
+1                                        Latest_Price    0.006049
+3                                     Category_Floors    0.006035
+17                Belgium_Raw_Terrazzo tile skirtings    0.004509
+20                               material_emb_Ceramic    0.003432
+23                 material_emb_Granite-powder cement    0.000000
+30                                 material_emb_Slate    0.000000
+29                             material_emb_Sandstone    0.000000
+28                       material_emb_Pozzolan cement    0.000000
+27                             material_emb_Porcelain    0.000000
+25  material_emb_Loose surfacing decorative aggreg...    0.000000
+24                   material_emb_Insulating concrete    0.000000
+9             Belgium_Raw_Ceramic tile cove skirtings    0.000000
+5                               Category_Objet Trouvé    0.000000
+21             material_emb_Expanded slate aggregates    0.000000
+10               Belgium_Raw_Ceramic tile round edges    0.000000
+6                                   Category_Sanitary    0.000000
+15                            Belgium_Raw_Stone slabs    0.000000
+8                    Belgium_Raw_Ceramic tile borders    0.000000
+13                        Belgium_Raw_Porcelain tiles    0.000000
+12     Belgium_Raw_Natural stone wall and floor slabs    0.000000
+16                            Belgium_Raw_Stone tiles    0.000000"
 4,Pr_30_59_23_32,"              precision    recall  f1-score   support
 
            0       1.00      1.00      1.00         2
@@ -103,7 +105,7 @@ weighted avg       1.00      1.00      1.00         2
 1                             Latest_Price         0.0
 2                           Category_Doors         0.0
 3  Belgium_Raw_Frameless glass door leaves         0.0
-4          material_emb_element  component         0.0"
+4         material_emb_Architectural glass         0.0"
 5,Pr_40_30_87_03,"              precision    recall  f1-score   support
 
            0       1.00      0.33      0.50         3
@@ -120,9 +122,9 @@ weighted avg       0.83      0.50      0.50         4
 4              Category_Sanitary    0.000000
 5                 Condition_Neuf    0.000000
 6  Belgium_Raw_Bathroom cabinets    0.000000
-7           material_emb_freezer    0.000000
-8     material_emb_pipe  segment    0.000000
-9              material_emb_wall    0.000000"
+7         material_emb_Porcelain    0.000000
+8      material_emb_Sitka spruce    0.000000
+9             material_emb_Water    0.000000"
 6,Pr_25_71_97_46,"              precision    recall  f1-score   support
 
            0       0.67      1.00      0.80         2
@@ -136,4 +138,4 @@ weighted avg       0.44      0.67      0.53         3
 0                                Weight         0.0
 2                         Category_Wood         0.0
 3  Belgium_Raw_Laminboard core plywoods         0.0
-4         material_emb_wirepair segment         0.0"
+4                     material_emb_Wood         0.0"

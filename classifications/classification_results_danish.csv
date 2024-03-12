@@ -13,10 +13,10 @@ weighted avg       1.00      1.00      1.00        13
 15                  Danish_Raw_Heat emitters         0.0
 14              Danish_Raw_Equipment heaters         0.0
 13                              Store_Genbyg         0.0
-12              material_emb_voltmeter_ peak         0.0
-11          material_emb_motorcontrol centre         0.0
-10        material_emb_geotechnical  element         0.0
-9        material_emb_geotechnical  assembly         0.0
+12                 material_emb_Radiata pine         0.0
+11                      material_emb_Lignite         0.0
+10         material_emb_Heat-resisting glass         0.0
+9          material_emb_Heat-absorbing glass         0.0
 8                   Subcategory_Termovinduer         0.0
 7              Subcategory_Skillerumsvinduer         0.0
 6   Subcategory_Restpartier fra byggepladser         0.0
@@ -36,15 +36,15 @@ weighted avg       0.86      0.93      0.89        28
 ","                                         Feature  Importance
 1                                      LastPrice    0.550662
 9   Subcategory_Fyldningsdøre med glas uden karm    0.279737
-15               material_emb_element  component    0.169601
+14              material_emb_Architectural glass    0.169601
 0                                       Quantity    0.000000
 12                          Subcategory_Ståldøre    0.000000
 20                                  Store_Genbyg    0.000000
-19             material_emb_structural  activity    0.000000
-18                         material_emb_pavement    0.000000
-17            material_emb_geotechnical  element    0.000000
-16                          material_emb_freezer    0.000000
-14                            material_emb_asset    0.000000
+19                 material_emb_Structural glass    0.000000
+18                     material_emb_Sitka spruce    0.000000
+17                  material_emb_Patterned glass    0.000000
+16                 material_emb_Insulating glass    0.000000
+15             material_emb_Heat-resisting glass    0.000000
 13                          Subcategory_Yderdøre    0.000000
 11                   Subcategory_Indvendige døre    0.000000
 10           Subcategory_Fyldningsdøre uden karm    0.000000
@@ -78,9 +78,9 @@ weighted avg       0.98      0.98      0.97        86
 8   Subcategory_Fyldningsdøre med glas og karm    0.000000
 10         Subcategory_Fyldningsdøre uden karm    0.000000
 2                  Category_Doors and  Windows    0.000000
-13             material_emb_element  component    0.000000
-14                        material_emb_freezer    0.000000
-15                  material_emb_pipe  fitting    0.000000
+13            material_emb_Architectural glass    0.000000
+14                      material_emb_Encaustic    0.000000
+15                   material_emb_Sitka spruce    0.000000
 16                                Store_Genbyg    0.000000
 17                      Danish_Raw_Door hinges    0.000000"
 3,Pr_30_36_59_92,"              precision    recall  f1-score   support
@@ -101,8 +101,8 @@ weighted avg       0.98      0.98      0.98        96
 6            Subcategory_Fyldningsdøre uden karm    0.000000
 7                    Subcategory_Indvendige døre    0.000000
 8                           Subcategory_Yderdøre    0.000000
-9                           material_emb_freezer    0.000000
-10                    material_emb_pipe  fitting    0.000000
-11                          material_emb_product    0.000000
+9                         material_emb_Encaustic    0.000000
+10                             material_emb_Pisé    0.000000
+11                     material_emb_Sitka spruce    0.000000
 12                                  Store_Genbyg    0.000000
 13          Danish_Raw_Uncontrolled door closers    0.000000"

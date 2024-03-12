@@ -21,7 +21,7 @@
 1359,Location_Gebraucht,0.008888041
 1,Category_Dach,0.006800139
 22,Subcategory_Fassadendämmung,0.0062672147
-2092,material_emb_freezer,0.005807632
+2102,material_emb_Sitka spruce,0.005807632
 1304,Location_D-93326 Abensberg,0.005580773
 12,Subcategory_Außentüren,0.0052526398
 526,Location_D-40229 Düsseldorf,0.005242037
@@ -32,7 +32,7 @@
 0,LastPriceNumeric,0.0043940414
 1986,Hersteller_Veka,0.0040950617
 36,Subcategory_Sonstiges·,0.004028714
-2103,material_emb_voltmeter_ peak,0.003924542
+2096,material_emb_Lignite,0.003924542
 19,Subcategory_Dämmung,0.003786519
 13,Subcategory_Baulicher Feuchteschutz,0.0035081804
 523,Location_D-40213 Düsseldorf,0.0034870172
@@ -43,32 +43,32 @@
 2,Category_Fassade,0.002621442
 1368,Location_Neu,0.0024403979
 179,Location_D-10178 Berlin,0.002383862
-2096,material_emb_pipe  fitting,0.001922253
+2092,material_emb_Encaustic,0.001922253
 20,Subcategory_Elektroarbeiten,0.0018294159
 17,Subcategory_Dacheindeckung,0.0017870168
 41,Subcategory_Trockenbau,0.0017240433
 37,Subcategory_Spachtelmassen & Kleber,0.0017228574
 1383,Location_gut,0.0016459675
 16,Subcategory_Dachdämmung,0.00163818
-2097,material_emb_product,0.0016366125
+2099,material_emb_Pisé,0.0016366125
 46,Location_12 Monate Gewährleistung,0.0015689628
 2067,German_Raw_Arrises,0.0014124232
-2091,material_emb_element  component,0.0013902737
+2089,material_emb_Architectural glass,0.0013902737
 2083,German_Raw_Sprigs,0.0013717301
 7,Category_Innenausbau,0.0013551397
 10,Subcategory_Aussenfenster,0.0013451468
-2100,material_emb_root,0.0013021363
+2101,material_emb_Silt,0.0013021363
 35,Subcategory_Sonstiges Fassadenmaterial,0.0012605379
 28,Subcategory_Konstruktiver Holzbau,0.0011135377
 30,Subcategory_Mauerwerk,0.001085541
-2090,material_emb_capacitor,0.0010489089
+2093,material_emb_Granule,0.0010489089
 18,Subcategory_Dachfenster,0.0010259321
 23,Subcategory_Fassadenverkleidung,0.0007481143
 1384,Location_neuwertig,0.0006346691
 1369,Location_Neuwertig,0.0005619531
-1399,Hersteller_ABUS,0.0
 1411,Hersteller_Ahlmann,0.0
-1450,Hersteller_Bauplast,0.0
+1420,Hersteller_Aluplast HST,0.0
+1451,Hersteller_Bautischlerei und Fensterbau Hassmann,0.0
 1419,Hersteller_Aluplast,0.0
 1418,Hersteller_Alujet ,0.0
 1417,Hersteller_Altbautür - Unikate ,0.0
@@ -77,9 +77,9 @@
 1414,Hersteller_Aldra,0.0
 1413,Hersteller_Alape,0.0
 1412,Hersteller_Akurit,0.0
-1453,Hersteller_BayWa,0.0
+1399,Hersteller_ABUS,0.0
 1410,Hersteller_Agrob Buchtal,0.0
-1421,Hersteller_Aluplast Profil ,0.0
+1450,Hersteller_Bauplast,0.0
 1409,Hersteller_Acetat,0.0
 1408,Hersteller_Abus,0.0
 1407,Hersteller_Abi-Pol ,0.0
@@ -91,10 +91,10 @@
 1402,Hersteller_AH STUCK GmbH,0.0
 1401,Hersteller_AERECO,0.0
 1400,Hersteller_ACO,0.0
-1420,Hersteller_Aluplast HST,0.0
+1421,Hersteller_Aluplast Profil ,0.0
 1422,Hersteller_Aluplast ideal 8000,0.0
-1449,Hersteller_Baumit,0.0
 1441,Hersteller_Bauchemiehandel Meister,0.0
+1449,Hersteller_Baumit,0.0
 1440,Hersteller_BauMit,0.0
 1439,Hersteller_Bau Mit,0.0
 1438,Hersteller_Bachl Styropor Platten 1000x500x260mm,0.0
@@ -107,19 +107,19 @@
 1443,Hersteller_Bauelement Werratal (BEW24),0.0
 1444,Hersteller_Bauer,0.0
 1432,Hersteller_Aus Rückbau ( ERWINUS ),0.0
-1451,Hersteller_Bautischlerei und Fensterbau Hassmann,0.0
 1445,Hersteller_Baufan,0.0
 1446,Hersteller_Baufolie deutsche Herstellung,0.0
+1453,Hersteller_BayWa,0.0
 1447,Hersteller_Bauhaus ,0.0
 1430,Hersteller_Ari Wedi,0.0
 1429,Hersteller_Ari WEDI Euro ,0.0
+1448,Hersteller_Bauholz Sägerau,0.0
 1428,Hersteller_Ardex CL 300,0.0
 1427,Hersteller_Ardex,0.0
 1426,Hersteller_Arcelor Mittall,0.0
 1425,Hersteller_Arbonia,0.0
 1424,Hersteller_Antik-Stein,0.0
 1423,Hersteller_Amf / Knauf,0.0
-1448,Hersteller_Bauholz Sägerau,0.0
 1431,Hersteller_Atlas Plan und Graniti Fiandre,0.0
 1370,Location_Neuwertig & Geprüft,0.0
 1398,Hersteller_ABK,0.0
@@ -729,15 +729,15 @@
 2063,Hersteller_ubenkannt,0.0
 1968,Hersteller_Unbekannt,0.0
 2081,German_Raw_Scagliola,0.0
-2102,material_emb_tumble dryer,0.0
-2101,material_emb_track  element,0.0
-2099,material_emb_referent,0.0
-2098,material_emb_project,0.0
-2095,material_emb_material  definition,0.0
-2094,material_emb_heat  exchanger,0.0
-2093,material_emb_geographic  element,0.0
-2089,material_emb_bridge,0.0
-2088,material_emb_breakglass button,0.0
+2103,material_emb_Soil,0.0
+2100,material_emb_Proprietary concrete,0.0
+2098,material_emb_Peat,0.0
+2097,material_emb_Masonry cement,0.0
+2095,material_emb_Heat-resistant concrete,0.0
+2094,material_emb_Gravel,0.0
+2091,material_emb_Concrete,0.0
+2090,material_emb_Ceramic,0.0
+2088,material_emb_Aerogel,0.0
 2087,German_Raw_Waterproofing concrete admixtures,0.0
 2086,German_Raw_Wardrobes,0.0
 2085,German_Raw_Tundishes,0.0
@@ -2103,4 +2103,4 @@
 726,Location_D-55116 Mainz,0.0
 725,Location_D-54673 Neuerburg,0.0
 724,Location_D-54636 Schleid,0.0
-2104,material_emb_wind  sensor,0.0
+2104,material_emb_Weathering steel,0.0

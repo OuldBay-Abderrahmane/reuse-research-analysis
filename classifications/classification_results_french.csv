@@ -13,21 +13,23 @@ weighted avg       1.00      1.00      1.00        17
 0                             price_latest    0.132618
 1                                      co2    0.103138
 11                  material_state_correct    0.055181
-12                  material_state_damaged    0.000000
+6         location_PARIS-8E-ARRONDISSEMENT    0.000000
+15                 BIM_class_E.20.20.06.4b    0.000000
+21                second_level_Furnishings    0.000000
+20                      material_type_used    0.000000
 19                 BIM_class_E.20.20.06.4h    0.000000
 18                 BIM_class_E.20.20.06.4g    0.000000
 17                 BIM_class_E.20.20.06.4e    0.000000
-15                 BIM_class_E.20.20.06.4b    0.000000
+2                  location_CHEVILLY-LARUE    0.000000
+4   location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
+7         location_PARIS-9E-ARRONDISSEMENT    0.000000
 13                 material_state_verygood    0.000000
+12                  material_state_damaged    0.000000
+5        location_PARIS-13E-ARRONDISSEMENT    0.000000
 10             French_Raw_Reclining chairs    0.000000
 9        location_VILLENEUVE-SAINT-GEORGES    0.000000
 8                    location_SAINT-PRIEST    0.000000
-7         location_PARIS-9E-ARRONDISSEMENT    0.000000
-6         location_PARIS-8E-ARRONDISSEMENT    0.000000
-5        location_PARIS-13E-ARRONDISSEMENT    0.000000
-4   location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
-2                  location_CHEVILLY-LARUE    0.000000
-20                      material_type_used    0.000000"
+22                 third_level_Furnishings    0.000000"
 1,Pr_40_50_21_58,"              precision    recall  f1-score   support
 
            0       0.33      0.33      0.33         3
@@ -36,39 +38,43 @@ weighted avg       1.00      1.00      1.00        17
     accuracy                           0.75        16
    macro avg       0.59      0.59      0.59        16
 weighted avg       0.75      0.75      0.75        16
-","                                   Feature  Importance
-4                          location_CHOLET    0.351080
-3                  location_CHEVILLY-LARUE    0.234062
-16                  material_state_correct    0.216821
-10        location_PARIS-9E-ARRONDISSEMENT    0.130757
-1                                      co2    0.030201
-9         location_PARIS-8E-ARRONDISSEMENT    0.025345
-0                             price_latest    0.011734
-7         location_MONTIGNY-LES-CORMEILLES    0.000000
-20                 BIM_class_E.10.90.02.46    0.000000
-30             material_type_reconditioned    0.000000
-29                 BIM_class_G.20.40.03.3d    0.000000
-28                 BIM_class_G.20.40.03.3c    0.000000
-27                 BIM_class_G.20.40.03.3b    0.000000
-26                  BIM_class_E.20.20.90.4    0.000000
-25                 BIM_class_E.20.20.10.3g    0.000000
-24                 BIM_class_E.20.20.10.3f    0.000000
-23                 BIM_class_E.20.20.10.3c    0.000000
-22                 BIM_class_E.20.20.10.3b    0.000000
-21                 BIM_class_E.20.20.10.3a    0.000000
-19                  BIM_class_C.10.30.03.2    0.000000
-8        location_PARIS-13E-ARRONDISSEMENT    0.000000
-18                 material_state_verygood    0.000000
-17                  material_state_damaged    0.000000
-2                      location_ARGENTEUIL    0.000000
-15            French_Raw_Occasional tables    0.000000
-14                  location_SAINT-ETIENNE    0.000000
-13                         location_RUNGIS    0.000000
-12                        location_PUTEAUX    0.000000
-11                     location_PONTCHARRA    0.000000
-5                   location_GENNEVILLIERS    0.000000
-6   location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
-31                      material_type_used    0.000000"
+","                                              Feature  Importance
+4                                     location_CHOLET    0.351080
+3                             location_CHEVILLY-LARUE    0.234062
+16                             material_state_correct    0.216821
+10                   location_PARIS-9E-ARRONDISSEMENT    0.130757
+1                                                 co2    0.030201
+9                    location_PARIS-8E-ARRONDISSEMENT    0.025345
+0                                        price_latest    0.011734
+31                                 material_type_used    0.000000
+30                        material_type_reconditioned    0.000000
+32                      second_level_Covering, Finish    0.000000
+21                            BIM_class_E.20.20.10.3a    0.000000
+29                            BIM_class_G.20.40.03.3d    0.000000
+28                            BIM_class_G.20.40.03.3c    0.000000
+27                            BIM_class_G.20.40.03.3b    0.000000
+26                             BIM_class_E.20.20.90.4    0.000000
+25                            BIM_class_E.20.20.10.3g    0.000000
+33                           second_level_Furnishings    0.000000
+24                            BIM_class_E.20.20.10.3f    0.000000
+34  third_level_Lighting columns, brackets and bol...    0.000000
+23                            BIM_class_E.20.20.10.3c    0.000000
+22                            BIM_class_E.20.20.10.3b    0.000000
+18                            material_state_verygood    0.000000
+20                            BIM_class_E.10.90.02.46    0.000000
+19                             BIM_class_C.10.30.03.2    0.000000
+17                             material_state_damaged    0.000000
+15                       French_Raw_Occasional tables    0.000000
+14                             location_SAINT-ETIENNE    0.000000
+13                                    location_RUNGIS    0.000000
+12                                   location_PUTEAUX    0.000000
+11                                location_PONTCHARRA    0.000000
+8                   location_PARIS-13E-ARRONDISSEMENT    0.000000
+7                    location_MONTIGNY-LES-CORMEILLES    0.000000
+6              location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
+5                              location_GENNEVILLIERS    0.000000
+2                                 location_ARGENTEUIL    0.000000
+35                     third_level_Sectional products    0.000000"
 2,Pr_60_60_96,"              precision    recall  f1-score   support
 
            0       1.00      0.86      0.92        14
@@ -77,37 +83,41 @@ weighted avg       0.75      0.75      0.75        16
     accuracy                           0.93        28
    macro avg       0.94      0.93      0.93        28
 weighted avg       0.94      0.93      0.93        28
-","                                   Feature  Importance
-21                  material_state_damaged    0.534489
-1                                      co2    0.156714
-20                  material_state_correct    0.119495
-12       location_PARIS-10E-ARRONDISSEMENT    0.095385
-5                          location_GRIGNY    0.046259
-11                        location_ORLEANS    0.037332
-0                             price_latest    0.010327
-22                      material_state_new    0.000000
-19                French_Raw_Water heaters    0.000000
-23                 material_state_verygood    0.000000
-17        location_PARIS-9E-ARRONDISSEMENT    0.000000
-24                 BIM_class_D.30.20.01.1a    0.000000
-25                 BIM_class_D.30.20.01.5b    0.000000
-26                 BIM_class_D.30.50.02.2a    0.000000
-27                 BIM_class_D.30.50.02.2b    0.000000
-28                       material_type_new    0.000000
-18                         location_RENNES    0.000000
-15       location_PARIS-20E-ARRONDISSEMENT    0.000000
-16        location_PARIS-6E-ARRONDISSEMENT    0.000000
-14       location_PARIS-13E-ARRONDISSEMENT    0.000000
-13       location_PARIS-12E-ARRONDISSEMENT    0.000000
-10        location_MONTIGNY-LES-CORMEILLES    0.000000
-9   location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
-8                location_LEVALLOIS-PERRET    0.000000
-7                      location_LE BOURGET    0.000000
-6                    location_LA MADELEINE    0.000000
-4                         location_EPERNAY    0.000000
-3              location_ASNIERES-SUR-SEINE    0.000000
-2                      location_ARGENTEUIL    0.000000
-29                      material_type_used    0.000000"
+","                                           Feature  Importance
+21                          material_state_damaged    0.534489
+1                                              co2    0.156714
+20                          material_state_correct    0.119495
+12               location_PARIS-10E-ARRONDISSEMENT    0.095385
+5                                  location_GRIGNY    0.046259
+11                                location_ORLEANS    0.037332
+0                                     price_latest    0.010327
+28                               material_type_new    0.000000
+27                         BIM_class_D.30.50.02.2b    0.000000
+19                        French_Raw_Water heaters    0.000000
+25                         BIM_class_D.30.20.01.5b    0.000000
+29                              material_type_used    0.000000
+30     second_level_Blocks, Panels, Fences, Bricks    0.000000
+24                         BIM_class_D.30.20.01.1a    0.000000
+23                         material_state_verygood    0.000000
+22                              material_state_new    0.000000
+31                    second_level_Floors, Ceiling    0.000000
+32                              second_level_Other    0.000000
+26                         BIM_class_D.30.50.02.2a    0.000000
+17                location_PARIS-9E-ARRONDISSEMENT    0.000000
+18                                 location_RENNES    0.000000
+16                location_PARIS-6E-ARRONDISSEMENT    0.000000
+15               location_PARIS-20E-ARRONDISSEMENT    0.000000
+14               location_PARIS-13E-ARRONDISSEMENT    0.000000
+13               location_PARIS-12E-ARRONDISSEMENT    0.000000
+10                location_MONTIGNY-LES-CORMEILLES    0.000000
+9           location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
+8                        location_LEVALLOIS-PERRET    0.000000
+7                              location_LE BOURGET    0.000000
+6                            location_LA MADELEINE    0.000000
+4                                 location_EPERNAY    0.000000
+3                      location_ASNIERES-SUR-SEINE    0.000000
+2                              location_ARGENTEUIL    0.000000
+33  third_level_Space heating and cooling products    0.000000"
 3,Pr_30_59_24_84,"              precision    recall  f1-score   support
 
            0       0.64      0.82      0.72        11
@@ -116,67 +126,20 @@ weighted avg       0.94      0.93      0.93        28
     accuracy                           0.78        32
    macro avg       0.77      0.79      0.77        32
 weighted avg       0.80      0.78      0.79        32
-","                                   Feature  Importance
-16       location_PARIS-1ER-ARRONDISSEMENT    0.249972
-3                         location_AUBAGNE    0.222069
-45                 BIM_class_C.10.20.02.1f    0.219377
-8                location_LEVALLOIS-PERRET    0.072319
-1                                      co2    0.049933
-43                 BIM_class_C.10.20.02.1b    0.049758
-0                             price_latest    0.037897
-9        location_LYON--6E--ARRONDISSEMENT    0.018399
-30                 BIM_class_B.20.30.02.1b    0.018147
-49                 BIM_class_C.10.20.02.2b    0.017713
-17        location_PARIS-8E-ARRONDISSEMENT    0.017003
-25                 material_state_verygood    0.009611
-23                  material_state_correct    0.009003
-42                 BIM_class_C.10.20.02.1a    0.008799
-7                    location_LA MADELEINE    0.000000
-47                 BIM_class_C.10.20.02.1i    0.000000
-38                 BIM_class_C.10.10.02.1e    0.000000
-39                 BIM_class_C.10.10.02.1f    0.000000
-40                 BIM_class_C.10.20.01.1b    0.000000
-41                 BIM_class_C.10.20.01.1e    0.000000
-4                  location_CHEVILLY-LARUE    0.000000
-44                 BIM_class_C.10.20.02.1c    0.000000
-2                      location_ARGENTEUIL    0.000000
-46                 BIM_class_C.10.20.02.1g    0.000000
-48                 BIM_class_C.10.20.02.2a    0.000000
-36                 BIM_class_B.20.30.02.6a    0.000000
-50                 BIM_class_C.10.20.02.2c    0.000000
-51                 BIM_class_C.10.20.02.3a    0.000000
-52                 BIM_class_C.10.20.02.3b    0.000000
-53                 BIM_class_C.10.20.02.4b    0.000000
-54                 BIM_class_C.10.20.02.5a    0.000000
-55                 BIM_class_C.10.20.02.5b    0.000000
-56                 BIM_class_C.10.20.02.5f    0.000000
-57                 BIM_class_C.10.20.02.5g    0.000000
-58             material_type_reconditioned    0.000000
-37                 BIM_class_B.20.30.02.6b    0.000000
-34                 BIM_class_B.20.30.02.2b    0.000000
-35                 BIM_class_B.20.30.02.5b    0.000000
-21                         location_RUNGIS    0.000000
-11        location_MONTIGNY-LES-CORMEILLES    0.000000
-12       location_PARIS-10E-ARRONDISSEMENT    0.000000
-13       location_PARIS-12E-ARRONDISSEMENT    0.000000
-14       location_PARIS-15E-ARRONDISSEMENT    0.000000
-15       location_PARIS-16E-ARRONDISSEMENT    0.000000
-6                   location_GENNEVILLIERS    0.000000
-18                     location_PONTCHARRA    0.000000
-19                        location_PUTEAUX    0.000000
-20                         location_RENNES    0.000000
-22     French_Raw_Sliding shutter doorsets    0.000000
-10  location_MARSEILLE--2E--ARRONDISSEMENT    0.000000
-24                  material_state_damaged    0.000000
-26                 BIM_class_B.20.30.01.2a    0.000000
-27                 BIM_class_B.20.30.01.2b    0.000000
-28                 BIM_class_B.20.30.01.2h    0.000000
-29                 BIM_class_B.20.30.02.1a    0.000000
-5                         location_EPERNAY    0.000000
-31                 BIM_class_B.20.30.02.1c    0.000000
-32                 BIM_class_B.20.30.02.1f    0.000000
-33                 BIM_class_B.20.30.02.2a    0.000000
-59                      material_type_used    0.000000"
+","                                          Feature  Importance
+16              location_PARIS-1ER-ARRONDISSEMENT    0.249972
+3                                location_AUBAGNE    0.222069
+45                        BIM_class_C.10.20.02.1f    0.219377
+8                       location_LEVALLOIS-PERRET    0.072319
+1                                             co2    0.049933
+..                                            ...         ...
+28                        BIM_class_B.20.30.01.2h    0.000000
+29                        BIM_class_B.20.30.02.1a    0.000000
+32                        BIM_class_B.20.30.02.1f    0.000000
+33                        BIM_class_B.20.30.02.2a    0.000000
+62  third_level_Sanitary fittings and accessories    0.000000
+
+[63 rows x 2 columns]"
 4,Pr_20_76_71_24,"              precision    recall  f1-score   support
 
            0       0.88      1.00      0.93         7
@@ -185,94 +148,101 @@ weighted avg       0.80      0.78      0.79        32
     accuracy                           0.95        20
    macro avg       0.94      0.96      0.95        20
 weighted avg       0.96      0.95      0.95        20
-","                                   Feature  Importance
-17        location_PARIS-9E-ARRONDISSEMENT    0.397258
-0                             price_latest    0.198875
-9        location_LYON--6E--ARRONDISSEMENT    0.177918
-33                 BIM_class_C.10.20.01.2d    0.115892
-16        location_PARIS-8E-ARRONDISSEMENT    0.042266
-1                                      co2    0.041704
-22                  material_state_correct    0.011608
-24                 material_state_verygood    0.009423
-34                 BIM_class_C.10.20.01.2e    0.005056
-7                    location_LA MADELEINE    0.000000
-28                 BIM_class_B.20.30.01.2e    0.000000
-29                  BIM_class_B.20.30.99.1    0.000000
-30                 BIM_class_C.10.20.01.2a    0.000000
-31                 BIM_class_C.10.20.01.2b    0.000000
-32                 BIM_class_C.10.20.01.2c    0.000000
-2                      location_ARGENTEUIL    0.000000
-35                 BIM_class_C.10.20.01.2f    0.000000
-26                 BIM_class_B.20.30.01.2a    0.000000
-36                 BIM_class_C.10.20.01.2h    0.000000
-37                 BIM_class_C.10.20.01.5e    0.000000
-38                 BIM_class_C.10.20.01.5g    0.000000
-39                 BIM_class_C.10.20.01.5h    0.000000
-40                 BIM_class_C.10.20.02.5b    0.000000
-41                    BIM_class_C.10.20.03    0.000000
-42             material_type_reconditioned    0.000000
-27                 BIM_class_B.20.30.01.2d    0.000000
-25                 BIM_class_B.20.20.01.3f    0.000000
-8                location_LEVALLOIS-PERRET    0.000000
-15       location_PARIS-1ER-ARRONDISSEMENT    0.000000
-6                   location_GENNEVILLIERS    0.000000
-10  location_MARSEILLE--2E--ARRONDISSEMENT    0.000000
-11       location_PARIS-10E-ARRONDISSEMENT    0.000000
-12       location_PARIS-12E-ARRONDISSEMENT    0.000000
-13       location_PARIS-13E-ARRONDISSEMENT    0.000000
-14       location_PARIS-15E-ARRONDISSEMENT    0.000000
-5                         location_EPERNAY    0.000000
-23                  material_state_damaged    0.000000
-4                  location_CHEVILLY-LARUE    0.000000
-18                        location_PUTEAUX    0.000000
-19                         location_RENNES    0.000000
-20                         location_RUNGIS    0.000000
-21                 French_Raw_Double slips    0.000000
-3                         location_CHELLES    0.000000
-43                      material_type_used    0.000000"
+","                                              Feature  Importance
+17                   location_PARIS-9E-ARRONDISSEMENT    0.397258
+0                                        price_latest    0.198875
+9                   location_LYON--6E--ARRONDISSEMENT    0.177918
+33                            BIM_class_C.10.20.01.2d    0.115892
+16                   location_PARIS-8E-ARRONDISSEMENT    0.042266
+1                                                 co2    0.041704
+22                             material_state_correct    0.011608
+24                            material_state_verygood    0.009423
+34                            BIM_class_C.10.20.01.2e    0.005056
+29                             BIM_class_B.20.30.99.1    0.000000
+30                            BIM_class_C.10.20.01.2a    0.000000
+31                            BIM_class_C.10.20.01.2b    0.000000
+32                            BIM_class_C.10.20.01.2c    0.000000
+35                            BIM_class_C.10.20.01.2f    0.000000
+27                            BIM_class_B.20.30.01.2d    0.000000
+36                            BIM_class_C.10.20.01.2h    0.000000
+37                            BIM_class_C.10.20.01.5e    0.000000
+38                            BIM_class_C.10.20.01.5g    0.000000
+39                            BIM_class_C.10.20.01.5h    0.000000
+40                            BIM_class_C.10.20.02.5b    0.000000
+41                               BIM_class_C.10.20.03    0.000000
+42                        material_type_reconditioned    0.000000
+43                                 material_type_used    0.000000
+44                      second_level_Covering, Finish    0.000000
+45  third_level_Lighting columns, brackets and bol...    0.000000
+28                            BIM_class_B.20.30.01.2e    0.000000
+23                             material_state_damaged    0.000000
+26                            BIM_class_B.20.30.01.2a    0.000000
+25                            BIM_class_B.20.20.01.3f    0.000000
+2                                 location_ARGENTEUIL    0.000000
+3                                    location_CHELLES    0.000000
+4                             location_CHEVILLY-LARUE    0.000000
+5                                    location_EPERNAY    0.000000
+6                              location_GENNEVILLIERS    0.000000
+7                               location_LA MADELEINE    0.000000
+8                           location_LEVALLOIS-PERRET    0.000000
+10             location_MARSEILLE--2E--ARRONDISSEMENT    0.000000
+11                  location_PARIS-10E-ARRONDISSEMENT    0.000000
+12                  location_PARIS-12E-ARRONDISSEMENT    0.000000
+13                  location_PARIS-13E-ARRONDISSEMENT    0.000000
+14                  location_PARIS-15E-ARRONDISSEMENT    0.000000
+15                  location_PARIS-1ER-ARRONDISSEMENT    0.000000
+18                                   location_PUTEAUX    0.000000
+19                                    location_RENNES    0.000000
+20                                    location_RUNGIS    0.000000
+21                            French_Raw_Double slips    0.000000
+46      third_level_Sanitary fittings and accessories    0.000000"
 5,Pr_35_90_31_84,"              precision    recall  f1-score   support
 
-           0       0.80      1.00      0.89         4
-           1       1.00      0.86      0.92         7
+           0       1.00      0.75      0.86         4
+           1       0.88      1.00      0.93         7
 
     accuracy                           0.91        11
-   macro avg       0.90      0.93      0.91        11
-weighted avg       0.93      0.91      0.91        11
-","                                   Feature  Importance
-11       location_PARIS-13E-ARRONDISSEMENT    0.374045
-8                location_LEVALLOIS-PERRET    0.164395
-1                                      co2    0.124619
-20                 material_state_verygood    0.119999
-0                             price_latest    0.100833
-18                  material_state_correct    0.069164
-23                 BIM_class_C.20.10.01.2a    0.029011
-26                 BIM_class_C.20.10.90.2a    0.017933
-28                 BIM_class_C.20.10.90.2c    0.000000
-27                 BIM_class_C.20.10.90.2b    0.000000
-29                 BIM_class_C.20.10.90.2e    0.000000
-19                  material_state_damaged    0.000000
-25                 BIM_class_C.20.10.01.2d    0.000000
-30                 BIM_class_C.20.10.90.3a    0.000000
-24                 BIM_class_C.20.10.01.2c    0.000000
-22                  BIM_class_C.20.10.01.1    0.000000
-21                  BIM_class_B.20.20.06.g    0.000000
-31                 BIM_class_C.20.10.90.4b    0.000000
-32             material_type_reconditioned    0.000000
-17                  French_Raw_Stair trims    0.000000
-16                     location_SAINT-OUEN    0.000000
-15                  location_SAINT-ETIENNE    0.000000
-14        location_PARIS-8E-ARRONDISSEMENT    0.000000
-13       location_PARIS-1ER-ARRONDISSEMENT    0.000000
-12       location_PARIS-15E-ARRONDISSEMENT    0.000000
-10  location_MARSEILLE--2E--ARRONDISSEMENT    0.000000
-9        location_LYON--6E--ARRONDISSEMENT    0.000000
-7                    location_LA MADELEINE    0.000000
-6                         location_EPERNAY    0.000000
-5                  location_CHEVILLY-LARUE    0.000000
-4                       location_CHATILLON    0.000000
-3                     location_CHATEAUROUX    0.000000
-2                      location_ARGENTEUIL    0.000000
-33                      material_type_used    0.000000"
+   macro avg       0.94      0.88      0.90        11
+weighted avg       0.92      0.91      0.91        11
+","                                       Feature  Importance
+11           location_PARIS-13E-ARRONDISSEMENT    0.545728
+36                       third_level_Handrails    0.120074
+0                                 price_latest    0.094510
+20                     material_state_verygood    0.081896
+1                                          co2    0.066047
+18                      material_state_correct    0.037062
+26                     BIM_class_C.20.10.90.2a    0.030128
+23                     BIM_class_C.20.10.01.2a    0.024556
+34  second_level_Stairs, Ramps, Lift, Hardware    0.000000
+22                      BIM_class_C.20.10.01.1    0.000000
+24                     BIM_class_C.20.10.01.2c    0.000000
+25                     BIM_class_C.20.10.01.2d    0.000000
+27                     BIM_class_C.20.10.90.2b    0.000000
+33                          material_type_used    0.000000
+35                     third_level_Furnishings    0.000000
+21                      BIM_class_B.20.20.06.g    0.000000
+29                     BIM_class_C.20.10.90.2e    0.000000
+30                     BIM_class_C.20.10.90.3a    0.000000
+31                     BIM_class_C.20.10.90.4b    0.000000
+32                 material_type_reconditioned    0.000000
+28                     BIM_class_C.20.10.90.2c    0.000000
+19                      material_state_damaged    0.000000
+17                      French_Raw_Stair trims    0.000000
+16                         location_SAINT-OUEN    0.000000
+15                      location_SAINT-ETIENNE    0.000000
+14            location_PARIS-8E-ARRONDISSEMENT    0.000000
+13           location_PARIS-1ER-ARRONDISSEMENT    0.000000
+12           location_PARIS-15E-ARRONDISSEMENT    0.000000
+10      location_MARSEILLE--2E--ARRONDISSEMENT    0.000000
+9            location_LYON--6E--ARRONDISSEMENT    0.000000
+8                    location_LEVALLOIS-PERRET    0.000000
+7                        location_LA MADELEINE    0.000000
+6                             location_EPERNAY    0.000000
+5                      location_CHEVILLY-LARUE    0.000000
+4                           location_CHATILLON    0.000000
+3                         location_CHATEAUROUX    0.000000
+2                          location_ARGENTEUIL    0.000000
+37                    third_level_Safety cages    0.000000"
 6,Pr_70_70_48_62,"              precision    recall  f1-score   support
 
            0       0.82      0.75      0.78        12
@@ -282,16 +252,16 @@ weighted avg       0.93      0.91      0.91        11
    macro avg       0.84      0.83      0.84        34
 weighted avg       0.85      0.85      0.85        34
 ","                              Feature  Importance
-25  location_PARIS-13E-ARRONDISSEMENT    0.211340
-14              location_LA MADELEINE    0.201023
-5                   location_BRIANCON    0.147278
-42             material_state_damaged    0.146455
-70             BIM_class_D.50.20.02.6    0.096300
+25  location_PARIS-13E-ARRONDISSEMENT    0.197030
+14              location_LA MADELEINE    0.191019
+5                   location_BRIANCON    0.144642
+42             material_state_damaged    0.112434
+1                                 co2    0.042626
 ..                                ...         ...
-34                    location_RENNES    0.000000
-35                    location_RUNGIS    0.000000
-36             location_SAINT-ETIENNE    0.000000
-37                location_SAINT-OUEN    0.000000
-75                 material_type_used    0.000000
+28  location_PARIS-16E-ARRONDISSEMENT    0.000000
+27  location_PARIS-15E-ARRONDISSEMENT    0.000000
+26  location_PARIS-14E-ARRONDISSEMENT    0.000000
+24  location_PARIS-12E-ARRONDISSEMENT    0.000000
+87          third_level_Trim products    0.000000
 
-[76 rows x 2 columns]"
+[88 rows x 2 columns]"
