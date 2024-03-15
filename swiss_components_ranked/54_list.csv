@@ -1,0 +1,54 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+1017,1861,1861,Kleine runde Lampe * kein Platz,mixed,"['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Alle unsere Artikel finden Sie bei einem Besuch in unserem Laden an der Regina-Kägi-Strasse 11 in Oerlikon.
+
+Wir freuen uns auf Sie.",,,,,,,,,2022-08-09,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,271.0,"Zürich, 8050",,useagain,77797,CH,de,1242.1_570x570.jpg,https://www.useagain.ch/de/kleine-runde-lampe-kein-platz-77797,D01,lamp,,,,"{'score': 1.3224437680037227e-05, 'start': 71, 'end': 107, 'answer': ' Regina-Kägi-Strasse 11 in Oerlikon.'}","{'score': 1.161134150606813e-06, 'start': 71, 'end': 107, 'answer': ' Regina-Kägi-Strasse 11 in Oerlikon.'}","{'score': 9.740414679981768e-05, 'start': 0, 'end': 19, 'answer': 'Alle unsere Artikel'}",Sitka spruce,Special lamps,Pr_70_70_46_80,Furnishings,Furnishings,"Lighting columns, brackets and bollards"
+1908,2759,2759,Unterbauleuchte ohne Leuchtstoffröhre,"used, cleaned & tested","['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Material: gemischt
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111205",Mixed,,,,,,mixed,,2022-10-24,5.0,,,1970-01-01,2.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91158,CH,de,gf_570x570.jpg,https://www.useagain.ch/de/unterbauleuchte-ohne-leuchtstoffroehre-91158,D01,fluorescent tube,,,,"{'score': 0.9868579506874084, 'start': 83, 'end': 92, 'answer': ' gemischt'}","{'score': 2.810933074215427e-05, 'start': 83, 'end': 92, 'answer': ' gemischt'}","{'score': 0.007283161394298077, 'start': 83, 'end': 92, 'answer': ' gemischt'}",Non-reflective glass,Special lamps,Pr_70_70_46_80,Other,"Floors, Ceiling",Power and lighting outlet products
+2021,2874,2874,Vintage Pendel- Industrielampe Disano Lamp-V s,used,,,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Breite Fassung: 23.5 cm 
+Höhe Fassung: 15.5 cm 
+Designer: Unbekannt
+Hersteller: Disano
+Modell: Lamp-V0013 1990s
+Zustand: Gut. Leichte Beschädigung an vereinzelten Lampen (siehe Bild)
+Zeitraum: 1970s
+Herkunftsland: Italien
+Farbe: Silber
+Hauptwerkstoff: Aluminium
+Andere Hauptwerkstoffe: Glas
+
+Glühlampe: 
+Umfang Fassung: 15 cm 
+Umfang Glaskolben: 15 cm
+
+PHILIPS 
+BELIGIUM 2M
+MASTER HPI-T PLUS 
+400 W",,,,,,,,,2022-11-30,99.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,-99.0,1.0,7.0,"Bern, 3014",,useagain,91401,CH,de,lampe1_%281%29_570x570.jpg,https://www.useagain.ch/de/vintage-pendel-industrielampe-disano-lamp-v0013-1990s-91401,,lamp,,,,"{'score': 0.8625712990760803, 'start': 251, 'end': 261, 'answer': ' Aluminium'}","{'score': 0.29372715950012207, 'start': 15, 'end': 23, 'answer': ' 23.5 cm'}","{'score': 0.12511543929576874, 'start': 392, 'end': 398, 'answer': '\n400 W'}",Coloured glass,Special lamps,Pr_70_70_46_80,Other,Other,Power and lighting outlet products
+2115,2971,2971,Grosse runde Lampe,"used, cleaned & tested","['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,Produkte-Nr. 1241,Mixed,10.0,,,36,,,,2022-08-09,25.0,,,1970-01-01,25.0,1970-01-01 00:00:00.000,0.0,1.0,155.0,"Zürich, 8050",,useagain,77798,CH,de,1241.1_570x570.jpg,https://www.useagain.ch/de/grosse-runde-lampe-77798,D01,lamp,,,,"{'score': 0.0014774935552850366, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 1241'}","{'score': 9.091169340535998e-05, 'start': 12, 'end': 17, 'answer': ' 1241'}","{'score': 0.2813987731933594, 'start': 12, 'end': 17, 'answer': ' 1241'}",Figured glass,Special lamps,Pr_70_70_46_80,Furnishings,Furnishings,"Lighting columns, brackets and bollards"
+2117,2973,2973,Kleine runde Lampe,"used, cleaned & tested","['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,Produkte-Nr. 1243,Mixed,24.0,24.0,12,,,,,2022-12-09,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.000,0.0,1.0,155.0,"Zürich, 8050",,useagain,77799,CH,de,1243.1_570x570.jpg,https://www.useagain.ch/de/kleine-runde-lampe-77799,D01,lamp,,,,"{'score': 0.0012671767035499215, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 1243'}","{'score': 7.01002063578926e-05, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 1243'}","{'score': 0.23069432377815247, 'start': 12, 'end': 17, 'answer': ' 1243'}",Sitka spruce,Special lamps,Pr_70_70_46_80,Furnishings,Furnishings,"Lighting columns, brackets and bollards"
+2122,2978,2978,Kleine runde Lampe,"used, cleaned & tested","['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,Produkte-Nr. 1242,Mixed,26.0,26.0,11,,,,,2022-08-09,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,155.0,"Zürich, 8050",,useagain,77797,CH,de,1242.1_570x570.jpg,https://www.useagain.ch/de/kleine-runde-lampe-77797,D01,lamp,,,,"{'score': 0.001998320920392871, 'start': 12, 'end': 17, 'answer': ' 1242'}","{'score': 0.00012569855607580394, 'start': 12, 'end': 17, 'answer': ' 1242'}","{'score': 0.29580986499786377, 'start': 12, 'end': 17, 'answer': ' 1242'}",Sitka spruce,Special lamps,Pr_70_70_46_80,Furnishings,Furnishings,"Lighting columns, brackets and bollards"
+2223,3081,3081,Quadratische Lampe,"used, cleaned & tested","['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,Produkte-Nr. 1245,Mixed,21.0,21.0,"11,5",,,,,2023-01-13,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,113.0,"Zürich, 8050",,useagain,77801,CH,de,1245.1_570x570.jpg,https://www.useagain.ch/de/quadratische-lampe-7-77801,D01,lamp,,,,"{'score': 0.0013391037937253714, 'start': 12, 'end': 17, 'answer': ' 1245'}","{'score': 0.00012867923942394555, 'start': 12, 'end': 17, 'answer': ' 1245'}","{'score': 0.3766614496707916, 'start': 12, 'end': 17, 'answer': ' 1245'}",Reflective glass,Special lamps,Pr_70_70_46_80,Other,Other,"Lighting columns, brackets and bollards"
+3068,4269,4269,Empfangstheke mit integrierter Beleuchtung / Material,used & cleaned,"['G05.01', 'J01.01', 'J01.02']",Furniture,,Ausbau,Möbel & Einrichtungen,Möbel,"Die Empfangstheke aus dem erstklassigem Mineralwerkstoff HIMACS besticht durch ihre Einfachheit und Eleganz. Das Möbel war als Empfangstheke im Einsatz. Der Korpus hat ein integriertes indirektes Licht (Fussleiste) und zwei fix installierten Flos-Tischlampen ebenfalls in weiss. Die Schreibunterlage ist in schwarz.
+
+Vermassung:
+Tiefe Korpus: 100 cm
+Höhe Schreibfläche: ca 74 cm
+Tiefe Schreibfläche: ca. 80 cm
+
+Der Korpus muss in Schlieren abgeholt werden.",Mixed,430.0,,"110,5",,,white,,2023-04-05,500.0,,,1970-01-01,500.0,2023-09-25 00:00:00.000,0.0,1.0,33.0,"Schlieren, 8952",,useagain,92357,CH,de,empfangstheke_v_570x570.jpg,https://www.useagain.ch/de/empfangstheke-mit-integrierter-beleuchtung-material-himacs-92357,J01,lighting,,,,"{'score': 0.4117966890335083, 'start': 39, 'end': 63, 'answer': ' Mineralwerkstoff HIMACS'}","{'score': 0.10149352997541428, 'start': 328, 'end': 349, 'answer': '\nTiefe Korpus: 100 cm'}","{'score': 5.417984539235476e-06, 'start': 342, 'end': 349, 'answer': ' 100 cm'}",Reflective glass,Special lamps,Pr_70_70_46_80,Technical elements,Furnishings,Power and lighting outlet products
+3114,4316,4316,gut erhaltene Stehleuchte mit direkter u indirekter Beleuchtung,used,"['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"gut erhaltene Stehleuchte mit direkter u indirekter Beleuchtung, von RIBAG: Mod: uniQÂ  240.124.8 LS; 4 xÂ  14 /24 W FL ( Kann auch durch LED- Leuchtmittel ersetzt werden).
+vermutl.JG 2007
+
+
+intern: Nr: 2531 ;ID: 19185 ; HP: 92390",Mixed,45.0,64.0,192,,,gray,,2023-04-18,175.0,,,1970-01-01,175.0,2023-09-25 00:00:00.000,0.0,1.0,15.0,,,useagain,92390,CH,de,20221020_101823-kopie_570x570.jpg,https://www.useagain.ch/de/gut-erhaltene-stehleuchte-mit-direkter-u-indirekter-beleuchtung-92390,D01,lighting,,,,"{'score': 0.0010867950040847063, 'start': 80, 'end': 101, 'answer': ' uniQÂ\xa0 240.124.8 LS;'}","{'score': 0.5618590712547302, 'start': 101, 'end': 119, 'answer': ' 4 xÂ\xa0 14 /24 W FL'}","{'score': 0.4836450517177582, 'start': 101, 'end': 119, 'answer': ' 4 xÂ\xa0 14 /24 W FL'}",Reflective glass,Special lamps,Pr_70_70_46_80,Furnishings,Furnishings,Power and lighting outlet products
+3926,5330,5331,"Wärmelampe für Neugeborene , von Firma :",used,"['D01.06', 'D01.11']",Electrical installations,Electricités et luminaires,Gebäudetechnik & Sanitär,Elektro & Leuchten,Elektrogerät,"Wärmelampe für Neugeborene, von Firma: AMEDA ZUG; TYP: MNC; Wandmontage schwenkbar. 700 W;
+-&gt; ideal für Geburtshaus oder Neonatologie
+
+ev zusammen mit Windel Wäreschrank - &gt; s Letztes foto bzw Sep Angebot
+
+intern: 25.. ;  ID: 19561 ; HP: 93034",Metall,,,,,,blue,,2023-07-28,,,,,175.0,2023-09-25 00:00:00.000,,0.0,,,,useagain,93034,CH,de,20220829_153749_%281%29_570x570.jpg,https://www.useagain.ch/de/waermelampe-fuer-neugeborene-von-firma-ameda-zug-93034,D01,lamp,175.0,,,"{'score': 2.699740434763953e-06, 'start': 54, 'end': 83, 'answer': ' MNC; Wandmontage schwenkbar.'}","{'score': 0.0005397156928665936, 'start': 59, 'end': 71, 'answer': ' Wandmontage'}","{'score': 0.23048466444015503, 'start': 83, 'end': 90, 'answer': ' 700 W;'}",Sitka spruce,Special lamps,Pr_70_70_46_80,Furnishings,Furnishings,Power and lighting outlet products

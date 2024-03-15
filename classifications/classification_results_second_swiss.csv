@@ -1,0 +1,155 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.99      0.98      0.99       116
+           1       0.99      1.00      1.00       328
+
+    accuracy                           0.99       444
+   macro avg       0.99      0.99      0.99       444
+weighted avg       0.99      0.99      0.99       444
+","                                      Feature  Importance
+216                       Condition_neuwertig    0.230597
+6                                  FirstPrice    0.196945
+212  Condition_gebraucht, gereinigt & geprüft    0.144871
+210                       Condition_gebraucht    0.132714
+211           Condition_gebraucht & gereinigt    0.123871
+..                                        ...         ...
+115                        Swiss_Raw_Lacquers    0.000000
+114                  Swiss_Raw_Lacquer resins    0.000000
+113                Swiss_Raw_LED light panels    0.000000
+112               Swiss_Raw_Kitchenette units    0.000000
+334                        second_level_Other    0.000000
+
+[335 rows x 2 columns]"
+1,"Blocks, Panels, Fences, Bricks","              precision    recall  f1-score   support
+
+           0       1.00      0.85      0.92        20
+           1       0.97      1.00      0.98        91
+
+    accuracy                           0.97       111
+   macro avg       0.98      0.93      0.95       111
+weighted avg       0.97      0.97      0.97       111
+","                                               Feature  Importance
+161                    Condition_gebraucht & gereinigt    0.308062
+160                                Condition_gebraucht    0.246409
+6                                           FirstPrice    0.134791
+4                                               Weight    0.095357
+184                          Subcategory_Einrichtungen    0.055143
+..                                                 ...         ...
+98                   Swiss_Raw_Plastics windsock masts    0.000000
+99   Swiss_Raw_Polyvinyl chloride (PVC) cove skirtings    0.000000
+100                          Swiss_Raw_Porcelain tiles    0.000000
+101                               Swiss_Raw_Post boxes    0.000000
+264        second_level_Blocks, Panels, Fences, Bricks    0.000000
+
+[265 rows x 2 columns]"
+2,Furnishings,"              precision    recall  f1-score   support
+
+           0       1.00      0.93      0.96        14
+           1       0.98      1.00      0.99        44
+
+    accuracy                           0.98        58
+   macro avg       0.99      0.96      0.98        58
+weighted avg       0.98      0.98      0.98        58
+","                                 Feature  Importance
+111      Condition_gebraucht & gereinigt    0.471116
+54           Swiss_Raw_Kitchenette units    0.094062
+6                             FirstPrice    0.084509
+30                   Swiss_Raw_Cupboards    0.078295
+14                    Category_Sonstiges    0.062184
+..                                   ...         ...
+65   Swiss_Raw_Modular bearer tie plates    0.000000
+66                      Swiss_Raw_Murals    0.000000
+67           Swiss_Raw_Occasional tables    0.000000
+68                Swiss_Raw_Office desks    0.000000
+175             second_level_Furnishings    0.000000
+
+[176 rows x 2 columns]"
+3,"Floors, Ceiling","              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.97      1.00      0.99        35
+
+    accuracy                           0.98        47
+   macro avg       0.99      0.96      0.97        47
+weighted avg       0.98      0.98      0.98        47
+","                                  Feature  Importance
+90                    Condition_gebraucht    0.625267
+6                              FirstPrice    0.120997
+96                         Condition_used    0.076584
+97               Condition_used & cleaned    0.041972
+8                                Quantity    0.028967
+..                                    ...         ...
+54        Swiss_Raw_Plastics window films    0.000000
+55                    Swiss_Raw_Radiators    0.000000
+56   Swiss_Raw_Roofing and cladding units    0.000000
+57        Swiss_Raw_Roofing corner plates    0.000000
+150          second_level_Floors, Ceiling    0.000000
+
+[151 rows x 2 columns]"
+4,"Door, Windows, Gates","              precision    recall  f1-score   support
+
+           0       1.00      0.92      0.96        12
+           1       0.98      1.00      0.99        60
+
+    accuracy                           0.99        72
+   macro avg       0.99      0.96      0.97        72
+weighted avg       0.99      0.99      0.99        72
+","                               Feature  Importance
+6                           FirstPrice    0.498819
+8                             Quantity    0.136124
+88    Condition_used, cleaned & tested    0.111244
+87            Condition_used & cleaned    0.063411
+100             Subcategory_Innentüren    0.038232
+..                                 ...         ...
+42        Swiss_Raw_Garden furnishings    0.000000
+41     Swiss_Raw_Garage door operators    0.000000
+40       Swiss_Raw_Garage door holders    0.000000
+39           Swiss_Raw_Fridge-freezers    0.000000
+130  second_level_Door, Windows, Gates    0.000000
+
+[131 rows x 2 columns]"
+5,"Covering, Finish","              precision    recall  f1-score   support
+
+           0       0.96      0.92      0.94        25
+           1       0.97      0.99      0.98        72
+
+    accuracy                           0.97        97
+   macro avg       0.97      0.95      0.96        97
+weighted avg       0.97      0.97      0.97        97
+","                                      Feature  Importance
+85            Condition_gebraucht & gereinigt    0.265317
+86   Condition_gebraucht, gereinigt & geprüft    0.184172
+84                        Condition_gebraucht    0.177885
+4                                      Weight    0.074120
+88                         Condition_like new    0.053322
+..                                        ...         ...
+70                   Swiss_Raw_Stage curtains    0.000000
+71                   Swiss_Raw_Stilling tubes    0.000000
+72             Swiss_Raw_Suspended luminaires    0.000000
+73                           Swiss_Raw_Towels    0.000000
+170             second_level_Covering, Finish    0.000000
+
+[171 rows x 2 columns]"
+6,"Stairs, Ramps, Lift, Hardware","              precision    recall  f1-score   support
+
+           0       0.71      1.00      0.83         5
+           1       1.00      0.88      0.93        16
+
+    accuracy                           0.90        21
+   macro avg       0.86      0.94      0.88        21
+weighted avg       0.93      0.90      0.91        21
+","                                        Feature  Importance
+6                                    FirstPrice    0.525878
+72                     Condition_used & cleaned    0.196745
+94                 Subcategory_Treppen & Rampen    0.129531
+1                                         Width    0.077951
+0                                        Length    0.041724
+..                                          ...         ...
+37          Swiss_Raw_Gas free-standing cookers    0.000000
+36              Swiss_Raw_Garage door operators    0.000000
+35                         Swiss_Raw_Footstools    0.000000
+34           Swiss_Raw_Flexible stair coverings    0.000000
+119  second_level_Stairs, Ramps, Lift, Hardware    0.000000
+
+[120 rows x 2 columns]"

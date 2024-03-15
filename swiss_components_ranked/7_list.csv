@@ -1,0 +1,599 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+0,758,758,Fenster -fache Festverglasung,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Holz-Doppelfenster / 3-fache Festverglasung / braun
+
+Rahmenmitte aufgrund Montage  hinter Altholzpfosten aussen angebohrt.",Glass,,,,,,,,,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,,,useagain,77838,CH,de,,https://www.useagain.ch/de/fenster-3-fache-festverglasung-77838,,window,,,,"{'score': 0.8726319074630737, 'start': 0, 'end': 18, 'answer': 'Holz-Doppelfenster'}","{'score': 0.0001372178376186639, 'start': 0, 'end': 18, 'answer': 'Holz-Doppelfenster'}","{'score': 7.992181781446561e-05, 'start': 0, 'end': 28, 'answer': 'Holz-Doppelfenster / 3-fache'}",Insulating glass,Window walls,Pr_30_59_99,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels
+6,764,764,-Flügel Fenster,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Material: Kunststoff
+Farbe: Weiss
+Funktion: 1-Seite Kippfenster 
+Art: Doppelverglasung
+Fenster mit Rahmen
+inkl. Fenstergriff",Glass,,,,,,,,2022-06-03,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,78113,CH,de,,https://www.useagain.ch/de/2-fluegel-fenster-78113,,double leaf window,,,,"{'score': 0.9961680173873901, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.00023672808310948312, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.00039096391992643476, 'start': 45, 'end': 53, 'answer': ' 1-Seite'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+33,792,792,Fenster -flügelig,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Einflügeliges Fenster
+Rahmen: Holz
+Farbe: innen weiss, aussen graus
+Doppelverglast
+Linksbandig
+Dreh- und Kippbar
+
+Rahmenmass: B 114 cm / H 141,6 cm
+
+Lichtmass: B 99 cm / H 124,5 cm",Glass,,,,,,,,,220.0,,,1970-01-01,220.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,79671,CH,de,,https://www.useagain.ch/de/fenster-1-fluegelig-79671,,single leaf window,,,,"{'score': 0.6984959244728088, 'start': 30, 'end': 35, 'answer': ' Holz'}","{'score': 0.46809688210487366, 'start': 132, 'end': 154, 'answer': ' B 114 cm / H 141,6 cm'}","{'score': 0.0013624868588522077, 'start': 119, 'end': 132, 'answer': '\r\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+56,815,815,-Flügel Fenster,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Material: Kunststoff
+Farbe: Weiss
+Art: Doppelverglasung
+Fenster mit Rahmen
+Tiefe: 8.5 cm",Glass,,,,,,,,2022-06-13,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,79568,CH,de,,https://www.useagain.ch/de/2-fluegel-fenster-79568,,double leaf window,,,,"{'score': 0.995292603969574, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.31878530979156494, 'start': 77, 'end': 92, 'answer': '\r\nTiefe: 8.5 cm'}","{'score': 6.523957563331351e-05, 'start': 77, 'end': 92, 'answer': '\r\nTiefe: 8.5 cm'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+103,866,866,Glasfenster aus Innentür,,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"2 Glasfenster ausgebaut aus Salon-Innentüren. Beige-braun gefärbte Glaselemente, verbunden.",Glass,,,,,,,,2022-08-15,25.0,,,1970-01-01,25.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Olten, 4600",,useagain,90334,CH,de,img_3943_570x570.jpg,https://www.useagain.ch/de/glasfenster-aus-innentuer-90334,G01.05,interior doors,,,,"{'score': 0.02939167618751526, 'start': 45, 'end': 57, 'answer': ' Beige-braun'}","{'score': 0.0006724207196384668, 'start': 0, 'end': 13, 'answer': '2 Glasfenster'}","{'score': 0.024327732622623444, 'start': 0, 'end': 13, 'answer': '2 Glasfenster'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+393,1202,1202,Balkontüre -Flügelig,used & cleaned,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Artikelnr: 90017
+
+Hersteller: EgoKiefer
+Rahmenprofil: Kunststoff
+Farbe: weiss
+Verglasung: 2-fach
+Anschlag: Drehbar
+Montagelöcher und Wetterschenkel vorhanden
+
+Rahmenmass: B 102.2cm x H 215.5cm x T/D 7.5cm
+Lichtmass: B 87cm x H 198cm",,,,,,,,,2022-05-30,299.0,,,1970-01-01,299.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,90017,CH,de,,https://www.useagain.ch/de/balkontuere-1-fluegelig-90017,,single leaf glass door,,,,"{'score': 0.9550107717514038, 'start': 56, 'end': 67, 'answer': ' Kunststoff'}","{'score': 0.04025094583630562, 'start': 179, 'end': 201, 'answer': ' B 102.2cm x H 215.5cm'}","{'score': 0.00022736044775228947, 'start': 166, 'end': 179, 'answer': '\r\nRahmenmass:'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+398,1207,1207,-Flügel Fenster,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Material: Kunststoff
+Farbe: Weiss
+Art: Doppelverglasung
+Fenster mit Rahmen
+Ohne Fenstergriff
+Tiefe: 5.5 cm",Glass,,,,,,,,2022-06-21,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,82773,CH,de,,https://www.useagain.ch/de/2-fluegel-fenster-82773,,double leaf window,,,,"{'score': 0.9952530860900879, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.19624760746955872, 'start': 96, 'end': 111, 'answer': '\r\nTiefe: 5.5 cm'}","{'score': 0.00012047449126839638, 'start': 104, 'end': 111, 'answer': ' 5.5 cm'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+399,1208,1208,-Flügel Fenster,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Material: Holz
+Farbe: Weiss
+Art: Doppelverglasung
+Fenster mit Rahmen
+inkl. Fenstergriff
+Tiefe: 8 cm",Glass,,,,,,,,2022-06-21,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,82743,CH,de,,https://www.useagain.ch/de/1-fluegel-fenster-82743,,single leaf window,,,,"{'score': 0.9948114156723022, 'start': 9, 'end': 14, 'answer': ' Holz'}","{'score': 0.4094543755054474, 'start': 91, 'end': 104, 'answer': '\r\nTiefe: 8 cm'}","{'score': 1.884618541225791e-05, 'start': 91, 'end': 104, 'answer': '\r\nTiefe: 8 cm'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+400,1209,1209,-Flügel Fenster,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Material: Kunststoff
+Farbe: Weiss
+Funktion: 1-Seite Kippfenster 
+Art: Doppelverglasung
+Fenster mit Rahmen
+Ohne Fenstergriff
+Tiefe: 5.5 cm
+
+Alle angegebenen Masse sind ca. Masse. Gerne können Sie die Artikel persönlich vor Ort in unserem Laden besichtigen.",Glass,,,,,,,,2022-06-21,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,82733,CH,de,,https://www.useagain.ch/de/2-fluegel-fenster-82733,,double leaf window,,,,"{'score': 0.9949512481689453, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.12511152029037476, 'start': 174, 'end': 185, 'answer': ' ca. Masse.'}","{'score': 0.20247334241867065, 'start': 174, 'end': 185, 'answer': ' ca. Masse.'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+401,1210,1210,Fenster -Flügelig ohne Stulp,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Hersteller: EgoKiefer
+Rahmenprofil: Kunststoff
+Verglasung: 3-fach
+Anschlag: Dreh-kipp-rechts
+Rahmenverbreiterung: oben
+Linkeseite: Montageloch für Kurbelstange
+Wetterschenkel vorhanden
+Fenster wurde mit Rahmenverbreiterung gemessen!
+
+Detailmasse:
+
+Rahmenmass: B 164.5cm x H 130.5cm x T/D 7cm
+Lichtmass: B 146cm x H 112.5cm
+Rahmenverbreiterung: B 164.5cm x H 15cm x T/D 7cm",Glass,,,,,,,,,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,82682,CH,de,,https://www.useagain.ch/de/fenster-2-fluegelig-ohne-stulp-82682,,double leaf window,,,,"{'score': 0.8679637312889099, 'start': 36, 'end': 47, 'answer': ' Kunststoff'}","{'score': 0.020338911563158035, 'start': 257, 'end': 292, 'answer': '\r\nRahmenmass: B 164.5cm x H 130.5cm'}","{'score': 0.0001109246295527555, 'start': 257, 'end': 270, 'answer': '\r\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+423,1232,1232,Fenster -flügelig mit Sprossen,used,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Rahmenprofil: Holz
+2-flügelig
+Beide Flügel nur drehbar
+Mit Sprossen innseitig horizontal
+Verglasung: 2-fach
+Farbe Sprossen und Rückseite: braun
+Mit Wetterschenkel
+Gebrauchsspuren
+Lichtmass: B 88 cm / H 122,5 cm",,,,,,,,,2022-07-21,140.0,,,1970-01-01,140.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,90220,CH,de,,https://www.useagain.ch/de/fenster-2-fluegelig-mit-sprossen-90220,,double leaf window,,,,"{'score': 0.2965584993362427, 'start': 13, 'end': 18, 'answer': ' Holz'}","{'score': 0.5064890384674072, 'start': 197, 'end': 218, 'answer': ' B 88 cm / H 122,5 cm'}","{'score': 0.00013231260527390987, 'start': 18, 'end': 30, 'answer': '\r\n2-flügelig'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+425,1234,1234,Fenster -flügelig,used & cleaned,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"2-flügeliges Fenster ohne Stulp und ohne Fenstergriff
+
+Rahmenprofil: Kunsstoff
+2-fach Verglasung
+Rechter Fensterflügel mit Dreh-Kipp Funktion
+Ohne Fenstergriff
+Montagelöcher
+Rahmenmass: B 113,8 cm / H 92,6 cm / D 5,8 cm
+Lichtmass: B 97 cm / H 72 cm",,,,,,,,,2022-06-03,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,90027,CH,de,,https://www.useagain.ch/de/fenster-2-fluegelig-90027,,double leaf window,,,,"{'score': 0.8806713223457336, 'start': 70, 'end': 80, 'answer': ' Kunsstoff'}","{'score': 0.2673984169960022, 'start': 192, 'end': 226, 'answer': ' B 113,8 cm / H 92,6 cm / D 5,8 cm'}","{'score': 0.0020170968491584063, 'start': 179, 'end': 192, 'answer': '\r\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+426,1235,1235,Fenster -flügelig,used,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Artikelnummer: 90021
+
+2-flügeliges Fenster ohne Stulp
+Rahmenprofil: Kunsstoff
+2-fach Verglasung
+Beide Fensterflügel nur drehbar
+Zustand: Kleiner Teil vom Rahmen abgebrochen (siehe Bilder)
+Rahmenmass: B 115 cm / H 84,5 cm / D 5,8 cm
+Lichtmass: B 97,5 cm / H 62 cm",,,,,,,,,2022-06-01,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,90021,CH,de,,https://www.useagain.ch/de/fenster-2-fluegelig-90021,,double leaf window,,,,"{'score': 0.8709359765052795, 'start': 70, 'end': 80, 'answer': ' Kunsstoff'}","{'score': 0.33822330832481384, 'start': 206, 'end': 238, 'answer': ' B 115 cm / H 84,5 cm / D 5,8 cm'}","{'score': 0.0005222464096732438, 'start': 14, 'end': 20, 'answer': ' 90021'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+525,1342,1342,Fenster -flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Hersteller: Ego Kiefer
+Rahmen: Kunststoff
+Verglasung: 3-fach
+2 Flügel
+Rechter Flügel dreh- und kippbar
+Linker Flügel drehbar
+Lichtmass: B 107 cm / H 112,3 cm
+Mit Wetterschenkel
+Gebrauchsspuren: Montagelöcher",Glass,7.0,125.0,"129,4",,,,,2023-02-02,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Brügg, 2555",,useagain,82684,CH,de,1_%2848%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-82684,E03.01,double leaf window,,,,"{'score': 0.6797469854354858, 'start': 30, 'end': 41, 'answer': ' Kunststoff'}","{'score': 0.5528376698493958, 'start': 135, 'end': 157, 'answer': ' B 107 cm / H 112,3 cm'}","{'score': 0.0003933371335733682, 'start': 53, 'end': 69, 'answer': ' 3-fach\n2 Flügel'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+534,1351,1351,Fenster -Flügelig mit Stulp,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Hersteller: Swiss Windows
+Rahmenprofil: Kunststoff
+Baujahr: 2009
+Farbe: weiss
+Anschlag: Dreh-Kipp-rechts
+Ausführung: mit Stulp
+Verglasung: 2-Fach
+Inkl. Wetterschenkel
+ohne Drückergarnitur
+Das Fenster wurde nie verbaut
+
+Rahmenmass: B 117cm x H 168cm x T/D 6.5cm
+Lichtmass: B 102cm x H 151.5cm",Glass,6.0,117.0,168,,,,,2023-02-02,180.0,,,1970-01-01,180.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,81584,CH,de,hintergrund-horizontal-neu.1_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-mit-stulp-81584,E03.01,double leaf window,,,,"{'score': 0.9445675611495972, 'start': 39, 'end': 50, 'answer': ' Kunststoff'}","{'score': 0.6079442501068115, 'start': 230, 'end': 260, 'answer': ' B 117cm x H 168cm x T/D 6.5cm'}","{'score': 0.00022993296443019062, 'start': 145, 'end': 187, 'answer': '\nInkl. Wetterschenkel\nohne Drückergarnitur'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+547,1364,1364,Fenster -flügelig,like new,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Hersteller: Profine Germany
+Rahmen: Kunststoff
+Verglasung: 3-fach, mit Sichtschutz
+Öffnung: Dreh- und kippbar, Anschlag rechts
+Lichtmass: B 94 cm / H 116,4 cm",Glass,7.0,108.0,"133,8",,,,,2023-02-02,240.0,,,1970-01-01,240.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,81829,CH,de,1_570x570.png,https://www.useagain.ch/de/fenster-1-fluegelig-81829,E03.01,single leaf window,,,,"{'score': 0.8837281465530396, 'start': 35, 'end': 46, 'answer': ' Kunststoff'}","{'score': 0.7291319370269775, 'start': 137, 'end': 158, 'answer': ' B 94 cm / H 116,4 cm'}","{'score': 0.0002906707231886685, 'start': 126, 'end': 137, 'answer': '\nLichtmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+584,1401,1401,-Flügel Fenster,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Material: Holz
+Farbe: Weiss und Braun
+Funktion: 1-Seite Kippfenster 
+Art: Doppelverglasung
+Fenster mit Rahmen
+Tiefe: 7.5 cm",Glass,,166.0,"149,5",,,,,2022-06-21,400.0,,,1970-01-01,350.0,1970-01-01 00:00:00.000,-50.0,1.0,265.0,"Zug, 6300",,useagain,83129,CH,de,sam_9052_570x570.jpg,https://www.useagain.ch/de/2-fluegel-fenster-83129,E03.01,double leaf window,,,,"{'score': 0.9920110106468201, 'start': 9, 'end': 14, 'answer': ' Holz'}","{'score': 0.07897412776947021, 'start': 109, 'end': 123, 'answer': '\nTiefe: 7.5 cm'}","{'score': 1.0849389582290314e-05, 'start': 109, 'end': 123, 'answer': '\nTiefe: 7.5 cm'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+605,1423,1423,-Flügel Fenster,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Material: Kunststoff
+Farbe: Weiss
+Funktion: 1-Seite Kippfenster 
+Art: Doppelverglasung
+Fenster mit Rahmen
+Ohne Fenstergriff
+Tiefe: 5.5 cm",Glass,,119.0,128,,,,,2022-06-21,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Zug, 6300",,useagain,82771,CH,de,sam_8839_570x570.jpg,https://www.useagain.ch/de/2-fluegel-fenster-82771,E03.01,double leaf window,,,,"{'score': 0.9959271550178528, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.11079766601324081, 'start': 123, 'end': 137, 'answer': '\nTiefe: 5.5 cm'}","{'score': 3.400010245968588e-05, 'start': 130, 'end': 137, 'answer': ' 5.5 cm'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+634,1453,1453,-Flügel Fenster,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Material: Kunststoff
+Farbe: Weiss
+Art: Doppelverglasung
+Fenster mit Rahmen
+Ohne Fenstergriff
+Tiefe: 5.5 cm",Glass,,96.0,"140,4",,,,,2022-06-21,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Zug, 6300",,useagain,82772,CH,de,sam_8854_%282%29_570x570.jpg,https://www.useagain.ch/de/2-fluegel-fenster-82772,E03.01,double leaf window,,,,"{'score': 0.9952530860900879, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.19624760746955872, 'start': 92, 'end': 106, 'answer': '\nTiefe: 5.5 cm'}","{'score': 0.00012047449126839638, 'start': 99, 'end': 106, 'answer': ' 5.5 cm'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+641,1460,1460,Fenster Neu,like new,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Neue Fenster
+2x grosse: je 1000.-
+1x kleines: 900.-
+Wenn alles gekauft wird: 2400.-",Glass,,,,,,,,,2400.0,,,1970-01-01,2400.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Effretikon, 8307",,useagain,78891,CH,de,2c26b32c-108d-40ed-b888-743562b50919_570x570.jpeg,https://www.useagain.ch/de/fenster-neu-78891,E03.01,window,,,,"{'score': 0.0018422380089759827, 'start': 4, 'end': 12, 'answer': ' Fenster'}","{'score': 0.00024148519150912762, 'start': 12, 'end': 23, 'answer': '\n2x grosse:'}","{'score': 0.019509730860590935, 'start': 76, 'end': 83, 'answer': ' 2400.-'}",Silt,Window walls,Pr_30_59_99,Openings,"Door, Windows, Gates",Glass blocks and panels
+661,1481,1481,-Flügel Fenster,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Material: Kunststoff
+Farbe: Weiss
+Funktion: 1-Seite Kippfenster 
+Art: Doppelverglasung
+Fenster mit Rahmen
+Ohne Fenstergriff",Glass,,130.0,"132,3",,,,,2022-06-03,300.0,,,1970-01-01,300.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Zug, 6300",,useagain,78112,CH,de,sam_8839_%282%29_570x570.jpg,https://www.useagain.ch/de/2-fluegel-fenster-78112,E03.01,double leaf window,,,,"{'score': 0.9959145784378052, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.00011507538874866441, 'start': 9, 'end': 20, 'answer': ' Kunststoff'}","{'score': 0.00013676258095074445, 'start': 43, 'end': 51, 'answer': ' 1-Seite'}",Silt,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+679,1505,1505,"Grosses , gebrauchtes , Fenster",,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Dreifach verglastes Fenster, demontiert, innen weiss, aussen Metall grau Mase: 232 Breite, 209 Höhe",Metal,,,,,,,,,300.0,,,1970-01-01,300.0,1970-01-01 00:00:00.000,0.0,1.0,121.0,"Rifferswil, 8911",,useagain,82953,CH,de,0b982ee9-fd64-4dfb-8042-e748728262ca_570x570.jpeg,https://www.useagain.ch/de/grosses-gebrauchtes-fenster-82953,,window,,,,"{'score': 0.007253714837133884, 'start': 60, 'end': 72, 'answer': ' Metall grau'}","{'score': 0.7574549317359924, 'start': 78, 'end': 99, 'answer': ' 232 Breite, 209 Höhe'}","{'score': 0.01856650970876217, 'start': 78, 'end': 82, 'answer': ' 232'}",Architectural glass,Window walls,Pr_30_59_99,Furnishings,"Door, Windows, Gates",Glass blocks and panels
+685,1511,1511,Fenster mit Unterlicht,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Hersteller: EgoKiefer
+Rahmenprofil: Kunststoff
+1-flügelig, links gebandet
+dreh- und kippbar
+Klarglas, 3-fach verglast
+Unterlicht:
+Sichtschutzglas, 2-fach festverglast 
+ohne Wetterschenkel
+Rahmenmass (mit Rahmenverbreiterung oben): B 118 cm / H ca. 247 cm / D 7 cm
+Lichtmass: B 98 / H 112,7 cm",Glass,7.0,118.0,247,,,,,2023-02-02,200.0,,,1970-01-01,200.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,77340,CH,de,hintergrund-horizontal_%283%29_570x570.png,https://www.useagain.ch/de/fenster-mit-unterlicht-77340,E03.01,window,,,,"{'score': 0.7411355972290039, 'start': 35, 'end': 46, 'answer': ' Kunststoff'}","{'score': 0.6291321516036987, 'start': 230, 'end': 263, 'answer': ' B 118 cm / H ca. 247 cm / D 7 cm'}","{'score': 3.035650479432661e-05, 'start': 187, 'end': 198, 'answer': '\nRahmenmass'}",Prismatic glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+695,1523,1523,Fenster -flügelig,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Holzfenster 2-flügelig mit Sprossen
+
+Rahmenprofil: Holz
+Farbe: weiss
+Anschlag: Dreh-kipp-rechts
+Verglasung: 2-fach
+Sprossen: innenliegend/Horizontal
+Wetterschenkel vorhanden
+Zustand: kleinere Lackschäden",Glass,,,,,,,,,180.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,271.0,"Brügg, 2555",,useagain,82111,CH,de,1_%2880%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-82111,,double leaf window,,,,"{'score': 0.7353683114051819, 'start': 0, 'end': 11, 'answer': 'Holzfenster'}","{'score': 0.009011195972561836, 'start': 107, 'end': 148, 'answer': ' 2-fach\nSprossen: innenliegend/Horizontal'}","{'score': 0.01290893368422985, 'start': 107, 'end': 114, 'answer': ' 2-fach'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+698,1526,1526,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"2-flügeliges Fenster
+Rahmen: Holz
+Farbe: innen weiss, aussen grau
+Doppelverglasung
+linker FLügel drehbar, rechter Flügel dreh- und kippbar
+Mit Wetterschenkel
+
+Rahmenmass: B 104,5 cm / H 168,5 cm
+
+Lichtmass: B 88,3 cm / H 154,6 cm",Glass,6.0,104.0,"168,5",,,,,2022-09-05,220.0,,,1970-01-01,220.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,79674,CH,de,1_%2816%29_570x570.png,https://www.useagain.ch/de/fenster-2-fluegelig-79674,E03.01,double leaf window,,,,"{'score': 0.5497268438339233, 'start': 28, 'end': 33, 'answer': ' Holz'}","{'score': 0.27823328971862793, 'start': 170, 'end': 194, 'answer': ' B 104,5 cm / H 168,5 cm'}","{'score': 0.0011573260417208076, 'start': 158, 'end': 170, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+723,1551,1551,Fenster -Flügelig mit Stulp,like new,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Hersteller: Swiss Windows
+Rahmenprofil: Kunststoff
+Baujahr: 2009
+Farbe: weiss
+Anschlag: Dreh-Kipp-rechts
+Ausführung: mit Stulp
+Verglasung: 2-Fach
+ohne Drückergarnitur und Wetterschenkel
+Das Fenster wurde nie verbaut
+
+Rahmenmass: B 127cm x H 134.5cm x T/D 6cm
+Lichtmass: B 108cm x H 112.5cm",Glass,6.0,127.0,"134,5",,,,,2023-02-02,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Brügg, 2555",,useagain,81529,CH,de,hintergrund-horizontal-neu.2_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-mit-stulp-81529,E03.01,double leaf window,,,,"{'score': 0.9413353800773621, 'start': 39, 'end': 50, 'answer': ' Kunststoff'}","{'score': 0.04896807298064232, 'start': 230, 'end': 258, 'answer': ' 127cm x H 134.5cm x T/D 6cm'}","{'score': 0.00027692748699337244, 'start': 216, 'end': 228, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+751,1581,1581,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"1-flügeliges Fenster
+Rahmen: Holz
+Farbe: innen weiss, aussen grau
+Doppelverglasung mit Sprossen
+Rechtsbandig
+dreh- und kippbar
+Mit Wetterschenkel
+
+Rahmenmass: B 101,8 cm / H 169,3 cm
+
+Lichtmass: B 88 cm / H 155,2 cm",Glass,6.0,101.0,"169,3",,,,,2022-09-02,220.0,,,1970-01-01,220.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,79683,CH,de,1a_%281%29_570x570.png,https://www.useagain.ch/de/fenster-1-fluegelig-79683,E03.01,single leaf window,,,,"{'score': 0.3508686125278473, 'start': 28, 'end': 33, 'answer': ' Holz'}","{'score': 0.26997312903404236, 'start': 158, 'end': 182, 'answer': ' B 101,8 cm / H 169,3 cm'}","{'score': 0.003656750312075019, 'start': 146, 'end': 158, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+752,1582,1582,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"1-flügeliges Fenster
+Rahmen: Holz
+Farbe: innen weiss, aussen grau
+Doppelverglasung mit Sprossen
+Rechtsbandig
+dreh- und kippbar
+Mit Wetterschenkel
+
+Rahmenmass: B 101,3 cm / H 169 cm
+
+Lichtmass: B 88 cm / H 155,3 cm",Glass,6.0,101.0,169,,,,,2023-02-02,220.0,,,1970-01-01,220.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,79677,CH,de,1a_%282%29_570x570.png,https://www.useagain.ch/de/fenster-1-fluegelig-79677,E03.01,single leaf window,,,,"{'score': 0.3283306062221527, 'start': 28, 'end': 33, 'answer': ' Holz'}","{'score': 0.24366889894008636, 'start': 158, 'end': 180, 'answer': ' B 101,3 cm / H 169 cm'}","{'score': 0.0029288509394973516, 'start': 146, 'end': 158, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+811,1642,1642,Fenster mit Doppelverglasung,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Produkte-Nr. 2628
+Sprossenfenster mit Kippvorrichtung",Glass,6.0,93.0,125,,,,,2023-02-03,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,232.0,"Zürich, 8050",,useagain,82839,CH,de,2628_570x570.jpg,https://www.useagain.ch/de/fenster-mit-doppelverglasung-82839,E03.01,window,,,,"{'score': 0.6683202981948853, 'start': 17, 'end': 33, 'answer': '\nSprossenfenster'}","{'score': 0.011670260690152645, 'start': 17, 'end': 53, 'answer': '\nSprossenfenster mit Kippvorrichtung'}","{'score': 0.2853900194168091, 'start': 12, 'end': 17, 'answer': ' 2628'}",Prismatic glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+829,1661,1661,Fenster,used,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"PVC Fenster, baujahr 2007",Plastic,,120.0,150,,,white,,2022-06-25,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Fribourg, 1700",,useagain,90088,CH,de,20220621_135141_570x570.jpg,https://www.useagain.ch/de/pvc-fenster-90088,E03.01,window,,,,"{'score': 0.806415855884552, 'start': 0, 'end': 3, 'answer': 'PVC'}","{'score': 0.020199719816446304, 'start': 0, 'end': 25, 'answer': 'PVC Fenster, baujahr 2007'}","{'score': 0.00837582629173994, 'start': 0, 'end': 25, 'answer': 'PVC Fenster, baujahr 2007'}",Architectural glass,Window walls,Pr_30_59_99,Openings,"Door, Windows, Gates",Glass blocks and panels
+876,1709,1709,antikes Fenster mit schönen Griffen,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"rel gut erhaltenes Einfach verglastes Fenster mit grösstenteils antikem Glas u Schönen Stangen- Griff- Verschlüssen, Rahmenaussenmasse: B:106  H:196cm,",Mixed,,100.0,180,,,,,,225.0,,,1970-01-01,225.0,1970-01-01 00:00:00.000,0.0,1.0,250.0,,,useagain,80236,CH,de,20200831_151940_570x570.jpg,https://www.useagain.ch/de/antikes-ev-fenster-mit-schoenen-griffen-80236,E03.01,window,,,,"{'score': 0.260058730840683, 'start': 63, 'end': 76, 'answer': ' antikem Glas'}","{'score': 0.652813732624054, 'start': 135, 'end': 151, 'answer': ' B:106  H:196cm,'}","{'score': 2.8052043035131646e-06, 'start': 135, 'end': 141, 'answer': ' B:106'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1049,1896,1896,Fenster -flügelig mit Sichtschutz,cleaned & tested,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Rahmenprofil: PVC
+2-flügelig
+Rechter Flügel Dreh- und Kippbar
+Mit Sichtschutz
+Rahmenmass: B 124,9 cm / H 105,5 cm / D 5,8 cm
+Lichtmass: B 107,5 cm / H 83,5 cm
+Mit Montagelöchern",,,,,,,,,2022-08-24,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,5.0,"Brügg, 2555",,useagain,90395,CH,de,,https://www.useagain.ch/de/fenster-2-fluegelig-mit-sichtschutz-90395,,double leaf window,,,,"{'score': 0.892654538154602, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.35645031929016113, 'start': 93, 'end': 128, 'answer': ' B 124,9 cm / H 105,5 cm / D 5,8 cm'}","{'score': 0.000868981471285224, 'start': 80, 'end': 93, 'answer': '\r\nRahmenmass:'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1055,1902,1902,Fenster -flügelig,used,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz, Rückseite teilweise Alu
+Verglasung 2-fach
+Dreh-Kippfunktion rechts
+Ohne Wetterschenkel
+Lichtmass: B 106cm / H 149 cm",,,,,,,,,2022-08-19,170.0,,,1970-01-01,170.0,1970-01-01 00:00:00.000,0.0,1.0,171.0,"Brügg, 2555",,useagain,90346,CH,de,1_%28220%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-90346,E03.01,double leaf window,,,,"{'score': 0.29745739698410034, 'start': 13, 'end': 19, 'answer': ' Holz,'}","{'score': 0.10570292174816132, 'start': 117, 'end': 136, 'answer': ' B 106cm / H 149 cm'}","{'score': 1.362252532999264e-05, 'start': 106, 'end': 125, 'answer': '\nLichtmass: B 106cm'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1169,2018,2018,Glastrennwand mit Türen matt,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Trennwand aus Mattglas mit 2 Pendeltüre 
+(alles Sicherheitsglas: ESG EXODUR Din 1249) hochwertige Komponenten, Rahmenlos, B:295cm: v links: fix 76cm, Türe 53cm, fix: 34cm Türe 53cm, fix: 76cm. Querwand rechtwinklig: 92cm , H: 200cm",Mixed,,295.0,198,,,,,,580.0,,,1970-01-01,580.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,68943,CH,de,09.06.2015-011_570x570.jpg,https://www.useagain.ch/de/glastrennwand-mit-2-tueren-matt-68943,J01.02,partition wall,,,,"{'score': 0.6602442264556885, 'start': 13, 'end': 22, 'answer': ' Mattglas'}","{'score': 0.4589383006095886, 'start': 121, 'end': 130, 'answer': ' B:295cm:'}","{'score': 0.00029153525247238576, 'start': 165, 'end': 170, 'answer': ' 34cm'}",Architectural glass,Window walls,Pr_30_59_99,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels
+1380,2231,2231,Hochschrank mit Glastür,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: Keramic Made in Germany 
+Garantie: ohne Garantie
+Masse: H: 70 cm, B: 32.5 cm, T: 21 cm
+Mängel: Gebrauchsspuren
+Material: gemischt 
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111789",Glass,,,,,,,,2022-10-24,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91131,CH,de,111789_570x570.jpg,https://www.useagain.ch/de/hochschrank-mit-glastuer-91131,J01.02,cabinet,,,,"{'score': 0.985528826713562, 'start': 132, 'end': 141, 'answer': ' gemischt'}","{'score': 0.8680012822151184, 'start': 67, 'end': 98, 'answer': ' H: 70 cm, B: 32.5 cm, T: 21 cm'}","{'score': 0.13874545693397522, 'start': 67, 'end': 98, 'answer': ' H: 70 cm, B: 32.5 cm, T: 21 cm'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1405,2256,2256,Kippfenster mit Rahmen,used,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Verfügbar nur nach Absprache
+
+PVC Kippfenster weiss Typ Ego-Verre Plus 1.1
+-mit Rahmen
+-2-fach Verglasung
+-Band unten
+-mit Kurbel zum Öffnen
+-Falle links
+Rahmenaussenmass: 89cm x 98cm
+Flügelaussenmass: 77,5cm x 87,5cm
+Lichtmass: 63cm x 73cm",,,,,,,,,,120.0,,,1970-01-01,120.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90484,CH,de,img_20220824_0956506_%282%29_570x570.jpg,https://www.useagain.ch/de/pvc-kippfenster-mit-rahmen-90484,E03.01,tilt window,,,,"{'score': 0.8989569544792175, 'start': 29, 'end': 33, 'answer': '\nPVC'}","{'score': 0.2984459102153778, 'start': 153, 'end': 183, 'answer': '\nRahmenaussenmass: 89cm x 98cm'}","{'score': 0.010651473887264729, 'start': 0, 'end': 28, 'answer': 'Verfügbar nur nach Absprache'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1406,2257,2257,Kippfenster mit Rahmen,used,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Verfügbar nur nach Absprache
+
+PVC Kippfenster weiss Typ Ego-Verre Plus 1.1
+-mit Rahmen
+-2-fach Verglasung
+-Band unten
+-mit Kurbel zum Öffnen
+-Falle rechts
+Rahmenaussenmass: 89cm x 98cm
+Flügelaussenmass: 77,5cm x 87,5cm
+Lichtmass: 63cm x 73cm",,,,,,,,,,120.0,,,1970-01-01,120.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90485,CH,de,img_20220824_0956506_%283%29_570x570.jpg,https://www.useagain.ch/de/pvc-kippfenster-mit-rahmen-90485,E03.01,tilt window,,,,"{'score': 0.9018260836601257, 'start': 29, 'end': 33, 'answer': '\nPVC'}","{'score': 0.3003089725971222, 'start': 154, 'end': 184, 'answer': '\nRahmenaussenmass: 89cm x 98cm'}","{'score': 0.011539789848029613, 'start': 0, 'end': 28, 'answer': 'Verfügbar nur nach Absprache'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1407,2258,2258,Fensterläden Hoch Set,"used, cleaned & tested",['E03.04'],"Sunshading, weather protection",,Gebäudehülle & Konstruktion,Fenster,Läden & Storen,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 213.5 cm, B: 62cm, T: 2,7cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111675",,,,,,,,,2022-10-06,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Münchenstein, 4142",,useagain,90798,CH,de,111675_570x570.jpg,https://www.useagain.ch/de/fensterlaeden-hoch-set-90798,E03.04,window,,,,"{'score': 0.9833512902259827, 'start': 121, 'end': 126, 'answer': ' Holz'}","{'score': 0.7089522480964661, 'start': 56, 'end': 87, 'answer': ' H: 213.5 cm, B: 62cm, T: 2,7cm'}","{'score': 0.20461033284664154, 'start': 56, 'end': 87, 'answer': ' H: 213.5 cm, B: 62cm, T: 2,7cm'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1787,2638,2638,Glastür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Garantie: ohne Garantie
+Masse: Garantie: ohne Garantie
+Masse: H: 203cm, B: 92,5cm, T: 0,5cm
+Mängel: Gebrauchsspuren
+Material: Edelstahl
+Zustand: occasion/gebraucht
+
+Artikelnr:  112224",Glass,0.0,92.0,203,,,,,2022-09-26,149.0,,,1970-01-01,80.0,1970-01-01 00:00:00.002,-69.0,1.0,173.0,"Münchenstein, 4142",,useagain,90584,CH,de,112224_570x570.jpg,https://www.useagain.ch/de/glastuer-90584,G01.05,interior doors,,,,"{'score': 0.9912751913070679, 'start': 125, 'end': 135, 'answer': ' Edelstahl'}","{'score': 0.7465965151786804, 'start': 61, 'end': 91, 'answer': ' H: 203cm, B: 92,5cm, T: 0,5cm'}","{'score': 0.034166768193244934, 'start': 61, 'end': 91, 'answer': ' H: 203cm, B: 92,5cm, T: 0,5cm'}",Glass,Window walls,Pr_30_59_99,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels
+1831,2682,2682,Diverse alte Fenster,used,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,Gratis abzugeben,,,,,,,,,,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Tartar, 7422",,useagain,91287,CH,de,,https://www.useagain.ch/de/diverse-alte-fenster-91287,E03.01,window,,,,"{'score': 0.00013781942834611982, 'start': 0, 'end': 16, 'answer': 'Gratis abzugeben'}","{'score': 1.3245114587334683e-06, 'start': 0, 'end': 16, 'answer': 'Gratis abzugeben'}","{'score': 0.012962286360561848, 'start': 0, 'end': 16, 'answer': 'Gratis abzugeben'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1839,2690,2690,-flüglige Balkonfenster,like new,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"neu, aber falsch produziert, direkt ab Baustelle in Zürich;
+Holz-Metall-Fenster, aussen hellgrau IGP Duraxal 01, innen weiss;
+3-fach-Isolierverglasung mit sehr tiefem U-Wert;
+3 x 2 Flügel, mit Beschlägen, ohne Rahmen, ohne Griff/Rosette;
+die Masse sind jeweils leicht unterschiedlich;
+Datenblätter sind in den Bildern dokumentiert",Mixed,110.0,7.0,234,,,white,,,5000.0,,,1970-01-01,5000.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"8003 Zürich, 8003",,useagain,91246,CH,de,fenster01_570x570.jpg,https://www.useagain.ch/de/2-flueglige-balkonfenster-91246,E03.01,double leaf window,,,,"{'score': 0.05835957080125809, 'start': 96, 'end': 112, 'answer': ' IGP Duraxal 01,'}","{'score': 0.0018218867480754852, 'start': 174, 'end': 188, 'answer': '\n3 x 2 Flügel,'}","{'score': 2.702800884435419e-06, 'start': 174, 'end': 180, 'answer': '\n3 x 2'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1851,2702,2702,Zweiflügelige Fenster,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Material: gemischt
+Mängel: Gebrauchsspuren
+Spezifikation: doppelt verglast
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110328",Mixed,,,,,,,,2022-10-24,189.0,,,1970-01-01,189.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91166,CH,de,xd_570x570.jpg,https://www.useagain.ch/de/zweifluegelige-fenster-91166,E03.01,double leaf window,,,,"{'score': 0.9885868430137634, 'start': 59, 'end': 68, 'answer': ' gemischt'}","{'score': 0.0008856236236169934, 'start': 107, 'end': 124, 'answer': ' doppelt verglast'}","{'score': 0.030135346576571465, 'start': 59, 'end': 68, 'answer': ' gemischt'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2043,2897,2897,Balkontür doppeltverglast mit kleinem Sichtfenster,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,Produkte-Nr. 2807,Plastic,191.0,,223,,,white,,2022-11-11,620.0,,,1970-01-01,620.0,1970-01-01 00:00:00.000,0.0,1.0,127.0,"Zürich, 8050",,useagain,91308,CH,de,2807_570x570.jpg,https://www.useagain.ch/de/balkontuer-veka-doppeltverglast-mit-kleinem-sichtfenster-91308,E03.01,balcony door,,,,"{'score': 0.001404786598868668, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 2807'}","{'score': 0.00017049297457560897, 'start': 12, 'end': 17, 'answer': ' 2807'}","{'score': 0.43283557891845703, 'start': 12, 'end': 17, 'answer': ' 2807'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2049,2903,2903,Balkontür doppelverglast,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,Produkte-Nr.: 2801,Plastic,101.0,,"220,5",,,,,2022-10-12,330.0,,,1970-01-01,330.0,1970-01-01 00:00:00.000,0.0,1.0,127.0,"Zürich, 8050",,useagain,90894,CH,de,2801_2_570x570.jpg,https://www.useagain.ch/de/balkontuer-doppelverglast-90894,E03.01,balcony door,,,,"{'score': 0.007279070559889078, 'start': 0, 'end': 18, 'answer': 'Produkte-Nr.: 2801'}","{'score': 0.0007160736713558435, 'start': 13, 'end': 18, 'answer': ' 2801'}","{'score': 0.5385434031486511, 'start': 13, 'end': 18, 'answer': ' 2801'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2248,3106,3106,Fensterläden,used,['E03.04'],"Sunshading, weather protection",,Gebäudehülle & Konstruktion,Fenster,Läden & Storen,"Auf Grund eines Umbaus werden die Fensterläden nicht mehr benötigt und können gratis abgeholt werden.
+
+Umfang:
+1 x Läden aus Holz, rot, für eine Tür
+1 x Läden aus Holz, rot, für ein Fenster
+Wie auf den Fotos gezeigt.",Wood,,,,,,red,,,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,0.0,1.0,49.0,"Winterthur, 8404",,useagain,91596,CH,de,img_20230109_151749_%281%29_570x570.jpg,https://www.useagain.ch/de/fensterlaeden-91596,E03.04,window,,,,"{'score': 0.6453270316123962, 'start': 124, 'end': 130, 'answer': ' Holz,'}","{'score': 0.08151651918888092, 'start': 148, 'end': 189, 'answer': '\n1 x Läden aus Holz, rot, für ein Fenster'}","{'score': 0.06966574490070343, 'start': 110, 'end': 114, 'answer': '\n1 x'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2636,3820,3820,Balkontüre / Fenstertüre,"used, cleaned & tested","['G01.04', 'G05.03']",Building fit-out,,Gebäudehülle & Konstruktion,Fenster,Innenfenster,"Balkontüre
+Rahmenprofil: Holz
+Fensterflügel: Holz, Metall pulverbeschichtet
+3-fachverglast
+2-flügelig / Rechter Flügel dreh- und kippbar
+Rahmenmass: B 128 cm H 223 cm D 6,5 cm
+Lichtmass: B 108 cm H 209 cm
+
+Abholung:
+Eine Abholung Samstags muss zwingend vorangemeldet werden!",Mixed,6.0,128.0,223,,,,,2023-02-23,370.0,,,1970-01-01,370.0,1970-01-01 00:00:00.000,0.0,1.0,64.0,"Brügg, 2555",,useagain,92033,CH,de,1_%28341%29_570x570.jpg,https://www.useagain.ch/de/balkontuere-fenstertuere-92033,G,balcony door,,,,"{'score': 0.083687424659729, 'start': 24, 'end': 75, 'answer': ' Holz\nFensterflügel: Holz, Metall pulverbeschichtet'}","{'score': 0.43798568844795227, 'start': 148, 'end': 175, 'answer': ' B 128 cm H 223 cm D 6,5 cm'}","{'score': 1.036319099512184e-05, 'start': 215, 'end': 238, 'answer': '\nEine Abholung Samstags'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+2656,3840,3840,Innenfensterbank,"used, cleaned & tested",['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Zubehör,"Hersteller: Fenorm
+Masse: H: 4cm B: 174cm T: 20cm
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112043",,20.0,174.0,4,,,,,2023-03-02,10.0,,,1970-01-01,10.0,2023-09-25 00:00:00.000,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,92113,CH,de,112043_570x570.jpg,https://www.useagain.ch/de/innenfensterbank-92113,,bench,,,,"{'score': 0.21841463446617126, 'start': 11, 'end': 18, 'answer': ' Fenorm'}","{'score': 0.6005048751831055, 'start': 25, 'end': 49, 'answer': ' H: 4cm B: 174cm T: 20cm'}","{'score': 0.005769285839051008, 'start': 25, 'end': 49, 'answer': ' H: 4cm B: 174cm T: 20cm'}",Sitka spruce,Window walls,Pr_30_59_99,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels
+2692,3876,3876,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC 
+2-fach Isolierverglasung
+2-flügelig
+beide flügel nur drehbar
+mit Montagelöcher",Plastic,5.0,93.0,"107,4",,,white,,2023-03-08,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,58.0,"Brügg, 2555",,useagain,92169,CH,de,1_%28349%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92169,E03.01,double leaf window,,,,"{'score': 0.44614988565444946, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.08063313364982605, 'start': 43, 'end': 54, 'answer': '\n2-flügelig'}","{'score': 0.3246833086013794, 'start': 43, 'end': 54, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2693,3877,3877,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Rechter Flügel mit dreh-Kipp-Funktion
+mit Montagelöcher",Mixed,5.0,93.0,"109,3",,,white,,2023-03-08,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Brügg, 2555",,useagain,92171,CH,de,1_%28350%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92171,E03.01,double leaf window,,,,"{'score': 0.2726808786392212, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.00019994711328763515, 'start': 42, 'end': 68, 'answer': '\n2-flügelig\nRechter Flügel'}","{'score': 0.0022947376128286123, 'start': 42, 'end': 53, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2694,3878,3878,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Rechter Flügel mit dreh-Kipp-Funktion
+mit Montagelöcher",Mixed,5.0,92.0,110,,,white,,2023-03-09,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Brügg, 2555",,useagain,92172,CH,de,1_%28351%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92172,E03.01,double leaf window,,,,"{'score': 0.2726808786392212, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.00019994711328763515, 'start': 42, 'end': 68, 'answer': '\n2-flügelig\nRechter Flügel'}","{'score': 0.0022947376128286123, 'start': 42, 'end': 53, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2695,3879,3879,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Rechter Flügel mit Dreh-Kipp-Funktion
+mit Montagelöcher",Mixed,5.0,93.0,"107,5",,,white,,2023-03-09,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Brügg, 2555",,useagain,92173,CH,de,1_%28352%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92173,E03.01,double leaf window,,,,"{'score': 0.36997053027153015, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.00025874542188830674, 'start': 42, 'end': 68, 'answer': '\n2-flügelig\nRechter Flügel'}","{'score': 0.0010561714880168438, 'start': 42, 'end': 53, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2696,3880,3880,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Rechter Flügel mit Dreh-Kipp-Funktion
+mit Montagelöcher",Mixed,5.0,92.0,110,,,white,,2023-03-09,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Brügg, 2555",,useagain,92174,CH,de,1_%28353%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92174,E03.01,double leaf window,,,,"{'score': 0.36997053027153015, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.00025874542188830674, 'start': 42, 'end': 68, 'answer': '\n2-flügelig\nRechter Flügel'}","{'score': 0.0010561714880168438, 'start': 42, 'end': 53, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2697,3881,3881,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Rechter Flügel mit Dreh-Kipp-Funktion
+mit Montagelöcher",Mixed,5.0,92.0,"110,2",,,white,,2023-03-09,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Brügg, 2555",,useagain,92178,CH,de,1_%28354%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92178,E03.01,double leaf window,,,,"{'score': 0.36997053027153015, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.00025874542188830674, 'start': 42, 'end': 68, 'answer': '\n2-flügelig\nRechter Flügel'}","{'score': 0.0010561714880168438, 'start': 42, 'end': 53, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2698,3882,3882,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Rechter Flügel mit Dreh-Kipp-Funktion
+mit Montagelöcher",Mixed,5.0,93.0,"108,1",,,white,,2023-03-09,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Brügg, 2555",,useagain,92179,CH,de,1_%28355%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92179,E03.01,double leaf window,,,,"{'score': 0.36997053027153015, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.00025874542188830674, 'start': 42, 'end': 68, 'answer': '\n2-flügelig\nRechter Flügel'}","{'score': 0.0010561714880168438, 'start': 42, 'end': 53, 'answer': '\n2-flügelig'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2860,4050,4050,Panneau de porte avec vitre,used,['E03.02'],External pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Aussentüren,Porte stratifiée jaune (19 pcs) et bleues (8pcs)  avec vitre verticale,Compound,0.0,4.0,95,,,,,,0.0,1.0,36.0,1970-01-01,0.0,1970-01-01 00:00:00.002,211.5,1.0,17.0,,Pointe à Pitre,materiuum,2302-5949,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-a.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-c.jpg']",https://materiuum.ch/produit/337-4/,E03.02,door panel with glass,,,,"{'score': 0.11782126128673553, 'start': 5, 'end': 16, 'answer': ' stratifiée'}","{'score': 0.00028007818036712706, 'start': 22, 'end': 48, 'answer': ' (19 pcs) et bleues (8pcs)'}","{'score': 0.07236045598983765, 'start': 22, 'end': 26, 'answer': ' (19'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2861,4051,4051,Panneau de porte avec vitre,used,['E03.02'],External pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Aussentüren,"Porte stratifiée jaune (19 petites, 3 larges) et bleues (8 petites, 6 larges)  avec vitre verticale",Compound,0.0,4.0,99,,,,,,0.0,1.0,9.0,1970-01-01,0.0,1970-01-01 00:00:00.002,211.5,1.0,19.0,,Pointe à Pitre,materiuum,2302-5950,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-a.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-c.jpg']",https://materiuum.ch/produit/337-5/,E03.02,door panel with glass,,,,"{'score': 0.14851751923561096, 'start': 5, 'end': 16, 'answer': ' stratifiée'}","{'score': 0.010536561720073223, 'start': 22, 'end': 45, 'answer': ' (19 petites, 3 larges)'}","{'score': 0.05089096352458, 'start': 22, 'end': 45, 'answer': ' (19 petites, 3 larges)'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2862,4052,4052,Panneau de porte avec grande vitre,used,['G01.05'],Internal pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Innentüren,Porte stratifiée avec grande vitre,Compound,0.0,4.0,95.6,,,,,,0.0,1.0,3.0,1970-01-01,0.0,1970-01-01 00:00:00.000,212.1,1.0,20.0,,Pointe à Pitre,materiuum,2302-5951,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-a-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-c-600x338.jpg']",https://materiuum.ch/produit/338337/,G01.05,door panel with glass,,,,"{'score': 0.6796742081642151, 'start': 5, 'end': 16, 'answer': ' stratifiée'}","{'score': 0.001767502399161458, 'start': 0, 'end': 16, 'answer': 'Porte stratifiée'}","{'score': 0.0002359153440920636, 'start': 0, 'end': 34, 'answer': 'Porte stratifiée avec grande vitre'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2936,4134,4134,Balkontüre,used,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Balkontüre
+3 fach verglast 
+gut erhalten
+abschliessbar von innen 
+nicht verzogen 
+von  1984, - Ohne Rahmen. (Falls Sie am Rahmen interessiert sind könnten wir Sie nur ganz kurzfristig auffordern, diesen selber zu entfernen, gegen Ende April.) Normalgrösse ( 200x80 cm) 
+dazugehörender Holzladen",Wood,,80.0,200,,,mixed,B,2023-03-29,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,0.0,1.0,12.0,"Tentlingen, 1734",,useagain,92272,CH,de,,https://www.useagain.ch/de/balkontuere-92272,E03.01,balcony door,,,,"{'score': 0.00011499980610096827, 'start': 284, 'end': 294, 'answer': ' Holzladen'}","{'score': 0.011147935874760151, 'start': 257, 'end': 268, 'answer': ' 200x80 cm)'}","{'score': 0.0001776780263753608, 'start': 257, 'end': 268, 'answer': ' 200x80 cm)'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+2967,4165,4165,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz-Aluminium
+3-fach Verglasung
+3-flügelig
+Mittlerer Flügel verschraubt, kann aber geöffnet werden. Nur drehbar.
+Linker und Rechter Flügel mit Dreh-Kipp Funktion.
+Rahmenmass: B 197 cm / H 105 cm / D 7,5 cm",Mixed,7.0,197.0,105,,,white,,2023-03-16,300.0,,,1970-01-01,300.0,2023-09-25 00:00:00.000,0.0,1.0,0.0,"Brügg, 2555",,useagain,92229,CH,de,1_%28364%29_570x570.jpg,https://www.useagain.ch/de/fenster-3-fluegelig-92229,E03.01,triple leaf window,,,,"{'score': 0.29696786403656006, 'start': 13, 'end': 28, 'answer': ' Holz-Aluminium'}","{'score': 0.3318997919559479, 'start': 189, 'end': 220, 'answer': ' B 197 cm / H 105 cm / D 7,5 cm'}","{'score': 7.780472515150905e-05, 'start': 177, 'end': 189, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2978,4176,4176,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: beide Flügel nur drehbar
+mit Montagelöcher
+Rahmenmass: B 123,7 cm / H 148,6 cm / D 5,8 cm",Mixed,5.0,123.0,"148,6",,,white,,2023-03-16,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92222,CH,de,1_%28361%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92222,E03.01,double leaf window,,,,"{'score': 0.5321170091629028, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.3562394976615906, 'start': 121, 'end': 156, 'answer': ' B 123,7 cm / H 148,6 cm / D 5,8 cm'}","{'score': 0.0016173995099961758, 'start': 109, 'end': 121, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2979,4177,4177,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: beide Flügel nur drehbar
+mit Montagelöcher
+Rahmenmass: B 123,7 cm / H 150,4 cm / D 5,8 cm",Mixed,5.0,123.0,"150,4",,,white,,2023-03-15,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92220,CH,de,1_%28360%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92220,E03.01,double leaf window,,,,"{'score': 0.5408284664154053, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.06948892027139664, 'start': 123, 'end': 156, 'answer': ' 123,7 cm / H 150,4 cm / D 5,8 cm'}","{'score': 0.0017575400415807962, 'start': 109, 'end': 121, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2980,4178,4178,Balkontüre / Fenstertüre -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+Verglasung: 2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: Nur drehbar
+Montagelöcher vorhanden
+
+Rahmenmass: B 100,7 cm / H 222,3 cm / D 5,8 cm",Mixed,5.0,100.0,"222,3",,,white,,2023-03-15,250.0,,,1970-01-01,250.0,1970-01-01 00:00:00.002,0.0,1.0,45.0,"Brügg, 2555",,useagain,92219,CH,de,1_%28359%29_570x570.jpg,https://www.useagain.ch/de/balkontuere-fenstertuere-2-fluegelig-92219,E03.01,double leaf glass door,,,,"{'score': 0.9021353721618652, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.058405157178640366, 'start': 129, 'end': 162, 'answer': ' 100,7 cm / H 222,3 cm / D 5,8 cm'}","{'score': 0.0005437920335680246, 'start': 115, 'end': 127, 'answer': '\nRahmenmass:'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+2992,4190,4190,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: linker Flügel Dreh- und Kippbar, rechter Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 120,3 cm / H 149,9 cm / D 5,8 cm",Mixed,5.0,120.0,"149,9",,,white,,2023-03-16,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92223,CH,de,1_%28362%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92223,E03.01,double leaf window,,,,"{'score': 0.4080020785331726, 'start': 13, 'end': 42, 'answer': ' PVC\n2-fach Isolierverglasung'}","{'score': 0.07525785267353058, 'start': 154, 'end': 187, 'answer': ' 120,3 cm / H 149,9 cm / D 5,8 cm'}","{'score': 0.00046445196494460106, 'start': 140, 'end': 152, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3009,4207,4207,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 123,7 cm / H 150,5 cm / D 5,8 cm",Mixed,5.0,123.0,"150,5",,,white,,2023-03-16,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92224,CH,de,1_%28363%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92224,E03.01,double leaf window,,,,"{'score': 0.4021344780921936, 'start': 13, 'end': 42, 'answer': ' PVC\n2-fach Isolierverglasung'}","{'score': 0.33334049582481384, 'start': 152, 'end': 187, 'answer': ' B 123,7 cm / H 150,5 cm / D 5,8 cm'}","{'score': 0.0006510374951176345, 'start': 140, 'end': 152, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3010,4208,4208,Balkontüre / Fenstertüre -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+Verglasung: 2-fach Isolierverglasung
+1-flügelig
+Türbandung: rechts
+Öffnungsart: Nur drehbar
+Bemerkung: kleiner Schaden im Rahmen oben links, sollte nach dem Einbau nicht mehr sichtbar sein.
+
+Rahmenmass: B 101,4 cm / H 219,8 cm / D 5,8 cm",Mixed,5.0,101.0,"219,8",,,white,,2023-03-15,250.0,,,1970-01-01,250.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92215,CH,de,1_%28358%29_570x570.jpg,https://www.useagain.ch/de/balkontuere-fenstertuere-1-fluegelig-92215,E03.01,single leaf glass door,,,,"{'score': 0.7956445813179016, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.033485736697912216, 'start': 222, 'end': 255, 'answer': ' 101,4 cm / H 219,8 cm / D 5,8 cm'}","{'score': 0.0003382175345905125, 'start': 208, 'end': 220, 'answer': '\nRahmenmass:'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+3011,4209,4209,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 124,2 cm / H 153,6 cm / D 5,8 cm",Mixed,5.0,124.0,"153,6",,,white,,2023-03-22,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92274,CH,de,1_%28367%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92274,E03.01,double leaf window,,,,"{'score': 0.40254855155944824, 'start': 13, 'end': 42, 'answer': ' PVC\n2-fach Isolierverglasung'}","{'score': 0.3252253532409668, 'start': 152, 'end': 187, 'answer': ' B 124,2 cm / H 153,6 cm / D 5,8 cm'}","{'score': 0.0005896586226299405, 'start': 140, 'end': 152, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3014,4212,4212,Fenster,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Kunststofffenster Ego Kiefer, 3-fach Verglasung. Ca. 14-jährig, in gebrauchtem aber gutem Zustand. Ohne Rollo, wird noch entfernt. 5 Stück vorhanden!",Plastic,135.0,135.0,135,,,white,,,100.0,,,1970-01-01,100.0,2023-09-25 00:00:00.000,0.0,1.0,45.0,"Bonaduz, 7402",,useagain,92247,CH,de,8e8e8c7a-b9db-48ad-9092-37e4225a1519_570x570.jpg,https://www.useagain.ch/de/fenster-92247,E03.01,window,,,,"{'score': 0.6039609313011169, 'start': 0, 'end': 17, 'answer': 'Kunststofffenster'}","{'score': 3.99157106585335e-05, 'start': 0, 'end': 29, 'answer': 'Kunststofffenster Ego Kiefer,'}","{'score': 0.4822183847427368, 'start': 130, 'end': 132, 'answer': ' 5'}",Architectural glass,Window walls,Pr_30_59_99,Openings,"Door, Windows, Gates",Glass blocks and panels
+3022,4220,4220,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung mit Sichtschutz!
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 126,2 cm / H 148 cm / D 5,8 cm",Mixed,5.0,126.0,148,,,white,,2023-03-22,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,51.0,"Brügg, 2555",,useagain,92280,CH,de,1_%28369%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92280,E03.01,double leaf window,,,,"{'score': 0.5587124824523926, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.4430066645145416, 'start': 169, 'end': 202, 'answer': ' B 126,2 cm / H 148 cm / D 5,8 cm'}","{'score': 0.00013616032083518803, 'start': 157, 'end': 169, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3023,4221,4221,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 93,7 cm / H 149,7 cm / D 5,8 cm",Mixed,5.0,93.0,"149,7",,,white,,2023-03-23,160.0,,,1970-01-01,160.0,2023-09-25 00:00:00.000,0.0,1.0,45.0,"Brügg, 2555",,useagain,92287,CH,de,1_%28370%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92287,E03.01,double leaf window,,,,"{'score': 0.4188312888145447, 'start': 13, 'end': 42, 'answer': ' PVC\n2-fach Isolierverglasung'}","{'score': 0.07123515754938126, 'start': 154, 'end': 186, 'answer': ' 93,7 cm / H 149,7 cm / D 5,8 cm'}","{'score': 0.00046162554644979537, 'start': 140, 'end': 152, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3024,4222,4222,Fenster -flügelig,"used, cleaned & tested",['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+2-fach Isolierverglasung
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 93,4 cm / H 153,1 cm / D 5,8 cm",Mixed,5.0,93.0,"153,1",,,white,,2023-03-23,160.0,,,1970-01-01,160.0,2023-09-25 00:00:00.000,0.0,1.0,45.0,"Brügg, 2555",,useagain,92288,CH,de,1_%28371%29_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-92288,E03.01,double leaf window,,,,"{'score': 0.41929492354393005, 'start': 13, 'end': 42, 'answer': ' PVC\n2-fach Isolierverglasung'}","{'score': 0.0756172463297844, 'start': 154, 'end': 186, 'answer': ' 93,4 cm / H 153,1 cm / D 5,8 cm'}","{'score': 0.00047467724652960896, 'start': 140, 'end': 152, 'answer': '\nRahmenmass:'}",Sitka spruce,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3092,4293,4293,Fensterläden,used,['E03.04'],"Sunshading, weather protection",,Gebäudehülle & Konstruktion,Fenster,Läden & Storen,"Ausstell-Fensterläden von einem alten Landsitz. Sie sind komplett und ganz, müssten aber restauriert werden. 
+Es sind 28 Stück, also 14 Paare. 
+Die Fensterläden müssten abgeholt werden.",Wood,177.0,50.0,5,,,red,,2023-04-01,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,33.0,"Säriswil, 3049",,useagain,92346,CH,de,20230401_115640_570x570.jpg,https://www.useagain.ch/de/fensterlaeden-92346,E03.04,window,,,,"{'score': 1.561083445267286e-05, 'start': 0, 'end': 21, 'answer': 'Ausstell-Fensterläden'}","{'score': 0.023542171344161034, 'start': 117, 'end': 127, 'answer': ' 28 Stück,'}","{'score': 0.6287373304367065, 'start': 117, 'end': 127, 'answer': ' 28 Stück,'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3176,4384,4384,Cadre vitré,used,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,Techniques,Sonstiges,Sonstiges,Sonstiges,"Cadre vitré en pour panneau de commande.
+Sans la technique, avec clé",Plexiglass,0.0,90.0,50,,,,,,25.0,0.0,1.0,1970-01-01,25.0,1970-01-01 00:00:00.002,,1.0,0.0,,CROIX D'OR,materiuum,2302-5824,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/04/2302-5824-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5824-b-600x800.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5824-c-600x800.jpg']",https://materiuum.ch/produit/345357-2/,D11,frame,,,,"{'score': 0.00036556951818056405, 'start': 0, 'end': 11, 'answer': 'Cadre vitré'}","{'score': 1.6031421182560734e-05, 'start': 0, 'end': 40, 'answer': 'Cadre vitré en pour panneau de commande.'}","{'score': 1.4650987623099354e-06, 'start': 40, 'end': 68, 'answer': '\nSans la technique, avec clé'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3244,4454,4454,"Fenstertüre Vollrahmen -flüglig neu , -fach Glas , weiss/aussen rot",like new,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"neue Fenstertüre - Scharnier innen rechts.
+
+wurde 2009 mit den anderen Fenstern geliefert aber nie verbaut. Noch original Schutzfolie drauf.
+Aussen rot wie auf dem anderen Photo zu sehen. 
+Hat noch 20cm RV oben, das kann aber entfernt werden.
+Zuziehgriff mit Schnäpper aussen.
+
+Aus Kunststoff weiss, aussen mit Alu rot verkleidet. RAL 3013 Tomatenrot Matt
+3-fach Verglasung, 0.7 W/m2K, dB34, Aufbau 4b/12g/4/12g/4b mm 
+
+Wiederstandklasse 1 : Aufbohrschutz mit zusätzlichen speziellen Pilzkopfverriegelungen
+
+Gewicht ist geschätzt, könnte auch 150kg sein. Muss über 2 Treppen getragen werden (wir sollten zu viert sein...)",Plastic,7.0,108.0,217,,120,red,A,,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.002,0.0,1.0,9.0,"Merlischachen, 6402",,useagain,92428,CH,de,,https://www.useagain.ch/de/fenstertuere-vollrahmen-1-flueglig-neu-3-fach-glas-weiss-aussen-rot-92428,E03.01,single leaf glass door,,,,"{'score': 0.017574846744537354, 'start': 281, 'end': 299, 'answer': ' Kunststoff weiss,'}","{'score': 2.0444751953618834e-06, 'start': 398, 'end': 417, 'answer': ' 4b/12g/4/12g/4b mm'}","{'score': 2.7835818400490098e-05, 'start': 542, 'end': 548, 'answer': ' 150kg'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3387,4609,4610,Kleines Fenster / Toilettenfenster x cm,"gebraucht, gereinigt & geprüft",['E03.01'],,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+Verglasung: 2-fach, Sichtschutzglas",Mixed,6.0,60.0,40,,,,,2023-05-26,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.002,,0.0,4.0,"Brügg, 2555",,,92633,,,1_%28396%29_570x570.jpg,https://www.useagain.ch/de/kleines-fenster-toilettenfenster-60x40-cm-92633,,,,,,"{'score': 0.7706431150436401, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.0002805445692501962, 'start': 0, 'end': 53, 'answer': 'Rahmenprofil: PVC\nVerglasung: 2-fach, Sichtschutzglas'}","{'score': 0.00034387921914458275, 'start': 29, 'end': 37, 'answer': ' 2-fach,'}",Sitka spruce,Window walls,Pr_30_59_99,"Wall, Barriers, Pannels","Door, Windows, Gates",Sanitary fittings and accessories
+3590,4833,4834,Fenster Bleiverglasung Jugendstil mit Rahmen und Beschlägen,used,['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Preis offen, machen sie mir ein Angebot. Ich bin froh, wenn jemand für diese Fenster noch eine Verwendung findet.
+
+3 grosse Fenster mit Rahmen und originalen Beschlägen, scheint ein komplettes Set zu sein. Bei einem der Fenster fehlt das Wappen in der Mitte. Masse kann ich nachliefern Zudem zwei kleinere Glasstücke ebenfalls in Bleiverglasung
+
+Die Kantonale Denkmalpflegerin schrieb mir dazu:
+Auf den ersten Blick scheint die Kunstverglasung handwerklich sorgfältig ausgeführt worden zu sein. Sie sind in der traditionellen Technik der Bleiverglasung ausgeführt, im Stile des Jugendstils. Schön ist, dass offenbar die kompletten Fenster mit Rahmen und Beschläge noch vorhanden sind. Die Fenster zu datieren ist schwierig, dieser historistische Stil könnte auch noch bis in die 1930er auf Wunsch angewendet worden sein.
+
+Abzuholen in Birsfelden, BL",gemischt,,,,,,mixed,,2023-06-22,,,,,0.0,1970-01-01 00:00:00.002,,0.0,,"Birsfelden, 4127",,useagain,92775,CH,de,,https://www.useagain.ch/de/fenster-bleiverglasung-jugendstil-mit-rahmen-und-beschlaegen-92775,E03.01,window,0.0,,,"{'score': 0.14922112226486206, 'start': 427, 'end': 443, 'answer': ' Kunstverglasung'}","{'score': 0.3201742470264435, 'start': 114, 'end': 123, 'answer': '\n3 grosse'}","{'score': 0.013021414168179035, 'start': 114, 'end': 116, 'answer': '\n3'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3594,4837,4838,Kleines Fenster / Toilettenfenster x cm,"used, cleaned & tested",['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+Verglasung: 2-fach, Sichtschutzglas",gemischt,6.0,60.0,40,,,,,2023-05-26,,,,,,1970-01-01 00:00:00.002,,0.0,,"Brügg, 2555",,useagain,92633,CH,de,1_%28396%29_570x570.jpg,https://www.useagain.ch/de/kleines-fenster-toilettenfenster-60x40-cm-92633,E03.01,window,50.0,,,"{'score': 0.7706431150436401, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.0002805445692501962, 'start': 0, 'end': 53, 'answer': 'Rahmenprofil: PVC\nVerglasung: 2-fach, Sichtschutzglas'}","{'score': 0.00034387921914458275, 'start': 29, 'end': 37, 'answer': ' 2-fach,'}",Sitka spruce,Window walls,Pr_30_59_99,"Wall, Barriers, Pannels","Door, Windows, Gates",Sanitary fittings and accessories
+3986,5390,5391,Fenster -flügelig mit Vollrahmen,"used, cleaned & tested",['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+3-fach Isolierverglasung
+3-flügelig
+Öffnungsart: linker Flügel Dreh- und Kippbar, mittlerer Flügel drehbar / rechter Flügel dreh und klippbar
+mit Montagelöcher
+Rahmenmass: B 182,5 cm / H 135,1 cm / D 7 cm
+
+Wärmedämmung: 0.85 W7m2 K
+Schalldämmung Rw: 34 dB
+ISO-1902 Isolierglas / 3-fach Edelglas-Eüllung und Wärmeschutzbeschichtung
+Abstandhalter Farbe schwarz
+Elementstärke: 40 mm
+Ug-Wert (EN673): 0.6 W/m2 K
+Schalldämmung Rw : Rw : 33 dB
+Lichtdurchlässigkeit: LT: 71%
+Gesamtenergiedurchglass : g-Wert: 50%
+Beidseitige Profil-Verglasung, Ecken verschweißt, Falzgrund mit Dampfdruckausgleich
+Hochwärmedämmendes Isolierglas",gemischt,7.0,182.0,"135,1",,,white,,2023-09-15,,,,,350.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93373,CH,de,1_%28529%29_570x570.jpg,https://www.useagain.ch/de/fenster-3-fluegelig-mit-vollrahmen-93373,E03.01,triple leaf window,350.0,,,"{'score': 0.3655429184436798, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.15052828192710876, 'start': 191, 'end': 222, 'answer': ' 182,5 cm / H 135,1 cm / D 7 cm'}","{'score': 3.744041168829426e-05, 'start': 237, 'end': 242, 'answer': ' 0.85'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3987,5391,5392,Fenster -flügelig mit Vollrahmen,"used, cleaned & tested",['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+3-fach Isolierverglasung
+3-flügelig
+Öffnungsart: linker Flügel Dreh- und Kippbar, mittlerer Flügel drehbar / rechter Flügel dreh und klippbar
+mit Montagelöcher
+Rahmenmass: B 200,5 cm / H 135 cm / D 7 cm
+
+Wärmedämmung: 0.85 W7m2 K
+Schalldämmung Rw: 34 dB
+ISO-1902 Isolierglas / 3-fach Edelglas-Eüllung und Wärmeschutzbeschichtung
+Abstandhalter Farbe schwarz
+Elementstärke: 40 mm
+Ug-Wert (EN673): 0.6 W/m2 K
+Schalldämmung Rw : Rw : 33 dB
+Lichtdurchlässigkeit: LT: 71%
+Gesamtenergiedurchglass : g-Wert: 50%
+Beidseitige Profil-Verglasung, Ecken verschweißt, Falzgrund mit Dampfdruckausgleich
+Hochwärmedämmendes Isolierglas",gemischt,7.0,200.0,135,,,white,,2023-09-14,,,,,360.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93362,CH,de,1_%28525%29_570x570.jpg,https://www.useagain.ch/de/fenster-3-fluegelig-mit-vollrahmen-93362,E03.01,triple leaf window,360.0,,,"{'score': 0.3866253197193146, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.3986273407936096, 'start': 189, 'end': 220, 'answer': ' B 200,5 cm / H 135 cm / D 7 cm'}","{'score': 2.886692527681589e-05, 'start': 235, 'end': 240, 'answer': ' 0.85'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3988,5392,5393,Balkontüre -flügelig mit Sprossen,"used, cleaned & tested",['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+2-flügelig
+Verglasung: 3-fach mit Sprossen (innen liegend)
+Öffnungsart: Nur drehbar
+Rahmen unten etwas weniger breit (siehe Bilder)",gemischt,6.0,117.0,237,,,white,,2023-09-13,,,,,350.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93357,CH,de,1_%28521%29_570x570.jpg,https://www.useagain.ch/de/balkontuere-2-fluegelig-mit-sprossen-93357,E03.01,double leaf glass door,350.0,,,"{'score': 0.7061653733253479, 'start': 13, 'end': 18, 'answer': ' Holz'}","{'score': 0.00015518511645495892, 'start': 109, 'end': 135, 'answer': ' unten etwas weniger breit'}","{'score': 2.1696678231819533e-06, 'start': 18, 'end': 29, 'answer': '\n2-flügelig'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+3989,5393,5394,Fenster -flügelig mit Vollrahmen,"used, cleaned & tested",['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+3-fach Isolierverglasung
+3-flügelig
+Öffnungsart: linker Flügel Dreh- und Kippbar, mittlerer Flügel drehbar / rechter Flügel dreh und klippbar
+mit Montagelöcher
+Rahmenmass: B 182,2 cm / H 99,4 cm / D 7 cm
+
+Wärmedämmung: 0.85 W7m2 K
+Schalldämmung Rw: 34 dB
+ISO-1902 Isolierglas / 3-fach Edelglas-Eüllung und Wärmeschutzbeschichtung
+Abstandhalter Farbe schwarz
+Elementstärke: 40 mm
+Ug-Wert (EN673): 0.6 W/m2 K
+Schalldämmung Rw : Rw : 33 dB
+Lichtdurchlässigkeit: LT: 71%
+Gesamtenergiedurchglass : g-Wert: 50%
+Beidseitige Profil-Verglasung, Ecken verschweißt, Falzgrund mit Dampfdruckausgleich
+Hochwärmedämmendes Isolierglas",gemischt,7.0,182.0,"99,4",,,white,,2023-09-13,,,,,330.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93355,CH,de,20230913_104542_570x570.jpg,https://www.useagain.ch/de/fenster-3-fluegelig-mit-vollrahmen-93355,E03.01,triple leaf window,330.0,,,"{'score': 0.3764525353908539, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.30797329545021057, 'start': 189, 'end': 221, 'answer': ' B 182,2 cm / H 99,4 cm / D 7 cm'}","{'score': 3.7932837585685775e-05, 'start': 236, 'end': 241, 'answer': ' 0.85'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3990,5394,5395,Fenster -flügelig mit Vollrahmen,cleaned & tested,['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC 
+3-fach Isolierverglasung 
+2-flügelig 
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar 
+mit Montagelöcher 
+Rahmenmass: B 141.7 cm / H 107.4 cm / D 7 cm 
+
+Wärmedämmung: 0.85 W7m2 K 
+Schalldämmung Rw: 34 dB 
+ISO-1902 Isolierglas / 3-fach Edelglas-Eüllung und Wärmeschutzbeschichtung 
+Abstandhalter Farbe schwarz 
+Elementstärke: 40 mm 
+Ug-Wert (EN673): 0.6 W/m2 K 
+Schalldämmung Rw : Rw : 33 dB 
+Lichtdurchlässigkeit: LT: 71% 
+Gesamtenergiedurchglass : g-Wert: 50% 
+Beidseitige Profil-Verglasung, Ecken verschweißt, Falzgrund mit Dampfdruckausgleich 
+Hochwärmedämmendes Isolierglas",gemischt,141.0,7.0,"107,4",,,white,,2023-09-06,,,,,200.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93331,CH,de,img_0790_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-mit-vollrahmen-93331,E03.01,double leaf window,200.0,,,"{'score': 0.4821805953979492, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.3416185975074768, 'start': 157, 'end': 190, 'answer': ' B 141.7 cm / H 107.4 cm / D 7 cm'}","{'score': 7.157128129620105e-05, 'start': 206, 'end': 211, 'answer': ' 0.85'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3991,5395,5396,Fenster -flügelig mit Vollrahmen,cleaned & tested,['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+3-fach Isolierverglasung
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 138.8 cm / H 134.7 cm / D 7 cm
+
+Wärmedämmung: 0.85 W7m2 K 
+Schalldämmung Rw: 34 dB 
+ISO-1902 Isolierglas / 3-fach Edelglas-Eüllung und Wärmeschutzbeschichtung 
+Abstandhalter Farbe schwarz 
+Elementstärke: 40 mm 
+Ug-Wert (EN673): 0.6 W/m2 K 
+Schalldämmung Rw : Rw : 33 dB 
+Lichtdurchlässigkeit: LT: 71% 
+Gesamtenergiedurchglass : g-Wert: 50% 
+Beidseitige Profil-Verglasung, Ecken verschweißt, Falzgrund mit Dampfdruckausgleich",gemischt,138.0,7.0,"134,7",,,white,,2023-09-05,,,,,280.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93325,CH,de,img_0786_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-mit-vollrahmen-93325,E03.01,double leaf window,280.0,,,"{'score': 0.6965935826301575, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.2953053414821625, 'start': 152, 'end': 185, 'answer': ' B 138.8 cm / H 134.7 cm / D 7 cm'}","{'score': 4.251341306371614e-05, 'start': 200, 'end': 205, 'answer': ' 0.85'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3992,5396,5397,Fenster -flügelig mit Vollrahmen,used & cleaned,['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+3-fach Isolierverglasung
+2-flügelig
+Öffnungsart: rechter Flügel Dreh- und Kippbar, linker Flügel drehbar
+mit Montagelöcher
+Rahmenmass: B 121.9 cm / H 127.8 cm / D 7 cm
+
+Wärmedämmung: 0.85 W7m2 K 
+Schalldämmung Rw: 34 dB 
+ISO-1902 Isolierglas / 3-fach Edelglas-Eüllung und Wärmeschutzbeschichtung 
+Abstandhalter Farbe schwarz 
+Elementstärke: 40 mm 
+Ug-Wert (EN673): 0.6 W/m2 K 
+Schalldämmung Rw : Rw : 33 dB 
+Lichtdurchlässigkeit: LT: 71% 
+Gesamtenergiedurchglass : g-Wert: 50% 
+Beidseitige Profil-Verglasung, Ecken verschweißt, Falzgrund mit Dampfdruckausgleich 
+Hochwärmedämmendes Isolierglas",gemischt,121.0,7.0,"127,8",,,white,,2023-09-05,,,,,240.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93324,CH,de,img_0785_570x570.jpg,https://www.useagain.ch/de/fenster-2-fluegelig-mit-vollrahmen-93324,E03.01,double leaf window,240.0,,,"{'score': 0.4829111695289612, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.2979191839694977, 'start': 152, 'end': 185, 'answer': ' B 121.9 cm / H 127.8 cm / D 7 cm'}","{'score': 6.70642257318832e-05, 'start': 200, 'end': 210, 'answer': ' 0.85 W7m2'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3995,5399,5400,Balkontüre -flügelig,"used, cleaned & tested",['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: PVC
+Verglasung: 3-fach Isolierverglasung
+2-flügelig
+Öffnungsart: Nur drehbar
+Ohne Fenstergriff
+Rahmenmass: B 131 cm / H 215,3 / D 7 cm",,7.0,131.0,"215,3",,,,,2023-08-17,,,,,300.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,93139,CH,de,balkontreneu_570x570.jpg,https://www.useagain.ch/de/balkontuere-2-fluegelig-93139,E03.01,double leaf glass door,300.0,,,"{'score': 0.9161584973335266, 'start': 13, 'end': 17, 'answer': ' PVC'}","{'score': 0.29203319549560547, 'start': 120, 'end': 148, 'answer': ' B 131 cm / H 215,3 / D 7 cm'}","{'score': 0.0032273204997181892, 'start': 108, 'end': 120, 'answer': '\nRahmenmass:'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units
+3996,5400,5401,"Balkontüre Vollrahmen -flüglig neu , -fach Glas , weiss/aussen rot",like new,['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"neue Fenstertüre - Scharnier innen rechts.
+
+wurde 2009 mit den anderen Fenstern geliefert aber nie verbaut. Noch original Schutzfolie drauf.
+Aussen rot wie auf dem anderen Photo zu sehen. 
+Hat noch 20cm RV oben, das kann aber entfernt werden.
+Zuziehgriff mit Schnäpper aussen.
+
+Aus Kunststoff weiss, aussen mit Alu rot verkleidet. RAL 3013 Tomatenrot Matt
+3-fach Verglasung, 0.7 W/m2K, dB34, Aufbau 4b/12g/4/12g/4b mm 
+
+Wiederstandklasse 1 : Aufbohrschutz mit zusätzlichen speziellen Pilzkopfverriegelungen
+
+Gewicht ist geschätzt, könnte auch 150kg sein. Muss über 2 Treppen getragen werden (wir sollten zu viert sein...)",Kunststoff,7.0,108.0,217,,120,red,A,2023-09-17,,,,,50.0,2023-09-25 00:00:00.000,,0.0,,"Merlischachen, 6402",,useagain,92428,CH,de,,https://www.useagain.ch/de/balkontuere-vollrahmen-1-flueglig-neu-3-fach-glas-weiss-aussen-rot-92428,E03.01,single leaf window,50.0,,,"{'score': 0.017574846744537354, 'start': 281, 'end': 299, 'answer': ' Kunststoff weiss,'}","{'score': 2.0444751953618834e-06, 'start': 398, 'end': 417, 'answer': ' 4b/12g/4/12g/4b mm'}","{'score': 2.7835818400490098e-05, 'start': 542, 'end': 548, 'answer': ' 150kg'}",Architectural glass,Window walls,Pr_30_59_99,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels

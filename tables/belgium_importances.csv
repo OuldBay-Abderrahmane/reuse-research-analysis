@@ -1,64 +1,67 @@
 ,Feature,Importance
-9,Category_Floor,0.20531718
-205,material_emb_Granite,0.12283337
-6,Category_Door,0.08268298
-139,Belgium_Raw_Terrazzo tiles,0.080337435
-206,material_emb_Granite-powder cement,0.07631812
-110,Belgium_Raw_Quarry tiles,0.06515792
-223,material_emb_Marble,0.04899363
-1,Latest_Price,0.03666054
-0,Weight,0.024143763
-17,Category_Per Building,0.02311185
-7,Category_Doors,0.019899357
-16,Category_Objet Trouvé,0.015794074
-157,Belgium_Raw_Wood panelled door leaves,0.015285279
-123,Belgium_Raw_Sinks,0.013839499
-92,Belgium_Raw_Laminboard core plywoods,0.013687628
-3,Category_Bricks,0.012683109
-153,Belgium_Raw_Wood door frames,0.01236757
-275,material_emb_Wood,0.011512249
-22,Category_Sanitary,0.010325551
-165,material_emb_Architectural glass,0.009779247
-252,material_emb_Sitka spruce,0.009459758
-26,Category_Technical,0.009349449
-18,Category_Per building,0.0088931285
-40,Belgium_Raw_Bathroom cabinets,0.008744997
-29,Category_Wood,0.008666614
-175,material_emb_Ceramic,0.007798585
-154,Belgium_Raw_Wood doorsets,0.007217591
-10,Category_Floors,0.006962582
-50,Belgium_Raw_Ceramic tiles,0.006859132
-28,Category_Wall Cladding,0.005730578
-237,material_emb_Porcelain,0.0055670054
-263,material_emb_Terracotta,0.0053236117
-266,material_emb_Ultrapure water,0.0047926344
-130,Belgium_Raw_Stainless steel door leaves,0.0039039406
+9,Category_Floor,0.18905157
+110,Belgium_Raw_Quarry tiles,0.11348905
+206,material_emb_Granite-powder cement,0.10153908
+6,Category_Door,0.079193
+139,Belgium_Raw_Terrazzo tiles,0.07230592
+223,material_emb_Marble,0.04354039
+1,Latest_Price,0.03631352
+17,Category_Per Building,0.030097015
+0,Weight,0.024038672
+205,material_emb_Granite,0.023543429
+3,Category_Bricks,0.020300772
+7,Category_Doors,0.018970042
+257,material_emb_Stainless steel,0.01846863
+18,Category_Per building,0.015969606
+22,Category_Sanitary,0.014449377
+252,material_emb_Sitka spruce,0.014247454
+275,material_emb_Wood,0.014135937
+266,material_emb_Ultrapure water,0.013792137
+40,Belgium_Raw_Bathroom cabinets,0.013733274
+92,Belgium_Raw_Laminboard core plywoods,0.0127480645
+16,Category_Objet Trouvé,0.012706925
+123,Belgium_Raw_Sinks,0.01164994
+175,material_emb_Ceramic,0.010874193
+153,Belgium_Raw_Wood door frames,0.010516516
+26,Category_Technical,0.010397421
+157,Belgium_Raw_Wood panelled door leaves,0.009582368
+165,material_emb_Architectural glass,0.009100259
+29,Category_Wood,0.008020346
+154,Belgium_Raw_Wood doorsets,0.006799082
+10,Category_Floors,0.0065983916
+263,material_emb_Terracotta,0.0065494166
+50,Belgium_Raw_Ceramic tiles,0.006513558
+237,material_emb_Porcelain,0.006302483
+28,Category_Wall Cladding,0.0057353205
+8,Category_Droguerie,0.004648748
+130,Belgium_Raw_Stainless steel door leaves,0.0040781945
+190,material_emb_Expanded slag aggregates,0.0
+186,material_emb_Emulsion,0.0
+189,material_emb_European oak,0.0
+188,material_emb_European larch,0.0
+187,material_emb_Encaustic,0.0
 192,material_emb_Expansive concrete,0.0
 185,material_emb_Dutch elm,0.0
-186,material_emb_Emulsion,0.0
-187,material_emb_Encaustic,0.0
-207,material_emb_Granule,0.0
-188,material_emb_European larch,0.0
-4,Category_Ceiling,0.0
-189,material_emb_European oak,0.0
-204,material_emb_Gneiss,0.0
-190,material_emb_Expanded slag aggregates,0.0
+184,material_emb_Dolerite,0.0
 191,material_emb_Expanded slate aggregates,0.0
+199,material_emb_French oak,0.0
 193,material_emb_Fibre,0.0
-201,material_emb_Glare-reducing glass,0.0
 194,material_emb_Figured glass,0.0
 195,material_emb_Filament,0.0
-203,material_emb_Glass wool,0.0
 196,material_emb_Fine lightweight aggregates for concrete and mortar,0.0
 197,material_emb_Fire clay,0.0
 198,material_emb_Fluids,0.0
-199,material_emb_French oak,0.0
-202,material_emb_Glass fibre-reinforced concrete,0.0
-184,material_emb_Dolerite,0.0
 200,material_emb_Galvanized steel,0.0
-8,Category_Droguerie,0.0
+201,material_emb_Glare-reducing glass,0.0
+202,material_emb_Glass fibre-reinforced concrete,0.0
+203,material_emb_Glass wool,0.0
+204,material_emb_Gneiss,0.0
+207,material_emb_Granule,0.0
 183,material_emb_Designated concrete,0.0
+174,material_emb_Cement-bound granular mixtures,0.0
 182,material_emb_Decorative aggregates,0.0
+167,material_emb_Bituminous material,0.0
+152,Belgium_Raw_Wood brise-soleil units,0.0
 155,Belgium_Raw_Wood fibres,0.0
 156,Belgium_Raw_Wood oils,0.0
 158,Belgium_Raw_Wood skirtings,0.0
@@ -69,25 +72,24 @@
 163,material_emb_Aerosol,0.0
 164,material_emb_Aluminium,0.0
 166,material_emb_Balsam resin,0.0
-167,material_emb_Bituminous material,0.0
 168,material_emb_Blinding aggregates,0.0
+181,material_emb_Daub,0.0
 169,material_emb_Bonded surfacing decorative aggregates,0.0
 170,material_emb_Borosilicate glass,0.0
 171,material_emb_Brass,0.0
 172,material_emb_Bronze,0.0
 173,material_emb_Cement replacement materials,0.0
-174,material_emb_Cement-bound granular mixtures,0.0
 209,material_emb_Heat-absorbing glass,0.0
 176,material_emb_Chrome steel,0.0
 177,material_emb_Clinker,0.0
 178,material_emb_Coade stone,0.0
 179,material_emb_Coloured glass,0.0
 180,material_emb_Compressed air,0.0
-181,material_emb_Daub,0.0
 208,material_emb_Gravel,0.0
 217,material_emb_Lime,0.0
 210,material_emb_Insulating concrete,0.0
 259,material_emb_Structural steel,0.0
+244,material_emb_Reflective glass,0.0
 245,material_emb_Rubble concrete,0.0
 246,material_emb_Safety glass,0.0
 247,material_emb_Sandstone,0.0
@@ -99,10 +101,9 @@
 254,material_emb_Soap,0.0
 255,material_emb_Spandrel glass,0.0
 256,material_emb_Spheroidal graphite iron,0.0
-257,material_emb_Stainless steel,0.0
 258,material_emb_Structural glass,0.0
 260,material_emb_Surface dressing aggregates,0.0
-243,material_emb_Recycled rubber granules,0.0
+211,material_emb_Insulating glass,0.0
 261,material_emb_Surface treatment fine aggregates,0.0
 262,material_emb_Teak,0.0
 264,material_emb_Tufa,0.0
@@ -116,16 +117,16 @@
 273,material_emb_Weathering steel,0.0
 274,material_emb_Wired glass,0.0
 276,material_emb_Wrought iron,0.0
-244,material_emb_Reflective glass,0.0
+243,material_emb_Recycled rubber granules,0.0
 242,material_emb_Radiata pine,0.0
-211,material_emb_Insulating glass,0.0
-225,material_emb_Metal,0.0
+241,material_emb_Pre-blended concrete,0.0
+240,material_emb_Pozzolana,0.0
 212,material_emb_Lacquer resin,0.0
 213,material_emb_Larch,0.0
 214,material_emb_Lead,0.0
 215,material_emb_Lightweight insulating concrete,0.0
 216,material_emb_Lignite,0.0
-151,Belgium_Raw_Wood architraves,0.0
+150,Belgium_Raw_Window walls,0.0
 218,material_emb_Limestone,0.0
 219,material_emb_Long fibre-reinforced plastics resin,0.0
 220,material_emb_Loose surfacing decorative aggregates,0.0
@@ -133,8 +134,8 @@
 222,material_emb_Manganese steel,0.0
 2,Category_Brick,0.0
 224,material_emb_Masonry cement,0.0
+225,material_emb_Metal,0.0
 226,material_emb_Mosaic glass,0.0
-241,material_emb_Pre-blended concrete,0.0
 227,material_emb_Net,0.0
 228,material_emb_Oak,0.0
 229,material_emb_Oil,0.0
@@ -147,10 +148,9 @@
 236,material_emb_Polyvinyl chloride (PVC),0.0
 238,material_emb_Powder,0.0
 239,material_emb_Pozzolan cement,0.0
-240,material_emb_Pozzolana,0.0
-152,Belgium_Raw_Wood brise-soleil units,0.0
+151,Belgium_Raw_Wood architraves,0.0
 143,Belgium_Raw_Trellises,0.0
-150,Belgium_Raw_Window walls,0.0
+149,Belgium_Raw_Whiteboards,0.0
 65,Belgium_Raw_Door frames and leaves,0.0
 52,Belgium_Raw_Compact fluorescent lamps,0.0
 53,Belgium_Raw_Composite door leaves,0.0
@@ -214,8 +214,9 @@
 46,Belgium_Raw_Ceramic slates,0.0
 80,Belgium_Raw_Glass blocks,0.0
 82,Belgium_Raw_Glass louvre blades,0.0
-149,Belgium_Raw_Whiteboards,0.0
-133,Belgium_Raw_Stainless steel traditional sheets,0.0
+148,Belgium_Raw_Wall-hung urinals,0.0
+132,Belgium_Raw_Stainless steel support rails,0.0
+117,Belgium_Raw_Round pin socket outlets,0.0
 118,Belgium_Raw_Sanitary accessories,0.0
 119,Belgium_Raw_Scagliola,0.0
 120,Belgium_Raw_Sedge,0.0
@@ -228,14 +229,14 @@
 128,Belgium_Raw_Stainless steel clips,0.0
 129,Belgium_Raw_Stainless steel door frames,0.0
 131,Belgium_Raw_Stainless steel doorsets,0.0
-132,Belgium_Raw_Stainless steel support rails,0.0
+133,Belgium_Raw_Stainless steel traditional sheets,0.0
+115,Belgium_Raw_Renovating plasters,0.0
 134,Belgium_Raw_Stair lift signs,0.0
-116,Belgium_Raw_Rigid polyurethane frame roof window units,0.0
 135,Belgium_Raw_Stone slabs,0.0
 136,Belgium_Raw_Stone tiles,0.0
 137,Belgium_Raw_Submerged panel heat exchangers,0.0
 138,Belgium_Raw_Terrazzo tile skirtings,0.0
-5,Category_Cloisons,0.0
+4,Category_Ceiling,0.0
 140,Belgium_Raw_Timber stair treads,0.0
 141,Belgium_Raw_Toilet paper dispensers,0.0
 142,Belgium_Raw_Toilet roll holders,0.0
@@ -243,9 +244,8 @@
 145,Belgium_Raw_Vermicides ,0.0
 146,Belgium_Raw_WC pans,0.0
 147,Belgium_Raw_Wall and floor tile units,0.0
-148,Belgium_Raw_Wall-hung urinals,0.0
-117,Belgium_Raw_Round pin socket outlets,0.0
-115,Belgium_Raw_Renovating plasters,0.0
+116,Belgium_Raw_Rigid polyurethane frame roof window units,0.0
+114,Belgium_Raw_Refrigerated display cabinet doors,0.0
 83,Belgium_Raw_Glass noise barrier panels,0.0
 98,Belgium_Raw_Medicine cabinets,0.0
 84,Belgium_Raw_Glass panels,0.0
@@ -262,7 +262,7 @@
 96,Belgium_Raw_Lime renders,0.0
 97,Belgium_Raw_Linseed oil putties,0.0
 99,Belgium_Raw_Metal skirtings,0.0
-114,Belgium_Raw_Refrigerated display cabinet doors,0.0
+113,Belgium_Raw_Refractory bricks,0.0
 100,Belgium_Raw_Metal sways,0.0
 101,Belgium_Raw_Metal tiles,0.0
 102,Belgium_Raw_Multilayer flooring,0.0
@@ -273,7 +273,7 @@
 107,Belgium_Raw_Plywood framed panels,0.0
 108,Belgium_Raw_Porcelain tiles,0.0
 109,Belgium_Raw_Power over ethernet (POE) network switches,0.0
+5,Category_Cloisons,0.0
 111,Belgium_Raw_Radiators,0.0
 112,Belgium_Raw_Reclining chairs,0.0
-113,Belgium_Raw_Refractory bricks,0.0
 277,material_emb_Wychert,0.0

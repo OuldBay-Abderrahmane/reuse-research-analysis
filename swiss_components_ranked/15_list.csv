@@ -1,0 +1,146 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+866,1699,1699,Keramikplatten/Bodenfliesen,like new,"['G02.02', 'G03.02']",Building fit-out,,Ausbau,Boden - & Wandbeläge,Keramikbeläge,"Produkte-Nr. 2494
+
+Mällsten von Ikea
+Wetterfest; für Drinnen und Draussen
+Inhalt pro Pack: 9 Platten = 0.81 mÂ²
+Gewicht pro Pack: 22 kg
+Total: 32.4mÂ²",Ceramic,30.0,30.0,1,,,,,2022-12-23,19.0,,,1970-01-01,20.0,1970-01-01 00:00:00.002,1.0,1.0,0.0,"Zürich, 8050",,useagain,82650,CH,de,2494_1_570x570.jpg,https://www.useagain.ch/de/keramikplatten-bodenfliesen-82650,G,floor tiles,,,,"{'score': 0.6445032358169556, 'start': 18, 'end': 27, 'answer': '\nMällsten'}","{'score': 0.09374390542507172, 'start': 102, 'end': 111, 'answer': ' 0.81 mÂ²'}","{'score': 0.5283754467964172, 'start': 90, 'end': 111, 'answer': ' 9 Platten = 0.81 mÂ²'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1036,1883,1883,Wandklosett Laufen Moderna Keramik,used & cleaned,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"WC zu verkaufen. Ohne Einbauspülkasten, nur WC!
+Gebraucht, aber in sehr gutem Zustand.
+
+Neupreis CHF 316.00 pro Stück.
+
+Wir verkaufen 3 Stück.
+
+Pro Stück CHF 60.00.
+Alle 3 Stück zusammen CHF 160.00.
+
+Muss in Luzern abgeholt werden.",Ceramic,,,,,,,,,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Luzern, 6005",,useagain,90379,CH,de,,https://www.useagain.ch/de/wandklosett-laufen-moderna-up-keramik-90379,,,,,,"{'score': 4.493915639613988e-06, 'start': 0, 'end': 2, 'answer': 'WC'}","{'score': 0.0005989815108478069, 'start': 138, 'end': 147, 'answer': ' 3 Stück.'}","{'score': 0.7067825794219971, 'start': 138, 'end': 147, 'answer': ' 3 Stück.'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1130,1979,1979,Lavabo Keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 28 cm 
+Masse: H: 16 cm B: 68,5/69 cm T: 49,5 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 107247",Ceramic,49.0,69.0,16,,,white,,2022-10-19,60.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-10.0,1.0,173.0,"Münchenstein, 4142",,useagain,91058,CH,de,107247_1_570x570.jpg,https://www.useagain.ch/de/lavabo-keramik-weiss-91058,J01.02,sink,,,,"{'score': 0.9853945374488831, 'start': 144, 'end': 152, 'answer': ' Keramik'}","{'score': 0.2663063704967499, 'start': 76, 'end': 110, 'answer': ' H: 16 cm B: 68,5/69 cm T: 49,5 cm'}","{'score': 0.00011473699123598635, 'start': 88, 'end': 110, 'answer': ' 68,5/69 cm T: 49,5 cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1209,2058,2058,Lavabo Keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Bauteilbörse Müchenstein
+Garantie: ohne Garantie
+Lochabstand: 28 cm
+Mängel: Gebrauchsspuren
+Material: Kunststoff
+Zustand: occasion/gebraucht
+
+Artikel Nr: 107947",Wood,,,,,,white,,2022-10-19,120.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-70.0,1.0,173.0,"Münchenstein, 4142",,useagain,91060,CH,de,107947_1_570x570.jpg,https://www.useagain.ch/de/lavabo-keramik-weiss-91060,J01.02,sink,,,,"{'score': 0.99119633436203, 'start': 113, 'end': 124, 'answer': ' Kunststoff'}","{'score': 0.3165598511695862, 'start': 73, 'end': 79, 'answer': ' 28 cm'}","{'score': 2.8974722226848826e-05, 'start': 73, 'end': 76, 'answer': ' 28'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1211,2060,2060,Doppellavabo Keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 68 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108018",Ceramic,,,,,,mixed,,2022-10-19,120.0,,,1970-01-01,80.0,2023-09-25 00:00:00.000,-20.0,1.0,173.0,"Münchenstein, 4142",,useagain,91062,CH,de,108018_1_570x570.jpg,https://www.useagain.ch/de/doppellavabo-keramik-weiss-91062,J01.02,sink,,,,"{'score': 0.9866831302642822, 'start': 102, 'end': 110, 'answer': ' Keramik'}","{'score': 0.32507506012916565, 'start': 62, 'end': 68, 'answer': ' 68 cm'}","{'score': 7.118868234101683e-05, 'start': 62, 'end': 68, 'answer': ' 68 cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+1304,2155,2155,Lavabo Keramik weiss,like new,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 28/40 cm 
+Masse: H: 15 cm, B: 61/61,5 cm, T: 49 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108209",Ceramic,49.0,61.0,15,,,white,,2022-10-19,120.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-70.0,1.0,173.0,"Münchenstein, 4142",,useagain,91065,CH,de,108209_1_570x570.jpg,https://www.useagain.ch/de/lavabo-keramik-weiss-91065,J01.02,sink,,,,"{'score': 0.9842785596847534, 'start': 147, 'end': 155, 'answer': ' Keramik'}","{'score': 0.07700736820697784, 'start': 82, 'end': 113, 'answer': ' 15 cm, B: 61/61,5 cm, T: 49 cm'}","{'score': 0.0012710609007626772, 'start': 82, 'end': 113, 'answer': ' 15 cm, B: 61/61,5 cm, T: 49 cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1305,2156,2156,Lavabo Laufen Keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Laufen
+Garantie: ohne Garantie
+Lochabstand: 40 cm 
+Masse: H: 15.5 cm, B: 69/65 cm, T: 49.5 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108236",Ceramic,49.0,69.0,"15,5",,,white,,2022-10-19,69.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-19.0,1.0,173.0,"Münchenstein, 4142",,useagain,91066,CH,de,108236_1_570x570.jpg,https://www.useagain.ch/de/lavabo-laufen-keramik-weiss-91066,J01.02,sink,,,,"{'score': 0.9775332808494568, 'start': 139, 'end': 147, 'answer': ' Keramik'}","{'score': 0.07412882149219513, 'start': 72, 'end': 105, 'answer': ' 15.5 cm, B: 69/65 cm, T: 49.5 cm'}","{'score': 5.2333347412059084e-05, 'start': 97, 'end': 105, 'answer': ' 49.5 cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+1337,2188,2188,Lavabo Keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 28 cm
+Masse: H: 28 cm, B: 56.5/59 cm, T: 46 cm
+Mängel: Gebrauchsspuren
+Material: Kunststoff
+Zustand: occasion/gebraucht
+
+Artikel Nr: 107953",Ceramic,46.0,59.0,28,,,white,,2022-10-19,120.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-70.0,1.0,173.0,"Münchenstein, 4142",,useagain,91061,CH,de,107953_1_570x570.jpg,https://www.useagain.ch/de/lavabo-keramik-weiss-91061,J01.02,sink,,,,"{'score': 0.9909369945526123, 'start': 143, 'end': 154, 'answer': ' Kunststoff'}","{'score': 0.06545960158109665, 'start': 75, 'end': 100, 'answer': ' H: 28 cm, B: 56.5/59 cm,'}","{'score': 0.012904967181384563, 'start': 78, 'end': 109, 'answer': ' 28 cm, B: 56.5/59 cm, T: 46 cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1397,2248,2248,Lavabo laufen keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Laufen
+Garantie: ohne Garantie
+Masse: H: 22 cm, B: 54/59 cm, T: 50 cm
+Lochabstand: 28 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikelnr:  111752",Ceramic,,,,,,,,2022-10-06,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,85.0,"Münchenstein, 4142",,useagain,90816,CH,de,111752_570x570.jpg,https://www.useagain.ch/de/lavabo-laufen-keramik-weiss-90816,J01.02,sink,,,,"{'score': 0.98479163646698, 'start': 134, 'end': 142, 'answer': ' Keramik'}","{'score': 0.7921709418296814, 'start': 49, 'end': 81, 'answer': ' H: 22 cm, B: 54/59 cm, T: 50 cm'}","{'score': 0.009088154882192612, 'start': 49, 'end': 81, 'answer': ' H: 22 cm, B: 54/59 cm, T: 50 cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+1456,2307,2307,Div . Keramikfassungen,"used, cleaned & tested","['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111282",Mixed,,,,,,mixed,,2022-10-06,5.0,,,1970-01-01,5.0,1970-01-01 00:00:00.000,0.0,1.0,115.0,"Münchenstein, 4142",,useagain,90777,CH,de,111282_570x570.jpg,https://www.useagain.ch/de/div.-keramikfassungen-90777,D11,,,,,"{'score': 0.002440735697746277, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 3.526311775203794e-05, 'start': 11, 'end': 25, 'answer': ' keine Angaben'}","{'score': 0.0013929195702075958, 'start': 114, 'end': 121, 'answer': ' 111282'}",Ceramic,Ceramic slates,Pr_25_93_72_11,Technical elements,"Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1630,2481,2481,Laufen Keramik,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Laufen
+Garantie: ohne Garantie
+Lochabstand: 28cm
+Masse: H: 17cm B: 53.5/54 cm, T: 43cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111265",Ceramic,,,,,,,,2022-10-04,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.000,0.0,1.0,29.0,"Münchenstein, 4142",,useagain,90767,CH,de,111265_570x570.jpg,https://www.useagain.ch/de/laufen-keramik-90767,J01.02,,,,,"{'score': 0.9867144823074341, 'start': 132, 'end': 140, 'answer': ' Keramik'}","{'score': 0.309589684009552, 'start': 67, 'end': 98, 'answer': ' H: 17cm B: 53.5/54 cm, T: 43cm'}","{'score': 3.68337678082753e-05, 'start': 78, 'end': 90, 'answer': ' 53.5/54 cm,'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1658,2509,2509,Ausgussbecken halbrund Keramik,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 20.5 cm, B: 52/50 cm, T: 38cm
+Lochabstand: 28 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikelnr:  111753",Ceramic,,,,,,,,2022-10-06,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,20.0,"Münchenstein, 4142",,useagain,90817,CH,de,111753_570x570.jpg,https://www.useagain.ch/de/ausgussbecken-halbrund-keramik-90817,J01.02,sink,,,,"{'score': 0.9831763505935669, 'start': 142, 'end': 150, 'answer': ' Keramik'}","{'score': 0.0556393638253212, 'start': 56, 'end': 81, 'answer': ' H: 20.5 cm, B: 52/50 cm,'}","{'score': 0.01945526711642742, 'start': 59, 'end': 89, 'answer': ' 20.5 cm, B: 52/50 cm, T: 38cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1735,2586,2586,Bidet Keramik weiss,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Scarabeo
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Montage: Stehend
+Zustand: occasion/gebraucht
+
+Artikel Nr: 107221",Mixed,,,,,,mixed,,2022-10-18,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91002,CH,de,107221_1_570x570.jpg,https://www.useagain.ch/de/bidet-keramik-weiss-91002,D09.05,bidet,,,,"{'score': 0.003407870652154088, 'start': 11, 'end': 20, 'answer': ' Scarabeo'}","{'score': 0.000358307093847543, 'start': 68, 'end': 85, 'answer': '\nMontage: Stehend'}","{'score': 0.002691596979275346, 'start': 126, 'end': 133, 'answer': ' 107221'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1737,2588,2588,Keramik weiss,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 18cm
+Mängel: Gebrauchsspuren
+Spezifikation: Inkl. WC-Deckel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108212",Ceramic,,,,,,white,,2022-10-18,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91006,CH,de,108212_1_570x570.jpg,https://www.useagain.ch/de/wc-keramik-weiss-91006,D09.05,WC,,,,"{'score': 0.0010915426537394524, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 0.507980227470398, 'start': 62, 'end': 67, 'answer': ' 18cm'}","{'score': 0.0029283890035003424, 'start': 106, 'end': 122, 'answer': ' Inkl. WC-Deckel'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+2032,2886,2886,Becken aus Keramik,,['D08.05'],"Water: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,Armaturen,"Farbe: Beige
+Material: Steinzeug/ Keramik
+Montageart: Aufsatz
+Ausgussdurchmesser: 4,4cm",Stone,,,,,,,,2022-11-30,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,16.0,"Brügg, 2555",,useagain,91411,CH,de,_dsc9583_570x570.jpg,https://www.useagain.ch/de/becken-aus-keramik-91411,D08.05,,,,,"{'score': 0.8747474551200867, 'start': 22, 'end': 41, 'answer': ' Steinzeug/ Keramik'}","{'score': 0.16888581216335297, 'start': 81, 'end': 87, 'answer': ' 4,4cm'}","{'score': 1.0510843821975868e-05, 'start': 61, 'end': 87, 'answer': '\nAusgussdurchmesser: 4,4cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+2506,3689,3689,Lavabo Laufen Keramik weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Laufen
+Garantie: ohne Garantie
+Lochabstand: 40 cm 
+Masse: H: 15cm B: 59cm T: 55cm
+Montage: Wandmontage
+Mängel: keine Mängel
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111965",Ceramic,55.0,59.0,15,,,white,,,60.0,,,1970-01-01,50.0,1970-01-01 00:00:00.002,-10.0,1.0,90.0,"Münchenstein, 4142",,useagain,91787,CH,de,111965_570x570.jpg,https://www.useagain.ch/de/lavabo-laufen-keramik-weiss-91787,J01.02,sink,,,,"{'score': 0.9834792613983154, 'start': 145, 'end': 153, 'answer': ' Keramik'}","{'score': 0.5359249114990234, 'start': 69, 'end': 93, 'answer': ' H: 15cm B: 59cm T: 55cm'}","{'score': 0.0002601994783617556, 'start': 62, 'end': 77, 'answer': '\nMasse: H: 15cm'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+3164,4369,4369,Plaque vitro céramique,used,['Sonstiges'],,Mobilier,Ausbau,Möbel & Einrichtungen,,Va avec l'objet nÂ° 2302-5812,Stainless steel,0.0,57.0,50.5,,5kg,,,,215.0,0.0,1.0,1970-01-01,215.0,1970-01-01 00:00:00.000,,1.0,0.0,,CROIX D'OR,materiuum,2302-5815,CH,fr,['https://materiuum.ch/wp-content/uploads/2023/04/2302-5815-a-600x450.jpg'],https://materiuum.ch/produit/347-9/,,ceramic glass cooktop,,,,"{'score': 0.01580164022743702, 'start': 15, 'end': 19, 'answer': ' nÂ°'}","{'score': 0.05435193330049515, 'start': 19, 'end': 29, 'answer': ' 2302-5812'}","{'score': 0.050505589693784714, 'start': 19, 'end': 29, 'answer': ' 2302-5812'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+3168,4374,4374,Plaque vitro céramique,used,"['G05.01', 'J01.01', 'J01.02']",Furniture,Mobilier,Ausbau,Möbel & Einrichtungen,Möbel,Baignoire pour bébé en céramique blanche encastrée dans plan de travail. Sans mitigeur. Avec système pour bloquer l'écoulement de l'eau,Aluminum,0.0,52.0,58,,,,,,215.0,0.0,1.0,1970-01-01,215.0,1970-01-01 00:00:00.000,,1.0,0.0,,CROIX D'OR,materiuum,2302-5791,CH,fr,['https://materiuum.ch/wp-content/uploads/2023/04/2302-5791-a-600x450.jpg'],https://materiuum.ch/produit/345-29/,J01,ceramic glass cooktop,,,,"{'score': 0.5336285829544067, 'start': 22, 'end': 40, 'answer': ' céramique blanche'}","{'score': 0.0010360929882153869, 'start': 40, 'end': 72, 'answer': ' encastrée dans plan de travail.'}","{'score': 7.222894964797888e-06, 'start': 72, 'end': 87, 'answer': ' Sans mitigeur.'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+3413,4642,4643,Küchenspüle Keramik,gebraucht & gereinigt,['G05.02'],,,Ausbau,Küchen & Gastronomie,Spülen,"Schüttstein in Top Zustand
+Ablage rechts
+
+Interne Artikelnummer: 112177",Ceramic,110.0,60.0,28,,,,,2023-05-15,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,,0.0,4.0,"Münchenstein, 4142",,,92542,,,112177_570x570.jpg,https://www.useagain.ch/de/kuechenspuele-keramik-92542,,,,,,"{'score': 0.8654979467391968, 'start': 0, 'end': 11, 'answer': 'Schüttstein'}","{'score': 0.006939555983990431, 'start': 0, 'end': 40, 'answer': 'Schüttstein in Top Zustand\nAblage rechts'}","{'score': 0.0006724377744831145, 'start': 0, 'end': 71, 'answer': 'Schüttstein in Top Zustand\nAblage rechts\n\nInterne Artikelnummer: 112177'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+3638,4888,4889,Küchenspüle Keramik,used & cleaned,['G05.02'],Fitted kitchens,Mobilier,Ausbau,Küchen & Gastronomie,Spülen,"Schüttstein in Top Zustand
+Ablage rechts
+
+Interne Artikelnummer: 112177",Keramik,110.0,60.0,28,,,,,2023-05-15,,,,,,1970-01-01 00:00:00.002,,0.0,,"Münchenstein, 4142",,useagain,92542,CH,de,112177_570x570.jpg,https://www.useagain.ch/de/kuechenspuele-keramik-92542,G05.02,kitchen,150.0,,,"{'score': 0.8654979467391968, 'start': 0, 'end': 11, 'answer': 'Schüttstein'}","{'score': 0.006939555983990431, 'start': 0, 'end': 40, 'answer': 'Schüttstein in Top Zustand\nAblage rechts'}","{'score': 0.0006724377744831145, 'start': 0, 'end': 71, 'answer': 'Schüttstein in Top Zustand\nAblage rechts\n\nInterne Artikelnummer: 112177'}",Ceramic,Ceramic slates,Pr_25_93_72_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"

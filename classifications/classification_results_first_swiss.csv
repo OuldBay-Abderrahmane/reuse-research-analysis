@@ -1,0 +1,189 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98        84
+           1       0.99      1.00      0.99       226
+
+    accuracy                           0.99       310
+   macro avg       0.99      0.98      0.99       310
+weighted avg       0.99      0.99      0.99       310
+","                                      Feature  Importance
+6                                  FirstPrice    0.190177
+143           Condition_gebraucht & gereinigt    0.180746
+144  Condition_gebraucht, gereinigt & geprüft    0.159388
+148                       Condition_neuwertig    0.085016
+7                               PriceOnDemand    0.077427
+..                                        ...         ...
+96                            Swiss_Raw_Roses    0.000000
+97                          Swiss_Raw_Runners    0.000000
+98                             Swiss_Raw_Sand    0.000000
+99        Swiss_Raw_Sanitary towel dispensers    0.000000
+256                         first_level_Other    0.000000
+
+[257 rows x 2 columns]"
+1,Furnishings,"              precision    recall  f1-score   support
+
+           0       1.00      0.83      0.91        12
+           1       0.96      1.00      0.98        47
+
+    accuracy                           0.97        59
+   macro avg       0.98      0.92      0.94        59
+weighted avg       0.97      0.97      0.96        59
+","                                     Feature  Importance
+175                 Material_Stainless steel    0.182108
+28                       Swiss_Raw_Cupboards    0.175948
+6                                 FirstPrice    0.165129
+14                        Category_Sonstiges    0.089447
+133                Subcategory_Einrichtungen    0.070595
+..                                       ...         ...
+68                    Swiss_Raw_Office desks    0.000000
+69                Swiss_Raw_Office equipment    0.000000
+70                Swiss_Raw_Overchair tables    0.000000
+71   Swiss_Raw_Packings, washers and spacers    0.000000
+183                  first_level_Furnishings    0.000000
+
+[184 rows x 2 columns]"
+2,Technical elements,"              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        22
+           1       1.00      1.00      1.00        70
+
+    accuracy                           1.00        92
+   macro avg       1.00      1.00      1.00        92
+weighted avg       1.00      1.00      1.00        92
+","                                           Feature  Importance
+138       Condition_gebraucht, gereinigt & geprüft    0.544887
+6                                       FirstPrice    0.140771
+144               Condition_used, cleaned & tested    0.048925
+143                       Condition_used & cleaned    0.039209
+13                              Category_Sonstiges    0.037161
+..                                             ...         ...
+79   Swiss_Raw_Machine parts cleaning washer units    0.000000
+80      Swiss_Raw_Medical and laboratory equipment    0.000000
+81                         Swiss_Raw_Medium boards    0.000000
+82                        Swiss_Raw_Meeting booths    0.000000
+213                 first_level_Technical elements    0.000000
+
+[214 rows x 2 columns]"
+3,"Wall, Barriers, Pannels","              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.93        48
+           1       0.97      1.00      0.98       196
+
+    accuracy                           0.98       244
+   macro avg       0.99      0.94      0.96       244
+weighted avg       0.98      0.98      0.97       244
+","                                       Feature  Importance
+189                        Condition_neuwertig    0.283813
+183            Condition_gebraucht & gereinigt    0.207105
+182                        Condition_gebraucht    0.170204
+6                                   FirstPrice    0.138373
+184   Condition_gebraucht, gereinigt & geprüft    0.064009
+..                                         ...         ...
+102                           Swiss_Raw_Murals    0.000000
+101                     Swiss_Raw_Mosaic tiles    0.000000
+100                   Swiss_Raw_Meter cabinets    0.000000
+99   Swiss_Raw_Metal tubes and hollow sections    0.000000
+295        first_level_Wall, Barriers, Pannels    0.000000
+
+[296 rows x 2 columns]"
+4,"Roof, Slabs, Stairs","              precision    recall  f1-score   support
+
+           0       1.00      0.96      0.98        27
+           1       0.99      1.00      0.99        97
+
+    accuracy                           0.99       124
+   macro avg       0.99      0.98      0.99       124
+weighted avg       0.99      0.99      0.99       124
+","                                      Feature  Importance
+178                       Condition_neuwertig    0.246509
+173                       Condition_gebraucht    0.220347
+175  Condition_gebraucht, gereinigt & geprüft    0.165129
+6                                  FirstPrice    0.076153
+4                                      Weight    0.047055
+..                                        ...         ...
+99         Swiss_Raw_Projection window hinges    0.000000
+100                       Swiss_Raw_Radiators    0.000000
+101                 Swiss_Raw_Rainwater weirs    0.000000
+102                   Swiss_Raw_Refrigerators    0.000000
+264           first_level_Roof, Slabs, Stairs    0.000000
+
+[265 rows x 2 columns]"
+5,Structural elements,"              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         1
+           1       1.00      1.00      1.00        14
+
+    accuracy                           1.00        15
+   macro avg       1.00      1.00      1.00        15
+weighted avg       1.00      1.00      1.00        15
+","                            Feature  Importance
+35     Swiss_Raw_Sectional products    0.479202
+7                     PriceOnDemand    0.147410
+8                          Quantity    0.129478
+13               Category_Sonstiges    0.085391
+6                        FirstPrice    0.077862
+..                              ...         ...
+32       Swiss_Raw_Plastics linings    0.000000
+31        Swiss_Raw_Metal skirtings    0.000000
+30           Swiss_Raw_Metal panels    0.000000
+29         Swiss_Raw_Metal bollards    0.000000
+91  first_level_Structural elements    0.000000
+
+[92 rows x 2 columns]"
+6,Openings,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         1
+           1       0.88      1.00      0.93         7
+
+    accuracy                           0.88         8
+   macro avg       0.44      0.50      0.47         8
+weighted avg       0.77      0.88      0.82         8
+","                                 Feature  Importance
+6                             FirstPrice    0.670637
+0                                 Length    0.329363
+35                     Material_Compound    0.000000
+26               Subcategory_Aussentüren    0.000000
+27                 Subcategory_Baustoffe    0.000000
+28             Subcategory_Einrichtungen    0.000000
+29                Subcategory_Innentüren    0.000000
+30         Subcategory_Leuchten & Lampen    0.000000
+31                 Subcategory_Sonstiges    0.000000
+32               Subcategory_Wandfenster    0.000000
+33                  Subcategory_Werkzeug    0.000000
+34                     Subcategory_Wände    0.000000
+36                        Material_Glass    0.000000
+24              Condition_used & cleaned    0.000000
+37                         Material_Holz    0.000000
+38                        Material_Metal    0.000000
+39                        Material_Mixed    0.000000
+40                      Material_Plastic    0.000000
+41                        Material_Steel    0.000000
+42                         Material_Wood    0.000000
+43                     Material_gemischt    0.000000
+44                   Energy_Efficiency_B    0.000000
+45                   Energy_Efficiency_G    0.000000
+25      Condition_used, cleaned & tested    0.000000
+23                        Condition_used    0.000000
+1                                  Width    0.000000
+22                    Condition_like new    0.000000
+2                                 Height    0.000000
+3                               Diameter    0.000000
+4                                 Weight    0.000000
+5                                  Color    0.000000
+7                          PriceOnDemand    0.000000
+8                               Quantity    0.000000
+9                        Category_Ausbau    0.000000
+10        Category_Baustoffe & Werkzeuge    0.000000
+11  Category_Gebäudehülle & Konstruktion    0.000000
+12     Category_Gebäudetechnik & Sanitär    0.000000
+13                    Category_Sonstiges    0.000000
+14                     Swiss_Raw_Arrises    0.000000
+15                 Swiss_Raw_Door hinges    0.000000
+16                    Swiss_Raw_Doorsets    0.000000
+17                 Swiss_Raw_Gate hinges    0.000000
+18          Swiss_Raw_Pendant luminaires    0.000000
+19               Swiss_Raw_Window hinges    0.000000
+20               Swiss_Raw_Window panels    0.000000
+21                Swiss_Raw_Window walls    0.000000
+46                  first_level_Openings    0.000000"

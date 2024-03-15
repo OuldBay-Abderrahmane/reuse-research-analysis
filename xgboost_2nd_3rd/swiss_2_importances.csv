@@ -1,0 +1,66 @@
+,Feature,Importance
+34,Material_Keramik,0.18345392
+57,Material_gemischt,0.1412874
+39,Material_Metall,0.09345445
+5,Condition_gebraucht,0.055063423
+33,Material_Holz,0.050837953
+12,Condition_neuwertig,0.042109698
+7,"Condition_gebraucht, gereinigt & geprüft",0.04195692
+28,Material_Glas,0.04147637
+49,Material_Stahl,0.039515786
+11,Condition_mixed,0.030977169
+36,Material_Kunststoff,0.029706378
+6,Condition_gebraucht & gereinigt,0.028038217
+38,Material_Metal,0.018875016
+0,LastPrice,0.016897393
+45,Material_Plastic,0.015787326
+9,Condition_like new,0.015165969
+41,Material_Mixed,0.0139202885
+56,Material_Wood,0.013349591
+30,Material_Glass-ceramics,0.012936954
+29,Material_Glass,0.011021191
+23,Material_Ceramic,0.010081206
+60,"second_level_Door, Windows, Gates",0.009870502
+16,"Condition_used, cleaned & tested",0.008739571
+1,Quantity,0.0073645106
+18,Material_Aluminum,0.006883533
+24,Material_Chrome steel,0.0068229744
+44,Material_Other,0.005276493
+15,Condition_used & cleaned,0.005031179
+53,Material_Stone,0.004895335
+51,Material_Steel,0.0046308767
+64,"second_level_Stairs, Ramps, Lift, Hardware",0.003726362
+61,"second_level_Floors, Ceiling",0.003660828
+26,Material_Concrete,0.0035147725
+62,second_level_Furnishings,0.003330352
+59,"second_level_Covering, Finish",0.0032493868
+2,Condition_cleaned & tested,0.0031829719
+50,Material_Stainless steel,0.0031278206
+63,second_level_Other,0.002999508
+58,"second_level_Blocks, Panels, Fences, Bricks",0.002798443
+14,Condition_used,0.002782986
+25,Material_Compound,0.0021989304
+54,Material_Tarpaulin,0.0
+52,Material_Stein,0.0
+8,Condition_gereinigt & geprüft,0.0
+31,Material_Granit,0.0
+55,Material_Textile,0.0
+4,Condition_defekt,0.0
+3,Condition_defective,0.0
+10,Condition_mangelhaft,0.0
+48,Material_Similar,0.0
+13,Condition_new,0.0
+27,Material_Foamed PVC,0.0
+47,Material_Rubber,0.0
+46,Material_Plexiglass,0.0
+17,Material_Aluminium,0.0
+43,Material_Naturstein,0.0
+42,Material_Natural stone,0.0
+19,Material_Artificial stone,0.0
+40,Material_Miscellaneous,0.0
+20,Material_Beton,0.0
+21,Material_Cardboard,0.0
+37,Material_Marble,0.0
+22,Material_Carpet,0.0
+35,Material_Kunststein,0.0
+32,Material_Hardwood,0.0
