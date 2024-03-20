@@ -1,0 +1,2047 @@
+,Feature,Importance
+337,Location_D-28217 Bremen,0.3919118
+2032,material_emb_Concrete,0.06820747
+2040,material_emb_Pisé,0.051905848
+2025,"second_level_Door, Windows, Gates",0.050477877
+2037,material_emb_Lignite,0.045729663
+190,Location_D-14055 Berlin,0.030552002
+2043,material_emb_Sitka spruce,0.02312652
+2033,material_emb_Encaustic,0.022083309
+2024,"second_level_Covering, Finish",0.021194948
+2,Location_12 Monate Gewährleistung,0.02068492
+2030,material_emb_Architectural glass,0.017950332
+380,Location_D-31303 Burgdorf,0.01656218
+2026,"second_level_Floors, Ceiling",0.016215608
+84,Location_D-06120 Halle (Saale),0.015292846
+1260,Location_D-93326 Abensberg,0.015151895
+2036,material_emb_Heat-resistant concrete,0.013300963
+2034,material_emb_Granule,0.013035527
+1315,Location_Gebraucht,0.011491928
+1944,Hersteller_Velux,0.01079124
+2038,material_emb_Masonry cement,0.010123753
+2023,"second_level_Blocks, Panels, Fences, Bricks",0.009725146
+1676,Hersteller_Knauf,0.009505996
+1340,Location_neuwertig,0.009466497
+1859,Hersteller_Schüco,0.008815747
+1339,Location_gut,0.008773876
+42,Location_D-01558 Grossenhain,0.007070283
+0,LastPriceNumeric,0.0065245037
+479,Location_D-40213 Düsseldorf,0.0065120114
+1942,Hersteller_Veka,0.006443618
+1620,Hersteller_Hörmann,0.0059923404
+482,Location_D-40229 Düsseldorf,0.0058841975
+2035,material_emb_Gravel,0.005601119
+1324,Location_Neu,0.0045948317
+2045,material_emb_Weathering steel,0.0043494995
+1823,Hersteller_Roto,0.0037885127
+135,Location_D-10178 Berlin,0.003578429
+2039,material_emb_Peat,0.00343568
+2042,material_emb_Silt,0.0034005186
+2029,material_emb_Aerogel,0.0029764995
+2044,material_emb_Soil,0.0027436551
+2027,second_level_Furnishings,0.0026045474
+2028,second_level_Other,0.0024877645
+1,Location_,0.0019330486
+2031,material_emb_Ceramic,0.0019139098
+1821,Hersteller_Rockwool,0.0018168009
+200,Location_D-14641 Retzow,0.0014890081
+1325,Location_Neuwertig,0.001432814
+2041,material_emb_Proprietary concrete,0.0013485169
+1378,Hersteller_Aluplast ideal 8000,0.0
+1370,Hersteller_Aldra,0.0
+1376,Hersteller_Aluplast HST,0.0
+1375,Hersteller_Aluplast,0.0
+1379,Hersteller_Amf / Knauf,0.0
+1374,Hersteller_Alujet ,0.0
+1373,Hersteller_Altbautür - Unikate ,0.0
+1372,Hersteller_Alsecco,0.0
+1371,Hersteller_Alle bekannten,0.0
+1377,Hersteller_Aluplast Profil ,0.0
+34,Location_D-01169 Dresden,0.0
+1369,Hersteller_Alape,0.0
+1368,Hersteller_Akurit,0.0
+1367,Hersteller_Ahlmann,0.0
+1366,Hersteller_Agrob Buchtal,0.0
+1380,Hersteller_Antik-Stein,0.0
+1364,Hersteller_Abus,0.0
+1363,Hersteller_Abi-Pol ,0.0
+1362,Hersteller_Abi-Pol,0.0
+1361,Hersteller_Abbruchsteine,0.0
+1360,Hersteller_ASW,0.0
+1359,Hersteller_AKURIT,0.0
+1358,Hersteller_AH STUCK GmbH,0.0
+1357,Hersteller_AERECO,0.0
+1356,Hersteller_ACO,0.0
+1355,Hersteller_ABUS,0.0
+1365,Hersteller_Acetat,0.0
+1385,Hersteller_Ari WEDI Euro ,0.0
+1381,Hersteller_Arbonia,0.0
+1397,Hersteller_Bauchemiehandel Meister,0.0
+1410,Hersteller_Bayerwald,0.0
+1409,Hersteller_BayWa,0.0
+1408,Hersteller_Bauwerk Villapark,0.0
+1407,Hersteller_Bautischlerei und Fensterbau Hassmann,0.0
+1406,Hersteller_Bauplast,0.0
+1405,Hersteller_Baumit,0.0
+1404,Hersteller_Bauholz Sägerau,0.0
+1403,Hersteller_Bauhaus ,0.0
+1402,Hersteller_Baufolie deutsche Herstellung,0.0
+1401,Hersteller_Baufan,0.0
+1400,Hersteller_Bauer,0.0
+1399,Hersteller_Bauelement Werratal (BEW24),0.0
+1398,Hersteller_Bauder,0.0
+1396,Hersteller_BauMit,0.0
+1382,Hersteller_Arcelor Mittall,0.0
+1395,Hersteller_Bau Mit,0.0
+1394,Hersteller_Bachl Styropor Platten 1000x500x260mm,0.0
+1393,Hersteller_Bachl ,0.0
+1392,Hersteller_Bachl,0.0
+1391,Hersteller_BTS GmbH,0.0
+1390,Hersteller_BRÖTJE,0.0
+1389,Hersteller_BBLOXx,0.0
+1388,Hersteller_Aus Rückbau ( ERWINUS ),0.0
+1387,Hersteller_Atlas Plan und Graniti Fiandre,0.0
+1386,Hersteller_Ari Wedi,0.0
+1353,Hersteller_AA 86 exclusive serie Ι2,0.0
+1384,Hersteller_Ardex CL 300,0.0
+1383,Hersteller_Ardex,0.0
+1354,Hersteller_ABK,0.0
+1346,Hersteller_-,0.0
+1352,Hersteller_A. Brach,0.0
+1320,Location_HU-9700 Szombathely,0.0
+1318,Location_HU-2151 Fót,0.0
+1317,Location_Guter Zustand (rückgebaut & aufbereitet),0.0
+1316,Location_Gebraucht (rückgebaut & aufbereitet),0.0
+25,Location_CH-4132 Muttenz,0.0
+1314,Location_GR-546 31 Thessaloniki,0.0
+1313,Location_F-77470 Poincy,0.0
+1312,Location_Einwandfeier Zustand (rückgebaut & aufbereitet),0.0
+1311,Location_D-99955 Bad Tennstedt,0.0
+1310,Location_D-99947 Bad Langensalza,0.0
+1309,Location_D-99439 Ettersburg,0.0
+1308,Location_D-99428 Weimar,0.0
+1307,Location_D-99425 Weimar,0.0
+1306,Location_D-99423 Weimar,0.0
+1305,Location_D-99310 Arnstadt,0.0
+1304,Location_D-99085 Erfurt,0.0
+1303,Location_D-98746 Katzhütte,0.0
+1302,Location_D-98660 Themar,0.0
+1301,Location_D-98617 Meiningen,0.0
+1300,Location_D-98547 Kühndorf,0.0
+1299,Location_D-97990 Weikersheim,0.0
+1298,Location_D-97892 Kreuzwertheim,0.0
+1297,Location_D-97846 Partenstein,0.0
+1296,Location_D-97789 Oberleichtersbach,0.0
+1295,Location_D-97753 Karlstadt am Main,0.0
+1294,Location_D-97723 Oberthulba,0.0
+1293,Location_D-97688 Bad Kissingen,0.0
+1292,Location_D-97616 Salz,0.0
+1319,Location_HU-6500 Baja,0.0
+1321,Location_IT-34170 Gorizia,0.0
+1351,Hersteller_?,0.0
+1322,Location_Kreis Göppingen,0.0
+1350,"Hersteller_5 x Lucide Out-Line Wandleuchte IP54 HP LED 4x 1 Watt, aluminium",0.0
+1349,"Hersteller_3 Schreinertüren Esche massiv; 17,5 x 86,0 x 198,5 cm ",0.0
+1348,Hersteller_25x25,0.0
+1347,Hersteller_--,0.0
+1412,Hersteller_Bei Hellweg bestellt,0.0
+1345,Hersteller_(Wahrscheinlich) Dornbracht oder Jörger,0.0
+1344,Hersteller_&quot;Plattenfix&quot;,0.0
+1343,Hersteller_&quot;Blue Door&quot; Fenster aus Polen,0.0
+1342,Hersteller_ VEKA,0.0
+1341,Hersteller_ REHAU Profiltyp SYNEGO,0.0
+22,Location_Aufbereitet,0.0
+23,Location_CH-4051 Basel,0.0
+1338,Location_brauchbar,0.0
+1337,Location_US-70714 Baker,0.0
+1336,Location_SI-2230 Lenart v Slovenskih Goricah,0.0
+1335,Location_PL-78 Szczecinek,0.0
+1334,Location_PL-66-446 Deszczno,0.0
+1333,Location_PL-63 Ostrów Wielkopolski,0.0
+1332,Location_PL-59-975 Sulików,0.0
+1331,Location_PL-59-730 Zebrzydowa,0.0
+1330,Location_PL-59-620 Gryfów Śląski,0.0
+1329,Location_PL-59-400 Jawor,0.0
+1328,Location_PL-58-124 Krasków,0.0
+1327,Location_PL-20 Lublin,0.0
+1326,Location_Neuwertig & Geprüft,0.0
+24,Location_CH-4127 Birsfelden,0.0
+1323,Location_L-7333 Steinsel,0.0
+1411,Hersteller_Beckmann Bochum ,0.0
+1418,"Hersteller_Berker, Artikelnr.: 503808",0.0
+1413,Hersteller_Bergerbond,0.0
+1492,Hersteller_Drutex Iglu,0.0
+1505,Hersteller_Emco,0.0
+1504,Hersteller_Eichenbalken als Vollholz,0.0
+1503,Hersteller_ERWINUS,0.0
+1502,Hersteller_EMS,0.0
+1501,Hersteller_ELKA,0.0
+1500,Hersteller_EL SIGLO,0.0
+1499,Hersteller_EJOT,0.0
+1498,Hersteller_EHL,0.0
+1497,Hersteller_Dörken,0.0
+1496,Hersteller_Duravit,0.0
+1495,Hersteller_Durapox 5 kg BASALT,0.0
+1494,Hersteller_Dural,0.0
+1493,Hersteller_Dräger,0.0
+1491,Hersteller_Drutex IGLU,0.0
+1476,Hersteller_Datwyler Keram,0.0
+1490,Hersteller_Drutex ,0.0
+1489,Hersteller_Drutex,0.0
+1488,Hersteller_Dornbracht,0.0
+1487,Hersteller_Dormakaba,0.0
+1486,Hersteller_Dorma,0.0
+1485,Hersteller_Dolle,0.0
+1484,Hersteller_Diverse,0.0
+1483,Hersteller_Dimensa,0.0
+1482,Hersteller_Diephaus ,0.0
+1481,Hersteller_Diephaus,0.0
+1480,Hersteller_Deutscher Hersteller ,0.0
+1479,Hersteller_Der Leistenprofi,0.0
+1478,Hersteller_Dekoll,0.0
+1506,Hersteller_Empur Klimapex,0.0
+1507,Hersteller_Engers,0.0
+1508,Hersteller_England Winchester tile company ,0.0
+1509,Hersteller_Epoxy Bodenversiegelung ,0.0
+1536,"Hersteller_Fisherson Energy Rybak,Polawski Spolka jawna",0.0
+1535,Hersteller_Fischer Stahl,0.0
+1534,Hersteller_Fischer,0.0
+1533,"Hersteller_Firma Josko, Österreich",0.0
+1532,Hersteller_Firma Gima,0.0
+1531,Hersteller_Finstral,0.0
+1530,Hersteller_Fibrolith,0.0
+1529,Hersteller_Fiandre,0.0
+1528,Hersteller_Fermacell,0.0
+1527,Hersteller_Fensterschreinerei,0.0
+1526,Hersteller_Fenster Striegel,0.0
+1525,Hersteller_Fenster Hai,0.0
+1524,Hersteller_Fenestra,0.0
+1523,Hersteller_FeAL (Schweden),0.0
+1522,Hersteller_Fachfirma Fensterbau,0.0
+1521,Hersteller_Fa.würth,0.0
+1520,"Hersteller_Fa. Weiß, Billigheim-Ingenheim",0.0
+1519,Hersteller_Fa. TREFZ GmbH Fenster und Fassadenbau,0.0
+1518,Hersteller_Fa. Köhler,0.0
+1517,"Hersteller_Fa. Huber, Albaching",0.0
+1516,Hersteller_FUNDERMAX Star Favorit,0.0
+1515,Hersteller_FSB,0.0
+1514,Hersteller_FS Systembau Brandschutzklappe Alu GKS 400x 400 mm ,0.0
+1513,Hersteller_FCN,0.0
+1512,Hersteller_Eugen Steinbuch,0.0
+1511,Hersteller_Eternit,0.0
+1510,Hersteller_Erwin Auert Berlin,0.0
+1477,Hersteller_Decor System,0.0
+1475,Hersteller_Danogips,0.0
+1414,Hersteller_Bergmann,0.0
+1429,Hersteller_Botament,0.0
+1442,Hersteller_CIR,0.0
+1441,Hersteller_CES,0.0
+1440,Hersteller_CBC,0.0
+1439,Hersteller_Börner ,0.0
+1438,Hersteller_Bäcker- optische Türspione,0.0
+1437,Hersteller_Burgbad,0.0
+1436,Hersteller_Buderus,0.0
+1435,Hersteller_Brüchert und Kärner,0.0
+1434,Hersteller_Brömse,0.0
+1433,Hersteller_Brillux ,0.0
+1432,Hersteller_Brillux,0.0
+1431,Hersteller_Breuer,0.0
+1430,Hersteller_Braas,0.0
+1428,Hersteller_Bonaiti,0.0
+1474,Hersteller_Danmöbel Massivholzschrank,0.0
+1427,Hersteller_Bodo Freimuth Abbruch und Recycling GmbH,0.0
+1426,Hersteller_BlockZaun,0.0
+1425,Hersteller_Blanco,0.0
+1424,Hersteller_Bito ,0.0
+1423,Hersteller_Birkenmeier ,0.0
+1422,Hersteller_Bette,0.0
+1421,Hersteller_Betec,0.0
+1420,Hersteller_Berry Alloc Rigid Vinyl ,0.0
+1419,Hersteller_Berry Alloc,0.0
+1290,Location_D-97456 Dittelbrunn,0.0
+1417,"Hersteller_Berker Gehäuse 2-fach AP, Art. Nr.: 10428989",0.0
+1416,Hersteller_Berker Artikelnr.: 5031,0.0
+1415,Hersteller_Berico Prestige,0.0
+1443,Hersteller_CLIMALIT,0.0
+1444,Hersteller_CPL Prüm,0.0
+1445,Hersteller_CWA Cellulose Werk,0.0
+1446,Hersteller_Caesar,0.0
+1473,Hersteller_Dako,0.0
+1472,Hersteller_Dachstuhl aus unbehandeltem Nadelholz,0.0
+1471,Hersteller_Dachhaube für Lüftung NW 355mm,0.0
+1470,Hersteller_DUPLEX,0.0
+1469,Hersteller_DRUTEX ,0.0
+1468,Hersteller_DDR-Ware,0.0
+1467,Hersteller_DANO,0.0
+1466,Hersteller_Cubo,0.0
+1465,Hersteller_Croford,0.0
+1464,Hersteller_Creaton,0.0
+1463,Hersteller_Cosmo,0.0
+1462,Hersteller_Conrad Bau Kft.,0.0
+1461,Hersteller_Connex Bänninger,0.0
+1460,Hersteller_Conmetall Meister GmbH ,0.0
+1459,Hersteller_Conex Bänninger,0.0
+1458,Hersteller_Coll,0.0
+1457,Hersteller_Cofraplus,0.0
+1456,Hersteller_Claytec,0.0
+1455,Hersteller_Clara Fenster Schweiz,0.0
+1454,Hersteller_China,0.0
+1453,Hersteller_Ceresit ,0.0
+1452,Hersteller_Ceresit,0.0
+1451,Hersteller_Catnic ,0.0
+1450,Hersteller_Casalgrande Padana,0.0
+1449,Hersteller_Caparol ,0.0
+1448,Hersteller_Caparol,0.0
+1447,Hersteller_Capamix Disbon 404 ELF RAL Design D2 280 70 05 ,0.0
+1291,Location_D-97469 Gochsheim,0.0
+1283,Location_D-97076 Würzburg,0.0
+1289,Location_D-97359 Schwarzach am Main,0.0
+1134,Location_D-84323 Massing,0.0
+1132,Location_D-84104 Rudelzhausen,0.0
+1131,Location_D-84089 Aiglsbach,0.0
+1130,Location_D-84088 Neufahrn in Niederbayern,0.0
+1129,Location_D-84085 Langquaid,0.0
+1128,Location_D-84069 Schierling,0.0
+1127,Location_D-84048 Mainburg,0.0
+1126,Location_D-84032 Altdorf,0.0
+1125,Location_D-83671 Benediktbeuern,0.0
+1124,Location_D-83533 Edling,0.0
+1123,Location_D-83458 Schneizlreuth,0.0
+1122,Location_D-83334 Inzell,0.0
+1121,Location_D-83236 Übersee,0.0
+1120,Location_D-83126 Flintsbach,0.0
+1119,Location_D-83098 Brannenburg,0.0
+1118,Location_D-83059 Kolbermoor,0.0
+1117,Location_D-83026 Raubling,0.0
+1116,Location_D-83022 Rosenheim,0.0
+1115,Location_D-82538 Geretsried,0.0
+1114,Location_D-82515 Wolfratshausen,0.0
+1113,Location_D-82481 Mittenwald,0.0
+1112,Location_D-82402 Seeshaupt,0.0
+1111,Location_D-82377 Penzberg,0.0
+1110,Location_D-8233 Treuen,0.0
+1109,Location_D-82319 Starnberg,0.0
+1108,Location_D-82287 Jesenwang,0.0
+1107,Location_D-82205 Gilching,0.0
+1106,Location_D-82194 Gröbenzell,0.0
+1133,Location_D-84130 Dingolfing,0.0
+1135,Location_D-84378 Dietersburg,0.0
+1104,Location_D-82166 Gräfelfing,0.0
+1136,Location_D-84416 Inning am Holz,0.0
+1163,Location_D-86163 Augsburg,0.0
+1162,Location_D-86159 Augsburg,0.0
+1161,Location_D-86154 Augsburg,0.0
+1160,Location_D-86150 Augsburg,0.0
+1159,Location_D-85737 Ismaning,0.0
+1158,Location_D-85716 Unterschleißheim,0.0
+1157,Location_D-85658 Egmating,0.0
+1156,Location_D-85622 Feldkirchen,0.0
+1155,Location_D-85586 Poing,0.0
+1154,Location_D-85570 Markt Schwaben,0.0
+1153,Location_D-85540 Haar,0.0
+1152,Location_D-85521 Ottobrunn,0.0
+1151,Location_D-85435 Erding,0.0
+1150,Location_D-85406 Zolling,0.0
+1149,Location_D-85386 Eching,0.0
+1148,Location_D-85354 Freising,0.0
+1147,Location_D-85276 Pfaffenhofen an der Ilm,0.0
+1146,Location_D-85221 Dachau,0.0
+1145,Location_D-85123 Karlskron,0.0
+1144,Location_D-85084 Reichertshofen,0.0
+1143,Location_D-85053 Ingolstadt,0.0
+1142,Location_D-85049 Ingolstadt,0.0
+1141,Location_D-84513 Erharting,0.0
+1140,Location_D-84503 Altötting,0.0
+1139,Location_D-84494 Neumarkt-Sankt Veit,0.0
+1138,Location_D-84489 Burghausen,0.0
+1137,Location_D-84453 Mühldorf,0.0
+1105,Location_D-82178 Puchheim,0.0
+1103,Location_D-82152 Planegg,0.0
+1165,Location_D-86415 Mering,0.0
+1072,Location_D-80539 München,0.0
+1070,Location_D-80469 München,0.0
+1069,Location_D-80336 Munich,0.0
+1068,Location_D-80333 Munich,0.0
+1067,Location_D-80331 München,0.0
+1066,Location_D-80331 Munich,0.0
+1065,Location_D-79856 Hinterzarten,0.0
+1064,Location_D-79853 Lenzkirch,0.0
+1063,Location_D-79790 Küssaberg,0.0
+1062,Location_D-79761 Weilheim,0.0
+1061,Location_D-79730 Murg,0.0
+1060,Location_D-79650 Schopfheim,0.0
+1059,Location_D-79588 Efringen-Kirchen,0.0
+1058,Location_D-79410 Badenweiler,0.0
+1057,Location_D-79359 Riegel am Kaiserstuhl,0.0
+1056,Location_D-79353 Bahlingen,0.0
+1055,Location_D-79268 Bötzingen,0.0
+1054,Location_D-79235 Vogtsburg,0.0
+1053,Location_D-79232 March,0.0
+1052,Location_D-79215 Elzach,0.0
+1051,Location_D-79199 Kirchzarten,0.0
+1050,Location_D-79189 Bad Krozingen,0.0
+1049,Location_D-79108 Freiburg im Breisgau,0.0
+1048,Location_D-79106 Freiburg im Breisgau,0.0
+1047,Location_D-78582 Balgheim,0.0
+1046,Location_D-78559 Gosheim,0.0
+1045,Location_D-78549 Spaichingen,0.0
+1044,Location_D-78351 Bodman-Ludwigshafen,0.0
+1071,Location_D-80539 Munich,0.0
+1073,Location_D-80637 Munich,0.0
+1102,Location_D-82131 Gauting,0.0
+1074,Location_D-80687 Munich,0.0
+1101,Location_D-82110 Germering,0.0
+1100,Location_D-82049 Pullach im Isartal,0.0
+1099,Location_D-82041 Oberhaching,0.0
+1098,Location_D-81929 Munich,0.0
+1097,Location_D-81825 Munich,0.0
+1096,Location_D-81735 Munich,0.0
+1095,Location_D-81673 Munich,0.0
+1094,Location_D-81669 München,0.0
+1093,Location_D-81669 Munich,0.0
+1092,Location_D-81545 Munich,0.0
+1091,Location_D-81543 Munich,0.0
+1090,Location_D-81477 Munich,0.0
+1089,Location_D-81475 München,0.0
+1088,Location_D-81475 Munich,0.0
+1087,Location_D-81379 Munich,0.0
+1086,Location_D-81375 Munich,0.0
+1085,Location_D-81249 Munich,0.0
+1084,Location_D-81247 Munich,0.0
+1083,Location_D-81245 Munich,0.0
+1082,Location_D-81243 Munich,0.0
+1081,Location_D-81241 Munich,0.0
+1080,Location_D-80999 Munich,0.0
+1079,Location_D-80995 Munich,0.0
+1078,Location_D-80992 Munich,0.0
+1077,Location_D-80809 Munich,0.0
+1076,Location_D-80807 Munich,0.0
+1075,Location_D-80797 Munich,0.0
+1164,Location_D-86343 Königsbrunn,0.0
+1166,Location_D-86456 Gablingen,0.0
+1288,Location_D-97350 Mainbernheim,0.0
+1258,Location_D-93155 Hemau,0.0
+1256,Location_D-93057 Regensburg,0.0
+1255,Location_D-92729 Weiherhammer,0.0
+1254,Location_D-92637 Weiden in der Oberpfalz,0.0
+1253,Location_D-92637 Weiden,0.0
+1252,Location_D-92533 Wernberg-Köblitz,0.0
+1251,Location_D-92421 Schwandorf,0.0
+1250,Location_D-92360 Mühlhausen,0.0
+1249,Location_D-92353 Postbauer-Heng,0.0
+1248,Location_D-92339 Beilngries,0.0
+1247,Location_D-92263 Ebermannsdorf,0.0
+1246,Location_D-92245 Kümmersbruck,0.0
+1245,Location_D-91726 Gerolfingen,0.0
+1244,Location_D-91720 Absberg,0.0
+1243,Location_D-91710 Gunzenhausen,0.0
+1242,Location_D-91486 Uehlfeld,0.0
+1241,Location_D-91469 Hagenbüchach,0.0
+1240,Location_D-91452 Wilhermsdorf,0.0
+1239,Location_D-91356 Kirchehrenbach,0.0
+1238,Location_D-91330 Eggolsheim,0.0
+1237,Location_D-91315 Höchstadt,0.0
+1236,Location_D-91257 Pegnitz,0.0
+1235,Location_D-91189 Rohr,0.0
+1234,Location_D-91126 Schwabach,0.0
+1233,Location_D-91126 Rednitzhembach,0.0
+1232,Location_D-91094 Langensendelbach,0.0
+1231,Location_D-91077 Dormitz,0.0
+1230,Location_D-91074 Herzogenaurach,0.0
+1257,Location_D-93080 Pentling,0.0
+1259,Location_D-93176 Beratzhausen,0.0
+1228,Location_D-91056 Erlangen,0.0
+26,Location_CH-4600 Olten,0.0
+1287,Location_D-97348 Markt Einersheim,0.0
+1286,Location_D-97346 Iphofen,0.0
+1285,Location_D-97318 Kitzingen,0.0
+1284,Location_D-97279 Prosselsheim,0.0
+1538,Hersteller_Flachglas,0.0
+1282,Location_D-96528 Schalkau,0.0
+1281,Location_D-96515 Oberland am Rennsteig,0.0
+1280,Location_D-96482 Ahorn,0.0
+1279,Location_D-96472 Rödental,0.0
+1278,Location_D-96450 Coburg,0.0
+1277,Location_D-96337 Ludwigsstadt,0.0
+1276,Location_D-96317 Kronach,0.0
+1275,Location_D-96199 Zapfendorf,0.0
+1274,Location_D-96182 Reckendorf,0.0
+1273,Location_D-96158 Frensdorf,0.0
+1272,Location_D-96142 Hollfeld,0.0
+1271,Location_D-96114 Hirschaid,0.0
+1270,Location_D-96050 Bamberg,0.0
+1269,Location_D-95692 Konnersreuth,0.0
+1268,Location_D-95680 Bad Alexandersbad,0.0
+1267,Location_D-95652 Waldsassen,0.0
+1266,Location_D-95632 Wunsiedel,0.0
+1265,Location_D-95028 Hof,0.0
+1264,Location_D-94491 Hengersberg,0.0
+1263,Location_D-94481 Grafenau,0.0
+1262,Location_D-94405 Landau an der Isar,0.0
+1261,Location_D-94163 Saldenburg,0.0
+1229,Location_D-91058 Erlangen,0.0
+1227,Location_D-90762 Fürth,0.0
+1167,Location_D-86462 Langweid am Lech,0.0
+1196,Location_D-88213 Ravensburg,0.0
+1194,Location_D-88045 Friedrichshafen,0.0
+1193,Location_D-87782 Unteregg,0.0
+1192,Location_D-87773 Pleß,0.0
+1191,Location_D-87669 Rieden am Forggensee,0.0
+1190,Location_D-87651 Bidingen,0.0
+1189,Location_D-87600 Kaufbeuren,0.0
+1188,Location_D-87561 Oberstdorf,0.0
+1187,Location_D-87549 Rettenberg,0.0
+1186,Location_D-87527 Sonthofen,0.0
+1185,Location_D-87509 Immenstadt,0.0
+1184,Location_D-87459 Pfronten,0.0
+1183,Location_D-87437 Kempten (Allgäu),0.0
+1182,Location_D-86949 Windach,0.0
+1181,Location_D-86935 Rott,0.0
+1180,Location_D-86929 Penzing,0.0
+1179,Location_D-86926 Greifenberg,0.0
+1178,Location_D-86916 Kaufering,0.0
+1177,Location_D-86899 Landsberg am Lech,0.0
+1176,Location_D-86879 Wiedergeltingen,0.0
+1175,Location_D-86857 Hurlach,0.0
+1174,Location_D-86845 Großaitingen,0.0
+1173,Location_D-86836 Graben,0.0
+1172,Location_D-86684 Holzheim,0.0
+1171,Location_D-86637 Wertingen,0.0
+1170,Location_D-86556 Kühbach,0.0
+1169,Location_D-86551 Aichach,0.0
+1168,Location_D-86479 Aichen,0.0
+1195,Location_D-88131 Lindau,0.0
+1197,Location_D-88255 Baienfurt,0.0
+1226,Location_D-90559 Burgthann,0.0
+1198,Location_D-88273 Fronreute,0.0
+1225,Location_D-90556 Seukendorf,0.0
+1224,Location_D-90556 Cadolzburg,0.0
+1223,Location_D-90547 Stein,0.0
+1222,Location_D-90513 Zirndorf,0.0
+1221,Location_D-90489 Nuremberg,0.0
+1220,Location_D-90451 Nuremberg,0.0
+1219,Location_D-90419 Nuremberg,0.0
+1218,Location_D-90403 Nürnberg,0.0
+1217,Location_D-89604 Allmendingen,0.0
+1216,Location_D-89601 Schelklingen,0.0
+1215,Location_D-89423 Gundelfingen an der Donau,0.0
+1214,Location_D-89331 Burgau,0.0
+1213,Location_D-89264 Weißenhorn,0.0
+1212,Location_D-89250 Senden,0.0
+1211,Location_D-89186 Illerrieden,0.0
+1210,Location_D-89177 Ballendorf,0.0
+1209,Location_D-89174 Altheim,0.0
+1208,Location_D-88693 Deggenhausertal,0.0
+1207,Location_D-88690 Uhldingen-Mühlhofen,0.0
+1206,Location_D-88677 Markdorf,0.0
+1205,Location_D-88481 Balzheim,0.0
+1204,Location_D-88416 Steinhausen an der Rottum,0.0
+1203,Location_D-88416 Ochsenhausen,0.0
+1202,Location_D-88400 Biberach an der Riß,0.0
+1201,Location_D-88353 Kißlegg,0.0
+1200,Location_D-88348 Allmannsweiler,0.0
+1199,Location_D-88339 Bad Waldsee,0.0
+1537,Hersteller_Fixper,0.0
+1545,Hersteller_Format,0.0
+1539,Hersteller_Flachglas Thermoplus,0.0
+1868,Hersteller_Siemens 5TT4101-0,0.0
+1881,Hersteller_Sortimo,0.0
+1880,Hersteller_Sorpetaler Fensterbau,0.0
+1879,Hersteller_Sorel,0.0
+1878,Hersteller_Sopro ,0.0
+1877,Hersteller_Sopro,0.0
+1876,Hersteller_Sonderanfertigung für größeren Kellerfensterschacht,0.0
+1875,Hersteller_Sonderanfertigung,0.0
+1874,Hersteller_Sommer,0.0
+1873,Hersteller_Sinzig,0.0
+1872,Hersteller_Siniat,0.0
+1871,Hersteller_Simplex,0.0
+1870,Hersteller_Silka Bond,0.0
+1869,Hersteller_Sika,0.0
+1867,Hersteller_Siemens ,0.0
+1788,Hersteller_ProfiFlex,0.0
+1866,Hersteller_Siegenia,0.0
+1865,Hersteller_Siedle,0.0
+1864,Hersteller_Semco,0.0
+1863,Hersteller_Selbst gebaut,0.0
+1862,Hersteller_Schüco / Typ Si 82 L,0.0
+1861,"Hersteller_Schüco , Mit Roto Scharnieren ",0.0
+1860,Hersteller_Schüco ,0.0
+19,Location_AT-7571,0.0
+1858,Hersteller_SchwörerHaus,0.0
+1857,Hersteller_Schwaiger,0.0
+1856,Hersteller_Schreinerei Sontheimer,0.0
+1855,"Hersteller_Schreinerei Lagler , Flintsbach",0.0
+1854,Hersteller_Schreinerarbeit,0.0
+1882,Hersteller_Soudal,0.0
+1883,Hersteller_Spachteltex GmbH,0.0
+1884,Hersteller_Spanische Hersteller,0.0
+1885,Hersteller_Sparfenster.de,0.0
+1912,Hersteller_Tischlerarbeit,0.0
+1911,Hersteller_Tischler 1935 ,0.0
+1910,Hersteller_Thomsit ,0.0
+1909,Hersteller_Thomsit,0.0
+1908,Hersteller_Thomas Knapp Historische Baustoffe GmbH,0.0
+1907,Hersteller_Thilo Design Fußboden,0.0
+1906,Hersteller_Theuma,0.0
+1905,Hersteller_Thermo Hanf / Hempflax,0.0
+1904,Hersteller_Termodoor,0.0
+1903,Hersteller_Teckentrup,0.0
+1902,Hersteller_Technokolla S-One,0.0
+1901,Hersteller_Teba,0.0
+1900,Hersteller_TaroTec,0.0
+1899,Hersteller_TM Perfect GmbH,0.0
+1898,Hersteller_Sölker,0.0
+1897,Hersteller_Sägerau ,0.0
+1896,Hersteller_Systemceram,0.0
+1895,Hersteller_Strulik,0.0
+1894,Hersteller_Stonetec Diez,0.0
+1893,Hersteller_Stones like Stones,0.0
+1892,Hersteller_Stolle Tore ,0.0
+1891,Hersteller_Sto,0.0
+1890,Hersteller_Steinzentrale,0.0
+1889,Hersteller_Steico,0.0
+1888,Hersteller_Stehle,0.0
+1887,Hersteller_Steckverbinder für Wickelfalzrohr 355mm,0.0
+1886,Hersteller_Speyerer Ziegelwerke AG,0.0
+1853,Hersteller_Schreiner Mirandiholz,0.0
+1852,Hersteller_Schreiner,0.0
+1851,Hersteller_Schomburg ,0.0
+1818,Hersteller_Rigips,0.0
+1816,Hersteller_Richter System,0.0
+1815,Hersteller_Revigres,0.0
+1814,Hersteller_Resideo ,0.0
+1813,Hersteller_Remmers,0.0
+1812,Hersteller_Reinhold-Stahl-Metallbau-GmbH,0.0
+1811,Hersteller_Reichsziegel ca. Bj 1800,0.0
+1810,Hersteller_Reichel,0.0
+1809,Hersteller_Rehau,0.0
+1808,Hersteller_Redsun,0.0
+1807,Hersteller_Rapidolehm,0.0
+1806,Hersteller_Rapido,0.0
+1805,Hersteller_Rajasil,0.0
+1804,Hersteller_Ragno Marazzi,0.0
+1803,Hersteller_REHAU,0.0
+1802,Hersteller_RAK Unterbauwaschbecken Porzellan ,0.0
+1801,Hersteller_Quick Mix ,0.0
+1800,Hersteller_Puren Perfect ,0.0
+1799,Hersteller_Pufas,0.0
+1798,Hersteller_Prüm Türenwerk GmbH ,0.0
+1797,Hersteller_Prüm Türenwerk GmbH,0.0
+1796,Hersteller_Prüm,0.0
+1795,Hersteller_Protektor,0.0
+1794,Hersteller_Protect Floor ,0.0
+1793,Hersteller_Promat,0.0
+1792,Hersteller_Project Floors SPC - CORE Collection 30 Vinyl Designplanken PW 4000-CO30,0.0
+1791,Hersteller_Profine,0.0
+1790,Hersteller_Profilleiste Kiefer,0.0
+1817,Hersteller_Rigid Vinyl ,0.0
+1819,Hersteller_Ringo,0.0
+1850,Hersteller_Schneider,0.0
+1820,"Hersteller_Rinn, Altstadtpflaster, 1 Palette = 8,46m²",0.0
+1849,Hersteller_Schlüter,0.0
+1848,Hersteller_Schiebefenster vom Schreiner,0.0
+1847,Hersteller_Sanibel Koralle ,0.0
+1846,Hersteller_Sanibel ,0.0
+1845,Hersteller_Sandstein Rusava ,0.0
+1844,Hersteller_Sandstein Rusava,0.0
+1843,Hersteller_Salamander,0.0
+1842,Hersteller_Sakret,0.0
+1841,Hersteller_Saint Gobain Climaplus one,0.0
+1840,Hersteller_Saint Gobain,0.0
+1839,Hersteller_SYR ,0.0
+1838,Hersteller_STR,0.0
+1837,Hersteller_STO,0.0
+1836,Hersteller_STEICOflex 036,0.0
+1835,Hersteller_STEICO,0.0
+1834,Hersteller_SIGMA,0.0
+1833,Hersteller_SIGHA,0.0
+1832,Hersteller_SCHÜCO,0.0
+1831,Hersteller_SANHA,0.0
+1830,Hersteller_SAG,0.0
+1829,Hersteller_Röben Formback NF rotbraun,0.0
+1828,Hersteller_Röben,0.0
+1827,Hersteller_Ruoff,0.0
+1826,"Hersteller_Ruck Übergangsstutzen für MPC 315-450, MPC EC 400-450, MPC T355-500, MPC EC T 400 (USM 700-400)",0.0
+1825,Hersteller_Ruck potentiometer 10kO - MTP 20,0.0
+1824,Hersteller_Ruck Abluftbox mit EC Motor 3080m3/h - MPC 355 EC 40,0.0
+1822,Hersteller_Rockwool ,0.0
+1913,Hersteller_Tischlerei Gerber,0.0
+1914,Hersteller_Tormax,0.0
+1915,Hersteller_Toyo,0.0
+2007,Hersteller_historisch Gründerzeit,0.0
+2005,Hersteller_fermacell Dachbodenelement N+F 1000x500x150 mm mit 140 mm EPS DEO150 WLG 035,0.0
+2004,Hersteller_divers,0.0
+2003,"Hersteller_deRyck, NL",0.0
+2002,Hersteller_comfort,0.0
+2001,Hersteller_combiflex - c2/p,0.0
+2000,"Hersteller_bei Globus gekauft, einfache Ausführung",0.0
+1999,Hersteller_ausgebaut aus altem Fachwerkhaus,0.0
+1998,Hersteller_albohn,0.0
+1997,Hersteller_agruFRANK,0.0
+1996,Hersteller_Zimmermann REHAU,0.0
+1995,Hersteller_Ziegelwerk Klaus Huber,0.0
+1994,Hersteller_Zement Trass,0.0
+1993,Hersteller_Zehnder,0.0
+1992,Hersteller_Zaun-experten,0.0
+1991,Hersteller_Ytong,0.0
+1990,Hersteller_Yoka,0.0
+1989,Hersteller_Xella,0.0
+1988,Hersteller_Würth ,0.0
+1987,Hersteller_Würth,0.0
+1986,Hersteller_Wurth,0.0
+1985,Hersteller_Wunderwerk 1964 Amsterdam,0.0
+1984,Hersteller_Wooden Fencing,0.0
+1983,Hersteller_Wolf,0.0
+1982,Hersteller_Woehe u. Heydemann,0.0
+1981,Hersteller_Wirus,0.0
+1980,Hersteller_Wineo,0.0
+1979,Hersteller_WindowStar,0.0
+2006,"Hersteller_gebrauchte Eichefenster, Baujahr ca. 1914",0.0
+2008,Hersteller_https://hager.com/de/katalog/produkt/zas205em2-zasuniversz2051zp3hz5p1lfhak,0.0
+1977,Hersteller_Wildstone,0.0
+2009,Hersteller_inVenter,0.0
+3,Location_24 Monate Gewährleistung,0.0
+4,Location_AT-1010 Wien,0.0
+5,Location_AT-1020 Vienna,0.0
+6,Location_AT-1100 Vienna,0.0
+7,Location_AT-2700 Wiener Neustadt,0.0
+8,Location_AT-2821 Lanzenkirchen,0.0
+9,Location_AT-3300 Amstetten,0.0
+10,Location_AT-3500 Krems an der Donau,0.0
+11,Location_AT-4020 Linz,0.0
+12,Location_AT-4221,0.0
+13,Location_AT-4663 Laakirchen,0.0
+14,Location_AT-5101 Bergheim,0.0
+15,Location_AT-5441,0.0
+16,Location_AT-5754,0.0
+2022,Hersteller_wedi,0.0
+2021,Hersteller_unbekannt,0.0
+2020,Hersteller_unbek.,0.0
+2019,Hersteller_ubenkannt,0.0
+2018,Hersteller_ringo Türen - Schwering Türenwerk GmbH,0.0
+2017,Hersteller_puclay 333,0.0
+2016,Hersteller_original antike Handarbeit,0.0
+2015,Hersteller_o.A.,0.0
+2014,Hersteller_nkt Cables / Faber Kabel,0.0
+2013,Hersteller_nicht bekannt,0.0
+2012,Hersteller_keine Angabe möglich,0.0
+2011,Hersteller_keine Ahnung,0.0
+2010,Hersteller_k.A.,0.0
+1978,Hersteller_Wilo,0.0
+1976,Hersteller_Wild Stone,0.0
+1916,"Hersteller_Trapezblech T100/275 (Münker) Dicke 0,88 Ste320 ",0.0
+1945,"Hersteller_Verleimung exterieur, Qualität BB/BB, FSC Mix 70% BV-COC-009552, 1500x3000x18,0 mm",0.0
+1943,Hersteller_Veka ,0.0
+18,Location_AT-6866 Andelsbuch,0.0
+1941,Hersteller_Vasco Niva,0.0
+1940,Hersteller_Vario,0.0
+1939,Hersteller_ValloFlex,0.0
+1938,Hersteller_VOX,0.0
+1937,Hersteller_VIESSMANN,0.0
+1936,Hersteller_VEKA Profil,0.0
+1935,Hersteller_VEKA ,0.0
+1934,Hersteller_VEKA,0.0
+1933,Hersteller_Uzin ,0.0
+1932,Hersteller_Ursa Deutschland GmbH,0.0
+1931,Hersteller_Ursa,0.0
+1930,Hersteller_Upmann,0.0
+1929,"Hersteller_Unterspannbahn Delta MAXX-X ; Dachlatten zertifikat 1245-CPD-1005; Rheinzinkrinne 6tlg. 333x0,70 mm; Rinneisen verzinkz 6 tlg. 40/5 N+F",0.0
+1928,"Hersteller_Unterschiedlich, Tw. Roto ",0.0
+1927,Hersteller_Unipor,0.0
+1926,Hersteller_Unbekannt (bzw. Erde),0.0
+1925,Hersteller_Unbekannt ,0.0
+1924,Hersteller_Unbekannt,0.0
+1923,Hersteller_Ultrament,0.0
+1922,Hersteller_URSA GEO,0.0
+1921,Hersteller_ULTIPRO,0.0
+1920,Hersteller_Tulikivi,0.0
+1919,Hersteller_Trocal,0.0
+1918,Hersteller_Trilux,0.0
+1917,Hersteller_Trendwood,0.0
+17,Location_AT-6700,0.0
+1946,Hersteller_Viega,0.0
+1975,Hersteller_Wienerberger,0.0
+1947,Hersteller_Viega Raxofix,0.0
+1974,Hersteller_Wienberger ,0.0
+1973,Hersteller_Wickelfalzrohr Schalldämpfer 355 mm Isolierung 50mm (1m) verzinkt mit Dichtung,0.0
+1972,Hersteller_Wickelfalzrohr Reduzierstück,0.0
+1971,Hersteller_Wickelfalzrohr 355 mm verzinkt 2m,0.0
+1970,Hersteller_Westag &amp; Getalit,0.0
+1969,Hersteller_Westag,0.0
+1968,Hersteller_Weser Waben,0.0
+1967,Hersteller_Weru,0.0
+1966,Hersteller_Weber.tec,0.0
+1965,Hersteller_Weber ,0.0
+1964,Hersteller_Weber,0.0
+1963,Hersteller_Wavin Buderus,0.0
+1962,Hersteller_Warema,0.0
+1961,Hersteller_WT Warm Tile,0.0
+1960,Hersteller_WKI-Isoliertechnik,0.0
+1959,Hersteller_WESTAG,0.0
+1958,Hersteller_WERU,0.0
+1957,Hersteller_Vrögum,0.0
+1956,Hersteller_Von 1750,0.0
+1955,Hersteller_Volfi,0.0
+1954,Hersteller_Vogel&Noot,0.0
+1953,Hersteller_Vitrexmosaici,0.0
+1952,Hersteller_Viscoh Trittschalldämmung,0.0
+1951,Hersteller_Vintage,0.0
+1950,Hersteller_Villeroy & Boch,0.0
+1949,Hersteller_Vigour,0.0
+1948,Hersteller_Viessmann,0.0
+1789,Hersteller_Profiflex ,0.0
+1787,Hersteller_Profi Line,0.0
+1540,Hersteller_Fliese ,0.0
+1617,Hersteller_Hoppe,0.0
+1630,Hersteller_Inoutic,0.0
+1629,Hersteller_Indien,0.0
+1628,Hersteller_Ideal Standard,0.0
+1627,Hersteller_ISOVER ,0.0
+1626,Hersteller_ISOVER,0.0
+1625,Hersteller_ILT,0.0
+1624,Hersteller_Hörmann und weis ich nicht genau ,0.0
+1623,Hersteller_Hörmann T30,0.0
+1622,Hersteller_Hörmann / Promaglas,0.0
+1621,Hersteller_Hörmann ,0.0
+21,Location_AT-8605 Kapfenberg,0.0
+1619,Hersteller_Huga,0.0
+1618,Hersteller_Hornbach,0.0
+1616,Hersteller_Holzbau Becker GmbH Aachen,0.0
+1786,Hersteller_Profhome,0.0
+1615,Hersteller_Holt ,0.0
+1614,Hersteller_Hoffmannglas Gruppe,0.0
+1613,Hersteller_Hoesch ,0.0
+1612,Hersteller_Historische Platten vom Dach eines alten Schulhauses,0.0
+1611,Hersteller_Historisch,0.0
+1610,Hersteller_Hirsiset Blockhäsuer,0.0
+1609,Hersteller_Hilti,0.0
+1608,Hersteller_Hilastone,0.0
+1607,Hersteller_Herzbach,0.0
+1606,Hersteller_Herotec,0.0
+1605,Hersteller_Heroal C50,0.0
+1604,Hersteller_Heroal,0.0
+1603,Hersteller_Hermat,0.0
+1631,Hersteller_Integra ZKF 1-35 von Isover ,0.0
+1632,Hersteller_Interfen,0.0
+1633,Hersteller_Internorm,0.0
+1634,Hersteller_Inventer,0.0
+1661,Hersteller_Karibu,0.0
+1660,Hersteller_Kann,0.0
+1659,Hersteller_Kanlux,0.0
+1658,Hersteller_Kampmann,0.0
+1657,Hersteller_KS-Werk Havelland,0.0
+1656,Hersteller_KS,0.0
+1655,Hersteller_KLB Klimaleichtblock,0.0
+1654,Hersteller_KESSEL,0.0
+1653,Hersteller_KBE,0.0
+1652,Hersteller_K-B-H,0.0
+1651,Hersteller_Junkers ,0.0
+1650,Hersteller_Jung,0.0
+1649,Hersteller_Josko,0.0
+1648,Hersteller_Joniec,0.0
+1647,Hersteller_Jeldwen ,0.0
+1646,Hersteller_Jeldwen,0.0
+1645,Hersteller_Jeld-Wen ,0.0
+1644,Hersteller_Jasba,0.0
+1643,Hersteller_JURA Kunststofffenster,0.0
+1642,Hersteller_JUNG Pumpen,0.0
+1641,Hersteller_JOSKO Fenster und Türen,0.0
+1640,Hersteller_JOKA,0.0
+1639,Hersteller_JELD-WEN,0.0
+1638,Hersteller_JAB ANSTOETZ,0.0
+1637,Hersteller_Isover,0.0
+1636,Hersteller_Isopan,0.0
+1635,Hersteller_Iris fmg,0.0
+1602,Hersteller_Hermann Maasewerg,0.0
+1601,Hersteller_Herholz,0.0
+1600,Hersteller_Herbol,0.0
+1569,Hersteller_Grundfos ,0.0
+1567,Hersteller_Grohn,0.0
+1566,Hersteller_Grohe,0.0
+1565,Hersteller_Grauthoff,0.0
+1564,Hersteller_Granitwerk 2020,0.0
+1563,Hersteller_Glen Dimplex,0.0
+1562,Hersteller_Glasskon,0.0
+1561,Hersteller_Glasfabrik Lamberts GmbH &amp; Co. KG,0.0
+1560,Hersteller_Glasdon,0.0
+1559,Hersteller_German Windows,0.0
+1558,Hersteller_Gerflor,0.0
+1557,Hersteller_Geopietra,0.0
+1556,Hersteller_Geborgen aus einer Burg,0.0
+1555,Hersteller_Geberit,0.0
+1554,Hersteller_Gealan ,0.0
+1553,Hersteller_Gealan,0.0
+1552,Hersteller_Gaulhofer Glasline,0.0
+1551,Hersteller_GUTEX,0.0
+1550,Hersteller_GS Fußbodentechnik,0.0
+1549,Hersteller_GEALAN,0.0
+1548,Hersteller_Fritz Vornbäumen GmbH Co.KG,0.0
+1547,Hersteller_Fritz Fenster ,0.0
+1546,Hersteller_Franke,0.0
+1042,Location_D-78250 Tengen,0.0
+1544,Hersteller_Forbo Flooring Systems ,0.0
+1543,Hersteller_Forbo,0.0
+1542,Hersteller_Fondovalle ,0.0
+1541,Hersteller_Fliesen Titan,0.0
+1568,Hersteller_Groß,0.0
+1570,Hersteller_Gugelfuss,0.0
+1599,Hersteller_Herba für FA. Baufritz,0.0
+1571,Hersteller_Gutex,0.0
+1598,Hersteller_Heim und Haus ,0.0
+1597,Hersteller_Heim und Haus,0.0
+1596,Hersteller_Heidelberger Dachstein,0.0
+1595,Hersteller_Heep,0.0
+1594,Hersteller_Hauff,0.0
+1593,Hersteller_Haro,0.0
+1592,Hersteller_Hansgrohe,0.0
+1591,Hersteller_Hansa,0.0
+1590,Hersteller_Handmade,0.0
+1589,Hersteller_Hamann,0.0
+1588,Hersteller_Haller,0.0
+1587,Hersteller_Hager,0.0
+1586,Hersteller_Hafi,0.0
+1585,Hersteller_Habdank Metallbau,0.0
+1584,Hersteller_HW,0.0
+1583,Hersteller_HUG und Gummi Blatt,0.0
+1582,Hersteller_HSK,0.0
+1581,Hersteller_HOLZFENSTER &quot;Douglas&quot; Holz mit Rahmen und Beschläge,0.0
+1580,Hersteller_HKO Isolier- und Textiltechnik,0.0
+1579,Hersteller_HIRSCH Porozell GmbH,0.0
+1578,Hersteller_HILTI,0.0
+1577,Hersteller_HGM,0.0
+1576,Hersteller_HEBEL,0.0
+1575,Hersteller_HAFI,0.0
+1574,Hersteller_HABA-Beton,0.0
+1573,Hersteller_H+H,0.0
+1572,Hersteller_Gutmann,0.0
+1662,Hersteller_Karle &amp; Rubner,0.0
+1663,Hersteller_Keine Angabe ,0.0
+1664,Hersteller_Kerakoll,0.0
+1756,Hersteller_PAX -Haustür mit angekoppeltem Oberlicht,0.0
+1754,Hersteller_Oranier-Frank`sche Eisenwerke,0.0
+1753,Hersteller_Ohne Marke,0.0
+1752,Hersteller_Ofenkacheln,0.0
+1751,Hersteller_Obi ,0.0
+1750,Hersteller_Oberland Glas,0.0
+1749,Hersteller_Oasis,0.0
+1748,Hersteller_OWA Odenwald-Faserplatten,0.0
+1747,Hersteller_OEG,0.0
+1746,Hersteller_OBTEGO AG,0.0
+1745,Hersteller_Novoferm,0.0
+1744,Hersteller_NovoLife,0.0
+1743,Hersteller_NoviPro / Raptor,0.0
+1742,Hersteller_Nordfenster/Salamander,0.0
+1741,Hersteller_Nordfenster,0.0
+1740,Hersteller_Nora Systems,0.0
+1739,Hersteller_Nicht bekannt ,0.0
+1738,Hersteller_Nicht bekannt,0.0
+1737,Hersteller_Neutralux,0.0
+1736,Hersteller_Neuffer Stuttgart,0.0
+1735,Hersteller_Neo 2.0 Vario,0.0
+1734,Hersteller_Nensel Fensterbau ,0.0
+1733,Hersteller_Nelskamp,0.0
+1732,Hersteller_NOWOTNIK,0.0
+1731,Hersteller_NIVEAU,0.0
+1730,Hersteller_Müller&amp;Co,0.0
+1729,Hersteller_MÜPRO,0.0
+1728,Hersteller_Murexin Haftschlämme,0.0
+1755,Hersteller_Oventrop,0.0
+1757,Hersteller_PAX -absolut,0.0
+1726,Hersteller_Moderna Impression,0.0
+1758,Hersteller_PCI,0.0
+1785,Hersteller_Privat,0.0
+1784,Hersteller_Princess Ceramic,0.0
+1783,Hersteller_Prentzel-Holzfenster,0.0
+1782,Hersteller_Porta,0.0
+1781,Hersteller_Porit,0.0
+1780,Hersteller_Porcelaingres,0.0
+1779,Hersteller_Plötner ,0.0
+1778,Hersteller_Pluggit,0.0
+1777,Hersteller_Planilux,0.0
+1776,Hersteller_Planeo,0.0
+1775,Hersteller_Pirnar,0.0
+1774,Hersteller_Pinta acoustic GmbH,0.0
+1773,Hersteller_Pilkington Glas,0.0
+1772,Hersteller_Picusa Holzputz,0.0
+1771,Hersteller_Pfrommer,0.0
+1770,Hersteller_Pax Fenster und Türen AG,0.0
+1769,Hersteller_Pax,0.0
+1768,Hersteller_Pavatex,0.0
+1767,Hersteller_Pasit,0.0
+1766,Hersteller_Paroc ,0.0
+1765,Hersteller_Paroc,0.0
+1764,Hersteller_Parat,0.0
+1763,Hersteller_Parador,0.0
+1762,Hersteller_Panbetorn Shan,0.0
+1761,Hersteller_Pamesa,0.0
+1760,Hersteller_PRÜM Türenwerk GmbH,0.0
+1759,Hersteller_PLEJADA FIRMA HANDLOWO-USŁUGOWA,0.0
+1727,Hersteller_Multipor,0.0
+1725,Hersteller_Moderna,0.0
+1665,Hersteller_Keramag,0.0
+1694,Hersteller_Kupil,0.0
+1692,Hersteller_Krispol,0.0
+1691,Hersteller_Kretzschmar Bauelemente,0.0
+1690,Hersteller_Kraus,0.0
+1689,Hersteller_Kraso ,0.0
+1688,Hersteller_Koramic,0.0
+1687,Hersteller_Koralle,0.0
+1686,Hersteller_Kontex®,0.0
+1685,Hersteller_Konsulsun,0.0
+1684,Hersteller_Koelner,0.0
+1683,Hersteller_Kneer-Südfenster,0.0
+1682,Hersteller_Kneer Südfenster,0.0
+1681,Hersteller_Kneer Fenster,0.0
+1680,Hersteller_Knauf?,0.0
+1679,Hersteller_Knauf und Isover,0.0
+1678,Hersteller_Knauf Insulation,0.0
+1677,Hersteller_Knauf Heraklith A2 - BM,0.0
+20,Location_AT-8081,0.0
+1675,Hersteller_Klisgaard,0.0
+1674,Hersteller_Klingenberg,0.0
+1673,Hersteller_Klauke,0.0
+1672,Hersteller_King,0.0
+1671,Hersteller_Kilsgaard,0.0
+1670,Hersteller_Kiesel,0.0
+1669,Hersteller_Kermos ,0.0
+1668,Hersteller_Kermos,0.0
+1667,Hersteller_Kermi,0.0
+1666,Hersteller_Kerateam,0.0
+1693,Hersteller_Kunststoffenster,0.0
+1695,Hersteller_Kuschick ,0.0
+1724,Hersteller_MoWinStar,0.0
+1696,Hersteller_Kömmerling,0.0
+1723,Hersteller_Metten Stein + Design,0.0
+1722,Hersteller_Metro Stil,0.0
+1721,Hersteller_Meißner Toranlagen,0.0
+1720,Hersteller_Megawood ,0.0
+1719,Hersteller_Megawood,0.0
+1718,Hersteller_Maxit,0.0
+1717,Hersteller_Maurermörtel QUICKMIX,0.0
+1716,Hersteller_Markenhersteller,0.0
+1715,Hersteller_MarLu Logistik und Handel e.K.,0.0
+1714,Hersteller_Mapei,0.0
+1713,Hersteller_Mak plas Mk,0.0
+1712,Hersteller_MUREXIN,0.0
+1711,Hersteller_MEIER/ LIAPOR,0.0
+1710,Hersteller_MEA,0.0
+1709,Hersteller_MARS,0.0
+1708,Hersteller_L‘antic Colonial,0.0
+1707,Hersteller_Lüftungsschelle 2-schraubig mit EPDM Gummieinlage NW 355mm,0.0
+1706,Hersteller_Löwe,0.0
+1705,Hersteller_Ludovicki ,0.0
+1704,Hersteller_Loro,0.0
+1703,Hersteller_Lithon,0.0
+1702,Hersteller_Linzmeier,0.0
+1701,Hersteller_Licatec,0.0
+1700,Hersteller_Lettland,0.0
+1699,Hersteller_Lebo,0.0
+1698,Hersteller_Lamilux,0.0
+1697,Hersteller_Laabertaler Bauelemente ,0.0
+1043,Location_D-78315 Radolfzell,0.0
+1040,Location_D-78194 Immendingen,0.0
+1041,Location_D-78224 Singen,0.0
+366,Location_D-30455 Hanover,0.0
+379,Location_D-31249 Hohenhameln,0.0
+378,Location_D-31234 Edemissen,0.0
+377,Location_D-31185 Söhlde,0.0
+376,Location_D-31162 Bad Salzdetfurth,0.0
+375,Location_D-31137 Hildesheim,0.0
+374,Location_D-31061 Alfeld,0.0
+373,Location_D-31028 Gronau,0.0
+372,Location_D-31008 Elze,0.0
+371,Location_D-30952 Ronnenberg,0.0
+370,Location_D-30938 Burgwedel,0.0
+369,Location_D-30926 Seelze,0.0
+368,Location_D-30827 Garbsen,0.0
+367,Location_D-30559 Hanover,0.0
+365,Location_D-30449 Hanover,0.0
+350,Location_D-29303 Bergen,0.0
+364,Location_D-30419 Hanover,0.0
+363,Location_D-30179 Hannover,0.0
+362,Location_D-30177 Hannover,0.0
+361,Location_D-30173 Hanover,0.0
+360,Location_D-30169 Hanover,0.0
+359,Location_D-30169 Hannover,0.0
+358,Location_D-30167 Hanover,0.0
+357,Location_D-30163 Hanover,0.0
+356,Location_D-30161 Hanover,0.0
+355,Location_D-30159 Hannover,0.0
+354,Location_D-29683 Bad Fallingbostel,0.0
+353,Location_D-29614 Soltau,0.0
+352,Location_D-29392 Wesendorf,0.0
+29,Location_CH-8877 Quarten,0.0
+381,Location_D-31515 Wunstorf,0.0
+382,Location_D-31558 Hagenburg Altenhagen,0.0
+383,Location_D-31628 Landesbergen,0.0
+410,Location_D-33689 Bielefeld,0.0
+409,Location_D-33604 Bielefeld,0.0
+408,Location_D-33602 Bielefeld,0.0
+407,Location_D-33428 Harsewinkel,0.0
+406,Location_D-33330 Gütersloh,0.0
+405,Location_D-33154 Salzkotten,0.0
+404,Location_D-33142 Büren,0.0
+403,Location_D-33102 Paderborn,0.0
+402,Location_D-33098 Paderborn,0.0
+401,Location_D-32832 Augustdorf,0.0
+400,Location_D-32756 Detmold,0.0
+399,Location_D-32602 Vlotho,0.0
+398,Location_D-32547 Bad Oeynhausen,0.0
+397,Location_D-32469 Petershagen,0.0
+396,Location_D-32427 Minden,0.0
+395,Location_D-32369 Rahden,0.0
+394,Location_D-32351 Stemwede,0.0
+393,Location_D-32339 Espelkamp,0.0
+392,Location_D-32278 Kirchlengern,0.0
+391,Location_D-32257 Bünde,0.0
+390,Location_D-32052 Herford,0.0
+389,Location_D-32049 Herford,0.0
+388,Location_D-31840 Hessisch Oldendorf,0.0
+387,Location_D-31708 Ahnsen,0.0
+386,Location_D-31707 Heeßen,0.0
+385,Location_D-31633 Leese,0.0
+384,Location_D-31629 Estorf,0.0
+351,Location_D-29303 Hermannsburg,0.0
+349,Location_D-29223 Celle,0.0
+412,Location_D-33719 Bielefeld,0.0
+303,Location_D-24145 Kiel,0.0
+316,Location_D-25436 Uetersen,0.0
+315,Location_D-25421 Pinneberg,0.0
+314,Location_D-24872 Groß Rheide,0.0
+313,Location_D-24863 Börm,0.0
+312,Location_D-24837 Schleswig,0.0
+311,Location_D-24610 Trappenkamp,0.0
+310,Location_D-24534 Neumünster,0.0
+309,Location_D-24369 Waabs,0.0
+308,Location_D-24253 Fahren,0.0
+307,Location_D-24238 Lammershagen,0.0
+306,Location_D-24214 Gettorf,0.0
+305,Location_D-24211 Preetz,0.0
+304,Location_D-24159 Kiel,0.0
+302,Location_D-24143 Kiel,0.0
+348,Location_D-29221 Celle,0.0
+301,Location_D-23970 Benz,0.0
+300,Location_D-23966 Wismar,0.0
+299,Location_D-23883 Lehmrade,0.0
+298,Location_D-23879 Mölln,0.0
+297,Location_D-23829 Kükels,0.0
+296,Location_D-23826 Bark,0.0
+295,Location_D-23738 Riepsdorf,0.0
+294,Location_D-23701 Eutin,0.0
+293,Location_D-23684 Scharbeutz,0.0
+292,Location_D-23564 Lübeck,0.0
+291,Location_D-23562 Lübeck,0.0
+290,Location_D-23552 Lübeck,0.0
+289,Location_D-22952 Lütjensee,0.0
+317,Location_D-25469 Halstenbek,0.0
+318,Location_D-25499 Tangstedt,0.0
+319,Location_D-25594 Vaale,0.0
+320,Location_D-25813 Husum,0.0
+347,Location_D-28870 Ottersberg,0.0
+346,Location_D-28865 Lilienthal,0.0
+345,Location_D-28857 Syke,0.0
+344,Location_D-28832 Achim,0.0
+343,Location_D-28816 Stuhr,0.0
+342,Location_D-28779 Bremen,0.0
+341,Location_D-28355 Bremen,0.0
+340,Location_D-28307 Bremen,0.0
+339,Location_D-28277 Bremen,0.0
+338,Location_D-28219 Bremen,0.0
+30,Location_CH-9010 St. Gallen,0.0
+336,Location_D-28195 Bremen,0.0
+335,Location_D-27804 Berne,0.0
+334,Location_D-27721 Ritterhude,0.0
+333,Location_D-27472 Cuxhaven,0.0
+332,Location_D-27386 Bothel,0.0
+331,Location_D-27327 Martfeld,0.0
+330,Location_D-27321 Emtinghausen,0.0
+329,Location_D-27299 Langwedel,0.0
+328,Location_D-26931 Elsfleth,0.0
+327,Location_D-26683 Saterland,0.0
+326,Location_D-26388 Wilhelmshaven,0.0
+325,Location_D-26209 Hatten,0.0
+324,Location_D-26135 Oldenburg (Oldenburg),0.0
+323,Location_D-26123 Oldenburg,0.0
+322,Location_D-26122 Oldenburg,0.0
+321,Location_D-25840 Friedrichstadt,0.0
+411,Location_D-33699 Bielefeld,0.0
+413,Location_D-33729 Bielefeld,0.0
+35,Location_D-01187 Dresden,0.0
+492,Location_D-40721 Hilden,0.0
+505,Location_D-41515 Grevenbroich,0.0
+504,Location_D-41464 Neuss,0.0
+503,Location_D-41460 Neuss,0.0
+502,Location_D-41366 Schwalmtal,0.0
+501,Location_D-41352 Korschenbroich,0.0
+500,Location_D-41334 Nettetal,0.0
+499,Location_D-41199 Mönchengladbach,0.0
+498,Location_D-41169 Mönchengladbach,0.0
+497,Location_D-41065 Mönchengladbach,0.0
+496,Location_D-40882 Ratingen,0.0
+495,Location_D-40880 Ratingen,0.0
+494,Location_D-40789 Monheim am Rhein,0.0
+493,Location_D-40764 Langenfeld,0.0
+491,Location_D-40699 Erkrath,0.0
+476,Location_D-39261 Zerbst/Anhalt,0.0
+490,Location_D-40627 Düsseldorf,0.0
+489,Location_D-40549 Düsseldorf,0.0
+488,Location_D-40489 Düsseldorf,0.0
+487,Location_D-40476 Düsseldorf,0.0
+486,Location_D-40474 Düsseldorf,0.0
+485,Location_D-40472 Düsseldorf,0.0
+484,Location_D-40237 Düsseldorf,0.0
+483,Location_D-40235 Düsseldorf,0.0
+27,Location_CH-7235 Fideris,0.0
+481,Location_D-40225 Düsseldorf,0.0
+480,Location_D-40215 Düsseldorf,0.0
+28,Location_CH-8001 Zürich,0.0
+478,Location_D-39576 Stendal,0.0
+506,Location_D-41564 Kaarst,0.0
+507,Location_D-41751 Viersen,0.0
+508,Location_D-41812 Erkelenz,0.0
+509,Location_D-41849 Wassenberg,0.0
+536,Location_D-45141 Essen,0.0
+535,Location_D-45128 Essen,0.0
+534,Location_D-45127 Essen,0.0
+533,Location_D-44879 Bochum,0.0
+532,Location_D-44869 Bochum,0.0
+531,Location_D-44791 Bochum,0.0
+530,Location_D-44789 Bochum,0.0
+529,Location_D-44787 Bochum,0.0
+528,Location_D-44628 Herne,0.0
+527,Location_D-44625 Herne,0.0
+526,Location_D-44532 Lünen,0.0
+525,Location_D-44388 Dortmund,0.0
+524,Location_D-44328 Dortmund,0.0
+523,Location_D-44263 Dortmund,0.0
+522,Location_D-44149 Dortmund,0.0
+521,Location_D-44137 Dortmund,0.0
+520,Location_D-42799 Leichlingen,0.0
+519,Location_D-42781 Haan,0.0
+518,Location_D-42699 Solingen,0.0
+517,Location_D-42657 Solingen,0.0
+516,Location_D-42655 Solingen,0.0
+515,Location_D-42551 Velbert,0.0
+514,Location_D-42477 Radevormwald,0.0
+513,Location_D-42327 Wuppertal,0.0
+512,Location_D-42289 Wuppertal,0.0
+511,Location_D-42279 Wuppertal,0.0
+510,Location_D-42119 Wuppertal,0.0
+477,Location_D-39326 Wolmirstedt,0.0
+475,Location_D-39249 Barby,0.0
+414,Location_D-33790 Halle (Westfalen),0.0
+429,Location_D-35102 Lohra,0.0
+442,Location_D-36039 Fulda,0.0
+441,Location_D-35794 Mengerskirchen,0.0
+440,Location_D-35644 Hohenahr,0.0
+439,Location_D-35630 Ehringshausen,0.0
+438,Location_D-35606 Solms,0.0
+437,Location_D-35582 Wetzlar,0.0
+436,Location_D-35466 Rabenau,0.0
+435,Location_D-35463 Fernwald,0.0
+434,Location_D-35447 Reiskirchen,0.0
+433,Location_D-35423 Lich,0.0
+432,Location_D-35415 Pohlheim,0.0
+431,Location_D-35392 Giessen,0.0
+430,Location_D-35390 Giessen,0.0
+428,Location_D-35094 Marburg,0.0
+474,Location_D-39122 Magdeburg,0.0
+427,Location_D-35080 Bad Endbach,0.0
+426,Location_D-34560 Fritzlar,0.0
+425,Location_D-34519 Diemelsee,0.0
+424,Location_D-34497 Korbach,0.0
+423,Location_D-34379 Calden,0.0
+422,Location_D-34355 Staufenberg,0.0
+421,Location_D-34317 Habichtswald,0.0
+420,Location_D-34308 Bad Emstal,0.0
+419,Location_D-34298 Helsa,0.0
+418,Location_D-34270 Schauenburg,0.0
+417,Location_D-34132 Kassel,0.0
+416,Location_D-34117 Kassel,0.0
+415,Location_D-33803 Steinhagen,0.0
+443,Location_D-36043 Fulda,0.0
+444,Location_D-36100 Petersberg,0.0
+445,Location_D-36115 Ehrenberg,0.0
+446,Location_D-36115 Hilders,0.0
+473,Location_D-39116 Magdeburg,0.0
+472,Location_D-39108 Magdeburg,0.0
+471,Location_D-38820 Halberstadt,0.0
+470,Location_D-38704 Liebenburg,0.0
+469,Location_D-38518 Gifhorn,0.0
+468,Location_D-38315 Schladen,0.0
+467,Location_D-38268 Lengede,0.0
+466,Location_D-38116 Brunswick,0.0
+465,Location_D-38112 Braunschweig,0.0
+464,Location_D-38100 Brunswick,0.0
+463,Location_D-37445 Walkenried,0.0
+462,Location_D-37412 Elbingerode,0.0
+461,Location_D-37339 Teistungen,0.0
+460,Location_D-37318 Gerbershausen,0.0
+459,Location_D-37290 Meißner,0.0
+458,Location_D-37276 Meinhard,0.0
+457,Location_D-37235 Hessisch Lichtenau,0.0
+456,Location_D-37133 Friedland,0.0
+455,Location_D-37079 Göttingen,0.0
+454,Location_D-37075 Göttingen,0.0
+453,Location_D-36419 Rockenstuhl,0.0
+452,Location_D-36404 Vacha,0.0
+451,Location_D-36391 Sinntal,0.0
+450,Location_D-36381 Schlüchtern,0.0
+449,Location_D-36205 Sontra,0.0
+448,Location_D-36199 Rotenburg an der Fulda,0.0
+447,Location_D-36129 Gersfeld,0.0
+288,Location_D-22949 Ammersbek,0.0
+287,Location_D-22946 Trittau,0.0
+286,Location_D-22929 Hamfelde in Holstein,0.0
+113,Location_D-08344 Grünhain-Beierfeld,0.0
+126,Location_D-09526 Olbernhau,0.0
+125,Location_D-09356 Sankt Egidien,0.0
+124,Location_D-09353 Oberlungwitz,0.0
+123,Location_D-09247 Chemnitz,0.0
+122,Location_D-09224 Mittelbach bei Chemnitz,0.0
+121,Location_D-09221 Neukirchen/Erzgebirge,0.0
+120,Location_D-09217 Burgstädt,0.0
+119,Location_D-09128 Chemnitz,0.0
+118,Location_D-09112 Chemnitz,0.0
+117,Location_D-09111 Chemnitz,0.0
+116,Location_D-08645 Bad Elster,0.0
+115,Location_D-08527 Plauen,0.0
+114,Location_D-08371 Glauchau,0.0
+112,Location_D-08262 Muldenhammer,0.0
+97,Location_D-06766 Bitterfeld-Wolfen,0.0
+111,Location_D-08233 Treuen,0.0
+110,Location_D-08209 Auerbach,0.0
+109,Location_D-07985 Elsterberg,0.0
+108,Location_D-07922 Tanna,0.0
+107,Location_D-07806 Neustadt an der Orla,0.0
+106,Location_D-07774 Dornburg-Camburg,0.0
+105,Location_D-07751 Großpürschütz,0.0
+104,Location_D-07745 Jena,0.0
+103,Location_D-07616 Graitschen bei Bürgel,0.0
+102,Location_D-07551 Gera,0.0
+101,Location_D-07426 Königsee,0.0
+100,Location_D-07366 Rosenthal am Rennsteig,0.0
+99,Location_D-07318 Wittgendorf,0.0
+127,Location_D-09577 Niederwiesa,0.0
+128,Location_D-09599 Freiberg,0.0
+129,Location_D-09623 Frauenstein,0.0
+130,Location_D-09661 Striegistal,0.0
+158,Location_D-12167 Berlin,0.0
+157,Location_D-12107 Berlin,0.0
+156,Location_D-12103 Berlin,0.0
+155,Location_D-12099 Berlin,0.0
+154,Location_D-12057 Berlin,0.0
+153,Location_D-12053 Berlin,0.0
+152,Location_D-12047 Berlin,0.0
+151,Location_D-10999 Berlin,0.0
+150,Location_D-10997 Berlin,0.0
+149,Location_D-10785 Berlin,0.0
+148,Location_D-10587 Berlin,0.0
+147,Location_D-10559 Berlin,0.0
+146,Location_D-10557 Berlin,0.0
+145,Location_D-10435 Berlin,0.0
+144,Location_D-10405 Berlin,0.0
+143,Location_D-10365 Berlin,0.0
+142,Location_D-10318 Berlin,0.0
+141,Location_D-10317 Berlin,0.0
+140,Location_D-10315 Berlin,0.0
+139,Location_D-10249 Berlin Friedrichshain,0.0
+138,Location_D-10249 Berlin,0.0
+137,Location_D-10247 Berlin,0.0
+136,Location_D-10179 Berlin,0.0
+134,Location_D-10119 Berlin,0.0
+133,Location_D-10117 Berlin,0.0
+132,Location_D-10115 Berlin,0.0
+131,Location_D-09669 Frankenberg,0.0
+98,Location_D-06886 Wittenberg,0.0
+96,Location_D-06749 Bitterfeld-Wolfen,0.0
+285,Location_D-22848 Norderstedt,0.0
+50,Location_D-01936 Laußnitz,0.0
+63,Location_D-04288 Leipzig,0.0
+62,Location_D-04249 Leipzig,0.0
+61,Location_D-04178 Leipzig,0.0
+60,Location_D-04155 Leipzig,0.0
+59,Location_D-04109 Leipzig,0.0
+58,Location_D-03130 Tschernitz,0.0
+57,Location_D-03116 Drebkau,0.0
+56,Location_D-03055 Cottbus,0.0
+55,Location_D-02826 Görlitz,0.0
+54,Location_D-02747 Herrnhut,0.0
+53,Location_D-02727 Neugersdorf,0.0
+52,Location_D-01968 Senftenberg,0.0
+51,Location_D-01968 Schipkau,0.0
+49,Location_D-01906 Burkau,0.0
+95,Location_D-06682 Teuchern,0.0
+48,Location_D-01896 Pulsnitz,0.0
+47,Location_D-01877 Bischofswerda,0.0
+46,Location_D-01814 Reinhardtsdorf-Schöna,0.0
+45,Location_D-01774 Klingenberg,0.0
+44,Location_D-01734 Rabenau,0.0
+43,Location_D-01587 Riesa,0.0
+33,Location_D-01139 Dresden,0.0
+41,Location_D-01477 Arnsdorf,0.0
+40,Location_D-01454 Radeberg,0.0
+39,Location_D-01326 Dresden,0.0
+38,Location_D-01324 Dresden,0.0
+37,Location_D-01237 Dresden,0.0
+36,Location_D-01189 Dresden,0.0
+64,Location_D-04315 Leipzig,0.0
+65,Location_D-04318 Leipzig,0.0
+66,Location_D-04329 Leipzig,0.0
+67,Location_D-04435 Schkeuditz,0.0
+94,Location_D-06679 Hohenmölsen,0.0
+93,Location_D-06618 Prießnitz,0.0
+92,Location_D-06618 Naumburg (Saale),0.0
+91,Location_D-06618 Löbitz,0.0
+90,Location_D-06618,0.0
+89,Location_D-06456 Sandersleben,0.0
+88,Location_D-06420,0.0
+87,Location_D-06406 Bernburg,0.0
+86,Location_D-06242 Braunsbedra,0.0
+85,Location_D-06130 Halle (Saale),0.0
+32,Location_D-01129 Dresden,0.0
+83,Location_D-06120 Halle,0.0
+82,Location_D-06116 Halle (Saale),0.0
+81,Location_D-06108 Halle (Saale),0.0
+80,Location_D-04924 Bad Liebenwerda,0.0
+79,Location_D-04824 Brandis,0.0
+78,Location_D-04808 Wurzen,0.0
+77,Location_D-04758 Oschatz,0.0
+76,Location_D-04720 Ziegra-Knobelsdorf,0.0
+75,Location_D-04703 Leisnig,0.0
+74,Location_D-04654 Frohburg,0.0
+73,Location_D-04626 Posterstein,0.0
+72,Location_D-04600 Altenburg,0.0
+71,Location_D-04565 Regis-Breitingen,0.0
+70,Location_D-04539 Groitzsch,0.0
+69,Location_D-04509 Zwochau,0.0
+68,Location_D-04442 Zwenkau,0.0
+159,Location_D-12203 Berlin,0.0
+160,Location_D-12209 Berlin,0.0
+161,Location_D-12247 Berlin,0.0
+240,Location_D-18292 Hoppenrade,0.0
+253,Location_D-21033 Hamburg,0.0
+252,Location_D-21029 Hamburg,0.0
+251,Location_D-20099 Hamburg,0.0
+250,Location_D-20095 Hamburg,0.0
+249,Location_D-19412 Weitendorf,0.0
+248,Location_D-19288 Ludwigslust,0.0
+247,Location_D-19273 Brahlstorf,0.0
+246,Location_D-19273 Amt Neuhaus,0.0
+245,Location_D-19230 Kirch Jesar,0.0
+244,Location_D-19075 Pampow,0.0
+243,Location_D-19055 Schwerin,0.0
+242,Location_D-18334 Bad Sülze,0.0
+241,Location_D-18311 Ribnitz-Damgarten,0.0
+239,Location_D-18225 Kühlungsborn,0.0
+162,Location_D-12277 Berlin,0.0
+238,Location_D-18195 Zarnewanz,0.0
+237,Location_D-18146 Rostock,0.0
+236,Location_D-18059 Papendorf,0.0
+235,Location_D-18055 Rostock,0.0
+234,Location_D-1796 Pirna,0.0
+233,Location_D-17489 Greifswald,0.0
+232,Location_D-17326 Brüssow,0.0
+231,Location_D-17309 Pasewalk,0.0
+230,Location_D-17235 Neustrelitz,0.0
+229,Location_D-17034 Neubrandenburg,0.0
+228,Location_D-16775 Gransee,0.0
+227,Location_D-16727 Velten,0.0
+226,Location_D-16567 Mühlenbecker Land,0.0
+254,Location_D-21035 Hamburg,0.0
+255,Location_D-21079 Hamburg,0.0
+256,Location_D-21109 Hamburg,0.0
+257,Location_D-21129 Hamburg,0.0
+284,Location_D-22767 Hamburg,0.0
+283,Location_D-22765 Hamburg,0.0
+282,Location_D-22607 Hamburg,0.0
+281,Location_D-22587 Hamburg,0.0
+280,Location_D-22559 Hamburg,0.0
+279,Location_D-22529 Hamburg,0.0
+278,Location_D-22525 Hamburg,0.0
+277,Location_D-22397 Hamburg,0.0
+276,Location_D-22393 Hamburg,0.0
+275,Location_D-22339 Hamburg,0.0
+274,Location_D-22337 Hamburg,0.0
+273,Location_D-22145 Hamburg,0.0
+272,Location_D-22143 Hamburg,0.0
+271,Location_D-22089 Hamburg Hamm-Nord,0.0
+270,Location_D-22083 Hamburg,0.0
+269,Location_D-21698 Brest,0.0
+268,Location_D-21680 Stade,0.0
+267,Location_D-21614 Buxtehude,0.0
+266,Location_D-21509 Glinde,0.0
+265,Location_D-21481 Lauenburg,0.0
+264,Location_D-21438 Brackel,0.0
+263,Location_D-21394 Südergellersen,0.0
+262,Location_D-21385 Oldendorf (Luhe),0.0
+261,Location_D-21368 Dahlem,0.0
+260,Location_D-21255 Tostedt,0.0
+259,Location_D-21218 Seevetal,0.0
+258,Location_D-21217 Seevetal,0.0
+225,Location_D-16559 Liebenwalde,0.0
+224,Location_D-16515 Oranienburg,0.0
+223,Location_D-16348 Wandlitz,0.0
+191,Location_D-14089 Berlin,0.0
+189,Location_D-13599 Berlin,0.0
+188,Location_D-13503 Berlin,0.0
+187,Location_D-13403 Berlin,0.0
+186,Location_D-13353 Berlin,0.0
+185,Location_D-13347 Berlin,0.0
+184,Location_D-13158 Berlin,0.0
+183,Location_D-13156 Berlin,0.0
+182,Location_D-13125 Berlin,0.0
+181,Location_D-13055 Berlin,0.0
+180,Location_D-13047 Reinickendorf,0.0
+179,Location_D-12683 Berlin,0.0
+178,Location_D-12681 Berlin,0.0
+177,Location_D-12623 Berlin,0.0
+176,Location_D-12621 Berlin,0.0
+175,Location_D-12587 Berlin,0.0
+174,Location_D-12557 Berlin,0.0
+173,Location_D-12529 Schönefeld,0.0
+172,Location_D-12527 Berlin,0.0
+171,Location_D-12489 Berlin,0.0
+170,Location_D-12437 Berlin,0.0
+169,Location_D-12435 Berlin,0.0
+168,Location_D-12359 Berlin,0.0
+167,Location_D-12357 Berlin,0.0
+166,Location_D-12355 Berlin,0.0
+165,Location_D-12349 Berlin,0.0
+164,Location_D-12309 Berlin,0.0
+163,Location_D-12305 Berlin,0.0
+31,Location_D-01067 Dresden,0.0
+192,Location_D-14169 Berlin,0.0
+222,Location_D-16303 Schwedt,0.0
+193,Location_D-14195 Berlin,0.0
+221,Location_D-15913 Schwielochsee,0.0
+220,Location_D-15848 Beeskow,0.0
+219,Location_D-15827 Blankenfelde-Mahlow,0.0
+218,Location_D-15806,0.0
+217,Location_D-15754 Heidesee,0.0
+216,Location_D-15749 Mittenwalde,0.0
+215,Location_D-15738 Zeuthen,0.0
+214,Location_D-15711 Königs Wusterhausen,0.0
+213,Location_D-15566 Schöneiche,0.0
+212,Location_D-15370 Petershagen/Eggersdorf,0.0
+211,Location_D-15366 Neuenhagen bei Berlin,0.0
+210,Location_D-15345 Prötzel,0.0
+209,Location_D-15344 Strausberg,0.0
+208,Location_D-15234 Frankfurt an der Oder,0.0
+207,Location_D-14979 Grossbeeren,0.0
+206,Location_D-14943 Luckenwalde,0.0
+205,Location_D-14806 Bad Belzig,0.0
+204,Location_D-14727 Premnitz,0.0
+203,Location_D-14669 Ketzin,0.0
+202,Location_D-14656 Brieselang,0.0
+201,Location_D-14641 Wustermark,0.0
+199,Location_D-14612 Falkensee,0.0
+198,Location_D-14548 Schwielowsee,0.0
+197,Location_D-14547 Beelitz,0.0
+196,Location_D-14482 Potsdam,0.0
+195,Location_D-14478 Potsdam,0.0
+194,Location_D-14469 Potsdam,0.0
+537,Location_D-45149 Essen,0.0
+538,Location_D-45257 Essen,0.0
+539,Location_D-45276 Essen,0.0
+869,Location_D-69251 Gaiberg,0.0
+882,Location_D-70372 Stuttgart,0.0
+881,Location_D-70329 Stuttgart,0.0
+880,Location_D-70327 Stuttgart Rotenberg,0.0
+879,Location_D-70327 Stuttgart,0.0
+878,Location_D-70199 Stuttgart,0.0
+877,Location_D-70197 Stuttgart,0.0
+876,Location_D-70195 Stuttgart,0.0
+875,Location_D-70193 Stuttgart,0.0
+874,Location_D-70186 Stuttgart,0.0
+873,Location_D-70174 Stuttgart,0.0
+872,Location_D-70173 Stuttgart,0.0
+871,Location_D-69469 Weinheim,0.0
+870,Location_D-69256 Mauer,0.0
+868,Location_D-69245 Bammental,0.0
+853,Location_D-68199 Mannheim,0.0
+867,Location_D-69226 Nußloch,0.0
+866,Location_D-69214 Eppelheim,0.0
+865,Location_D-69181 Leimen,0.0
+864,Location_D-69123 Heidelberg,0.0
+863,Location_D-69115 Heidelberg,0.0
+862,Location_D-68804 Altlußheim,0.0
+861,Location_D-68753 Waghäusel,0.0
+860,Location_D-68723 Schwetzingen,0.0
+859,Location_D-68723 Oftersheim,0.0
+858,Location_D-68623 Lampertheim,0.0
+857,Location_D-68526 Ladenburg,0.0
+856,Location_D-68519 Viernheim,0.0
+855,Location_D-68309 Mannheim,0.0
+883,Location_D-70435 Stuttgart,0.0
+884,Location_D-70499 Stuttgart,0.0
+885,Location_D-70563 Stuttgart,0.0
+886,Location_D-70597 Stuttgart,0.0
+913,Location_D-72116 Mössingen,0.0
+912,Location_D-72108 Rottenburg,0.0
+911,Location_D-72074 Tübingen,0.0
+910,Location_D-72070 Tübingen,0.0
+909,Location_D-71737 Kirchberg an der Murr,0.0
+908,Location_D-71729 Erdmannhausen,0.0
+907,Location_D-71686 Remseck,0.0
+906,Location_D-71679 Asperg,0.0
+905,Location_D-71636 Ludwigsburg,0.0
+904,Location_D-71522 Backnang,0.0
+903,Location_D-71384 Weinstadt,0.0
+902,Location_D-71364 Winnenden,0.0
+901,Location_D-71336 Waiblingen,0.0
+900,Location_D-71334 Waiblingen,0.0
+899,Location_D-71277 Rutesheim,0.0
+898,Location_D-71263 Weil der Stadt,0.0
+897,Location_D-71254 Ditzingen,0.0
+896,Location_D-71154 Nufringen,0.0
+895,Location_D-71134 Aidlingen,0.0
+894,Location_D-71106 Magstadt,0.0
+893,Location_D-71083 Herrenberg,0.0
+892,Location_D-71034 Böblingen,0.0
+891,Location_D-70839 Gerlingen,0.0
+890,Location_D-70825 Korntal-Münchingen,0.0
+889,Location_D-70736 Fellbach,0.0
+888,Location_D-70734 Fellbach,0.0
+887,Location_D-70599 Stuttgart,0.0
+854,Location_D-68305 Mannheim,0.0
+852,Location_D-68161 Mannheim,0.0
+790,Location_D-64584 Biebesheim am Rhein,0.0
+806,Location_D-65428 Rüsselsheim,0.0
+819,Location_D-66128 Saarbrücken,0.0
+818,Location_D-66115 Saarbrücken,0.0
+817,Location_D-65936 Frankfurt am Main,0.0
+816,Location_D-65817 Eppstein,0.0
+815,Location_D-65812 Bad Soden,0.0
+814,Location_D-65779 Kelkheim,0.0
+813,Location_D-65760 Eschborn,0.0
+812,Location_D-65626 Birlenbach,0.0
+811,Location_D-65620 Waldbrunn,0.0
+810,Location_D-65606 Villmar,0.0
+809,Location_D-65599 Dornburg,0.0
+808,Location_D-65520 Bad Camberg,0.0
+807,Location_D-65462 Ginsheim-Gustavsburg,0.0
+805,Location_D-65326 Aarbergen,0.0
+851,Location_D-68159 Mannheim,0.0
+804,Location_D-65307 Bad Schwalbach,0.0
+803,Location_D-65239 Hochheim am Main,0.0
+802,Location_D-65207 Wiesbaden,0.0
+801,Location_D-65199 Wiesbaden,0.0
+800,Location_D-65197 Wiesbaden,0.0
+799,Location_D-65191 Wiesbaden,0.0
+798,Location_D-65185 Wiesbaden,0.0
+797,Location_D-64859 Eppertshausen,0.0
+796,Location_D-64853 Otzberg,0.0
+795,Location_D-64739 Höchst im Odenwald,0.0
+794,Location_D-64711 Erbach im Odenwald,0.0
+793,Location_D-64678 Lindenfels,0.0
+792,Location_D-64665 Alsbach-Hähnlein,0.0
+820,Location_D-66287 Quierschied,0.0
+821,Location_D-66299 Friedrichsthal,0.0
+822,Location_D-66386 Sankt Ingbert,0.0
+823,Location_D-66424 Homburg,0.0
+850,Location_D-67819 Kriegsfeld,0.0
+849,Location_D-67678 Mehlingen,0.0
+848,Location_D-67661 Kaiserslautern,0.0
+847,Location_D-67550 Worms,0.0
+846,Location_D-67547 Worms,0.0
+845,Location_D-67433 Neustadt,0.0
+844,Location_D-67281 Bissersheim,0.0
+843,Location_D-67278 Bockenheim an der Weinstraße,0.0
+842,Location_D-67273 Bobenheim am Berg,0.0
+841,Location_D-67240 Bobenheim-Roxheim,0.0
+840,Location_D-67166 Otterstadt,0.0
+839,Location_D-67134 Birkenheide,0.0
+838,Location_D-67125 Dannstadt-Schauernheim,0.0
+837,Location_D-67122 Altrip,0.0
+836,Location_D-67105 Schifferstadt,0.0
+835,Location_D-67098 Bad Dürkheim,0.0
+834,Location_D-67067 Ludwigshafen,0.0
+833,Location_D-67065 Ludwigshafen,0.0
+832,Location_D-67061 Ludwigshafen am Rhein,0.0
+831,Location_D-67059 Ludwigshafen am Rhein,0.0
+830,Location_D-66919 Hermersberg,0.0
+829,Location_D-66907 Glan-Münchweiler,0.0
+828,Location_D-66879 Steinwenden,0.0
+827,Location_D-66871 Oberalben,0.0
+826,Location_D-66763 Dillingen/Saar,0.0
+825,Location_D-66625 Nohfelden,0.0
+824,Location_D-66564 Ottweiler,0.0
+914,Location_D-72144 Dußlingen,0.0
+915,Location_D-72172 Sulz,0.0
+916,Location_D-72186 Empfingen,0.0
+994,Location_D-75181 Pforzheim,0.0
+1007,Location_D-76287 Rheinstetten,0.0
+1006,Location_D-76275 Ettlingen,0.0
+1005,Location_D-76187 Karlsruhe,0.0
+1004,Location_D-76133 Karlsruhe,0.0
+1003,Location_D-76131 Karlsruhe,0.0
+1002,Location_D-75443 Ötisheim,0.0
+1001,Location_D-75417 Mühlacker,0.0
+1000,Location_D-75395 Ostelsheim,0.0
+999,Location_D-75387 Neubulach,0.0
+998,Location_D-75382 Althengstett,0.0
+997,Location_D-75223 Niefern-Öschelbronn,0.0
+996,Location_D-75217 Birkenfeld,0.0
+995,Location_D-75203 Königsbach-Stein,0.0
+993,Location_D-75172 Pforzheim,0.0
+917,Location_D-72202 Nagold,0.0
+992,Location_D-75031 Eppingen,0.0
+991,Location_D-75015 Bretten,0.0
+990,Location_D-74921 Helmstadt-Bargen,0.0
+989,Location_D-74909 Meckesheim,0.0
+988,Location_D-74889 Sinsheim,0.0
+987,Location_D-74861 Neudenau,0.0
+986,Location_D-74831 Gundelsheim,0.0
+985,Location_D-74670 Forchtenberg,0.0
+984,Location_D-74629 Pfedelbach,0.0
+983,Location_D-74613 Öhringen,0.0
+982,Location_D-74542 Braunsbach,0.0
+981,Location_D-74538 Rosengarten,0.0
+980,Location_D-74535 Mainhardt,0.0
+1008,Location_D-76307 Karlsbad,0.0
+1009,Location_D-76327 Pfinztal,0.0
+1010,Location_D-76359 Ettlingen,0.0
+1011,Location_D-76437 Rastatt,0.0
+1039,Location_D-78176 Blumberg,0.0
+1038,Location_D-78166 Donaueschingen,0.0
+1037,Location_D-78132 Hornberg,0.0
+1036,Location_D-78098 Triberg,0.0
+1035,Location_D-78087 Mönchweiler,0.0
+1034,Location_D-78078 Niedereschach,0.0
+1033,Location_D-78056 Villingen-Schwenningen,0.0
+1032,Location_D-77855 Achern,0.0
+1031,Location_D-77833 Ottersweier,0.0
+1030,Location_D-77815 Bühl,0.0
+1029,Location_D-77797 Ohlsbach,0.0
+1028,Location_D-77743 Neuried,0.0
+1027,Location_D-77723 Gengenbach,0.0
+1026,Location_D-77709 Wolfach,0.0
+1025,Location_D-77694 Kehl,0.0
+1024,Location_D-77656 Offenburg,0.0
+1022,Location_D-76889 Kapsweyer,0.0
+1021,Location_D-76887 Birkenhördt,0.0
+1020,Location_D-76831 Impflingen,0.0
+1019,Location_D-76771 Hördt,0.0
+1018,Location_D-76770 Hatzenbühl,0.0
+1017,Location_D-76709 Kronau,0.0
+1016,Location_D-76698 Ubstadt-Weiher,0.0
+1015,Location_D-76646 Bruchsal,0.0
+1014,Location_D-76534 Baden-Baden,0.0
+1013,Location_D-76532 Baden-Baden,0.0
+1012,Location_D-76530 Baden-Baden,0.0
+979,Location_D-74523 Schwäbisch Hall,0.0
+978,Location_D-74423 Obersontheim,0.0
+977,Location_D-74417 Gschwend,0.0
+946,Location_D-73278 Schlierbach,0.0
+944,Location_D-73119 Zell unter Aichelberg,0.0
+943,Location_D-73105 Dürnau,0.0
+942,Location_D-73104 Börtlingen,0.0
+941,Location_D-73092 Heiningen,0.0
+940,Location_D-73066 Uhingen,0.0
+939,Location_D-73061 Ebersbach an der Fils,0.0
+938,Location_D-73035 Göppingen,0.0
+937,Location_D-73033 Göppingen,0.0
+936,Location_D-72827 Wannweil,0.0
+935,Location_D-72793 Pfullingen,0.0
+934,Location_D-72770 Reutlingen,0.0
+933,Location_D-72764 Reutlingen,0.0
+932,Location_D-72762 Reutlingen,0.0
+931,Location_D-72636 Frickenhausen,0.0
+930,Location_D-72622 Nürtingen,0.0
+929,Location_D-72587 Römerstein,0.0
+928,Location_D-72574 Bad Urach,0.0
+927,Location_D-72531 Hohenstein,0.0
+926,Location_D-72511 Bingen,0.0
+925,Location_D-72488 Sigmaringen,0.0
+924,Location_D-72469 Meßstetten,0.0
+923,Location_D-72461 Albstadt,0.0
+922,Location_D-72401 Haigerloch,0.0
+921,Location_D-72351 Geislingen,0.0
+920,Location_D-72348 Rosenfeld,0.0
+919,Location_D-72336 Balingen,0.0
+918,Location_D-72224 Ebhausen,0.0
+945,Location_D-73274 Notzingen,0.0
+947,Location_D-73312 Geislingen,0.0
+976,Location_D-74388 Talheim,0.0
+948,Location_D-73342 Bad Ditzenbach,0.0
+975,Location_D-74363 Güglingen,0.0
+974,Location_D-74343 Sachsenheim,0.0
+973,Location_D-74321 Bietigheim-Bissingen,0.0
+972,Location_D-74245 Löwenstein,0.0
+971,Location_D-74239 Hardthausen am Kocher,0.0
+970,Location_D-74219 Möckmühl,0.0
+969,Location_D-74172 Neckarsulm,0.0
+968,Location_D-74078 Heilbronn,0.0
+967,Location_D-74076 Heilbronn,0.0
+966,Location_D-74072 Heilbronn,0.0
+965,Location_D-73779 Deizisau,0.0
+964,Location_D-73773 Aichwald,0.0
+963,Location_D-73765 Neuhausen auf den Fildern,0.0
+962,Location_D-73734 Esslingen,0.0
+961,Location_D-73730 Esslingen,0.0
+960,Location_D-73728 Esslingen,0.0
+959,Location_D-73614 Schorndorf,0.0
+958,Location_D-73547 Lorch,0.0
+957,Location_D-73525 Schwäbisch Gmünd,0.0
+956,Location_D-73492 Rainau,0.0
+955,Location_D-73447 Oberkochen,0.0
+954,Location_D-73434 Aalen,0.0
+953,Location_D-73433 Aalen,0.0
+952,Location_D-73431 Aalen,0.0
+951,Location_D-73349 Wiesensteig,0.0
+950,Location_D-73345 Hohenstadt,0.0
+949,Location_D-73344 Gruibingen,0.0
+791,Location_D-64653 Lorsch,0.0
+789,Location_D-64405 Fischbachtal,0.0
+540,Location_D-45279 Essen,0.0
+618,Location_D-51065 Cologne,0.0
+631,Location_D-52072 Aachen,0.0
+630,Location_D-52070 Aachen,0.0
+629,Location_D-52066 Aachen,0.0
+628,Location_D-52064 Aachen,0.0
+627,Location_D-52062 Aachen,0.0
+626,Location_D-51766 Engelskirchen,0.0
+625,Location_D-51515 Kürten,0.0
+624,Location_D-51491 Overath,0.0
+623,Location_D-51467 Bergisch Gladbach,0.0
+622,Location_D-51373 Leverkusen,0.0
+621,Location_D-51143 Cologne,0.0
+620,Location_D-51109 Cologne,0.0
+619,Location_D-51067 Cologne,0.0
+617,Location_D-51063 Cologne,0.0
+602,Location_D-50678 Cologne,0.0
+616,Location_D-51061 Cologne,0.0
+615,Location_D-50997 Cologne,0.0
+614,Location_D-50969 Cologne,0.0
+613,Location_D-50968 Cologne,0.0
+612,Location_D-50933 Cologne,0.0
+611,Location_D-50859 Köln,0.0
+610,Location_D-50859 Cologne,0.0
+609,Location_D-50858 Cologne,0.0
+608,Location_D-50825 Cologne,0.0
+607,Location_D-50823 Cologne,0.0
+606,Location_D-50767 Köln,0.0
+605,Location_D-50739 Cologne,0.0
+604,Location_D-50733 Cologne,0.0
+632,Location_D-52074 Aachen,0.0
+633,Location_D-52076 Aachen,0.0
+634,Location_D-52152 Simmerath,0.0
+635,Location_D-52159 Roetgen,0.0
+662,Location_D-53859 Niederkassel,0.0
+661,Location_D-53840 Troisdorf,0.0
+660,Location_D-53804 Much,0.0
+659,Location_D-53797 Lohmar,0.0
+658,Location_D-53773 Hennef,0.0
+657,Location_D-53757 Sankt Augustin,0.0
+656,Location_D-53721 Siegburg,0.0
+655,Location_D-53639 Königswinter,0.0
+654,Location_D-53545 Linz am Rhein,0.0
+653,Location_D-53539 Welcherath,0.0
+652,Location_D-53505 Altenahr,0.0
+651,Location_D-53474 Bad Neuenahr-Ahrweiler,0.0
+650,Location_D-53424 Remagen,0.0
+649,Location_D-53359 Rheinbach,0.0
+648,Location_D-53347 Alfter,0.0
+647,Location_D-53343 Wachtberg,0.0
+646,Location_D-53332 Bornheim,0.0
+645,Location_D-53229 Bonn,0.0
+644,Location_D-53125 Bonn,0.0
+643,Location_D-53111 Bonn,0.0
+642,Location_D-52538 Gangelt,0.0
+641,Location_D-52525 Heinsberg,0.0
+640,Location_D-52428 Jülich,0.0
+639,Location_D-52355 Düren,0.0
+638,Location_D-52351 Düren,0.0
+637,Location_D-52249 Eschweiler,0.0
+636,Location_D-52224 Stolberg (Rhineland),0.0
+603,Location_D-50679 Cologne,0.0
+601,Location_D-50667 Köln,0.0
+788,Location_D-64404 Bickenbach,0.0
+555,Location_D-46514 Schermbeck,0.0
+568,Location_D-47625 Kevelaer,0.0
+567,Location_D-47589 Uedem,0.0
+566,Location_D-47551 Bedburg-Hau,0.0
+565,Location_D-47441 Moers,0.0
+564,Location_D-47259 Duisburg,0.0
+563,Location_D-47226 Duisburg,0.0
+562,Location_D-47169 Duisburg,0.0
+561,Location_D-47167 Duisburg,0.0
+560,Location_D-47137 Duisburg,0.0
+559,Location_D-47057 Duisburg,0.0
+558,Location_D-47053 Duisburg,0.0
+557,Location_D-47051 Duisburg,0.0
+556,Location_D-46537 Dinslaken,0.0
+554,Location_D-46446 Emmerich,0.0
+600,Location_D-50667 Cologne,0.0
+553,Location_D-46414 Rhede,0.0
+552,Location_D-46399 Bocholt,0.0
+551,Location_D-46348 Raesfeld,0.0
+550,Location_D-46282 Dorsten,0.0
+549,Location_D-46149 Oberhausen,0.0
+548,Location_D-46047 Oberhausen,0.0
+547,Location_D-45964 Gladbeck,0.0
+546,Location_D-45894 Gelsenkirchen,0.0
+545,Location_D-45768 Marl,0.0
+544,Location_D-45721 Haltern am See,0.0
+543,Location_D-45657 Recklinghausen,0.0
+542,Location_D-45478 Mülheim an der Ruhr,0.0
+541,Location_D-45307 Essen,0.0
+569,Location_D-47665 Sonsbeck,0.0
+570,Location_D-47802 Krefeld,0.0
+571,Location_D-47804 Krefeld,0.0
+572,Location_D-47809 Krefeld,0.0
+599,Location_D-50374 Erftstadt,0.0
+598,Location_D-50354 Hürth,0.0
+597,Location_D-50321 Brühl,0.0
+596,Location_D-50259 Pulheim,0.0
+595,Location_D-50226 Frechen,0.0
+594,Location_D-50189 Elsdorf,0.0
+593,Location_D-50181 Bedburg,0.0
+592,Location_D-49811 Lingen,0.0
+591,Location_D-49733 Haren,0.0
+590,Location_D-49716 Meppen,0.0
+589,Location_D-49565 Bramsche,0.0
+588,Location_D-49504 Lotte,0.0
+587,Location_D-49477 Ibbenbüren,0.0
+586,Location_D-49406 Eydelstedt,0.0
+585,Location_D-49377 Vechta,0.0
+584,Location_D-49326 Melle,0.0
+583,Location_D-49205 Hasbergen,0.0
+582,Location_D-48477 Hörstel,0.0
+581,Location_D-48324 Sendenhorst,0.0
+580,Location_D-48308 Senden,0.0
+579,Location_D-48282 Emsdetten,0.0
+578,Location_D-48249 Dülmen,0.0
+577,Location_D-48167 Münster,0.0
+576,Location_D-48155 Münster,0.0
+575,Location_D-48143 Münster,0.0
+574,Location_D-47929 Grefrath,0.0
+573,Location_D-47877 Willich,0.0
+663,Location_D-53879 Euskirchen,0.0
+664,Location_D-53894 Mechernich,0.0
+665,Location_D-53902 Bad Münstereifel,0.0
+743,Location_D-60314 Frankfurt,0.0
+756,Location_D-61239 Ober-Mörlen,0.0
+755,Location_D-61206 Wöllstadt,0.0
+754,Location_D-61191 Rosbach vor der Höhe,0.0
+753,Location_D-61118 Bad Vilbel,0.0
+752,Location_D-60529 Frankfurt am Main,0.0
+751,Location_D-60488 Frankfurt am Main,0.0
+750,Location_D-60439 Frankfurt am Main,0.0
+749,Location_D-60437 Frankfurt am Main,0.0
+748,Location_D-60433 Frankfurt,0.0
+747,Location_D-60389 Frankfurt am Main,0.0
+746,Location_D-60388 Frankfurt,0.0
+745,Location_D-60386 Frankfurt am Main,0.0
+744,Location_D-60316 Frankfurt am Main,0.0
+742,Location_D-60311 Frankfurt am Main,0.0
+666,Location_D-53909 Zülpich,0.0
+741,Location_D-59929 Brilon,0.0
+740,Location_D-59823 Arnsberg,0.0
+739,Location_D-59821 Arnsberg,0.0
+738,Location_D-59597 Erwitte,0.0
+737,Location_D-59590 Geseke,0.0
+736,Location_D-59558 Lippstadt,0.0
+735,Location_D-59514 Welver,0.0
+734,Location_D-59494 Soest,0.0
+733,Location_D-59457 Werl,0.0
+732,Location_D-59387 Ascheberg,0.0
+731,Location_D-59368 Werne,0.0
+730,Location_D-59329 Wadersloh,0.0
+729,Location_D-59192 Bergkamen,0.0
+757,Location_D-61267 Neu-Anspach,0.0
+758,Location_D-61389 Schmitten,0.0
+759,Location_D-61476 Kronberg,0.0
+760,Location_D-61479 Glashütten,0.0
+787,Location_D-64401 Groß-Bieberau,0.0
+786,Location_D-64380 Roßdorf,0.0
+785,Location_D-64372 Ober-Ramstadt,0.0
+784,Location_D-64342 Seeheim-Jugenheim,0.0
+783,Location_D-64319 Pfungstadt,0.0
+782,Location_D-64297 Darmstadt,0.0
+781,Location_D-64293 Darmstadt,0.0
+780,Location_D-63933 Mönchberg,0.0
+779,Location_D-63897 Miltenberg,0.0
+778,Location_D-63801 Kleinostheim,0.0
+777,Location_D-63791 Karlstein am Main,0.0
+776,Location_D-63768 Hösbach,0.0
+775,Location_D-63762 Großostheim,0.0
+774,Location_D-63755 Alzenau in Unterfranken,0.0
+773,Location_D-63741 Aschaffenburg,0.0
+772,Location_D-63688 Gedern,0.0
+771,Location_D-63667 Nidda,0.0
+770,Location_D-63526 Erlensee,0.0
+769,Location_D-63486 Bruchköbel,0.0
+768,Location_D-63477 Maintal,0.0
+767,Location_D-63457 Hanau,0.0
+766,Location_D-63329 Egelsbach,0.0
+765,Location_D-63322 Rödermark,0.0
+764,Location_D-63303 Dreieich,0.0
+763,Location_D-63263 Neu-Isenburg,0.0
+762,Location_D-63071 Offenbach am Main,0.0
+761,Location_D-63069 Offenbach,0.0
+728,Location_D-59075 Hamm,0.0
+727,Location_D-59065 Hamm,0.0
+726,Location_D-58849 Herscheid,0.0
+695,Location_D-56070 Koblenz,0.0
+693,Location_D-55450 Langenlonsheim,0.0
+692,Location_D-55413 Manubach,0.0
+691,Location_D-55411 Bingen,0.0
+690,Location_D-55283 Nierstein,0.0
+689,Location_D-55252 Wiesbaden,0.0
+688,Location_D-55129 Mainz,0.0
+687,Location_D-55127 Mainz,0.0
+686,Location_D-55124 Mainz,0.0
+685,Location_D-55122 Mainz,0.0
+684,Location_D-55120 Mainz,0.0
+683,Location_D-55118 Mainz,0.0
+682,Location_D-55116 Mainz,0.0
+681,Location_D-54673 Neuerburg,0.0
+680,Location_D-54636 Schleid,0.0
+679,Location_D-54634 Bitburg,0.0
+678,Location_D-54589 Stadtkyll,0.0
+677,Location_D-54570 Densborn,0.0
+676,Location_D-54538 Bengel,0.0
+675,Location_D-54538 Bausendorf,0.0
+674,Location_D-54486 Mülheim (Moselle),0.0
+673,Location_D-54470 Graach an der Mosel,0.0
+672,Location_D-54456 Tawern,0.0
+671,Location_D-54441 Mannebach,0.0
+670,Location_D-54329 Konz,0.0
+669,Location_D-54298 Igel,0.0
+668,Location_D-54290 Trier,0.0
+667,Location_D-53937 Schleiden,0.0
+694,Location_D-55543 Bad Kreuznach,0.0
+696,Location_D-56244 Maxsain,0.0
+725,Location_D-58809 Neuenrade,0.0
+697,Location_D-56244 Schenkelberg,0.0
+724,Location_D-58769 Nachrodt-Wiblingwerde,0.0
+723,Location_D-58730 Fröndenberg,0.0
+722,Location_D-58675 Hemer,0.0
+721,Location_D-58644 Iserlohn,0.0
+720,Location_D-58640 Iserlohn,0.0
+719,Location_D-58636 Iserlohn,0.0
+718,Location_D-58566 Kierspe,0.0
+717,Location_D-58540 Meinerzhagen,0.0
+716,Location_D-58456 Witten,0.0
+715,Location_D-58300 Wetter,0.0
+714,Location_D-58285 Gevelsberg,0.0
+713,Location_D-58256 Ennepetal,0.0
+712,Location_D-57635 Wölmersen,0.0
+711,Location_D-57555 Mudersbach,0.0
+710,Location_D-57520 Derschen,0.0
+709,Location_D-57489 Drolshagen,0.0
+708,Location_D-57399 Kirchhundem,0.0
+707,Location_D-57299 Burbach,0.0
+706,Location_D-57271 Hilchenbach,0.0
+705,Location_D-57258 Freudenberg,0.0
+704,Location_D-57234 Wilnsdorf,0.0
+703,Location_D-57080 Siegen,0.0
+702,Location_D-56626 Andernach,0.0
+701,Location_D-56479 Rehe,0.0
+700,Location_D-56414 Niederahr,0.0
+699,Location_D-56414 Meudt,0.0
+698,Location_D-56335 Neuhäusel,0.0
+1023,Location_D-77654 Offenburg,0.0

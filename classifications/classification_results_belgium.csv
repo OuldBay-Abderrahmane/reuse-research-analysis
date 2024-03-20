@@ -8,11 +8,11 @@
    macro avg       0.66      0.65      0.65        32
 weighted avg       0.68      0.69      0.68        32
 ","                                  Feature  Importance
-2                           Category_Door    0.768832
-0                                  Weight    0.092222
-1                            Latest_Price    0.065618
-5        material_emb_Architectural glass    0.054970
-11                      material_emb_Wood    0.018358
+2                           Category_Door    0.759888
+0                                  Weight    0.100397
+1                            Latest_Price    0.068312
+5        material_emb_Architectural glass    0.053108
+11                      material_emb_Wood    0.018296
 3                          Category_Doors    0.000000
 4   Belgium_Raw_Wood panelled door leaves    0.000000
 6           material_emb_Insulating glass    0.000000
@@ -29,10 +29,10 @@ weighted avg       0.68      0.69      0.68        32
    macro avg       0.25      0.12      0.17         5
 weighted avg       0.40      0.20      0.27         5
 ","                            Feature  Importance
-1                      Latest_Price    0.380689
-0                            Weight    0.318318
-4  material_emb_Architectural glass    0.163641
-6                 material_emb_Wood    0.137352
+1                      Latest_Price    0.396751
+0                            Weight    0.305117
+4  material_emb_Architectural glass    0.149354
+6                 material_emb_Wood    0.148778
 2                    Category_Doors    0.000000
 3         Belgium_Raw_Wood doorsets    0.000000
 5   material_emb_Expansive concrete    0.000000"
@@ -54,44 +54,44 @@ weighted avg       0.00      0.00      0.00       2.0
 6              material_emb_Terracotta         0.0"
 3,Pr_35_93_96,"              precision    recall  f1-score   support
 
-           0       0.93      0.78      0.85        18
-           1       0.67      0.89      0.76         9
+           0       0.88      0.78      0.82        18
+           1       0.64      0.78      0.70         9
 
-    accuracy                           0.81        27
-   macro avg       0.80      0.83      0.81        27
-weighted avg       0.84      0.81      0.82        27
+    accuracy                           0.78        27
+   macro avg       0.76      0.78      0.76        27
+weighted avg       0.80      0.78      0.78        27
 ","                                              Feature  Importance
-18                         Belgium_Raw_Terrazzo tiles    0.426716
-2                                      Category_Floor    0.201592
-22                               material_emb_Granite    0.164909
-14                           Belgium_Raw_Quarry tiles    0.050958
-7                              Category_Wall Cladding    0.036960
-26                                material_emb_Marble    0.031766
-4                                     Category_Garden    0.023161
-31                            material_emb_Terracotta    0.017412
-0                                              Weight    0.012453
-19              Belgium_Raw_Wall and floor tile units    0.007838
-11                          Belgium_Raw_Ceramic tiles    0.006209
-1                                        Latest_Price    0.006049
-3                                     Category_Floors    0.006035
-17                Belgium_Raw_Terrazzo tile skirtings    0.004509
-20                               material_emb_Ceramic    0.003432
-23                 material_emb_Granite-powder cement    0.000000
+18                         Belgium_Raw_Terrazzo tiles    0.326551
+26                                material_emb_Marble    0.166665
+2                                      Category_Floor    0.147003
+8                    Belgium_Raw_Ceramic tile borders    0.089268
+14                           Belgium_Raw_Quarry tiles    0.077482
+4                                     Category_Garden    0.067902
+7                              Category_Wall Cladding    0.044862
+11                          Belgium_Raw_Ceramic tiles    0.023905
+3                                     Category_Floors    0.013123
+0                                              Weight    0.010800
+31                            material_emb_Terracotta    0.010095
+1                                        Latest_Price    0.008245
+17                Belgium_Raw_Terrazzo tile skirtings    0.005780
+19              Belgium_Raw_Wall and floor tile units    0.004510
+20                               material_emb_Ceramic    0.003810
+10               Belgium_Raw_Ceramic tile round edges    0.000000
+24                   material_emb_Insulating concrete    0.000000
 30                                 material_emb_Slate    0.000000
 29                             material_emb_Sandstone    0.000000
 28                       material_emb_Pozzolan cement    0.000000
 27                             material_emb_Porcelain    0.000000
-25  material_emb_Loose surfacing decorative aggreg...    0.000000
-24                   material_emb_Insulating concrete    0.000000
-9             Belgium_Raw_Ceramic tile cove skirtings    0.000000
 5                               Category_Objet Trouvé    0.000000
+25  material_emb_Loose surfacing decorative aggreg...    0.000000
 21             material_emb_Expanded slate aggregates    0.000000
-10               Belgium_Raw_Ceramic tile round edges    0.000000
+23                 material_emb_Granite-powder cement    0.000000
+22                               material_emb_Granite    0.000000
+12     Belgium_Raw_Natural stone wall and floor slabs    0.000000
 6                                   Category_Sanitary    0.000000
 15                            Belgium_Raw_Stone slabs    0.000000
-8                    Belgium_Raw_Ceramic tile borders    0.000000
+9             Belgium_Raw_Ceramic tile cove skirtings    0.000000
 13                        Belgium_Raw_Porcelain tiles    0.000000
-12     Belgium_Raw_Natural stone wall and floor slabs    0.000000
 16                            Belgium_Raw_Stone tiles    0.000000"
 4,Pr_30_59_23_32,"              precision    recall  f1-score   support
 
@@ -108,12 +108,12 @@ weighted avg       1.00      1.00      1.00         2
 4         material_emb_Architectural glass         0.0"
 5,Pr_40_30_87_03,"              precision    recall  f1-score   support
 
-           0       1.00      0.33      0.50         3
-           1       0.33      1.00      0.50         1
+           0       0.50      0.33      0.40         3
+           1       0.00      0.00      0.00         1
 
-    accuracy                           0.50         4
-   macro avg       0.67      0.67      0.50         4
-weighted avg       0.83      0.50      0.50         4
+    accuracy                           0.25         4
+   macro avg       0.25      0.17      0.20         4
+weighted avg       0.38      0.25      0.30         4
 ","                         Feature  Importance
 1                   Latest_Price    0.879007
 0                         Weight    0.120993

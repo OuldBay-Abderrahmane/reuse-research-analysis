@@ -1,0 +1,302 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+18,776,776,Holzfenster -Flügelig,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Material: Holz/Glas
+Farbe innen/aussen: weiss/ grau
+Verglasung: 2-fach verglast 
+Anschlag: dreh-kipp-rechts, links drehbar
+Montagelöcher vorhanden
+ohne Wetterschenkel, jedoch einige an Lager zum zuschneiden
+Masse: B 114cm x H 169cm x T/D 6.5cm
+Lichtmass: B 98cm x H 155.6cm",Glass,,,,,,,,,220.0,,,1970-01-01,220.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,79673,CH,de,,https://www.useagain.ch/de/holzfenster-2-fluegelig-79673,,double leaf window,,,,"{'score': 0.976568877696991, 'start': 9, 'end': 19, 'answer': ' Holz/Glas'}","{'score': 0.7136998772621155, 'start': 219, 'end': 249, 'answer': ' B 114cm x H 169cm x T/D 6.5cm'}","{'score': 1.623376738280058e-05, 'start': 179, 'end': 211, 'answer': ' einige an Lager zum zuschneiden'}",Lignite,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+77,837,837,Bodenfliesen Dunkelbraun,like new,"['G02.02', 'G03.02']",Building fit-out,,Ausbau,Boden - & Wandbeläge,Keramikbeläge,"Produkte-Nr. 1801
+
+mit rutschfester Oberfläche
+1 Schachtel mit 40 Fliesen = 0.8m2
+Verkauf pro Schachtel/Posten",Ceramic,10.0,20.0,1,,,,,2022-12-23,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Zürich, 8050",,useagain,80340,CH,de,1801_570x570.jpg,https://www.useagain.ch/de/bodenfliesen-dunkelbraun-80340,G,floor tiles,,,,"{'score': 0.5094336271286011, 'start': 22, 'end': 46, 'answer': ' rutschfester Oberfläche'}","{'score': 0.013780396431684494, 'start': 75, 'end': 81, 'answer': ' 0.8m2'}","{'score': 0.32437339425086975, 'start': 46, 'end': 81, 'answer': '\n1 Schachtel mit 40 Fliesen = 0.8m2'}",Daub,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels",Other,Treads and landing units
+95,857,857,Spiegelschrank,,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Farbe: Weiss
+2-Türig
+Spiegel beidseitig
+Steckdose: 2 Stk. Innenseite oben links
+Holztablare: 4 Stk.
+Licht: 2 x 30W",Glass,,,,,,,,2022-06-14,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,80879,CH,de,,https://www.useagain.ch/de/spiegelschrank-80879,J01.02,cabinet,,,,"{'score': 0.005637373309582472, 'start': 82, 'end': 96, 'answer': '\r\nHolztablare:'}","{'score': 0.046996910125017166, 'start': 12, 'end': 41, 'answer': '\r\n2-Türig\r\nSpiegel beidseitig'}","{'score': 0.021568628028035164, 'start': 12, 'end': 21, 'answer': '\r\n2-Türig'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+158,927,927,Spiegelschrank,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: Schneider
+Modell: LOW 60/1/FL
+Gehäuse: Aluminium
+Spiegel beidseitig
+Türbandung links, wechselbar
+2 Glastablar
+Doppelsteckdose innen, oben rechts
+Licht 1x 24 W
+230V",,,,,,,,,2022-06-08,222.0,,,1970-01-01,222.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,90042,CH,de,,https://www.useagain.ch/de/spiegelschrank-90042,J01.02,cabinet,,,,"{'score': 0.07813526690006256, 'start': 52, 'end': 62, 'answer': ' Aluminium'}","{'score': 0.0006661948282271624, 'start': 30, 'end': 42, 'answer': ' LOW 60/1/FL'}","{'score': 0.03662144020199776, 'start': 169, 'end': 183, 'answer': ' 1x 24 W\r\n230V'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+290,1076,1076,Sprossenfenster -Flügelig,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 128cm x H 133cm",Glass,,,,,,,,,270.0,,,1970-01-01,270.0,1970-01-01 00:00:00.000,0.0,1.0,15.0,"Brügg, 2555",,useagain,83155,CH,de,,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83155,,double leaf window,,,,"{'score': 0.16209682822227478, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.5015490651130676, 'start': 274, 'end': 292, 'answer': ' B 128cm x H 133cm'}","{'score': 3.816612945684028e-07, 'start': 276, 'end': 282, 'answer': ' 128cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+309,1098,1098,Sprossenfenster -Flügelig,used & cleaned,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Sprossenfenster ohne Stulp
+
+Rahmenprofil: Kunststoff
+Anschlag: rechts
+Farbe: weiss
+Verglasung: 2-fach
+Sprossen: Horizontal, innenliegend
+Inkl. Montagelöcher 
+Fenstergriff und Wetterschenkel nicht vorhanden!
+Zustand: Allgm. Gebrauchsspuren, rechte Seite am Rahmen abgenutzt siehe Photo
+
+Rahmenmass: B 99.8cm x H 159cm x T/D 6cm
+Lichtmass: B 85.2cm x H 142.5cm",,,,,,,,,2022-06-07,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Brügg, 2555",,useagain,90041,CH,de,,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-90041,,double leaf window,,,,"{'score': 0.7286446690559387, 'start': 43, 'end': 54, 'answer': ' Kunststoff'}","{'score': 0.04170861467719078, 'start': 310, 'end': 337, 'answer': ' 99.8cm x H 159cm x T/D 6cm'}","{'score': 0.00020561623387038708, 'start': 99, 'end': 106, 'answer': ' 2-fach'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+403,1212,1212,Sprossenfenster -Flügel,,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Profil: Holz
+Farbe: braun lackiert
+Fensterglas: 2 einzelne Glasscheiben, 2-fach Verglasung
+Fensteranschlag: links
+Sprossen: Horizontal an Rückseite aussenliegend
+Mit und ohne Wetterschenkel
+Montagelöcher vorhanden
+Zustand: 1 Fenster mit Abnutzungen an Flügel siehe Photo
+Allgm. Gebrauchsspuren
+
+Lichtmass: B 78cm x H 94cm",Glass,,,,,,,,,180.0,,,1970-01-01,180.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,82488,CH,de,,https://www.useagain.ch/de/sprossenfenster-1-fluegel-82488,,single leaf window,,,,"{'score': 0.922276496887207, 'start': 7, 'end': 12, 'answer': ' Holz'}","{'score': 0.6633210182189941, 'start': 315, 'end': 331, 'answer': ' B 78cm x H 94cm'}","{'score': 0.0023334308061748743, 'start': 49, 'end': 74, 'answer': ' 2 einzelne Glasscheiben,'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+424,1233,1233,Sprossenfenster -flügelig,used,['Sonstiges'],,,Gebäudehülle & Konstruktion,Fenster,Fenster,"Sprossenfenter ohne Stulp
+Rahmenprofil: Kunststoff
+Verglasung: 2-fach
+2-flügelig
+Beide Flügel nur drehbar
+Sprossen: Horizontal, innenliegend
+Inkl. Montagelöcher
+Fenstergriff, Schlüssel nicht vorhanden!
+Ohne Wetterschenkel
+
+Lichtmass: B 84,9 cm / H 141,6 cm",,,,,,,,,2022-06-15,160.0,,,1970-01-01,160.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Brügg, 2555",,useagain,90061,CH,de,,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-90061,,double leaf window,,,,"{'score': 0.37376081943511963, 'start': 40, 'end': 51, 'answer': ' Kunststoff'}","{'score': 0.34027978777885437, 'start': 243, 'end': 266, 'answer': ' B 84,9 cm / H 141,6 cm'}","{'score': 1.2173089999123476e-05, 'start': 231, 'end': 243, 'answer': '\r\nLichtmass:'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Floors, Ceiling","Lighting columns, brackets and bollards"
+587,1404,1404,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 127cm x H 132.5cm",Glass,6.0,142.0,152,,,,,2023-02-02,270.0,,,1970-01-01,270.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,83160,CH,de,1_%28157%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83160,E03.01,double leaf window,,,,"{'score': 0.15061554312705994, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.38909363746643066, 'start': 274, 'end': 294, 'answer': ' B 127cm x H 132.5cm'}","{'score': 1.4673562986899924e-07, 'start': 276, 'end': 294, 'answer': ' 127cm x H 132.5cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+589,1406,1406,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 128cm x H 133cm",Glass,6.0,141.0,152,,,,,2023-02-02,270.0,,,1970-01-01,270.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,83158,CH,de,1_%28159%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83158,E03.01,double leaf window,,,,"{'score': 0.16209682822227478, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.5015490651130676, 'start': 274, 'end': 292, 'answer': ' B 128cm x H 133cm'}","{'score': 3.816612945684028e-07, 'start': 276, 'end': 282, 'answer': ' 128cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+590,1407,1407,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 127cm x H 133cm",Glass,6.0,142.0,152,,,,,2023-02-02,270.0,,,1970-01-01,270.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,83157,CH,de,1_%28160%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83157,E03.01,double leaf window,,,,"{'score': 0.16157609224319458, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.5104005336761475, 'start': 274, 'end': 292, 'answer': ' B 127cm x H 133cm'}","{'score': 2.790326334434212e-07, 'start': 276, 'end': 282, 'answer': ' 127cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+594,1412,1412,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 127cm x H 133cm",Glass,6.0,142.0,"152,5",,,,,2023-02-02,270.0,,,1970-01-01,270.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,83156,CH,de,1_%28161%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83156,E03.01,double leaf window,,,,"{'score': 0.16157609224319458, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.5104005336761475, 'start': 274, 'end': 292, 'answer': ' B 127cm x H 133cm'}","{'score': 2.790326334434212e-07, 'start': 276, 'end': 282, 'answer': ' 127cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+726,1554,1554,Sprossenfenster -Flügelig,,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Profil: Holz
+Farbe: Dispersion Türkis, muss neu lackiert werden
+Fensterglas: 4 einzelne Glasscheiben, 2-fach Verglasung
+Sprossen an Vor-/Rückseite Horizontal als Abdeckung der einzelnen Glasscheiben
+Fensteranschlag: Drehbar, ohne Stulp
+Wetterschenkel, Fensterbank und Montagelöcher vorhanden
+Zustand: Allgm. Gebrauchsspuren",Glass,,,,,,,,2022-09-05,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,162.0,"Brügg, 2555",,useagain,82585,CH,de,1_%2856%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-82585,E03.01,double leaf window,,,,"{'score': 0.8103569746017456, 'start': 7, 'end': 12, 'answer': ' Holz'}","{'score': 3.371859565959312e-05, 'start': 0, 'end': 12, 'answer': 'Profil: Holz'}","{'score': 0.11959078162908554, 'start': 76, 'end': 101, 'answer': ' 4 einzelne Glasscheiben,'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+766,1596,1596,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 127cm x H 132.5cm",Glass,6.0,142.0,152,,,,,2023-02-02,270.0,,,1970-01-01,270.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,83159,CH,de,1_%28158%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83159,E03.01,double leaf window,,,,"{'score': 0.15061554312705994, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.38909363746643066, 'start': 274, 'end': 294, 'answer': ' B 127cm x H 132.5cm'}","{'score': 1.4673562986899924e-07, 'start': 276, 'end': 294, 'answer': ' 127cm x H 132.5cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+781,1612,1612,Sprossenfenster -flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Sprossenfenter ohne Stulp
+Rahmenprofil: Kunststoff
+Verglasung: 2-fach
+3-flügelig
+Rechter Flügel dreh- und kippbar
+Sprossen: Horizontal, innenliegend
+Inkl. Montagelöcher
+Ohne Fenstergriff
+Ohne Wetterschenkel
+
+Lichtmass: B 133,5 cm / H 132,3 cm",Plastic,5.0,150.0,"149,5",,,white,,2022-06-22,190.0,,,1970-01-01,190.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,90089,CH,de,1_%28189%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-3-fluegelig-90089,E03.01,triple leaf window,,,,"{'score': 0.25635385513305664, 'start': 39, 'end': 50, 'answer': ' Kunststoff'}","{'score': 0.3297532796859741, 'start': 218, 'end': 242, 'answer': ' B 133,5 cm / H 132,3 cm'}","{'score': 2.586472692200914e-05, 'start': 207, 'end': 218, 'answer': '\nLichtmass:'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Floors, Ceiling","Lighting columns, brackets and bollards"
+783,1614,1614,Sprossenfenster -flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Sprossenfenter ohne Stulp
+Rahmenprofil: Kunststoff
+Verglasung: 2-fach
+2-flügelig
+Rechter Flügel dreh- und kippbar
+Sprossen: Horizontal, innenliegend
+Inkl. Montagelöcher
+Ohne Fenstergriff
+Ohne Wetterschenkel
+
+Lichtmass: B 85,5 cm / H 141,9 cm",Plastic,5.0,100.0,"158,6",,,white,,2022-06-22,160.0,,,1970-01-01,160.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,90090,CH,de,1_%28190%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-90090,E03.01,double leaf window,,,,"{'score': 0.25188568234443665, 'start': 39, 'end': 50, 'answer': ' Kunststoff'}","{'score': 0.3294428586959839, 'start': 218, 'end': 241, 'answer': ' B 85,5 cm / H 141,9 cm'}","{'score': 2.5868617740343325e-05, 'start': 207, 'end': 218, 'answer': '\nLichtmass:'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Floors, Ceiling","Lighting columns, brackets and bollards"
+925,1758,1758,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Sprossenfenster ohne Stulp
+
+Rahmenprofil: Kunststoff
+Anschlag: Dreh-kipp-rechts
+Farbe: weiss
+Verglasung: 2-fach
+Sprossen: Horizontal, innenliegend
+Inkl. Montagelöcher 
+Fenstergriff und Wetterschenkel nicht vorhanden!
+Zustand: Allgm. Gebrauchsspuren
+
+Rahmenmass: B 99.8cm x H 158.8cm x T/D 6cm
+Lichtmass: B 85.3cm x H 141.8cm",Mixed,6.0,99.0,"158,8",,,white,,2022-06-07,160.0,,,1970-01-01,160.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,90040,CH,de,1_%28173%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-90040,E03.01,double leaf window,,,,"{'score': 0.7191033363342285, 'start': 41, 'end': 52, 'answer': ' Kunststoff'}","{'score': 0.01692420244216919, 'start': 249, 'end': 261, 'answer': '\nRahmenmass:'}","{'score': 4.0604536479804665e-05, 'start': 104, 'end': 111, 'answer': ' 2-fach'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+950,1783,1783,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Rahmenprofil: Holz
+Farbe: weiss
+Fensteranschlag: Dreh-kipp-rechts ohne Stulp
+Verglasung: 2-fach
+Fenstersprossen Anordnung: Horizontal
+Fenstersprossen Innenliegend-/Aussenseite: Kunststoff/Holz
+Montagelöcher und Wetterschenkel vorhanden
+Zustand: Allgm.Lackschäden
+
+Lichtmass: B 127cm x H 133cm",Glass,6.0,142.0,152,,,,,2023-02-02,270.0,,,1970-01-01,270.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,83161,CH,de,1_%28156%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-83161,E03.01,double leaf window,,,,"{'score': 0.16157609224319458, 'start': 176, 'end': 192, 'answer': ' Kunststoff/Holz'}","{'score': 0.5104005336761475, 'start': 274, 'end': 292, 'answer': ' B 127cm x H 133cm'}","{'score': 2.790326334434212e-07, 'start': 276, 'end': 282, 'answer': ' 127cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+981,1822,1822,Sprossenfenster -Flügelig,used & cleaned,['E03.01'],Windows,,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Sprossenfenster ohne Stulp
+
+Rahmenprofil: Kunststoff
+Anschlag: Dreh-kipp-rechts
+Farbe: weiss
+Verglasung: 2-fach
+Sprossen: Horizontal, innenliegend
+Inkl. Montagelöcher 
+Fenstergriff und Wetterschenkel nicht vorhanden!
+Zustand: Allgm. Gebrauchsspuren
+
+Lichtmass: B 85.5cm x H 132cm",Mixed,6.0,100.0,"148,5",,,white,,2022-06-13,160.0,,,1970-01-01,160.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,90055,CH,de,1_%28178%29_570x570.jpg,https://www.useagain.ch/de/sprossenfenster-2-fluegelig-90055,E03.01,double leaf window,,,,"{'score': 0.6385068893432617, 'start': 41, 'end': 52, 'answer': ' Kunststoff'}","{'score': 0.4082748293876648, 'start': 260, 'end': 279, 'answer': ' B 85.5cm x H 132cm'}","{'score': 8.232318214140832e-05, 'start': 104, 'end': 111, 'answer': ' 2-fach'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+1111,1960,1960,Spiegelschrank,,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Spiegelschrank doppeltürig, beige, beleuchtet mit Steckdose und Rasierapparate-Anschluss
+Fällt bei Badumbau an der Lenk i.S. an. Je nach Situation kann Übergabe in Köniz/Bern erfolgen.",Wood,,,,,,,,2022-09-03,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Lenk, 3775",,useagain,90456,CH,de,,https://www.useagain.ch/de/spiegelschrank-90456,J01.02,cabinet,,,,"{'score': 0.1970570832490921, 'start': 27, 'end': 34, 'answer': ' beige,'}","{'score': 0.001684078248217702, 'start': 0, 'end': 34, 'answer': 'Spiegelschrank doppeltürig, beige,'}","{'score': 0.011761737056076527, 'start': 0, 'end': 14, 'answer': 'Spiegelschrank'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1170,2019,2019,Spiegelschrank,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"laufend Spiegelschränke von Schneider, 1-flüglig (Band links und rechts) auch grössere 2- und 3- Flüglige auch von anderen Marken. hier im Bild Typ: ECO 60 /GT/FL, Bitte via Mail oder tel ( 052 238 27 00) im BauTeilLaden Winterthur nachfragen, da nie alle auf der Homepage sind",Glass,15.0,60.0,72,,,,,,85.0,,,1970-01-01,85.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,60456,CH,de,,https://www.useagain.ch/de/spiegelschrank-60456,J01.02,cabinet,,,,"{'score': 0.016936911270022392, 'start': 148, 'end': 163, 'answer': ' ECO 60 /GT/FL,'}","{'score': 0.0005500700790435076, 'start': 38, 'end': 72, 'answer': ' 1-flüglig (Band links und rechts)'}","{'score': 0.18001894652843475, 'start': 148, 'end': 163, 'answer': ' ECO 60 /GT/FL,'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1533,2384,2384,Spiegelschrank cm,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: unbekannt
+Modell: unbekannt
+Material Korpus: Blech
+Doppelspiegeltür, rechtsbandig, wechselbar
+2x Glastablar
+Doppelsteckdose innen, oben links
+Anschluss: 230V",,,,,,,,,2022-10-20,130.0,,,1970-01-01,130.0,1970-01-01 00:00:00.000,0.0,1.0,14.0,"Brügg, 2555",,useagain,91071,CH,de,1_%28263%29_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-60cm-91071,J01.02,cabinet,,,,"{'score': 0.9237803220748901, 'start': 56, 'end': 62, 'answer': ' Blech'}","{'score': 0.0005026182625442743, 'start': 39, 'end': 62, 'answer': '\nMaterial Korpus: Blech'}","{'score': 0.0076599218882620335, 'start': 105, 'end': 153, 'answer': '\n2x Glastablar\nDoppelsteckdose innen, oben links'}",Lignite,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels","Covering, Finish",Walling units
+1535,2386,2386,Spiegelschrank cm,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: unbekannt
+Modell: unbekannt
+Material Korpus: Blech
+Doppelspiegeltür, linksbandig, wechselbar
+2x Glastablar
+Doppelsteckdose innen, oben rechts
+Anschluss: 230V",,,,,,,,,2022-10-26,130.0,,,1970-01-01,130.0,1970-01-01 00:00:00.000,0.0,1.0,14.0,"Brügg, 2555",,useagain,91188,CH,de,1_%28266%29_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-60cm-91188,J01.02,cabinet,,,,"{'score': 0.9258608818054199, 'start': 56, 'end': 62, 'answer': ' Blech'}","{'score': 0.00045221330947242677, 'start': 39, 'end': 62, 'answer': '\nMaterial Korpus: Blech'}","{'score': 0.007701268885284662, 'start': 104, 'end': 153, 'answer': '\n2x Glastablar\nDoppelsteckdose innen, oben rechts'}",Lignite,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels","Covering, Finish",Walling units
+1547,2398,2398,Spiegelschrank,mixed,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: Keine Angaben
+Garantie: ohne Garantie
+Masse: H: 45 cm, B: 120 cm, T: 16 cm
+Mängel: Gebrauchsspuren
+Material: gemischt
+Zustand: occasion/gebraucht
+
+Artikelnr:  112231",,,,,,,,,2022-09-30,289.0,,,1970-01-01,289.0,1970-01-01 00:00:00.000,0.0,1.0,14.0,"Münchenstein, 4142",,useagain,90638,CH,de,111518_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-90638,J01.02,cabinet,,,,"{'score': 0.9890930652618408, 'start': 120, 'end': 129, 'answer': ' gemischt'}","{'score': 0.8554770350456238, 'start': 56, 'end': 86, 'answer': ' H: 45 cm, B: 120 cm, T: 16 cm'}","{'score': 0.2376607209444046, 'start': 56, 'end': 86, 'answer': ' H: 45 cm, B: 120 cm, T: 16 cm'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1648,2499,2499,Spiegelschrank cm,cleaned & tested,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: Keller
+Modell: Modico Rem 60
+Korpus: Aluminium
+Spiegel beidseitig
+2 Glastablar
+Linksbandig, wechselbar
+Steckdose mit FI-Schalter innen oben rechts
+Strom und Licht: 230V / 24W",,,,,,,,,2022-09-16,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,29.0,"Brügg, 2555",,useagain,90538,CH,de,1_%28243%29_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-60cm-90538,J01.02,cabinet,,,,"{'score': 0.12218237668275833, 'start': 48, 'end': 58, 'answer': ' Aluminium'}","{'score': 6.907467468408868e-05, 'start': 26, 'end': 40, 'answer': ' Modico Rem 60'}","{'score': 0.0045751044526696205, 'start': 182, 'end': 186, 'answer': ' 24W'}",Lignite,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels","Covering, Finish",Walling units
+1689,2540,2540,Spiegelschrank cm,mixed,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Spiegelschrank 1-türig, linksbandig
+Hersteller: Schneider
+Modell: RONplus 60/1/FL/L
+Farbe: weiss
+Korpus: Kunststoff
+Doppelsteckdose innen, oben rechts
+Licht: 1x 14W
+Anschluss: 230V",,,,,,,,,2022-10-27,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,24.0,"Brügg, 2555",,useagain,91209,CH,de,1_%28268%29_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-60cm-91209,J01.02,cabinet,,,,"{'score': 0.9099768400192261, 'start': 104, 'end': 115, 'answer': ' Kunststoff'}","{'score': 0.001946257776580751, 'start': 73, 'end': 83, 'answer': ' 60/1/FL/L'}","{'score': 0.12209326773881912, 'start': 73, 'end': 83, 'answer': ' 60/1/FL/L'}",Lignite,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels","Covering, Finish",Walling units
+2205,3063,3063,Spiegelschrank,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Hersteller: Kelller
+Modell: Avance 12 600
+Farbe: weiss
+Korpus: Aluminium
+1-türig, Bandung links
+Spiegel beidseitig
+2x Glastablar
+Doppelstecker Innenseite oben links
+Licht: 1x 24W
+230V",,,,,,,,,2023-01-12,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,4.0,"Brügg, 2555",,useagain,91615,CH,de,1_%28310%29_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-91615,J01.02,cabinet,,,,"{'score': 0.272828072309494, 'start': 62, 'end': 72, 'answer': ' Aluminium'}","{'score': 0.0010081898653879762, 'start': 81, 'end': 95, 'answer': ' Bandung links'}","{'score': 0.1500558853149414, 'start': 34, 'end': 41, 'answer': ' 12 600'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+2561,3744,3744,Spiegel in div . Grössen,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Masse: H: 42cm B: 60cm T: 3mm
+Montage: Wandmontage
+Mängel: keine Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111969",,3.0,60.0,42,,,,,2023-02-03,15.0,,,1970-01-01,7.0,2023-09-25 00:00:00.000,-8.0,1.0,90.0,"Münchenstein, 4142",,useagain,91835,CH,de,111969_2_570x570.jpg,https://www.useagain.ch/de/spiegel-in-div.-groessen-91835,,mirror,,,,"{'score': 0.00010243339056614786, 'start': 50, 'end': 71, 'answer': '\nMängel: keine Mängel'}","{'score': 0.33329176902770996, 'start': 6, 'end': 22, 'answer': ' H: 42cm B: 60cm'}","{'score': 0.001767061767168343, 'start': 0, 'end': 6, 'answer': 'Masse:'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,"Lighting columns, brackets and bollards"
+2659,3843,3843,Spiegel,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Masse: H: 49cm B: 57.7cm T: 3mm
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112078",,3.0,57.0,49,,,,,2023-03-10,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.000,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,92184,CH,de,112078_570x570.jpg,https://www.useagain.ch/de/spiegel-92184,,mirror,,,,"{'score': 1.9448883904260583e-05, 'start': 104, 'end': 123, 'answer': '\nArtikel Nr: 112078'}","{'score': 0.31188055872917175, 'start': 6, 'end': 31, 'answer': ' H: 49cm B: 57.7cm T: 3mm'}","{'score': 0.0020912070758640766, 'start': 0, 'end': 6, 'answer': 'Masse:'}",Pisé,Sprinklers,Pr_70_55_98_84,Other,Other,Other
+2707,3891,3891,Spiegelfliese,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Masse: H: 18cm B: 22cm T: 2cm
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111970",,,22.0,18,,,,,2023-02-22,2.0,,,1970-01-01,2.0,2023-09-25 00:00:00.000,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,92002,CH,de,111970_570x570.jpg,https://www.useagain.ch/de/spiegelfliese-92002,,tiles,,,,"{'score': 2.5671546609373763e-05, 'start': 29, 'end': 61, 'answer': '\nGarantie: ohne Garantie\nMängel:'}","{'score': 0.6483085751533508, 'start': 6, 'end': 29, 'answer': ' H: 18cm B: 22cm T: 2cm'}","{'score': 0.02698773704469204, 'start': 6, 'end': 29, 'answer': ' H: 18cm B: 22cm T: 2cm'}",Lignite,Sprinklers,Pr_70_55_98_84,Other,Other,Other
+2731,3915,3915,Spiegelschrank,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Masse: H: 75cm B: 100cm T: 16cm
+Lochabstand: 78.5cm
+Farbe:weiss
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111915",,16.0,100.0,75,,,white,,2023-02-22,149.0,,,1970-01-01,149.0,1970-01-01 00:00:00.000,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,92008,CH,de,111915_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-92008,J01.02,cabinet,,,,"{'score': 0.3395829200744629, 'start': 51, 'end': 63, 'answer': '\nFarbe:weiss'}","{'score': 0.48084333539009094, 'start': 6, 'end': 31, 'answer': ' H: 75cm B: 100cm T: 16cm'}","{'score': 0.0007697728578932583, 'start': 0, 'end': 6, 'answer': 'Masse:'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+2954,4152,4152,Wand Spiegel,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,Spiegel Rund,,,,,50,,,,2023-03-24,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.000,0.0,1.0,45.0,"Münchenstein, 4142",,useagain,92295,CH,de,112120_570x570.jpg,https://www.useagain.ch/de/wand-spiegel-92295,D11,mirror,,,,"{'score': 0.36942797899246216, 'start': 0, 'end': 12, 'answer': 'Spiegel Rund'}","{'score': 0.27491217851638794, 'start': 0, 'end': 12, 'answer': 'Spiegel Rund'}","{'score': 0.02486865222454071, 'start': 0, 'end': 12, 'answer': 'Spiegel Rund'}",Silt,Sprinklers,Pr_70_55_98_84,Other,Other,Other
+2994,4192,4192,Spiegelschrank,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Masse: H: 70cm B: 120cm T: 22cm
+Montage: Wandmontage
+Material: Metall
+Farbe: weiss
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112084",Metal,22.0,120.0,70,,,white,,,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,,"Münchenstein, 4142",,useagain,92194,CH,de,112084_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-92194,J01.02,cabinet,,,,"{'score': 0.9829664826393127, 'start': 62, 'end': 69, 'answer': ' Metall'}","{'score': 0.663837730884552, 'start': 6, 'end': 31, 'answer': ' H: 70cm B: 120cm T: 22cm'}","{'score': 0.0011257255682721734, 'start': 0, 'end': 31, 'answer': 'Masse: H: 70cm B: 120cm T: 22cm'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+3083,4284,4284,Spiegelschrank,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,Spiegelschrank wird demontiert und kann frühestens ab dem 28.04.23 abgeholt werden.,,12.0,59.0,"82,5",,,,,,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Ehrendingen, 5420",,useagain,92326,CH,de,spiegelschrank_1_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-92326,J01.02,cabinet,,,,"{'score': 1.0659083216069121e-07, 'start': 0, 'end': 14, 'answer': 'Spiegelschrank'}","{'score': 2.451837872285978e-06, 'start': 0, 'end': 14, 'answer': 'Spiegelschrank'}","{'score': 8.136238420775044e-07, 'start': 0, 'end': 14, 'answer': 'Spiegelschrank'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+3734,4990,4991,Spiegelschrank,"used, cleaned & tested",['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Produkte-Nr. 3024
+
+Lichtblende hat einen Riss",,60.0,12.0,68,,,white,,2023-07-03,,,,,,,,0.0,,"Zürich, 8050",,useagain,92856,CH,de,20230703_145800_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-92856,J01.02,cabinet,35.0,,,"{'score': 1.4132034266367555e-05, 'start': 18, 'end': 45, 'answer': '\nLichtblende hat einen Riss'}","{'score': 0.0002206586505053565, 'start': 18, 'end': 45, 'answer': '\nLichtblende hat einen Riss'}","{'score': 0.4298080503940582, 'start': 12, 'end': 17, 'answer': ' 3024'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+3818,5213,5214,"Holzfenster mit Sprossen ,",like new,['E03.01'],Windows,Portes et fenêtres,Gebäudehülle & Konstruktion,Fenster,Wandfenster,"Die Fenster waren zu viel bestellt.
+3-fach Isolierverglasung;
+U-Wert Glas 0.7 W/m2K;
+Schallschutz 32dB;
+Farbe RAL 9016 Verkehrsweiss;
+Innen Verbundsicherhietsglas;
+Sprosse im äusseren Glaszwischenraum und aussen;
+Dreh-Kipp Beschlag links (von innen);
+Ohne Griff;
+Brandschutzfenster EI30;
+Abmessungen Rahmen: BxHxD (Rahmen) = 112 x 116.5 x 6.8cm;
+D Flügel: 7.8cm;
+Preis 2'500.- pro Stück;",Holz,,112.0,"116,5",,,white,,,,,,,2500.0,1970-01-01 00:00:00.002,,0.0,,"Illnau, 8308",,useagain,93004,CH,de,ei30image-5_570x570.jpg,https://www.useagain.ch/de/holzfenster-mit-sprossen-ei30-93004,E03.01,window,2500.0,,,"{'score': 0.6948264837265015, 'start': 139, 'end': 163, 'answer': ' Verbundsicherhietsglas;'}","{'score': 0.13177406787872314, 'start': 324, 'end': 345, 'answer': ' 112 x 116.5 x 6.8cm;'}","{'score': 0.20554794371128082, 'start': 368, 'end': 376, 'answer': "" 2'500.-""}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+4173,5577,5578,Spiegelschrank,used,['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Der doppelte Spiegelschrank mit eingebauter Leuchte und Steckdosen ist gebraucht aber in gutem Zustand. Tablare sind vorhanden. 
+
+Bei Fragen stehe ich gerne zur Verfügung.",gemischt,20.0,90.0,71,,,white,,2023-08-22,,,,,0.0,2023-09-25 00:00:00.000,,0.0,,"Wilen, 8832",,useagain,93166,CH,de,img_5045_570x570.jpg,https://www.useagain.ch/de/spiegelschrank-93166,J01.02,cabinet,0.0,,,"{'score': 4.84318718463328e-07, 'start': 70, 'end': 111, 'answer': ' gebraucht aber in gutem Zustand. Tablare'}","{'score': 0.03259240835905075, 'start': 3, 'end': 27, 'answer': ' doppelte Spiegelschrank'}","{'score': 0.011883921921253204, 'start': 3, 'end': 27, 'answer': ' doppelte Spiegelschrank'}",Pisé,Sprinklers,Pr_70_55_98_84,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+4229,5678,27,Veloständer,like new,"['I02.01', 'I02.08', 'I03.01', 'I03.06', 'I04.02', 'I04.04', 'I05.06', 'Sonstiges']",External structures,Mobilier,Umgebung,Garten & Aussenbereich,Zubehör,"Veloständer verzinkt
+neu und ungebraucht
+Insgesamt 3 Stück
+2 x 2-fach, L ca. 70cm
+1 x 3-fach, L ca. 100cm
+Abzuholen in Illnau oder nach Vereinbarung in Zürich oder Bonstetten
+Gesamtpreis für alle 100.-",Stahl,,,,,,,,,,,,,,,,0.0,,"Illnau, 8308",,useagain,93419,CH,de,img_4800_570x570.jpg,https://www.useagain.ch/de/velostaender-93419,I02,,100.0,,,"{'score': 0.8034512996673584, 'start': 11, 'end': 20, 'answer': ' verzinkt'}","{'score': 0.08226039260625839, 'start': 81, 'end': 105, 'answer': '\n1 x 3-fach, L ca. 100cm'}","{'score': 0.47170352935791016, 'start': 50, 'end': 58, 'answer': ' 3 Stück'}",Lignite,Sprinklers,Pr_70_55_98_84,"Wall, Barriers, Pannels",Other,"Lighting columns, brackets and bollards"

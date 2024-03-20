@@ -1,0 +1,44 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+221,997,997,Duschkabine zerlegbar,mixed,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Bad & Dusche,"rel gut erhaltene Duschkabine, zerlegt u eingelagert, bestehend aus 2 sietenwänden mit kleinem Winkel ( hinten u vorne; Rückwand, 2 Acrylglas Türflügel mit Tropfenform , Rückwand, Wanne mit Sockel",,,,,,,,,2022-08-25,350.0,,,1970-01-01,350.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Winterthur, 8405",,useagain,82675,CH,de,,https://www.useagain.ch/de/duschkabine-zerlegbar-82675,,shower,,,,"{'score': 0.6515627503395081, 'start': 131, 'end': 141, 'answer': ' Acrylglas'}","{'score': 0.011077092960476875, 'start': 67, 'end': 101, 'answer': ' 2 sietenwänden mit kleinem Winkel'}","{'score': 0.002451727632433176, 'start': 67, 'end': 69, 'answer': ' 2'}",Potable water,Shower enclosures,Pr_40_20_06_79,"Wall, Barriers, Pannels",Other,Sanitary fittings and accessories
+754,1584,1584,Duschmittelablage aus Steinzeug,used & cleaned,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Duschmittelablage aus Steinzeug, orig. 70-er Jahre",Ceramic,12.0,28.0,12,,,,,,30.0,,,1970-01-01,30.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,77186,CH,de,20180611_164541_570x570.jpg,https://www.useagain.ch/de/duschmittelablage-aus-steinzeug-77186,,shower,,,,"{'score': 0.984247088432312, 'start': 21, 'end': 32, 'answer': ' Steinzeug,'}","{'score': 0.0032093720510601997, 'start': 0, 'end': 17, 'answer': 'Duschmittelablage'}","{'score': 8.628170326119289e-05, 'start': 0, 'end': 17, 'answer': 'Duschmittelablage'}",Ceramic,Shower enclosures,Pr_40_20_06_79,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+770,1600,1600,Duschtür,like new,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Sanswiss Ronal - Annea AN13G08005007
+
+Öffnung nach aussen
+Profilfarbe silber glänzend
+Klarglas - ESG - Glas
+Stärke 6 mm
+AQUAPERLE-Beschichtung für einfache Reinigung
+
+Details siehe Bilder",Mixed,,80.0,200,,,,,2022-06-13,700.0,,,1970-01-01,700.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Zug, 6300",,useagain,80200,CH,de,sam_8834_570x570.jpg,https://www.useagain.ch/de/duschtuer-80200,J01.02,shower partition,,,,"{'score': 0.06864302605390549, 'start': 119, 'end': 142, 'answer': '\nAQUAPERLE-Beschichtung'}","{'score': 0.00015773095947224647, 'start': 22, 'end': 57, 'answer': ' AN13G08005007\n\nÖffnung nach aussen'}","{'score': 0.0069588120095431805, 'start': 22, 'end': 36, 'answer': ' AN13G08005007'}",Sitka spruce,Shower enclosures,Pr_40_20_06_79,"Roof, Slabs, Stairs",Other,Sanitary fittings and accessories
+826,1657,1657,Duschtüre,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"gut ehaltene Duschtüre von DUSCHOLUX : mit Zusatzglas für auf Badewannestirnseite. Echtglas klar
+ B: je 80 - 85cm einstellbar, H: Türe 198 cm, Fixteil: 161cm",Glass,,85.0,198,,,,,,175.0,,,1970-01-01,175.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,81018,CH,de,20200709_104212_570x570.jpg,https://www.useagain.ch/de/duschtuere-81018,J01.02,shower partition,,,,"{'score': 0.2586762309074402, 'start': 82, 'end': 91, 'answer': ' Echtglas'}","{'score': 0.0798356682062149, 'start': 126, 'end': 142, 'answer': ' H: Türe 198 cm,'}","{'score': 0.020007237792015076, 'start': 103, 'end': 113, 'answer': ' 80 - 85cm'}",Sitka spruce,Shower enclosures,Pr_40_20_06_79,"Roof, Slabs, Stairs","Door, Windows, Gates",Sanitary fittings and accessories
+980,1821,1821,Einbaubadewanne mit Wannenträger,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Farbe: weiss
+Material: Sanitäracryl
+Ablaufposition: mittig
+Ablaufgarnitur mit Stöpsel
+Montageart: Einbau
+Wannenträger aus Styropor (Polystyrol)
+Masse gemessen mit Wannenträger
+Zustand: gebraucht",Mixed,80.0,180.0,60,,,,,2022-07-06,270.0,,,1970-01-01,270.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Brügg, 2555",,useagain,82365,CH,de,haupt_%281%29_570x570.jpg,https://www.useagain.ch/de/einbaubadewanne-mit-wannentraeger-82365,J01.02,bathtub,,,,"{'score': 0.9677863121032715, 'start': 22, 'end': 35, 'answer': ' Sanitäracryl'}","{'score': 0.009041707031428814, 'start': 104, 'end': 117, 'answer': '\nWannenträger'}","{'score': 0.002231793710961938, 'start': 143, 'end': 175, 'answer': '\nMasse gemessen mit Wannenträger'}",Potable water,Shower enclosures,Pr_40_20_06_79,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2549,3732,3732,Duschhalterung,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Garantie: ohne Garantie
+Montage: Wandmontage
+Material: Edelstahl
+Mängel: keine Mängel
+Zustand: Occasion/gebraucht
+
+Artikel Nr:111991",Steel,,,,,,,,2023-02-06,5.0,,,1970-01-01,2.0,2023-09-25 00:00:00.000,-3.0,1.0,90.0,"Münchenstein, 4142",,useagain,91861,CH,de,111991_570x570.jpg,https://www.useagain.ch/de/duschhalterung-91861,,shower,,,,"{'score': 0.988394021987915, 'start': 54, 'end': 64, 'answer': ' Edelstahl'}","{'score': 0.015269058756530285, 'start': 32, 'end': 44, 'answer': ' Wandmontage'}","{'score': 0.00015898171113803983, 'start': 114, 'end': 132, 'answer': '\nArtikel Nr:111991'}",Sitka spruce,Shower enclosures,Pr_40_20_06_79,"Roof, Slabs, Stairs",Other,Sanitary fittings and accessories
+2733,3917,3917,"Duschtüre aus Echtglas , matt",used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"gut erhaltene Duschtüre aus Echtglas, matt ESG ( einfaches Sicherheitsglas) mit fixem Beistoss, Ev Gummilippen erneuern?
+
+da der Griffknopf in der Mitte ist, kann sie für Anschlag links u rechts verwendeet werden
+
+H: 185cm ; B: 80cm ( Türe: 65cm + Beistoss:15cm)
+
+intern: NR 2598 ; ID: 18966 ; HP 91991",Glass,,80.0,185,"0,7",,white,,2023-02-21,125.0,,,1970-01-01,125.0,1970-01-01 00:00:00.000,0.0,1.0,58.0,,,useagain,91991,CH,de,20230220_143754_570x570.jpg,https://www.useagain.ch/de/duschtuere-aus-echtglas-matt-esg-91991,J01.02,shower partition,,,,"{'score': 0.4103696942329407, 'start': 27, 'end': 37, 'answer': ' Echtglas,'}","{'score': 0.3876916170120239, 'start': 213, 'end': 232, 'answer': '\nH: 185cm ; B: 80cm'}","{'score': 0.007096579298377037, 'start': 240, 'end': 262, 'answer': ' 65cm + Beistoss:15cm)'}",Patterned glass,Shower enclosures,Pr_40_20_06_79,"Roof, Slabs, Stairs","Floors, Ceiling",Glass blocks and panels
+3040,4239,4239,Cloisons mobiles pour cabines de douches collectives,used,['Sonstiges'],,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,,"Longeur total et à l'intérieur il y a6 cabine de douche avec petit vestiaire
+Dimension intérieur largeur d'une cabine 81,5 cm
+Épaisseur du bois 1 cm",Compound,0.0,332.0,152,,,,,,300.0,0.0,2.0,1970-01-01,300.0,1970-01-01 00:00:00.000,203.0,1.0,0.0,,CMP,materiuum,2302-5645,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/04/2302-5645-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5645-b-600x800.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5645-c-600x800.jpg']",https://materiuum.ch/produit/345337/,,mobile partitions for collective shower cabins,,,,"{'score': 0.05601756274700165, 'start': 125, 'end': 143, 'answer': '\nÉpaisseur du bois'}","{'score': 0.007622940465807915, 'start': 117, 'end': 125, 'answer': ' 81,5 cm'}","{'score': 0.03731072321534157, 'start': 35, 'end': 38, 'answer': ' a6'}",Potable water,Shower enclosures,Pr_40_20_06_79,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+3300,4511,4511,Duschwand -teilig,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"2-teilige Duschwand, halbrund
+Zustand: occasion/gebraucht
+Farbe: transparent
+
+Artikelnummer: 112062",,,145.0,195,,,,,2023-05-03,60.0,,,1970-01-01,60.0,2023-09-25 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,92469,CH,de,112062_570x570.jpg,https://www.useagain.ch/de/duschwand-2-teilig-92469,J01.02,shower,,,,"{'score': 0.24166318774223328, 'start': 64, 'end': 76, 'answer': ' transparent'}","{'score': 0.04372042417526245, 'start': 0, 'end': 29, 'answer': '2-teilige Duschwand, halbrund'}","{'score': 0.7924460172653198, 'start': 0, 'end': 9, 'answer': '2-teilige'}",Sitka spruce,Shower enclosures,Pr_40_20_06_79,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories

@@ -1,0 +1,61 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+630,1449,1449,Betonverbundstein gebraucht,used,"['I03.02', 'I03.07', 'I04.01', 'I04.03']",Green spaces,,Umgebung,Garten & Aussenbereich,Umgebungsfläche,"1.	Standort
+UZH Y80
+Strickhofstrasse 40a
+8057 Zürich
+
+2.	Eigentümer
+Kanton Zürich
+
+3.	Bauteil
+Verbundstein gebraucht
+Format zirka 225.0 / 112.5
+
+4.	Lagerausmass
+14 Paletten a zirka 240 Stück
+Fläche pro Palette = zirka 6.0 mÂ²
+Fläche alle Paletten = zirka 84.0mÂ²
+
+5.	Abholung
+Nur ganze Paletten.
+
+Ablauf:
+1.	Kontaktaufnahme mit Bauleitung Steve Martig	078 910 84 00
+2.	Terminvereinbarung vor Ort	
+3.	Auflad und Abtransport nur von ganzer Palette möglich",Concrete,,22.0,"11,3",,,gray,,,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Zürich, 8057",,useagain,90057,CH,de,,https://www.useagain.ch/de/betonverbundstein-gebraucht-90057,I03,interlocking brick,,,,"{'score': 0.9099252820014954, 'start': 93, 'end': 106, 'answer': '\nVerbundstein'}","{'score': 0.39290791749954224, 'start': 123, 'end': 143, 'answer': ' zirka 225.0 / 112.5'}","{'score': 0.27399227023124695, 'start': 160, 'end': 172, 'answer': '\n14 Paletten'}",Foamed concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+1328,2179,2179,Verbundsteine Beton gross,"used, cleaned & tested","['I03.02', 'I03.07', 'I04.01', 'I04.03']",Green spaces,,Umgebung,Garten & Aussenbereich,Umgebungsfläche,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse:  H: 6 cm, B: 30 cm, T: 30 cm
+Mängel: Gebrauchsspuren
+Material: Beton
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111482",Concrete,30.0,30.0,6,,,mixed,,2022-10-24,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91177,CH,de,1_%28265%29_570x570.jpg,https://www.useagain.ch/de/verbundsteine-beton-gross-91177,I03,interlocking brick,,,,"{'score': 0.9894871711730957, 'start': 119, 'end': 125, 'answer': ' Beton'}","{'score': 0.8734418749809265, 'start': 57, 'end': 85, 'answer': ' H: 6 cm, B: 30 cm, T: 30 cm'}","{'score': 0.3084655702114105, 'start': 57, 'end': 85, 'answer': ' H: 6 cm, B: 30 cm, T: 30 cm'}",Expansive concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+1840,2691,2691,Betonroste für Stallungen,used & cleaned,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"Ca. 40 Stück. Befinden sich im Stall, müssen herausgehoben werden. Ganzer Posten 400.-",Concrete,239.0,39.0,18,,,gray,,2022-09-18,15.0,,,1970-01-01,15.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Calfreisen , 7027",,useagain,90546,CH,de,b1dd5b7e-180f-4264-9c0f-5ed982e58228_%282%29_570x570.jpg,https://www.useagain.ch/de/betonroste-fuer-stallungen-90546,E02,,,,,"{'score': 2.412901949355728e-06, 'start': 13, 'end': 37, 'answer': ' Befinden sich im Stall,'}","{'score': 0.10275265574455261, 'start': 0, 'end': 13, 'answer': 'Ca. 40 Stück.'}","{'score': 0.6131588816642761, 'start': 0, 'end': 13, 'answer': 'Ca. 40 Stück.'}",Foamed concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+2597,3781,3781,Porenbeton,"used, cleaned & tested","['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"Masse: H: 15cm B: 60cm T: 20cm
+Material: porenbeton
+Farbe: weiss
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112015",Mixed,20.0,60.0,15,,,white,,2023-02-15,3.0,,,1970-01-01,3.0,2023-09-25 00:00:00.000,0.0,1.0,81.0,"Münchenstein, 4142",,useagain,91948,CH,de,112015_570x570.jpg,https://www.useagain.ch/de/porenbeton-91948,E02,,,,,"{'score': 0.9909401535987854, 'start': 40, 'end': 51, 'answer': ' porenbeton'}","{'score': 0.5944386124610901, 'start': 6, 'end': 30, 'answer': ' H: 15cm B: 60cm T: 20cm'}","{'score': 0.006654121447354555, 'start': 6, 'end': 30, 'answer': ' H: 15cm B: 60cm T: 20cm'}",Cinder concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Walling units
+2598,3782,3782,Porenbeton klein,"used, cleaned & tested","['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"Masse: H: 15cm B: 30cm T: 20cm
+Material: Porenbeton
+Farbe: weiss
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112016",Concrete,20.0,30.0,15,,,white,,2023-02-15,2.0,,,1970-01-01,2.0,1970-01-01 00:00:00.002,0.0,1.0,81.0,"Münchenstein, 4142",,useagain,91949,CH,de,112015_%281%29_570x570.jpg,https://www.useagain.ch/de/porenbeton-klein-91949,E02,,,,,"{'score': 0.9920230507850647, 'start': 40, 'end': 51, 'answer': ' Porenbeton'}","{'score': 0.5880849957466125, 'start': 6, 'end': 30, 'answer': ' H: 15cm B: 30cm T: 20cm'}","{'score': 0.005365960765630007, 'start': 6, 'end': 30, 'answer': ' H: 15cm B: 30cm T: 20cm'}",Small-area repair concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Walling units
+3297,4508,4508,Beton Waschtrog,"used, cleaned & tested","['I06.01', 'I06.02', 'I06.03', 'I06.04']",External furnishings,,Umgebung,Garten & Aussenbereich,Fertigteile & Geräte,Gewicht: 250 Kg,Concrete,50.0,100.0,"50,5",,,gray,,2023-05-04,320.0,,,1970-01-01,320.0,1970-01-01 00:00:00.002,0.0,1.0,0.0,"Brügg, 2555",,useagain,92484,CH,de,_dsc0626_570x570.jpg,https://www.useagain.ch/de/beton-waschtrog-92484,I06,,,,,"{'score': 0.03357677906751633, 'start': 8, 'end': 15, 'answer': ' 250 Kg'}","{'score': 0.01879291981458664, 'start': 8, 'end': 15, 'answer': ' 250 Kg'}","{'score': 0.6505244970321655, 'start': 8, 'end': 15, 'answer': ' 250 Kg'}",In situ concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+3718,4969,4970,Betonbrunnentrog,used,"['I06.01', 'I06.02', 'I06.03', 'I06.04']",External furnishings,Mobilier,Umgebung,Garten & Aussenbereich,Fertigteile & Geräte,"sehr schöner Betonbrunnentrog ( ab Baustelle Bassersdorf) ab 3.7. -ist Parterre-; B: 100cm ( 90 innen); H: 60cm (55 innen), T: 60cm (50 innen), kann ev 300kg wiegen!
+
+intern: Nr: ; ID: 19436; HP: 92814",Beton,60.0,100.0,60,,300,gray,,2023-06-27,,,,,,,,0.0,,"Kloten, 8302",,useagain,92814,CH,de,20230621_140011-kopie_570x570.jpg,https://www.useagain.ch/de/betonbrunnentrog-92814,I06,,514.0,,,"{'score': 0.813491702079773, 'start': 12, 'end': 29, 'answer': ' Betonbrunnentrog'}","{'score': 0.09601908177137375, 'start': 81, 'end': 90, 'answer': ' B: 100cm'}","{'score': 0.06754417717456818, 'start': 151, 'end': 157, 'answer': ' 300kg'}",Concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+4212,5659,8,Trockenbeton,like new,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"ProOne Trockenbeton
+Körnung: 0-8mm
+Preis pro Sack
+Gewicht: 25kg
+Verbrauchsdatum abgelaufen 04/20
+
+interne Artikelnummer: 112784",,,,,,25,,,2023-09-20,,,,,,,,0.0,,"Münchenstein, 4142",,useagain,93420,CH,de,112784_570x570.png,https://www.useagain.ch/de/trockenbeton-93420,E02,,2.0,,,"{'score': 0.7279259562492371, 'start': 0, 'end': 19, 'answer': 'ProOne Trockenbeton'}","{'score': 7.717333573964424e-06, 'start': 58, 'end': 63, 'answer': ' 25kg'}","{'score': 0.05497123301029205, 'start': 58, 'end': 63, 'answer': ' 25kg'}",Foamed concrete,Concrete bollards,Pr_20_76_08_19,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures

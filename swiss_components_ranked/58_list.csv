@@ -1,0 +1,58 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+741,1571,1571,Fünfeckduschwanne Duscholux,mixed,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Hersteller: Duscholux
+Modell: Cordoba
+Farbe: weiss
+Material: Kunststoff
+Ablaufloch: ² 9cm
+Masse: siehe Photo 2+3
+
+Nicht dabei: Ablaufgarnitur, Fussgestell- und abnehmbarer Schürze
+Zustand: kleinere Abnutzungen",,,,,,,,,,120.0,,,1970-01-01,120.0,1970-01-01 00:00:00.000,0.0,1.0,158.0,"Brügg, 2555",,useagain,76916,CH,de,1_%28130%29_570x570.jpg,https://www.useagain.ch/de/fuenfeckduschwanne-duscholux-76916,J01.02,shower,,,,"{'score': 0.9899908304214478, 'start': 60, 'end': 71, 'answer': ' Kunststoff'}","{'score': 0.017660049721598625, 'start': 83, 'end': 89, 'answer': ' ² 9cm'}","{'score': 0.0019478061003610492, 'start': 83, 'end': 112, 'answer': ' ² 9cm\nMasse: siehe Photo 2+3'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other
+834,1666,1666,Aufsatzwaschbecken Duravit,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Duravit
+Serie evtl: Starck 1
+Material: Keramik
+Farbe: weiss
+Form: kreisrunde, konische Keramikschale
+mit Überlauf und Überlaufclip chrom
+ohne Ablaufgarnitur und Befestigungsmaterial!",Ceramic,,,18,42,,,,2023-02-02,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,232.0,"Brügg, 2555",,useagain,82638,CH,de,1_%2853%29_570x570.jpg,https://www.useagain.ch/de/aufsatzwaschbecken-duravit-82638,J01.02,sink,,,,"{'score': 0.9679383635520935, 'start': 50, 'end': 58, 'answer': ' Keramik'}","{'score': 0.0016579937655478716, 'start': 77, 'end': 89, 'answer': ' kreisrunde,'}","{'score': 0.022545475512742996, 'start': 38, 'end': 40, 'answer': ' 1'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Walling units
+1197,2046,2046,Waschtisch von Duravit,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"prakt. neuer Waschtisch von Duravit, B:(an Wand: 48cm); Lochabstand:   28cm, mit Siebventil verdeckt, Beckendurchmesser: 28cm;",Ceramic,32.0,53.0,10,,,,,,150.0,,,1970-01-01,150.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,76675,CH,de,20180518_113747_570x570.jpg,https://www.useagain.ch/de/waschtisch-von-duravit-76675,J01.02,sink,,,,"{'score': 2.6110345061169937e-05, 'start': 0, 'end': 6, 'answer': 'prakt.'}","{'score': 0.02312963455915451, 'start': 36, 'end': 55, 'answer': ' B:(an Wand: 48cm);'}","{'score': 0.0007020350312814116, 'start': 48, 'end': 55, 'answer': ' 48cm);'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other
+1342,2193,2193,Duschwanne,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Hersteller: Kaldewei
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 106741",Mixed,,,,,,white,,2022-10-24,199.0,,,1970-01-01,199.0,1970-01-01 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91130,CH,de,106741_1_570x570.jpg,https://www.useagain.ch/de/duschwanne-91130,J01.02,shower,,,,"{'score': 0.9913583993911743, 'start': 78, 'end': 86, 'answer': ' Keramik'}","{'score': 0.00024375191424041986, 'start': 78, 'end': 86, 'answer': ' Keramik'}","{'score': 0.00028894629213027656, 'start': 115, 'end': 134, 'answer': '\nArtikel Nr: 106741'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other
+1532,2383,2383,Spülkasten Duravit,"used, cleaned & tested","['D05.04', 'D06.04', 'D10.01', 'D10.02', 'D10.03', 'D10.04', 'D10.05', 'Sonstiges']",Gas installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Zubehör,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Masse: H: 36.5 cm, B: 41 cm, T: 17 cm
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 105686",,,,,,,,,2022-10-18,30.0,,,1970-01-01,30.0,1970-01-01 00:00:00.000,0.0,1.0,14.0,"Münchenstein, 4142",,useagain,90996,CH,de,lol_570x570.jpg,https://www.useagain.ch/de/spuelkasten-duravit-90996,D10,toilet tank,,,,"{'score': 0.16251835227012634, 'start': 11, 'end': 35, 'answer': ' Keramic Made in Germany'}","{'score': 0.884804368019104, 'start': 66, 'end': 97, 'answer': ' H: 36.5 cm, B: 41 cm, T: 17 cm'}","{'score': 0.0776563286781311, 'start': 66, 'end': 97, 'answer': ' H: 36.5 cm, B: 41 cm, T: 17 cm'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Walling units
+1558,2409,2409,Duravit stehend,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Masse: H: 40 cm, B: 26/36 cm, T: 68 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111048",,,,,,,,,2022-10-19,159.0,,,1970-01-01,159.0,1970-01-01 00:00:00.000,0.0,1.0,20.0,"Münchenstein, 4142",,useagain,91031,CH,de,g_570x570.jpg,https://www.useagain.ch/de/wc-duravit-stehend-91031,,WC,,,,"{'score': 0.9203625321388245, 'start': 132, 'end': 140, 'answer': ' Keramik'}","{'score': 0.8650195598602295, 'start': 66, 'end': 98, 'answer': ' H: 40 cm, B: 26/36 cm, T: 68 cm'}","{'score': 0.024594809859991074, 'start': 66, 'end': 98, 'answer': ' H: 40 cm, B: 26/36 cm, T: 68 cm'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other
+1566,2417,2417,Duravit,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: Laufen
+Garantie: ohne Garantie
+Masse: H: 46 cm, B: 25,5/35 cm, T: 66 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Stehend
+Zustand: occasion/gebraucht
+
+Artikelnr:  112257",,,,,,,,,2022-09-28,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,14.0,"Münchenstein, 4142",,useagain,90615,CH,de,112257_570x570.jpg,https://www.useagain.ch/de/wc-duravit-90615,,WC,,,,"{'score': 0.9829476475715637, 'start': 117, 'end': 125, 'answer': ' Keramik'}","{'score': 0.8264208436012268, 'start': 49, 'end': 83, 'answer': ' H: 46 cm, B: 25,5/35 cm, T: 66 cm'}","{'score': 0.004292858764529228, 'start': 49, 'end': 83, 'answer': ' H: 46 cm, B: 25,5/35 cm, T: 66 cm'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other
+3521,4755,4756,Durisolplatten,used,['C04.01'],Suspended slabs,Eléments structurels,Gebäudehülle & Konstruktion,Konstruktion & Dächer,Deckenkonstruktion,"Gratis abzugeben
+Durisolplatten (zementgebundene Holzfaserplatten oder ""Sauerkrautplatten"")
+ca. 90 Stück (einige sind geschnitten, zerbrochen)
+
+Müssen in Schaffhausen abgeholt werden.",Beton,50.0,50.0,8,,,gray,,2023-06-26,,,,,0.0,2023-09-25 00:00:00.000,,0.0,,"Schaffhausen, 8200",,useagain,92798,CH,de,pxl_20230626_050953683_570x570.jpg,https://www.useagain.ch/de/durisolplatten-92798,C04.01,,0.0,,,"{'score': 0.3727577030658722, 'start': 31, 'end': 65, 'answer': ' (zementgebundene Holzfaserplatten'}","{'score': 0.07136999815702438, 'start': 91, 'end': 104, 'answer': '\nca. 90 Stück'}","{'score': 0.44403326511383057, 'start': 91, 'end': 104, 'answer': '\nca. 90 Stück'}",Daub,Duvets,Pr_40_50_81_25,"Wall, Barriers, Pannels",Other,Walling units
+4080,5484,5485,Duschwanne,like new,['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Neue Duschwanne Keramik in weiss.
+Die Wanne wurde falsch bestellt, deshalb wird sie zum Verkauf angeboten",Stahl,140.0,100.0,4,,40,white,F,,,,,,490.0,2023-09-25 00:00:00.000,,0.0,,"Ettingen, 4107",,useagain,93388,CH,de,img_3717_%281%29_570x570.jpg,https://www.useagain.ch/de/duschwanne-93388,J01.02,shower,490.0,,,"{'score': 0.1675569713115692, 'start': 26, 'end': 33, 'answer': ' weiss.'}","{'score': 9.537646837998182e-05, 'start': 26, 'end': 33, 'answer': ' weiss.'}","{'score': 0.0004050690040457994, 'start': 26, 'end': 33, 'answer': ' weiss.'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other
+4081,5485,5486,Duschwanne,like new,['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Neue Duschwanne Keramik in weiss.
+Die Wanne wurde falsch bestellt, deshalb wird sie zum Verkauf angeboten",Stahl,140.0,100.0,4,,40,white,F,,,,,,490.0,2023-09-25 00:00:00.000,,0.0,,"Ettingen, 4107",,useagain,93387,CH,de,img_3717_570x570.jpg,https://www.useagain.ch/de/duschwanne-93387,J01.02,shower,490.0,,,"{'score': 0.1675569713115692, 'start': 26, 'end': 33, 'answer': ' weiss.'}","{'score': 9.537646837998182e-05, 'start': 26, 'end': 33, 'answer': ' weiss.'}","{'score': 0.0004050690040457994, 'start': 26, 'end': 33, 'answer': ' weiss.'}",Daub,Duvets,Pr_40_50_81_25,Other,Other,Other

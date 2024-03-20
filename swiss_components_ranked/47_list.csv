@@ -1,0 +1,88 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+255,1036,1036,Antike Toilette stehend,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Cauldon
+Herkunft: England
+
+Artitelnr: 90229",Mixed,47.0,38.0,40,,,mixed,,2022-05-31,2200.0,,,1970-01-01,999.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Münchenstein, 4142",,useagain,82885,CH,de,dsc00993_570x570.jpg,https://www.useagain.ch/de/antike-toilette-stehend-82885,D09.05,WC,,,,"{'score': 0.039965998381376266, 'start': 49, 'end': 55, 'answer': ' 90229'}","{'score': 2.557206607889384e-05, 'start': 38, 'end': 55, 'answer': '\nArtitelnr: 90229'}","{'score': 0.15360388159751892, 'start': 49, 'end': 55, 'answer': ' 90229'}",Fire clay,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels",Other,Sanitary fittings and accessories
+348,1141,1141,WC-Wandklosett,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Villeroy &amp; Boch
+Material: Sanitärkeramik
+Farbe: Altrosa
+Montageart: Wandmontage
+Lochabstand für Wandmontage: 20cm
+Abgang: waagerecht
+Für Aufbauspülkasten
+ohne Spülkasten und Sitzgarnitur!!!",Ceramic,67.0,36.0,39,,,,,2022-09-02,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,77594,CH,de,unbenannt-4_570x570.jpg,https://www.useagain.ch/de/wc-wandklosett-77594,D09.05,WC,,,,"{'score': 0.9782662987709045, 'start': 41, 'end': 56, 'answer': ' Sanitärkeramik'}","{'score': 0.013591337949037552, 'start': 124, 'end': 129, 'answer': ' 20cm'}","{'score': 2.1976278731017374e-05, 'start': 189, 'end': 205, 'answer': ' Sitzgarnitur!!!'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+531,1348,1348,WC-Wandklosett komplett,,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Artikelnummer: 82576
+
+Wand-WC mit aufgesetztem Spülkasten
+Hersteller: Laufen
+Farbe: cafe creme / braun
+Material: Keramik
+Montageart: Wandmontage
+Lochabstand für die Montage: 22cm
+Abfluss: Waagerecht
+
+Spülkasten
+Hersteller: Geberit
+Material: Kunststoff
+Farbe: Bahamabege
+Wasseranschluss: Mitte hinten
+
+mit Sitzgarnitur in der Farbe: Bahamabege",Ceramic,,,,,,,,,160.0,,,1970-01-01,160.0,1970-01-01 00:00:00.000,0.0,1.0,162.0,"Brügg, 2555",,useagain,82576,CH,de,1_%2859%29_570x570.jpg,https://www.useagain.ch/de/wc-wandklosett-komplett-82576,D09.05,WC,,,,"{'score': 0.3331964313983917, 'start': 112, 'end': 120, 'answer': ' Keramik'}","{'score': 0.16574780642986298, 'start': 173, 'end': 178, 'answer': ' 22cm'}","{'score': 2.2750726202502847e-05, 'start': 14, 'end': 20, 'answer': ' 82576'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+656,1476,1476,WC-Wandklosett,,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"WC-Wandklosett
+
+Wand-Wc für aufgesetzten Spülkasten
+Hersteller: Laufen
+Material: Sanitärkeramik
+Farbe: weiss
+Montageart: Wandmontage
+Lochabstand für Wandmontage: 19cm
+Abgang: waagerecht, ² 8cm
+Für Aufbauspülkasten
+ohne Spülkasten und Sitzgarnitur!!!",Ceramic,,,,,,,,2022-06-14,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,121.0,"Brügg, 2555",,useagain,77603,CH,de,hintergrund-horizontal-neu_%287%29_570x570.png,https://www.useagain.ch/de/wc-wandklosett-77603,,WC,,,,"{'score': 0.987209141254425, 'start': 80, 'end': 95, 'answer': ' Sanitärkeramik'}","{'score': 0.13372200727462769, 'start': 161, 'end': 192, 'answer': ' 19cm\nAbgang: waagerecht, ² 8cm'}","{'score': 0.0001587627048138529, 'start': 192, 'end': 249, 'answer': '\nFür Aufbauspülkasten\nohne Spülkasten und Sitzgarnitur!!!'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+763,1593,1593,- % Spender für Toilettensitzreiniger,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,Produkte-Nr. 1804,Plastic,8.0,9.0,25,,,,,2022-08-09,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Zürich, 8050",,useagain,80308,CH,de,1804_570x570.jpg,https://www.useagain.ch/de/sale-50-spender-fuer-toilettensitzreiniger-80308,,WC,,,,"{'score': 0.000866779824718833, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 1804'}","{'score': 3.253046816098504e-05, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 1804'}","{'score': 0.08296915888786316, 'start': 12, 'end': 17, 'answer': ' 1804'}",Dolerite,WC pans,Pr_40_20_93_94,Other,Other,Sanitary fittings and accessories
+858,1691,1691,Toilette Argovit,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Produkte-Nr. 2704
+Mit Bodenabfluss",Ceramic,46.0,36.0,39,,,white,,2022-06-23,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,,"Zürich, 8050",,useagain,90094,CH,de,2704_2_570x570.jpg,https://www.useagain.ch/de/toilette-argovit-90094,D09.05,WC,,,,"{'score': 0.00033967726631090045, 'start': 12, 'end': 17, 'answer': ' 2704'}","{'score': 0.04454997554421425, 'start': 17, 'end': 34, 'answer': '\nMit Bodenabfluss'}","{'score': 0.16215679049491882, 'start': 12, 'end': 17, 'answer': ' 2704'}",Pisé,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels",Other,Other
+872,1705,1705,WC-türe mit Trennwand -Front,mixed,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"sehr gut erhaltene WC- Türe (Band rechts - nach innen öffnend) mit Trennwand: Masse: v.li: 11cm, Türe 60cm, Wand rechts 90cm, H: 190cm + Stüzen 14cm",,,,,,,,,,250.0,,,1970-01-01,250.0,1970-01-01 00:00:00.000,0.0,1.0,106.0,,,useagain,79269,CH,de,20191209_142155_570x570.jpg,https://www.useagain.ch/de/wc-tuere-mit-trennwand-1-front-79269,G01.05,interior doors,,,,"{'score': 0.0001579303207108751, 'start': 27, 'end': 33, 'answer': ' (Band'}","{'score': 0.09079186618328094, 'start': 101, 'end': 107, 'answer': ' 60cm,'}","{'score': 0.0013543659588322043, 'start': 101, 'end': 107, 'answer': ' 60cm,'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Door, Windows, Gates",Sanitary fittings and accessories
+1088,1937,1937,WC-Schüssel,,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 84,5cm, B: 39,5cm, T: 68,5cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Wandmontage
+Spezifikation: mit Spülkasten
+Zustand: occasion/gebraucht
+
+Artikelnr:  111890",Ceramic,,,,,,,,2022-08-31,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,90430,CH,de,111890_570x570.jpg,https://www.useagain.ch/de/wc-schuessel-90430,,WC,,,,"{'score': 0.985069215297699, 'start': 122, 'end': 130, 'answer': ' Keramik'}","{'score': 0.060321737080812454, 'start': 59, 'end': 88, 'answer': ' 84,5cm, B: 39,5cm, T: 68,5cm'}","{'score': 0.011221325956285, 'start': 59, 'end': 88, 'answer': ' 84,5cm, B: 39,5cm, T: 68,5cm'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+1318,2169,2169,WC-Bürstenhalter aus Edelstahl,used & cleaned,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"sehr gut erhaltene WC-Bürstenhalter aus Edelstahl (NP 90.--), für Wandmontage",Metal,,,,,,,,2022-09-09,25.0,,,1970-01-01,25.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,90507,CH,de,20220523_142640-kopie_570x570.jpg,https://www.useagain.ch/de/wc-buerstenhalter-aus-edelstahl-90507,,WC,,,,"{'score': 0.9873825907707214, 'start': 39, 'end': 49, 'answer': ' Edelstahl'}","{'score': 0.0046769664622843266, 'start': 53, 'end': 77, 'answer': ' 90.--), für Wandmontage'}","{'score': 0.045240238308906555, 'start': 53, 'end': 61, 'answer': ' 90.--),'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels",Other,Sanitary fittings and accessories
+2350,3413,3413,Petit lavabo,used,['Sonstiges'],,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Waschküche & Trocknen,Suspensions avec diffuseur métallique. Grille anti-éblouissement. Deux tubes fluorescent par luminaire,Ceramic,0.0,24.0,39,,,,,,45.0,0.0,10.0,1970-01-01,45.0,1970-01-01 00:00:00.000,16.0,1.0,0.0,,Beaumont,materiuum,2212-5453,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/01/2212-5453-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2212-5453-b-600x800.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2212-5453-c-600x800.jpg']",https://materiuum.ch/produit/382-78/,,sink,,,,"{'score': 0.14419598877429962, 'start': 26, 'end': 38, 'answer': ' métallique.'}","{'score': 0.02576378546655178, 'start': 65, 'end': 102, 'answer': ' Deux tubes fluorescent par luminaire'}","{'score': 0.39011096954345703, 'start': 65, 'end': 102, 'answer': ' Deux tubes fluorescent par luminaire'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2402,3560,3560,Verrou de toilette,used,['Sonstiges'],,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,,"Dimension panneau de porte : 83/204cm
+Dimension imposte (partie haute 83/47
+Avec garniture et serrurerie
+va avec: 2302-5774",Aluminum,0.0,5.0,5,,,,,,20.0,0.0,10.0,1970-01-01,20.0,2023-09-25 00:00:00.000,22.5,1.0,39.0,,MACO,materiuum,2103-1477,CH,fr,"['https://materiuum.ch/wp-content/uploads/2022/10/2103-1477-b-82.jpg', 'https://materiuum.ch/wp-content/uploads/2022/10/2103-1477-a-82.jpg', 'https://materiuum.ch/wp-content/uploads/2022/10/2103-1477-b-83.jpg']",https://materiuum.ch/produit/379-6/,,WC,,,,"{'score': 0.00011625757906585932, 'start': 69, 'end': 75, 'answer': ' 83/47'}","{'score': 0.554768443107605, 'start': 28, 'end': 37, 'answer': ' 83/204cm'}","{'score': 0.057624418288469315, 'start': 113, 'end': 123, 'answer': ' 2302-5774'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Door, Windows, Gates",Sanitary fittings and accessories
+2532,3715,3715,WC-Wandklosett,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Wand-WC 
+Hersteller: Toto
+Material: Sanitärkeramik
+Farbe: Weiss
+Montage: wandhängend
+Lochabstand für Wandmontage: 19 cm
+Ablauf waagrecht, Innendurchmesser 8 cm
+Mitte Wasserzulauf bis Mitte Abgang: 13,5 cm",Ceramic,55.0,37.0,40,,,white,,2023-01-26,150.0,,,1970-01-01,150.0,2023-09-25 00:00:00.000,0.0,1.0,90.0,"Brügg, 2555",,useagain,91776,CH,de,_dsc9873_570x570.jpg,https://www.useagain.ch/de/wc-wandklosett-91776,D09.05,WC,,,,"{'score': 0.9918950796127319, 'start': 35, 'end': 50, 'answer': ' Sanitärkeramik'}","{'score': 0.2245161533355713, 'start': 137, 'end': 159, 'answer': ' Innendurchmesser 8 cm'}","{'score': 0.00012529709783848375, 'start': 159, 'end': 204, 'answer': '\nMitte Wasserzulauf bis Mitte Abgang: 13,5 cm'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2836,4020,4020,WC-stehend inkl . Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Masse: H: 40cm B: 37cm T: 70cm
+Montage: Boden
+Material: Keramik
+Farbe: hellbraun
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112549",Ceramic,70.0,37.0,40,,,,,2023-02-28,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,92077,CH,de,112549_570x570.jpg,https://www.useagain.ch/de/wc-stehend-inkl.-spuelkasten-92077,D09.05,WC,,,,"{'score': 0.987170934677124, 'start': 55, 'end': 63, 'answer': ' Keramik'}","{'score': 0.6506590247154236, 'start': 6, 'end': 30, 'answer': ' H: 40cm B: 37cm T: 70cm'}","{'score': 0.001599479466676712, 'start': 0, 'end': 30, 'answer': 'Masse: H: 40cm B: 37cm T: 70cm'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+3302,4513,4513,WC-Besenhalter weiss keramik,used & cleaned,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"gut erhaltene Keramische WC-Besenhalter von Laufen? inkl. Aufhängung, (Besen muss esetzt werden)
+WC Bürstenhalter, Toilettenbürstenhalter",Ceramic,10.0,9.0,18,,,,,2022-09-30,15.0,,,1970-01-01,15.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,,,useagain,77132,CH,de,20180811_113301_570x570.jpg,https://www.useagain.ch/de/wc-besenhalter-weiss-keramik-77132,,WC,,,,"{'score': 0.02834993042051792, 'start': 13, 'end': 24, 'answer': ' Keramische'}","{'score': 0.00010220074182143435, 'start': 0, 'end': 51, 'answer': 'gut erhaltene Keramische WC-Besenhalter von Laufen?'}","{'score': 0.00046142356586642563, 'start': 0, 'end': 51, 'answer': 'gut erhaltene Keramische WC-Besenhalter von Laufen?'}",Ceramic,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+3791,5048,5049,Toiletten Trennwände Cabrillant,used & cleaned,['Sonstiges'],,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Da das Haus umgebaut wird, stehen in zwei Stockwerken Toilettenwände zur Verfügung zum Verkauf. Sie sind in tadellosem Zustand, Masse können angepasst, allenfalls bei cabrillant.ch ergänzt werden.
+2 Einheiten à je 2 Kabinen
+Sicherheitsglas (ESG)
+Floatglas 10mm, ganzflächig mit Siebdruck
+emailliert, sichtbare Kanten flach poliert
+Glashöhe 190cm, Farbe Nr. EV1502 hellblau
+Neuwert: je Fr. 4'900
+Verkaufspreis nach Absprache",Glas,,2.0,190,,,blue,,,,,,,1000.0,2023-09-25 00:00:00.000,,0.0,,"Zürich, 8032",,useagain,92886,CH,de,,https://www.useagain.ch/de/toiletten-trennwaende-cabrillant-92886,,WC,1000.0,,,"{'score': 0.09781661629676819, 'start': 245, 'end': 255, 'answer': '\nFloatglas'}","{'score': 3.621051291702315e-05, 'start': 339, 'end': 346, 'answer': ' 190cm,'}","{'score': 0.29898640513420105, 'start': 196, 'end': 223, 'answer': '\n2 Einheiten à je 2 Kabinen'}",Sitka spruce,WC pans,Pr_40_20_93_94,"Wall, Barriers, Pannels",Other,Sanitary fittings and accessories

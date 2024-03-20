@@ -1,0 +1,229 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+9,767,767,Badheizkörper,used & cleaned,"['D05.01', 'D05.05']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Heizkörper,"Badheizkörper/Heizwand/Radiator
+
+Material: Stahl
+Farbe: cremweiss, vergilbt
+Montageart: Wandmontage Vertikal, Inkl.Montagehalterung
+Lüftung: oben links
+Anschlüsse: unten in der mitte, wechselbar nach aussen links/rechts möglich
+1x Danfoss Thermostat
+etliche Gebrauchspuren wie Lackschäden vorhanden
+Masse gemessen ohne Anschlüsse",Metal,3.0,75.0,119,,,,,2022-07-15,75.0,,,1970-01-01,75.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,80524,CH,de,1_%28105%29_570x570.jpg,https://www.useagain.ch/de/badheizkoerper-80524,D05,bathroom radiator,,,,"{'score': 0.9969459772109985, 'start': 42, 'end': 48, 'answer': ' Stahl'}","{'score': 0.014870518818497658, 'start': 313, 'end': 329, 'answer': ' ohne Anschlüsse'}","{'score': 0.21233943104743958, 'start': 227, 'end': 249, 'answer': '\n1x Danfoss Thermostat'}",Lignite,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+20,778,778,Badheizkörper,"used, cleaned & tested","['D05.01', 'D05.05']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Heizkörper,Handtuchwärmer,Metal,190.0,54.0,"9,7",,,,,2022-06-15,500.0,,,1970-01-01,500.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Zug, 6300",,useagain,81828,CH,de,sam_8367_570x570.jpg,https://www.useagain.ch/de/badheizkoerper-81828,D05,bathroom radiator,,,,"{'score': 0.04436609148979187, 'start': 0, 'end': 14, 'answer': 'Handtuchwärmer'}","{'score': 0.0385674387216568, 'start': 0, 'end': 14, 'answer': 'Handtuchwärmer'}","{'score': 0.019136980175971985, 'start': 0, 'end': 14, 'answer': 'Handtuchwärmer'}",Lignite,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+235,1012,1012,Einlegespüle von,used & cleaned,['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Spülen,"gut erhaltene Einlegespüle von SUTER, ohne Armatur, viele weitere einlegespülen von Franke und anderen Herstellern an Lager --&gt; fragen Sie nach im BauTeilLaden Winterthur 052 238 27 00",Metal,,96.0,,,,,,,115.0,,,1970-01-01,115.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,77260,CH,de,20180823_102530_570x570.jpg,https://www.useagain.ch/de/einlegespuele-von-suter-77260,G05.02,,,,,"{'score': 1.4803812518948689e-05, 'start': 149, 'end': 173, 'answer': ' BauTeilLaden Winterthur'}","{'score': 0.00013794425467494875, 'start': 37, 'end': 51, 'answer': ' ohne Armatur,'}","{'score': 0.00020557246170938015, 'start': 0, 'end': 37, 'answer': 'gut erhaltene Einlegespüle von SUTER,'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Trim products
+259,1040,1040,Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 2646,Ceramic,18.0,36.0,40,,,,,2023-01-13,20.0,,,1970-01-01,20.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Zürich, 8050",,useagain,83013,CH,de,2646_570x570.jpg,https://www.useagain.ch/de/spuelkasten-83013,D09.05,toilet tank,,,,"{'score': 0.0015099580632522702, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 2646'}","{'score': 0.00013727654004469514, 'start': 12, 'end': 17, 'answer': ' 2646'}","{'score': 0.4925609230995178, 'start': 12, 'end': 17, 'answer': ' 2646'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+261,1042,1042,Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 2680,Mixed,15.0,44.0,32,,,,,2023-01-13,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Zürich, 8050",,useagain,83190,CH,de,2680_570x570.jpg,https://www.useagain.ch/de/spuelkasten-83190,D09.05,toilet tank,,,,"{'score': 0.0011784863891080022, 'start': 12, 'end': 17, 'answer': ' 2680'}","{'score': 0.00017908861627802253, 'start': 12, 'end': 17, 'answer': ' 2680'}","{'score': 0.6137211918830872, 'start': 12, 'end': 17, 'answer': ' 2680'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+779,1609,1609,mit Spülkasten Laufen,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: Laufen
+Garantie: ohne Garantie
+Masse: H: 84,5cm, B: 39,5cm, T: 68,5cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Stehend
+Spezifikation: mit Spülkasten
+Zustand: occasion/gebraucht
+
+Artikelnr:  111773",,,,,,,,,2022-08-10,139.0,,,1970-01-01,139.0,1970-01-01 00:00:00.000,0.0,1.0,106.0,"Münchenstein, 4142",,useagain,90310,CH,de,111773_570x570.jpg,https://www.useagain.ch/de/wc-mit-spuelkasten-laufen-90310,,WC,,,,"{'score': 0.9833989143371582, 'start': 115, 'end': 123, 'answer': ' Keramik'}","{'score': 0.05722257122397423, 'start': 52, 'end': 81, 'answer': ' 84,5cm, B: 39,5cm, T: 68,5cm'}","{'score': 0.0013541753869503736, 'start': 52, 'end': 81, 'answer': ' 84,5cm, B: 39,5cm, T: 68,5cm'}",Sitka spruce,Sprigs,Pr_20_29_56_82,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+889,1722,1722,Türschliesser,used & cleaned,"['G01.03', 'Sonstiges']",Shaft fronts,,Ausbau,Türen & Tore,Zubehör,div sehr gut erhalten Türschliesser  ab 50.-- - 80.--,Metal,,,,,,,,,80.0,,,1970-01-01,80.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,77237,CH,de,20180829_143804_%281%29_570x570.jpg,https://www.useagain.ch/de/tuerschliesser-77237,G01.03,,,,,"{'score': 1.0636003025865648e-05, 'start': 0, 'end': 21, 'answer': 'div sehr gut erhalten'}","{'score': 9.046875493368134e-05, 'start': 0, 'end': 21, 'answer': 'div sehr gut erhalten'}","{'score': 0.0035529565066099167, 'start': 36, 'end': 53, 'answer': ' ab 50.-- - 80.--'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+940,1773,1773,mit Spülkasten,,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 2357,Ceramic,,,,,,,,2023-01-13,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,184.0,"Zürich, 8050",,useagain,82151,CH,de,2357_1_570x570.jpg,https://www.useagain.ch/de/wc-mit-spuelkasten-82151,D09.05,WC,,,,"{'score': 0.0010545954573899508, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 2357'}","{'score': 9.978367597796023e-05, 'start': 12, 'end': 17, 'answer': ' 2357'}","{'score': 0.4230169653892517, 'start': 12, 'end': 17, 'answer': ' 2357'}",Sitka spruce,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+993,1835,1835,Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 2688,Mixed,14.0,40.0,40,,,,,2023-01-13,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,232.0,"Zürich, 8050",,useagain,83191,CH,de,2688_570x570.jpg,https://www.useagain.ch/de/spuelkasten-83191,D09.05,toilet tank,,,,"{'score': 0.0011558867990970612, 'start': 12, 'end': 17, 'answer': ' 2688'}","{'score': 9.547745867166668e-05, 'start': 12, 'end': 17, 'answer': ' 2688'}","{'score': 0.48440006375312805, 'start': 12, 'end': 17, 'answer': ' 2688'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+1021,1865,1865,Hängeschrank mit Aussenmattglas,like new,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"neuer Hängeschrank mit aussen weissem Mattglas aus Ausstellung, mit 3 Klarglastablaren
+intern:  Nr 2106 ; ID:  HP: 82763",Glass,32.0,31.0,129,,,,,2023-04-11,125.0,,,1970-01-01,125.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,82763,CH,de,20220215_145831_%281%29_570x570.jpg,https://www.useagain.ch/de/haengeschrank-mit-aussenmattglas-82763,J01.02,cabinet,,,,"{'score': 0.13665913045406342, 'start': 29, 'end': 46, 'answer': ' weissem Mattglas'}","{'score': 2.5618808194849407e-06, 'start': 0, 'end': 18, 'answer': 'neuer Hängeschrank'}","{'score': 6.91039240336977e-05, 'start': 67, 'end': 69, 'answer': ' 3'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Glass blocks and panels
+1261,2112,2112,Einlegespüle,used & cleaned,['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Einbauküchen,"-alles Symbolfotos als Input-: divese Einlegespülen ab Fr. 90.-- (90cm), auch grosse Chromstahlabdeckungen mit Herdausschnitt; fragen Sie nach im BauTeilladen Winterthur -&gt; 052 238 27 00",Metal,,,,,,,,,90.0,,,1970-01-01,90.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,74067,CH,de,18.07.2012-014_570x570.jpg,https://www.useagain.ch/de/einlegespuele-74067,G05.02,,,,,"{'score': 0.031796857714653015, 'start': 84, 'end': 106, 'answer': ' Chromstahlabdeckungen'}","{'score': 0.5456399321556091, 'start': 64, 'end': 72, 'answer': ' (90cm),'}","{'score': 0.08656611293554306, 'start': 51, 'end': 64, 'answer': ' ab Fr. 90.--'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+1412,2263,2263,Garderobenspind,used,"['G05.01', 'J01.01', 'J01.02']",Furniture,,Ausbau,Möbel & Einrichtungen,Möbel,"Wird am 24.01.2023 demontiert und übergeben
+
+Einheit mit je 4 Türen / Spinden; Metall Grau/Weiss; Schlüssel vorhanden",,,,,,,,,,130.0,,,1970-01-01,130.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90439,CH,de,img_20220824_1026124_570x570.jpg,https://www.useagain.ch/de/garderobenspind-90439,J01,wardrobe,,,,"{'score': 0.48486003279685974, 'start': 78, 'end': 85, 'answer': ' Metall'}","{'score': 0.02020619809627533, 'start': 59, 'end': 97, 'answer': ' 4 Türen / Spinden; Metall Grau/Weiss;'}","{'score': 0.22819456458091736, 'start': 59, 'end': 78, 'answer': ' 4 Türen / Spinden;'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+1511,2362,2362,Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Montage: Unterbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108112",,,,,,,,,2022-10-18,15.0,,,1970-01-01,15.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91005,CH,de,108112_1_570x570.jpg,https://www.useagain.ch/de/spuelkasten-91005,D09.05,toilet tank,,,,"{'score': 0.0012619555927813053, 'start': 25, 'end': 35, 'answer': '\nGarantie:'}","{'score': 0.02363177016377449, 'start': 82, 'end': 91, 'answer': ' Unterbau'}","{'score': 0.0006994589930400252, 'start': 120, 'end': 139, 'answer': '\nArtikel Nr: 108112'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+1702,2553,2553,Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Garantie: ohne Garantie
+Lochabstand: 34 cm
+Material: Keramik
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110060",Ceramic,,,,,,white,,2022-10-19,25.0,,,1970-01-01,15.0,2023-09-25 00:00:00.000,-10.0,1.0,173.0,"Münchenstein, 4142",,useagain,91022,CH,de,110060_1_570x570.jpg,https://www.useagain.ch/de/spuelkasten-91022,D09.05,toilet tank,,,,"{'score': 0.9811212420463562, 'start': 71, 'end': 79, 'answer': ' Keramik'}","{'score': 0.20958279073238373, 'start': 55, 'end': 61, 'answer': ' 34 cm'}","{'score': 0.0005020996904931962, 'start': 132, 'end': 151, 'answer': '\nArtikel Nr: 110060'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+1717,2568,2568,Abstellverschraubung,used & cleaned,['D08.05'],"Water: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,Armaturen,"diverse Abstellverschraubungen für 1/4"" , 1/2 "", u 3/4"", für Wandarmaturen , Dusch- und Badewannen-Armaturen, auch Eckventile, Y-bzw. Waschmaschinenfilter: ab Fr. 15.--/ Paar--&gt; fragen Sie nach im BauTeilLaden Winterthur : 052 -238 27 00",Metal,,,,,,,,,15.0,,,1970-01-01,15.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,73266,CH,de,20170202_182552_002_570x570.jpg,https://www.useagain.ch/de/abstellverschraubung-73266,D08.05,,,,,"{'score': 2.427651907055406e-06, 'start': 199, 'end': 223, 'answer': ' BauTeilLaden Winterthur'}","{'score': 0.012346167117357254, 'start': 34, 'end': 56, 'answer': ' 1/4"" , 1/2 "", u 3/4"",'}","{'score': 0.004858917091041803, 'start': 34, 'end': 56, 'answer': ' 1/4"" , 1/2 "", u 3/4"",'}",Encaustic,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+1723,2574,2574,Stand Laufen mit -Mengen spk,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Stand WC Laufen DUO mit 2-Mengenspülkasten, inkl. Ablaufbogen aus Kunststoff, alles chemisch entkalkt, für Abgang horizontal und in Boden. viele Weitere WC's an lager -&gt; fragen Sie nach im BauTeilLaden Winterthur 052 238 27 00",Mixed,70.0,36.0,,,,,,,250.0,,,1970-01-01,250.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,80917,CH,de,15.07.2009-001_570x570.jpg,https://www.useagain.ch/de/stand-wc-laufen-duo-mit-2-mengen-spk-80917,D09.05,WC,,,,"{'score': 0.481559157371521, 'start': 65, 'end': 77, 'answer': ' Kunststoff,'}","{'score': 0.0001171238036477007, 'start': 191, 'end': 215, 'answer': ' BauTeilLaden Winterthur'}","{'score': 0.0005721693742088974, 'start': 23, 'end': 43, 'answer': ' 2-Mengenspülkasten,'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Treads and landing units
+2456,3639,3639,mit Spülkasten Laufen,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Lochabstand: 22cm
+Mängel: keine Mängel
+Masse: H: 36.5cm B: 36cm T: 67cm
+Material: Keramik
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112000",,,,,,,,,2023-02-03,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.000,0.0,1.0,9.0,"Münchenstein, 4142",,useagain,91845,CH,de,111985_570x570.jpg,https://www.useagain.ch/de/wc-mit-spuelkasten-laufen-91845,D09.05,WC,,,,"{'score': 0.9761638641357422, 'start': 100, 'end': 108, 'answer': ' Keramik'}","{'score': 0.7106161117553711, 'start': 64, 'end': 90, 'answer': ' H: 36.5cm B: 36cm T: 67cm'}","{'score': 0.0007253549993038177, 'start': 57, 'end': 74, 'answer': '\nMasse: H: 36.5cm'}",Sitka spruce,Sprigs,Pr_20_29_56_82,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+2496,3679,3679,Dunstabzug,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Energieeffizienz: C
+Hersteller: Wesco
+Garantie: 6 Monate
+Masse: B: 60 cm, T: 29/47 cm
+Montage: Einbau
+Spannung: 230 V
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112357",,,,,,,,C,2023-02-06,899.0,,,1970-01-01,899.0,2023-09-25 00:00:00.000,0.0,1.0,90.0,"Münchenstein, 4142",,useagain,91859,CH,de,112357_570x570.jpg,https://www.useagain.ch/de/dunstabzug-wesco-91859,H03.05,cooker hood,,,,"{'score': 0.025655774399638176, 'start': 94, 'end': 101, 'answer': ' Einbau'}","{'score': 0.705252468585968, 'start': 63, 'end': 85, 'answer': ' B: 60 cm, T: 29/47 cm'}","{'score': 0.00010289114288752899, 'start': 66, 'end': 69, 'answer': ' 60'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+2566,3749,3749,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 179cm B: 90cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112012",Metal,50.0,90.0,179,,,gray,,2023-02-09,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,,"Münchenstein, 4142",,useagain,91923,CH,de,112012_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91923,D11,cabinet,,,,"{'score': 0.9864158034324646, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.3978188931941986, 'start': 6, 'end': 32, 'answer': ' H: 179cm B: 90cm T: 50 cm'}","{'score': 0.0007924546953290701, 'start': 0, 'end': 32, 'answer': 'Masse: H: 179cm B: 90cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2567,3750,3750,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 179cm B: 90cm T: 50 cm
+Material: metall
+Farbe: hellbraun
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112004",Metal,50.0,90.0,179,,,gray,,2023-02-09,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,,"Münchenstein, 4142",,useagain,91915,CH,de,112004_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91915,D11,cabinet,,,,"{'score': 0.9875398278236389, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.4086839258670807, 'start': 6, 'end': 32, 'answer': ' H: 179cm B: 90cm T: 50 cm'}","{'score': 0.001013315049931407, 'start': 0, 'end': 32, 'answer': 'Masse: H: 179cm B: 90cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2568,3751,3751,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 185cm B: 90cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112003",Metal,50.0,90.0,185,,,gray,,2023-02-09,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,,"Münchenstein, 4142",,useagain,91914,CH,de,112003_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91914,D11,cabinet,,,,"{'score': 0.9872020483016968, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.4050387442111969, 'start': 6, 'end': 32, 'answer': ' H: 185cm B: 90cm T: 50 cm'}","{'score': 0.0008124344749376178, 'start': 0, 'end': 32, 'answer': 'Masse: H: 185cm B: 90cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2569,3752,3752,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 190cm B: 95cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112011",Metal,50.0,95.0,190,,,gray,,2023-02-09,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,125.0,"Münchenstein, 4142",,useagain,91922,CH,de,112011_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91922,D11,cabinet,,,,"{'score': 0.9870526790618896, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.42930251359939575, 'start': 6, 'end': 32, 'answer': ' H: 190cm B: 95cm T: 50 cm'}","{'score': 0.0007256718818098307, 'start': 0, 'end': 32, 'answer': 'Masse: H: 190cm B: 95cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2570,3753,3753,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 190cm B: 95cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112011",Metal,50.0,95.0,190,,,gray,,2023-02-09,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91922,CH,de,112011_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91922,D11,cabinet,,,,"{'score': 0.9870526790618896, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.42930251359939575, 'start': 6, 'end': 32, 'answer': ' H: 190cm B: 95cm T: 50 cm'}","{'score': 0.0007256718818098307, 'start': 0, 'end': 32, 'answer': 'Masse: H: 190cm B: 95cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2571,3754,3754,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 175cm B: 60cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112007",Metal,50.0,60.0,175,,,gray,,2023-02-09,40.0,,,1970-01-01,40.0,2023-09-25 00:00:00.000,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91918,CH,de,112007_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91918,D11,cabinet,,,,"{'score': 0.9862048029899597, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.3697834312915802, 'start': 6, 'end': 32, 'answer': ' H: 175cm B: 60cm T: 50 cm'}","{'score': 0.0006970399408601224, 'start': 0, 'end': 32, 'answer': 'Masse: H: 175cm B: 60cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2572,3755,3755,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 179cm B: 120cm T: 50 cm
+Material: metall
+Farbe: hellbraun
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112006",Metal,50.0,120.0,179,,,,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,125.0,"Münchenstein, 4142",,useagain,91917,CH,de,112006_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91917,D11,cabinet,,,,"{'score': 0.9878682494163513, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.4579174816608429, 'start': 6, 'end': 33, 'answer': ' H: 179cm B: 120cm T: 50 cm'}","{'score': 0.0015955748967826366, 'start': 0, 'end': 33, 'answer': 'Masse: H: 179cm B: 120cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2573,3756,3756,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 179cm B: 120cm T: 50 cm
+Material: metall
+Farbe: hellbraun
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112006",Metal,50.0,120.0,179,,,,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91917,CH,de,112006_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91917,D11,cabinet,,,,"{'score': 0.9878682494163513, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.4579174816608429, 'start': 6, 'end': 33, 'answer': ' H: 179cm B: 120cm T: 50 cm'}","{'score': 0.0015955748967826366, 'start': 0, 'end': 33, 'answer': 'Masse: H: 179cm B: 120cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2574,3757,3757,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 180cm B: 118cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112010",Metal,50.0,118.0,180,,,gray,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,125.0,"Münchenstein, 4142",,useagain,91921,CH,de,112010_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91921,D11,cabinet,,,,"{'score': 0.9868474006652832, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.4463735818862915, 'start': 6, 'end': 33, 'answer': ' H: 180cm B: 118cm T: 50 cm'}","{'score': 0.0018743722466751933, 'start': 27, 'end': 33, 'answer': ' 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2575,3758,3758,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 180cm B: 118cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112010",Metal,50.0,118.0,180,,,gray,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91921,CH,de,112010_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91921,D11,cabinet,,,,"{'score': 0.9868474006652832, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.4463735818862915, 'start': 6, 'end': 33, 'answer': ' H: 180cm B: 118cm T: 50 cm'}","{'score': 0.0018743722466751933, 'start': 27, 'end': 33, 'answer': ' 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2577,3760,3760,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 175cm B: 30cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112008",Metal,50.0,30.0,175,,,gray,,2023-02-09,30.0,,,1970-01-01,30.0,1970-01-01 00:00:00.002,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91919,CH,de,112008_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91919,D11,cabinet,,,,"{'score': 0.9862704277038574, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.3745046854019165, 'start': 6, 'end': 32, 'answer': ' H: 175cm B: 30cm T: 50 cm'}","{'score': 0.0007033041911199689, 'start': 0, 'end': 32, 'answer': 'Masse: H: 175cm B: 30cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2579,3762,3762,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 175cm B: 119cm T: 50 cm
+Material: metall
+Farbe: grun
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112002",Metal,50.0,119.0,175,,,green,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.002,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91913,CH,de,112002_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91913,D11,cabinet,,,,"{'score': 0.9882823824882507, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.4260004758834839, 'start': 6, 'end': 33, 'answer': ' H: 175cm B: 119cm T: 50 cm'}","{'score': 0.0022172785829752684, 'start': 27, 'end': 33, 'answer': ' 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2580,3763,3763,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 184cm B: 60cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112005",Metal,50.0,60.0,184,,,gray,,2023-02-09,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.002,0.0,1.0,88.0,"Münchenstein, 4142",,useagain,91916,CH,de,112005_02_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91916,D11,cabinet,,,,"{'score': 0.9856350421905518, 'start': 42, 'end': 49, 'answer': ' metall'}","{'score': 0.35403063893318176, 'start': 6, 'end': 32, 'answer': ' H: 184cm B: 60cm T: 50 cm'}","{'score': 0.0004684313025791198, 'start': 0, 'end': 32, 'answer': 'Masse: H: 184cm B: 60cm T: 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2581,3765,3765,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 178cm B: 119cm T: 50 cm
+Material: metall
+Farbe: hellbraun
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112009",Metal,50.0,119.0,178,,,,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,55.0,"Münchenstein, 4142",,useagain,91920,CH,de,112009_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91920,D11,cabinet,,,,"{'score': 0.9885690212249756, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.41446876525878906, 'start': 6, 'end': 33, 'answer': ' H: 178cm B: 119cm T: 50 cm'}","{'score': 0.0018140566535294056, 'start': 27, 'end': 33, 'answer': ' 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2582,3766,3766,Spind Schrank,used & cleaned,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Masse: H: 190cm B: 119cm T: 50 cm
+Material: metall
+Farbe: grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112013",Metal,50.0,119.0,190,,,gray,,2023-02-09,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,55.0,"Münchenstein, 4142",,useagain,91924,CH,de,112013_2_570x570.jpg,https://www.useagain.ch/de/spind-schrank-91924,D11,cabinet,,,,"{'score': 0.9875229001045227, 'start': 43, 'end': 50, 'answer': ' metall'}","{'score': 0.415750116109848, 'start': 6, 'end': 33, 'answer': ' H: 190cm B: 119cm T: 50 cm'}","{'score': 0.0011817719787359238, 'start': 27, 'end': 33, 'answer': ' 50 cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2735,3919,3919,Gestell mit Spüle,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Masse: H: 94cm B: 119cm T: 80cm
+Farbe:grau
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112027",,80.0,119.0,94,,,gray,,2023-02-17,130.0,,,1970-01-01,130.0,1970-01-01 00:00:00.000,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,91967,CH,de,112027_570x570.jpg,https://www.useagain.ch/de/gestell-mit-spuele-91967,J01.02,,,,,"{'score': 0.20512475073337555, 'start': 31, 'end': 42, 'answer': '\nFarbe:grau'}","{'score': 0.7081963419914246, 'start': 6, 'end': 31, 'answer': ' H: 94cm B: 119cm T: 80cm'}","{'score': 0.0015830822521820664, 'start': 0, 'end': 31, 'answer': 'Masse: H: 94cm B: 119cm T: 80cm'}",Lignite,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+2827,4011,4011,Spüle,"used, cleaned & tested",['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Spülen,"Hersteller: Franke
+Masse: H: 18cm B: 52cm T: 38cm 
+Material: Edelstahl
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112557",Steel,38.0,52.0,18,,,,,2023-02-28,79.0,,,1970-01-01,79.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,92086,CH,de,112557_570x570.jpg,https://www.useagain.ch/de/spuele-92086,G05.02,,,,,"{'score': 0.9784135222434998, 'start': 60, 'end': 70, 'answer': ' Edelstahl'}","{'score': 0.7464706301689148, 'start': 25, 'end': 49, 'answer': ' H: 18cm B: 52cm T: 38cm'}","{'score': 0.12510520219802856, 'start': 25, 'end': 49, 'answer': ' H: 18cm B: 52cm T: 38cm'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+3316,4529,4529,Kippfenster,used & cleaned,['F02.01'],Elements in flat roofs,,Gebäudehülle & Konstruktion,Fenster,Oberlichter,"Fenster lässt sich nur kippen, nicht komplett öffnen
+Material: Massiv Holz
+Verglasung: 3-fach
+Einbaumass H:
+
+Artikelnummer: 113491",Wood,5.0,215.0,67,,,,,2023-05-08,260.0,,,1970-01-01,260.0,2023-09-25 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,92500,CH,de,113491_570x570.jpg,https://www.useagain.ch/de/kippfenster-92500,F02.01,tilt window,,,,"{'score': 0.8659460544586182, 'start': 62, 'end': 74, 'answer': ' Massiv Holz'}","{'score': 0.1257435381412506, 'start': 86, 'end': 107, 'answer': ' 3-fach\nEinbaumass H:'}","{'score': 0.002504033735021949, 'start': 86, 'end': 93, 'answer': ' 3-fach'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+3317,4530,4530,Kippfenster,used & cleaned,['F02.01'],Elements in flat roofs,,Gebäudehülle & Konstruktion,Fenster,Oberlichter,"Rahmen: Massivholz
+Verglasung: 3-fach
+Fenster lässt sich nur kippen
+Einbaumass H: 75cm B: 113cm T: 3cm
+
+Artikelnummer: 112204",,6.0,125.0,84,,,,,2023-05-08,220.0,,,1970-01-01,220.0,2023-09-25 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,92499,CH,de,112204_570x570.jpg,https://www.useagain.ch/de/kippfenster-92499,F02.01,tilt window,,,,"{'score': 0.8885219097137451, 'start': 7, 'end': 18, 'answer': ' Massivholz'}","{'score': 0.4279980957508087, 'start': 78, 'end': 102, 'answer': ' H: 75cm B: 113cm T: 3cm'}","{'score': 0.0005790189024992287, 'start': 30, 'end': 78, 'answer': ' 3-fach\nFenster lässt sich nur kippen\nEinbaumass'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+3374,4596,4597,mit Spülkasten Laufen,"gebraucht, gereinigt & geprüft",['D09.05'],,,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Produkte-Nr. 3031
+
+Frischwasseranschluss: rechts",Ceramic,54.0,40.0,83,,,weiss,,2023-06-14,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,,0.0,4.0,"Zürich, 8050",,,92703,,,3031-2_570x570.jpg,https://www.useagain.ch/de/wc-mit-spuelkasten-laufen-92703,,,,,,"{'score': 4.964341133018024e-05, 'start': 18, 'end': 41, 'answer': '\nFrischwasseranschluss:'}","{'score': 0.11074413359165192, 'start': 18, 'end': 48, 'answer': '\nFrischwasseranschluss: rechts'}","{'score': 0.10642611235380173, 'start': 12, 'end': 17, 'answer': ' 3031'}",Sitka spruce,Sprigs,Pr_20_29_56_82,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+3574,4817,4818,Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",Sanitaires,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 3048,Kunststoff,17.0,44.0,33,,,white,,2023-06-26,,,,,20.0,1970-01-01 00:00:00.002,,0.0,,"Zürich, 8050",,useagain,92801,CH,de,3048-2_570x570.jpg,https://www.useagain.ch/de/spuelkasten-92801,D09.05,toilet tank,20.0,,,"{'score': 0.0010830555111169815, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 3048'}","{'score': 0.00018473202362656593, 'start': 12, 'end': 17, 'answer': ' 3048'}","{'score': 0.39259573817253113, 'start': 12, 'end': 17, 'answer': ' 3048'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+3578,4821,4822,mit Spülkasten Laufen,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",Sanitaires,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Produkte-Nr. 3031
+
+Frischwasseranschluss: rechts",Keramik,54.0,40.0,83,,,white,,2023-06-14,,,,,,,,0.0,,"Zürich, 8050",,useagain,92703,CH,de,3031-2_570x570.jpg,https://www.useagain.ch/de/wc-mit-spuelkasten-laufen-92703,D09.05,WC,80.0,,,"{'score': 4.964341133018024e-05, 'start': 18, 'end': 41, 'answer': '\nFrischwasseranschluss:'}","{'score': 0.11074413359165192, 'start': 18, 'end': 48, 'answer': '\nFrischwasseranschluss: rechts'}","{'score': 0.10642611235380173, 'start': 12, 'end': 17, 'answer': ' 3031'}",Sitka spruce,Sprigs,Pr_20_29_56_82,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+3742,4998,4999,Spülkasten,"used, cleaned & tested",['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,Produkte-Nr. 3049,Kunststoff,17.0,33.0,44,,,white,,2023-06-26,,,,,20.0,1970-01-01 00:00:00.002,,0.0,,"Zürich, 8050",,useagain,92802,CH,de,3049-2_570x570.jpg,https://www.useagain.ch/de/spuelkasten-92802,J01.02,toilet tank,20.0,,,"{'score': 0.00166392105165869, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 3049'}","{'score': 0.0003694216429721564, 'start': 12, 'end': 17, 'answer': ' 3049'}","{'score': 0.5077202320098877, 'start': 12, 'end': 17, 'answer': ' 3049'}",Pisé,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+3922,5326,5327,Stehlampe,like new,"['D01.05', 'J01.03']",,Electricités et luminaires,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Hersteller: Regent Sensodim
+Masse: H: 186 cm
+6 Monate Garantie
+
+Art. Nr.: 113328",Metall,,35.0,186,,,white,,2023-08-15,,,,,150.0,2023-09-25 00:00:00.000,,0.0,,"Münchenstein, 4142",,useagain,93093,CH,de,113328_570x570.jpg,https://www.useagain.ch/de/stehlampe-93093,,lamp,150.0,,,"{'score': 0.01889694854617119, 'start': 11, 'end': 27, 'answer': ' Regent Sensodim'}","{'score': 0.6125518679618835, 'start': 34, 'end': 44, 'answer': ' H: 186 cm'}","{'score': 0.00044660299317911267, 'start': 44, 'end': 73, 'answer': '\n6 Monate Garantie\n\nArt. Nr.:'}",Lignite,Sprigs,Pr_20_29_56_82,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"

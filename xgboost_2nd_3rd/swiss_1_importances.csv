@@ -1,0 +1,66 @@
+,Feature,Importance
+34,Material_Keramik,0.18721633
+57,Material_gemischt,0.14369877
+39,Material_Metall,0.095012195
+5,Condition_gebraucht,0.0587556
+33,Material_Holz,0.05545429
+49,Material_Stahl,0.044458542
+12,Condition_neuwertig,0.04131477
+7,"Condition_gebraucht, gereinigt & geprüft",0.04092061
+28,Material_Glas,0.03821687
+36,Material_Kunststoff,0.030204166
+11,Condition_mixed,0.028907834
+6,Condition_gebraucht & gereinigt,0.027633656
+0,LastPrice,0.017302668
+9,Condition_like new,0.017170602
+38,Material_Metal,0.01708359
+41,Material_Mixed,0.015212299
+30,Material_Glass-ceramics,0.014753408
+56,Material_Wood,0.014252381
+45,Material_Plastic,0.013062542
+29,Material_Glass,0.011298544
+23,Material_Ceramic,0.009808622
+16,"Condition_used, cleaned & tested",0.008412497
+44,Material_Other,0.008312797
+1,Quantity,0.0079282895
+18,Material_Aluminum,0.0074834856
+24,Material_Chrome steel,0.0059622596
+53,Material_Stone,0.005157954
+51,Material_Steel,0.00430652
+61,"first_level_Roof, Slabs, Stairs",0.0038542256
+58,first_level_Furnishings,0.0034274033
+63,first_level_Technical elements,0.0032334905
+50,Material_Stainless steel,0.0030135831
+60,first_level_Other,0.003005666
+62,first_level_Structural elements,0.0028130326
+2,Condition_cleaned & tested,0.0027429212
+15,Condition_used & cleaned,0.0026317236
+14,Condition_used,0.0025338968
+64,"first_level_Wall, Barriers, Pannels",0.002455022
+25,Material_Compound,0.0009869022
+37,Material_Marble,0.0
+52,Material_Stein,0.0
+3,Condition_defective,0.0
+4,Condition_defekt,0.0
+8,Condition_gereinigt & geprüft,0.0
+10,Condition_mangelhaft,0.0
+59,first_level_Openings,0.0
+13,Condition_new,0.0
+17,Material_Aluminium,0.0
+19,Material_Artificial stone,0.0
+55,Material_Textile,0.0
+54,Material_Tarpaulin,0.0
+20,Material_Beton,0.0
+21,Material_Cardboard,0.0
+35,Material_Kunststein,0.0
+22,Material_Carpet,0.0
+48,Material_Similar,0.0
+47,Material_Rubber,0.0
+46,Material_Plexiglass,0.0
+26,Material_Concrete,0.0
+27,Material_Foamed PVC,0.0
+43,Material_Naturstein,0.0
+42,Material_Natural stone,0.0
+31,Material_Granit,0.0
+40,Material_Miscellaneous,0.0
+32,Material_Hardwood,0.0
