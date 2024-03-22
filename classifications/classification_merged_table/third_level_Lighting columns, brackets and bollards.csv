@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Lighting columns, brackets and bollards","              precision    recall  f1-score   support
+
+           0       0.78      0.72      0.75        79
+           1       0.81      0.85      0.83       110
+
+    accuracy                           0.80       189
+   macro avg       0.80      0.79      0.79       189
+weighted avg       0.80      0.80      0.80       189
+","                                               Feature  Importance
+8                         Material_Blinding aggregates    0.088121
+114                           Code_Recessed luminaires    0.057356
+122                                        Code_Sprigs    0.054568
+108                            Code_Pendant luminaires    0.051771
+0                                                Price    0.046799
+..                                                 ...         ...
+68                         Code_Container-grown shrubs    0.000000
+69                                   Code_Copal resins    0.000000
+70                                Code_Copper brackets    0.000000
+71                                 Code_Copper plating    0.000000
+167  third_level_Lighting columns, brackets and bol...    0.000000
+
+[168 rows x 2 columns]"

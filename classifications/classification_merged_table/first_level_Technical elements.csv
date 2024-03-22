@@ -1,0 +1,23 @@
+,Code,report,features
+0,Technical elements,"              precision    recall  f1-score   support
+
+           0       0.66      0.81      0.73        95
+           1       0.88      0.77      0.82       171
+
+    accuracy                           0.79       266
+   macro avg       0.77      0.79      0.78       266
+weighted avg       0.80      0.79      0.79       266
+","                                        Feature  Importance
+92                      Code_Aluminium shutters    0.123697
+300  second_level_Stairs, Ramps, Lift, Hardware    0.066352
+39                Material_Heat-absorbing glass    0.065947
+224                        Code_Pliable conduit    0.047970
+195            Code_Lighting distribution boxes    0.034801
+..                                          ...         ...
+142                       Code_Electric boilers    0.000000
+143                Code_Electric cooking ranges    0.000000
+144         Code_Electric free-standing cookers    0.000000
+145            Code_Electrical connection boxes    0.000000
+164                           Code_Fire dampers    0.000000
+
+[328 rows x 2 columns]"

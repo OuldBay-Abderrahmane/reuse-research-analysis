@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Door, Windows, Gates","              precision    recall  f1-score   support
+
+           0       0.79      0.75      0.77        44
+           1       0.48      0.53      0.50        19
+
+    accuracy                           0.68        63
+   macro avg       0.63      0.64      0.63        63
+weighted avg       0.69      0.68      0.69        63
+","                                     Feature  Importance
+94   Belgium_Raw_Stainless steel door frames    0.115737
+139                        first_level_Other    0.109887
+12                            Category_Doors    0.107158
+11                             Category_Door    0.088473
+2                               Latest_Price    0.066366
+..                                       ...         ...
+55                       material_emb_Bronze    0.000000
+56                      material_emb_Ceramic    0.000000
+57                    material_emb_Encaustic    0.000000
+58           material_emb_Expansive concrete    0.000000
+153                third_level_Walling units    0.000000
+
+[154 rows x 2 columns]"

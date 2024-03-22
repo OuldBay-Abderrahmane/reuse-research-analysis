@@ -1,0 +1,23 @@
+,Code,report,features
+0,Handrails,"              precision    recall  f1-score   support
+
+           0       0.86      0.86      0.86         7
+           1       0.94      0.94      0.94        16
+
+    accuracy                           0.91        23
+   macro avg       0.90      0.90      0.90        23
+weighted avg       0.91      0.91      0.91        23
+","                              Feature  Importance
+25                      Material_Wood    0.247260
+22                     Material_Steel    0.207959
+18                      Material_Pisé    0.124009
+77  second_level_Door, Windows, Gates    0.087025
+59                   Code_Stair trims    0.080998
+..                                ...         ...
+31                        Code_Bidets    0.000000
+30                Code_Belt conveyors    0.000000
+29                       Code_Arrises    0.000000
+28        Code_Aluminium stair treads    0.000000
+82              third_level_Handrails    0.000000
+
+[83 rows x 2 columns]"

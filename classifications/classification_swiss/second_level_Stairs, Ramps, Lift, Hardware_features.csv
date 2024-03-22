@@ -1,0 +1,116 @@
+,Feature,Importance
+51,Swiss_Raw_Steel bridge pedestals,0.33579355
+105,Material_Mixed,0.199573
+110,Material_Wood,0.13700691
+103,Material_Metal,0.09520014
+2,Length,0.06458814
+67,Condition_used & cleaned,0.045353636
+69,Subcategory_Apparate & Geräte,0.03539993
+0,LastPrice,0.028109297
+7,Category_Gebäudetechnik & Sanitär,0.020318463
+4,Category_Ausbau,0.019035552
+3,Width,0.013235789
+68,"Condition_used, cleaned & tested",0.0063856817
+64,Condition_like new,0.0
+75,Subcategory_Einrichtungen,0.0
+83,Subcategory_Leuchten & Lampen,0.0
+82,Subcategory_Klimaanlagen,0.0
+81,Subcategory_Kleinteile,0.0
+80,Subcategory_Heizkörper,0.0
+79,Subcategory_Geländer,0.0
+78,Subcategory_Gastroküche & Gastroartikel,0.0
+77,Subcategory_Freistehend,0.0
+76,Subcategory_Fertigteile & Geräte,0.0
+72,Subcategory_Badezimmermöbel,0.0
+74,Subcategory_Einbauküchen,0.0
+73,Subcategory_Baustoffe,0.0
+71,Subcategory_Badewanne & Dusche,0.0
+70,Subcategory_Aufzüge,0.0
+85,Subcategory_Lüftungsanlage,0.0
+62,Condition_gebraucht,0.0
+63,"Condition_gebraucht, gereinigt & geprüft",0.0
+66,Condition_used,0.0
+65,Condition_mixed,0.0
+84,Subcategory_Läden & Storen,0.0
+89,Subcategory_Treppen & Rampen,0.0
+86,Subcategory_Sonstiges,0.0
+87,Subcategory_Stromerzeugung,0.0
+113,Energy_Efficiency_C,0.0
+112,Energy_Efficiency_A,0.0
+111,Material_gemischt,0.0
+109,Material_Stone,0.0
+108,Material_Steel,0.0
+107,Material_Stainless steel,0.0
+106,Material_Plastic,0.0
+104,Material_Metall,0.0
+102,Material_Glass,0.0
+101,Material_Glas,0.0
+100,Material_Chrome steel,0.0
+99,Material_Ceramic,0.0
+98,Material_Aluminum,0.0
+97,Subcategory_Zubehör,0.0
+96,Subcategory_Werkzeug,0.0
+95,Subcategory_Waschtisch & Lavabos,0.0
+94,Subcategory_Waschküche & Trockner,0.0
+93,Subcategory_Waschküche & Trocknen,0.0
+92,Subcategory_Warmwasseraufbereitung,0.0
+91,Subcategory_WCs - Toiletten,0.0
+90,Subcategory_WC-Anlagen,0.0
+60,Condition_cleaned & tested,0.0
+88,Subcategory_Tore,0.0
+61,Condition_defective,0.0
+57,Swiss_Raw_Under-mounted washbasins,0.0
+59,Swiss_Raw_Washers,0.0
+18,Swiss_Raw_Drafting machines,0.0
+29,Swiss_Raw_Flexible stair coverings,0.0
+28,"Swiss_Raw_Fixed roof ventilators, terminals and accessories",0.0
+27,Swiss_Raw_Fishwashers,0.0
+26,Swiss_Raw_Fermenters,0.0
+25,Swiss_Raw_Escalators,0.0
+24,Swiss_Raw_Equipment heaters,0.0
+23,"Swiss_Raw_Equipment enclosures, cabinets, boxes and housings",0.0
+22,Swiss_Raw_Equipment,0.0
+21,Swiss_Raw_Electric ovens,0.0
+20,Swiss_Raw_Electric cooking ranges,0.0
+19,Swiss_Raw_Electric boilers,0.0
+17,Swiss_Raw_Desks,0.0
+58,Swiss_Raw_Vehicle hoists,0.0
+16,Swiss_Raw_Cutlery,0.0
+15,Swiss_Raw_Conductor rails,0.0
+14,Swiss_Raw_Commercial washers,0.0
+13,Swiss_Raw_Commercial electric griddles,0.0
+12,Swiss_Raw_Arrises,0.0
+11,Swiss_Raw_Aluminium stair treads,0.0
+10,Swiss_Raw_Air conditioning units,0.0
+9,Category_Umgebung,0.0
+8,Category_Sonstiges,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+30,Swiss_Raw_Footstools,0.0
+31,Swiss_Raw_Garage door operators,0.0
+32,Swiss_Raw_Gas free-standing cookers,0.0
+33,Swiss_Raw_Glass stair treads,0.0
+1,Quantity,0.0
+56,Swiss_Raw_Turbine air motors,0.0
+55,Swiss_Raw_Trap switches,0.0
+54,Swiss_Raw_Tool dispensers,0.0
+53,Swiss_Raw_Timber stair treads,0.0
+52,Swiss_Raw_Steppers,0.0
+50,Swiss_Raw_Steam traps and strainers,0.0
+49,Swiss_Raw_Stair trims,0.0
+48,Swiss_Raw_Sprung (split lock) washers,0.0
+47,Swiss_Raw_Solar heat stores,0.0
+46,Swiss_Raw_Shower doors,0.0
+45,Swiss_Raw_Rigid stair nosings,0.0
+44,Swiss_Raw_Refrigerators,0.0
+43,Swiss_Raw_Radiators,0.0
+42,Swiss_Raw_Pendant luminaires,0.0
+41,Swiss_Raw_Metal stair stringers,0.0
+40,Swiss_Raw_Metal stair spines,0.0
+39,Swiss_Raw_Metal skirtings,0.0
+38,Swiss_Raw_Laundry washing machines,0.0
+37,Swiss_Raw_Kitchen worktops,0.0
+36,Swiss_Raw_Heat pumps,0.0
+35,Swiss_Raw_Hardwood stair landing units,0.0
+34,Swiss_Raw_Grommets,0.0
+114,"second_level_Stairs, Ramps, Lift, Hardware",0.0

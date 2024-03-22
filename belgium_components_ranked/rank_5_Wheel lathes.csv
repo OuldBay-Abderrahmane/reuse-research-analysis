@@ -1,0 +1,19 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+296,103HAR057S,Caster Wheel set of,0.3,kg,set,"
+SMALL Wheel Diameter 3 cm
+
+LARGE Wheel Diameter 3,5 cm
+",Hardware,https://rotordc.com/shop/product/caster-wheel-set-of-4-54479?page=7&category=37,,12.0,12.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 8.296473424707074e-06, 'start': 21, 'end': 23, 'answer': ' 3'}","{'score': 0.08270827680826187, 'start': 1, 'end': 26, 'answer': 'SMALL Wheel Diameter 3 cm'}","{'score': 0.028690746054053307, 'start': 21, 'end': 26, 'answer': ' 3 cm'}",Cast iron,Wheel lathes,Pr_40_70_73_96,Other,"Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards",0.028690746054053307,,,,
+297,103HAR056L,Caster Wheel set of,0.2,kg,set,"
+SMALL Wheel Diameter 2,5 cm
+
+LARGE Wheel Diameter 3 cm
+",Hardware,https://rotordc.com/shop/product/caster-wheel-set-of-4-54478?page=7&category=37,,12.0,12.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 2.639685590111185e-06, 'start': 21, 'end': 25, 'answer': ' 2,5'}","{'score': 0.14320708811283112, 'start': 1, 'end': 28, 'answer': 'SMALL Wheel Diameter 2,5 cm'}","{'score': 0.06374699622392654, 'start': 21, 'end': 28, 'answer': ' 2,5 cm'}",Cast iron,Wheel lathes,Pr_40_70_73_96,Other,"Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards",0.06374699622392654,,,,
+342,103HAR070,Caster Wheel set of,0.23,kg,set,"
+Wheel Diameter 2,5 cm
+
+ 
+",Hardware,https://rotordc.com/shop/product/103har070-caster-wheel-set-of-4-51131?page=9&category=37,,12.0,12.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 6.279999070102349e-05, 'start': 1, 'end': 6, 'answer': 'Wheel'}","{'score': 0.08908545970916748, 'start': 1, 'end': 22, 'answer': 'Wheel Diameter 2,5 cm'}","{'score': 0.01926274783909321, 'start': 15, 'end': 22, 'answer': ' 2,5 cm'}",Cast iron,Wheel lathes,Pr_40_70_73_96,Other,"Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards",0.01926274783909321,,,,
+1253,999HAR314,Swivel caster wheel,0.58,kg,pc,"
+Swivel caster wheel in polypropylene with steel base. Wheel diameter10 cmWheel width4 cmDepth8 cmTotal length15 cmUsed condition. There are some imperfections such as spray paint marks and visible scratches on the pp wheel. Some of the wheels have print labels and some do not. Dusty, needs to be cleaned.
+",Hardware,https://rotordc.com/shop/product/999har314-swivel-caster-wheel-60073?category=37,"['60073_87f71a2.png', '11892_ac0fb3f.png', '11893_ac0fb3f.png']",5.0,5.0,,,,,,,,,2022-12-26,0.0,,2022-12-26,BE,rotordc,fr,1,0.0,"{'score': 0.9941126108169556, 'start': 23, 'end': 37, 'answer': ' polypropylene'}","{'score': 0.5500760674476624, 'start': 54, 'end': 79, 'answer': '\xa0Wheel diameter10 cmWheel'}","{'score': 0.0010041058994829655, 'start': 103, 'end': 119, 'answer': ' length15 cmUsed'}",Gravel,Wheel lathes,Pr_40_70_73_96,Other,Other,Handrails,0.0010041058994829655,,,,0.0

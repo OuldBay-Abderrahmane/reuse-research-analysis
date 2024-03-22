@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.52      0.52      0.52        46
+           1       0.81      0.81      0.81       116
+
+    accuracy                           0.73       162
+   macro avg       0.67      0.67      0.67       162
+weighted avg       0.73      0.73      0.73       162
+","                                           Feature  Importance
+184                          Code_Reclining chairs    0.135503
+166                         Code_Occasional tables    0.133379
+167                             Code_Office chairs    0.092107
+221                                 Code_Wardrobes    0.090370
+159                       Code_Meeting room tables    0.062690
+..                                             ...         ...
+102                                Code_Deckchairs    0.000000
+103                        Code_Decorative facings    0.000000
+104                   Code_Decorative metal panels    0.000000
+105                  Code_Decorative timber panels    0.000000
+264  third_level_Unit covering and finish products    0.000000
+
+[265 rows x 2 columns]"

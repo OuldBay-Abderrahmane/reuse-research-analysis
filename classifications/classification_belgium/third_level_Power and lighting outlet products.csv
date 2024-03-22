@@ -1,0 +1,23 @@
+,Code,report,features
+0,Power and lighting outlet products,"              precision    recall  f1-score   support
+
+           0       0.80      0.86      0.83        14
+           1       0.67      0.57      0.62         7
+
+    accuracy                           0.76        21
+   macro avg       0.73      0.71      0.72        21
+weighted avg       0.76      0.76      0.76        21
+","                                            Feature  Importance
+5                                      Price_Change    0.383101
+4                                         Stock_Now    0.208028
+51                    material_emb_Reflective glass    0.103125
+8                                             Width    0.078243
+0                                            Weight    0.061355
+..                                              ...         ...
+37                      material_emb_European larch    0.000000
+36                                material_emb_Daub    0.000000
+35                              material_emb_Copper    0.000000
+34                      material_emb_Coloured glass    0.000000
+116  third_level_Power and lighting outlet products    0.000000
+
+[117 rows x 2 columns]"

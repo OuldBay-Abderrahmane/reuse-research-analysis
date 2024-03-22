@@ -1,0 +1,163 @@
+,Feature,Importance
+92,Code_High-security doorsets,0.11652804
+53,Code_Controlled door closers,0.07111577
+140,first_level_Openings,0.069080204
+61,Code_Door hinges,0.060139894
+4,Material_Aluminium,0.05830582
+0,Price,0.044488586
+16,Material_Gravel,0.037660625
+132,Code_Window walls,0.032625385
+115,Code_Sliding shutter doorsets,0.03135147
+1,Length,0.031180346
+159,third_level_Space heating and cooling products,0.030572139
+142,"first_level_Roof, Slabs, Stairs",0.029454008
+145,"first_level_Wall, Barriers, Pannels",0.029015305
+150,third_level_Handrails,0.022001505
+157,third_level_Safety cages,0.020380173
+158,third_level_Sanitary fittings and accessories,0.020084629
+136,Code_Wood panelled door leaves,0.02008137
+6,Material_Architectural glass,0.019665122
+32,Material_Sitka spruce,0.018431565
+138,Code_Wood window walls,0.014987947
+149,third_level_Glass blocks and panels,0.014481469
+148,third_level_Furnishings,0.013656073
+36,Material_Wood,0.013418049
+73,Code_Frameless glass door leaves,0.013293059
+134,Code_Wood doorsets,0.0125323795
+129,Code_Window hinges,0.011870478
+9,Material_Encaustic,0.011446827
+95,Code_Manual trapdoors,0.011090102
+147,"third_level_Floor plates, gratings and edgings",0.0110528935
+23,Material_Patterned glass,0.010523113
+2,Width,0.009955391
+139,first_level_Furnishings,0.009608935
+25,Material_Pisé,0.009517153
+133,Code_Wood door frames,0.007970101
+3,Height,0.007005382
+52,Code_Concealed hinges,0.006825196
+27,Material_Prismatic glass,0.0067979386
+160,third_level_Structural roofing units,0.0064506554
+124,Code_Vault doors,0.006328326
+19,Material_Insulating glass,0.006262269
+141,first_level_Other,0.0057283603
+82,Code_Gates and turnstiles,0.005470104
+38,Code_Aluminium doorsets,0.005390777
+34,Material_Stainless steel,0.0026097929
+118,Code_Stainless steel door leaves,0.0024645638
+117,Code_Stainless steel door frames,0.0011007736
+111,Code_Shower curtains,0.0
+109,Code_Sectional overhead doorsets,0.0
+108,Code_Screening and ventilation access doors,0.0
+107,Code_Screen door closers,0.0
+110,Code_Security shutters,0.0
+94,Code_Louvre doorsets,0.0
+106,Code_Roofing swags,0.0
+105,Code_Rigid stair nosings,0.0
+104,Code_Rigid polyurethane frame roof window units,0.0
+93,Code_Linen chute inlet doors,0.0
+103,Code_Refrigerators,0.0
+102,Code_Refrigerated display cabinet doors,0.0
+99,Code_Plastics window films,0.0
+101,Code_Projection window hinges,0.0
+100,Code_Pleated blinds,0.0
+96,Code_Metal gate surrounds,0.0
+113,Code_Shower enclosures,0.0
+97,Code_Metal skirtings,0.0
+98,Code_Pendant luminaires,0.0
+112,Code_Shower doors,0.0
+128,Code_Window curtains,0.0
+114,Code_Single axis door hinges,0.0
+116,Code_Stained glass sheets,0.0
+156,third_level_Power and lighting outlet products,0.0
+155,third_level_Other,0.0
+154,third_level_Openings and opening component products,0.0
+153,"third_level_Non-rigid sheet, mat and strip covering and finish products",0.0
+152,third_level_Masonry walling units,0.0
+151,"third_level_Lighting columns, brackets and bollards",0.0
+146,"second_level_Door, Windows, Gates",0.0
+144,first_level_Technical elements,0.0
+143,first_level_Structural elements,0.0
+137,Code_Wood window units,0.0
+135,Code_Wood frame roof window units,0.0
+91,Code_Grommets,0.0
+130,Code_Window panels,0.0
+127,Code_WC pans,0.0
+126,Code_Vision panels,0.0
+125,Code_Ventilation grilles,0.0
+123,Code_Up-and-over doorsets,0.0
+122,Code_Uncontrolled door closers,0.0
+121,Code_Trellises,0.0
+120,Code_Steel window walls,0.0
+119,Code_Stainless steel doorsets,0.0
+131,Code_Window sash fasteners,0.0
+81,Code_Gate surrounds and leaves,0.0
+90,Code_Glazed pavement light panels,0.0
+40,Code_Aluminium window walls,0.0
+30,Material_Sheet glass,0.0
+31,Material_Silt,0.0
+33,Material_Spandrel glass,0.0
+35,Material_Structural glass,0.0
+37,Code_Aluminium door leaves,0.0
+39,Code_Aluminium window units,0.0
+41,Code_Antique glass,0.0
+28,Material_Reflective glass,0.0
+42,Code_Arrises,0.0
+43,Code_Automatic revolving doorsets,0.0
+44,Code_Bidets,0.0
+45,Code_Boxed sash window hanging fittings,0.0
+46,Code_Bronze window units,0.0
+47,Code_Cabinet and countertop hinges,0.0
+29,Material_Safety glass,0.0
+26,Material_Porcelain,0.0
+89,Code_Glassware,0.0
+13,Material_Fire clay,0.0
+5,Material_Anti-bandit glass,0.0
+7,Material_Asphalt,0.0
+8,Material_Brass,0.0
+10,Material_Expansive concrete,0.0
+11,Material_Fibreglass,0.0
+12,Material_Figured glass,0.0
+14,Material_Glass,0.0
+24,Material_Pine,0.0
+15,Material_Granule,0.0
+17,Material_Heat-absorbing glass,0.0
+18,Material_Hemlock,0.0
+20,Material_Lignite,0.0
+21,Material_Metal,0.0
+22,Material_Oak,0.0
+48,Code_Cavity sliding doorsets,0.0
+49,Code_Chute automatic fire doors,0.0
+50,Code_Composite door leaves,0.0
+79,Code_Gate arches,0.0
+72,Code_Flexible doorsets,0.0
+74,Code_Freezer blinds,0.0
+75,Code_Fridge-freezers,0.0
+76,Code_Garage door holders,0.0
+77,Code_Garage door operators,0.0
+78,Code_Garden furnishings,0.0
+80,Code_Gate hinges,0.0
+51,Code_Composite doorsets,0.0
+83,Code_Glass block wall panels,0.0
+84,Code_Glass brise-soleil louvre blades,0.0
+85,Code_Glass fins,0.0
+86,Code_Glass infill gate leaves,0.0
+87,Code_Glass louvre window units,0.0
+88,Code_Glass noise barrier panels,0.0
+71,Code_Firebreak shutters,0.0
+70,Code_Electromagnetic door holders,0.0
+69,Code_Electric sliding door mechanisms,0.0
+68,Code_Ductwork access doorsets,0.0
+67,Code_Double window steam sight glasses,0.0
+66,Code_Doorsets,0.0
+65,Code_Door protection panels,0.0
+64,Code_Door locks,0.0
+63,Code_Door lever handle sets,0.0
+62,Code_Door knockers,0.0
+60,Code_Door frames and leaves,0.0
+59,Code_Door dampers,0.0
+58,Code_Door coordinators,0.0
+57,Code_Door and window weatherstrips and seals,0.0
+56,Code_Cranked hinges,0.0
+55,Code_Corrugated wired glass sheets,0.0
+54,Code_Corner cupboards,0.0
+161,third_level_Walling units,0.0

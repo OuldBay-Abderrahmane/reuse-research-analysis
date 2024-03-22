@@ -1,0 +1,22 @@
+,Feature,Importance
+3,Height,0.47156912
+7,Material_Lignite,0.23508134
+1,Length,0.22369877
+2,Width,0.06965071
+0,Price,0.0
+13,"first_level_Roof, Slabs, Stairs",0.0
+19,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+18,second_level_Other,0.0
+17,second_level_Furnishings,0.0
+16,"second_level_Door, Windows, Gates",0.0
+15,"second_level_Blocks, Panels, Fences, Bricks",0.0
+14,"first_level_Wall, Barriers, Pannels",0.0
+10,Code_Refrigerators,0.0
+12,first_level_Other,0.0
+11,first_level_Furnishings,0.0
+9,Material_Thermoplastic elastomer resin,0.0
+8,Material_Silt,0.0
+6,Material_Insulating glass,0.0
+5,Material_Ammonia,0.0
+4,Material_Air-cooled steel slag,0.0
+20,third_level_Space heating and cooling products,0.0

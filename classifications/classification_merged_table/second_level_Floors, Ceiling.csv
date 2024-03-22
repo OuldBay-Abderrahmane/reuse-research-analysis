@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floors, Ceiling","              precision    recall  f1-score   support
+
+           0       0.75      0.79      0.77        57
+           1       0.85      0.82      0.84        85
+
+    accuracy                           0.81       142
+   macro avg       0.80      0.81      0.80       142
+weighted avg       0.81      0.81      0.81       142
+","                                            Feature  Importance
+152                             Code_Terrazzo tiles    0.106650
+22                                  Material_Marble    0.105473
+186  third_level_Floor plates, gratings and edgings    0.096581
+84          Code_Excavated earth and fill materials    0.069675
+9                           Material_Coloured glass    0.056451
+..                                              ...         ...
+85                                 Code_Flap valves    0.000000
+86                   Code_Flat-needled carpet tiles    0.000000
+87                        Code_Flat-needled carpets    0.000000
+88          Code_Flexible glass wool mat insulation    0.000000
+100                             Code_Hardwood beams    0.000000
+
+[200 rows x 2 columns]"

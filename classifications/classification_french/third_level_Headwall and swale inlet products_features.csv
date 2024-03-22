@@ -1,0 +1,167 @@
+,Feature,Importance
+71,location_AUBAGNE,0.121295355
+115,material_emb_Daub,0.119345054
+125,material_emb_Water,0.111986026
+36,BIM_class_B.20.20.01.2a,0.094741166
+162,"second_level_Covering, Finish",0.09397839
+85,location_LYON--6E--ARRONDISSEMENT,0.082800135
+161,"second_level_Blocks, Panels, Fences, Bricks",0.0757855
+108,material_type_used,0.054431997
+123,material_emb_Sitka spruce,0.03616706
+26,category_lavatories,0.034550093
+33,category_windows,0.021849912
+164,second_level_Other,0.020707486
+0,price_initial,0.020019516
+13,material_state_verygood,0.017067695
+160,"first_level_Wall, Barriers, Pannels",0.014737376
+157,first_level_Other,0.014697981
+4,price,0.01372948
+3,quantity_latest,0.013598705
+30,category_portal,0.012155732
+10,material_state_correct,0.01144812
+122,material_emb_Silt,0.009850154
+107,material_type_reconditioned,0.0050570695
+99,location_RENNES,0.0
+110,state_ Bon,0.0
+90,location_PARIS-12E-ARRONDISSEMENT,0.0
+121,material_emb_Potable water,0.0
+120,material_emb_Pisé,0.0
+119,material_emb_Net,0.0
+118,material_emb_Lignite,0.0
+117,material_emb_Fluids,0.0
+116,material_emb_Float glass,0.0
+91,location_PARIS-13E-ARRONDISSEMENT,0.0
+114,material_emb_Anthracite,0.0
+113,material_emb_Alabaster,0.0
+112,state_ Très bon,0.0
+111,state_ Neuf,0.0
+92,location_PARIS-20E-ARRONDISSEMENT,0.0
+100,location_SAINT-ETIENNE,0.0
+109,country_FR,0.0
+93,location_PARIS-2E-ARRONDISSEMENT,0.0
+94,location_PARIS-8E-ARRONDISSEMENT,0.0
+106,material_type_new,0.0
+95,location_PARIS-9E-ARRONDISSEMENT,0.0
+105,location_VILLENEUVE-SAINT-GEORGES,0.0
+104,location_STRASBOURG,0.0
+96,location_PLOEREN,0.0
+97,location_PONTCHARRA,0.0
+98,location_PUTEAUX,0.0
+102,location_SAINT-OUEN,0.0
+101,location_SAINT-MALO,0.0
+103,location_SAVIGNY-SUR-ORGE,0.0
+130,French_Raw_Fountains,0.0
+124,material_emb_Soap,0.0
+126,French_Raw_Arrises,0.0
+145,French_Code_Pr_40_20_06_11,0.0
+146,French_Code_Pr_40_20_76_07,0.0
+147,French_Code_Pr_40_20_87_76,0.0
+148,French_Code_Pr_40_20_87_84,0.0
+149,French_Code_Pr_40_20_96_99,0.0
+150,French_Code_Pr_40_30_86_78,0.0
+151,French_Code_Pr_40_70_23_40,0.0
+152,French_Code_Pr_45_31_63_76,0.0
+153,French_Code_Pr_60_50_96,0.0
+154,French_Code_Pr_65_57_95_96,0.0
+155,French_Code_Pr_70_55_98_30,0.0
+156,first_level_Openings,0.0
+158,"first_level_Roof, Slabs, Stairs",0.0
+159,first_level_Technical elements,0.0
+163,"second_level_Floors, Ceiling",0.0
+144,French_Code_Pr_40_20_06_08,0.0
+143,French_Code_Pr_35_90_43_04,0.0
+142,French_Code_Pr_20_29_60_34,0.0
+133,French_Raw_Sedge,0.0
+127,French_Raw_Bath panels,0.0
+128,French_Raw_Baths,0.0
+129,French_Raw_Bidets,0.0
+88,location_ORLEANS,0.0
+131,French_Raw_Grommets,0.0
+132,French_Raw_Icemakers,0.0
+134,French_Raw_Shower heads,0.0
+141,French_Code_Pr_20_29_56_82,0.0
+135,French_Raw_Sink taps,0.0
+136,French_Raw_Sprigs,0.0
+137,French_Raw_Wash troughs,0.0
+138,French_Raw_Water flumes,0.0
+139,French_Raw_Water storage products,0.0
+140,French_Raw_Water strainers,0.0
+89,location_PARIS-10E-ARRONDISSEMENT,0.0
+83,location_LOIRE-SUR-RHONE,0.0
+87,location_MONTIGNY-LES-CORMEILLES,0.0
+35,BIM_class_B.20.20.01.1,0.0
+25,category_intercommunication_system,0.0
+27,category_linoleum_pvc_vinyl,0.0
+28,category_other_plumbing_fixture,0.0
+29,category_ovens,0.0
+31,category_showers_baths,0.0
+32,category_storefronts,0.0
+34,BIM_class_B.10.20.01.2a,0.0
+37,BIM_class_B.20.20.02.1a,0.0
+46,BIM_class_D.20.10.02.1a,0.0
+38,BIM_class_B.20.20.04.1,0.0
+39,BIM_class_B.20.30.07.2a,0.0
+40,BIM_class_C.10.10.02.1c,0.0
+41,BIM_class_C.10.10.02.1h,0.0
+42,BIM_class_C.10.30.02.6,0.0
+43,BIM_class_C.30.20.04.3d,0.0
+44,BIM_class_D.20.10.01.3,0.0
+24,category_hot_water_supply,0.0
+23,category_glazed_partitions_and_storefronts,0.0
+22,category_frame,0.0
+21,category_fire_extinguishing_device,0.0
+2,price_change,0.0
+5,quantity,0.0
+6,min_quantity,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+11,material_state_damaged,0.0
+12,material_state_new,0.0
+14,category_WC,0.0
+15,category_bath_and_toilet_accessories,0.0
+16,category_bidet,0.0
+17,category_cooling_system,0.0
+18,category_demountable_partitions,0.0
+19,category_emergency_device,0.0
+20,category_faucets,0.0
+45,BIM_class_D.20.10.01.4,0.0
+47,BIM_class_D.20.10.04,0.0
+86,location_MARSEILLE--2E--ARRONDISSEMENT,0.0
+76,location_DECINES-CHARPIEU,0.0
+68,BIM_class_E.10.90.02.28,0.0
+69,BIM_class_E.10.90.02.32,0.0
+70,location_ARGENTEUIL,0.0
+72,location_AUBERVILLIERS,0.0
+73,location_CHEVILLY-LARUE,0.0
+74,location_CLERMONT-FERRAND,0.0
+75,location_CORBEIL-ESSONNES,0.0
+77,location_EPERNAY,0.0
+48,BIM_class_D.20.10.04.11,0.0
+78,location_GENNEVILLIERS,0.0
+79,location_LA MADELEINE,0.0
+80,location_LE BOURGET,0.0
+81,location_LES SABLES-D'OLONNE,0.0
+82,location_LEVALLOIS-PERRET,0.0
+1,price_latest,0.0
+84,location_LYON--3E--ARRONDISSEMENT,0.0
+67,BIM_class_D.50.30.03.3,0.0
+66,BIM_class_D.40.50.01.2,0.0
+65,BIM_class_D.30.30.01.3,0.0
+64,BIM_class_D.30.10.04.5,0.0
+49,BIM_class_D.20.10.04.1a,0.0
+50,BIM_class_D.20.10.04.1b,0.0
+51,BIM_class_D.20.10.04.2g,0.0
+52,BIM_class_D.20.10.04.4b,0.0
+53,BIM_class_D.20.10.04.4h,0.0
+54,BIM_class_D.20.10.04.5b,0.0
+55,BIM_class_D.20.10.04.7a,0.0
+56,BIM_class_D.20.10.04.7b,0.0
+57,BIM_class_D.20.10.06.1,0.0
+58,BIM_class_D.20.10.06.3a,0.0
+59,BIM_class_D.20.10.06.4,0.0
+60,BIM_class_D.20.10.08,0.0
+61,BIM_class_D.20.10.09.2d,0.0
+62,BIM_class_D.20.10.90,0.0
+63,BIM_class_D.30.10.04.2,0.0
+165,third_level_Headwall and swale inlet products,0.0

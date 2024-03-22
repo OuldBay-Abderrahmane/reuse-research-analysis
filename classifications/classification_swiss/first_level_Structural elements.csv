@@ -1,0 +1,23 @@
+,Code,report,features
+0,Structural elements,"              precision    recall  f1-score   support
+
+           0       0.50      1.00      0.67         1
+           1       1.00      0.93      0.96        14
+
+    accuracy                           0.93        15
+   macro avg       0.75      0.96      0.81        15
+weighted avg       0.97      0.93      0.94        15
+","                                           Feature  Importance
+30                    Swiss_Raw_Sectional products    0.490070
+83                                   Material_Wood    0.106478
+41                              Condition_like new    0.088581
+78                                  Material_Metal    0.075172
+6             Category_Gebäudehülle & Konstruktion    0.074356
+..                                             ...         ...
+33                 Swiss_Raw_Stainless steel tanks    0.000000
+32       Swiss_Raw_Stainless steel cladding angles    0.000000
+31  Swiss_Raw_Stainless steel cappings and copings    0.000000
+7                Category_Gebäudetechnik & Sanitär    0.000000
+86                 first_level_Structural elements    0.000000
+
+[87 rows x 2 columns]"

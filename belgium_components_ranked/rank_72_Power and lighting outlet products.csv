@@ -1,0 +1,17 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+1118,19079030000,"Adapter for hanging light by Erco new , black or white",445.0,kg,pc,"
+Adaptor for pendant luminaire. 250V, 10A.
+Three phase selector.
+Garanteed manufactured by Erco.
+
+Maximum weight of the hanging light: 3,5kg
+Model may slightly vary from picture
+",Lighting,https://rotordc.com/shop/product/adapter-for-hanging-light-by-erco-new-black-or-white-52168?page=11&category=39,"['52168_143c2df.png', '4644_ab47246.png', '4645_ab47246.png', '4646_ab47246.png']",66.91,66.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 4.0647951209393796e-06, 'start': 64, 'end': 96, 'answer': '\nGaranteed manufactured by Erco.'}","{'score': 6.721921181451762e-06, 'start': 134, 'end': 140, 'answer': ' 3,5kg'}","{'score': 0.00020135269733145833, 'start': 134, 'end': 140, 'answer': ' 3,5kg'}",Thermoplastic elastomer resin,Power and lighting outlet products,Pr_70_70,Other,Other,Power and lighting outlet products,0.00020135269733145833,,,,59.0
+1914,1079031000,"Adapter for hanging light by Erco new , black or white",445.0,kg,pc,"
+Adaptor for pendant luminaire. 250V, 10A.
+Three phase selector.
+Garanteed manufactured by Erco.
+
+Maximum weight of the hanging light: 3,5kg
+Model may slightly vary from picture
+",Lighting,https://rotordc.com/shop/product/adapter-for-hanging-light-by-erco-new-black-or-white-52168?page=18&category=39,"['52168_436177a.png', '4644_ab47246.png', '4645_ab47246.png', '4646_ab47246.png']",66.91,66.0,,,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 4.0647951209393796e-06, 'start': 64, 'end': 96, 'answer': '\nGaranteed manufactured by Erco.'}","{'score': 6.721921181451762e-06, 'start': 134, 'end': 140, 'answer': ' 3,5kg'}","{'score': 0.00020135269733145833, 'start': 134, 'end': 140, 'answer': ' 3,5kg'}",Thermoplastic elastomer resin,Power and lighting outlet products,Pr_70_70,Other,Other,Power and lighting outlet products,0.00020135269733145833,,,,

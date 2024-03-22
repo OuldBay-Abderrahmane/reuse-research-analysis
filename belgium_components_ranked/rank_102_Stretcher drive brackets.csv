@@ -1,0 +1,8 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+164,157FUR113,Stretcher cabinet in steel from Carsid,120.0,kg,pc,"
+Shelf originally used to store an emergency stretcher and medical supplies.
+
+Dimensions: 200 x 30,8 x 141,5 cm
+
+Lacquered steel.
+",Furniture,https://rotordc.com/shop/product/157fur113-stretcher-cabinet-in-steel-from-carsid-51350?page=5&category=35,,279.0,149.0,,,,,,,,,2022-12-26,130.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.8054160475730896, 'start': 112, 'end': 129, 'answer': '\nLacquered steel.'}","{'score': 0.9192169308662415, 'start': 89, 'end': 111, 'answer': ' 200 x 30,8 x 141,5 cm'}","{'score': 0.05030524730682373, 'start': 89, 'end': 93, 'answer': ' 200'}",Terne-coated steel,Stretcher drive brackets,Pr_20_76_71_82,Technical elements,"Stairs, Ramps, Lift, Hardware",Sanitary fittings and accessories,0.05030524730682373,,,,146.0

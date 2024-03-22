@@ -1,0 +1,197 @@
+,Feature,Importance
+28,Material_Lignite,0.09544861
+165,Code_Stone tiles,0.08560362
+169,Code_Terrazzo tiles,0.07828875
+96,Code_Excavated earth and fill materials,0.062491532
+54,Material_Terracotta,0.062372617
+191,"second_level_Floors, Ceiling",0.047279753
+145,Code_Quarry tiles,0.046528418
+20,Material_Granite,0.045209963
+30,Material_Marble,0.037180234
+0,Price,0.03128581
+118,Code_Lacquers,0.026981892
+152,Code_Soffit grilles,0.01997808
+188,"second_level_Blocks, Panels, Fences, Bricks",0.017952088
+184,"first_level_Roof, Slabs, Stairs",0.017488765
+57,Code_Arrises,0.01680544
+3,Height,0.016188635
+23,Material_Granule,0.015898125
+1,Length,0.015417884
+11,Material_Ceramic,0.014352627
+154,Code_Sprigs,0.013983309
+2,Width,0.01390995
+149,Code_Sedge,0.013370579
+24,Material_Gravel,0.012455641
+47,Material_Soap,0.012086939
+190,"second_level_Door, Windows, Gates",0.011439248
+65,Code_Ceramic tiles,0.011373935
+112,Code_Grommets,0.011188126
+61,Code_Ceramic slates,0.010645882
+140,Code_Plaques,0.010388969
+192,second_level_Furnishings,0.009173564
+45,Material_Sitka spruce,0.008538918
+36,Material_Pisé,0.008419825
+39,Material_Porcelain,0.008175524
+194,"second_level_Stairs, Ramps, Lift, Hardware",0.008025173
+116,Code_Kitchen worktops,0.0076982686
+189,"second_level_Covering, Finish",0.007639994
+25,Material_Grog,0.0068890667
+187,"first_level_Wall, Barriers, Pannels",0.006388115
+148,Code_Scagliola,0.0063102827
+183,first_level_Other,0.006083586
+193,second_level_Other,0.005740285
+55,Material_Wood,0.004950135
+186,first_level_Technical elements,0.0046563824
+33,Material_Metal,0.0045191557
+50,Material_Stainless steel,0.0044747554
+127,Code_Metal skirtings,0.0040045837
+158,Code_Stainless steel door leaves,0.003566537
+59,Code_Cabinet and countertop hinges,0.0034995577
+37,Material_Plate glass,0.0034818354
+143,Code_Porcelain tiles,0.0026167247
+182,first_level_Furnishings,0.0015522123
+167,Code_Terrazzo mix ,0.0
+128,Code_Metal tiles,0.0
+129,Code_Meter cabinets,0.0
+130,Code_Mooring cleats,0.0
+133,Code_Murals,0.0
+131,Code_Mosaic tiles,0.0
+132,Code_Mural roll coverings,0.0
+125,Code_Metal edgings,0.0
+134,Code_Nails,0.0
+135,Code_Natural stone quoins,0.0
+136,Code_Natural stone slates,0.0
+137,Code_Occasional tables,0.0
+126,Code_Metal newel posts,0.0
+180,Code_Wood window walls,0.0
+124,Code_Mesh anodes,0.0
+123,Code_Masking plates,0.0
+139,Code_Particleboards,0.0
+122,Code_Marble dust,0.0
+181,Code_Wood-burning stoves,0.0
+121,Code_Made ground,0.0
+120,Code_Linseed oil putties,0.0
+119,Code_Larinier tiles,0.0
+117,Code_Kitchenette units,0.0
+185,first_level_Structural elements,0.0
+115,Code_Kitchen splashbacks,0.0
+114,Code_Kitchen scales,0.0
+113,Code_Kitchen canopies,0.0
+138,Code_Pantographs,0.0
+142,Code_Pleated blinds,0.0
+179,Code_Wood skirtings,0.0
+141,Code_Plate (square) washers,0.0
+168,Code_Terrazzo tile skirtings,0.0
+170,Code_Trellises,0.0
+164,Code_Stone slabs,0.0
+163,Code_Steel spiles,0.0
+162,Code_Steel security cabinets,0.0
+161,Code_Stainless steel shelving and racking units,0.0
+160,Code_Stainless steel louvre panel units,0.0
+159,Code_Stainless steel edge strips and frames,0.0
+171,Code_Veneers and facings,0.0
+110,Code_Gold plating,0.0
+172,Code_Ventilated ceilings,0.0
+157,Code_Stainless steel door frames,0.0
+156,Code_Stainless steel bars and rods for general purposes,0.0
+155,Code_Stainless steel balusters and newel posts,0.0
+173,Code_Wall and floor tile units,0.0
+153,Code_Soleplates,0.0
+174,Code_Weir plates,0.0
+175,Code_Wood architraves,0.0
+151,Code_Single axis door hinges,0.0
+150,Code_Silver plating,0.0
+176,Code_Wood brise-soleil louvre blades,0.0
+177,Code_Wood oils,0.0
+147,Code_Saccardo nozzles,0.0
+146,Code_Rock dowels,0.0
+178,Code_Wood panelled door leaves,0.0
+144,Code_Quarry tile sit-on skirtings,0.0
+166,Code_Tee hinges,0.0
+111,Code_Gratings,0.0
+98,Code_Ferrules,0.0
+109,Code_Glued laminated timber stair landing units,0.0
+44,Material_Silver,0.0
+32,Material_Mesh,0.0
+34,Material_Mosaic glass,0.0
+35,Material_Pine,0.0
+38,Material_Polyacrylonitrile (PAN),0.0
+40,Material_Pozzolan cement,0.0
+41,Material_Pulverized fuel ash,0.0
+42,Material_Sandstone,0.0
+43,Material_Silt,0.0
+46,Material_Slate,0.0
+63,Code_Ceramic tile cove skirtings,0.0
+48,Material_Soil,0.0
+49,Material_Spandrel glass,0.0
+51,Material_Steel,0.0
+52,Material_Stone,0.0
+53,Material_Teak,0.0
+56,Code_Aluminium louvre blades,0.0
+58,Code_Brass sections,0.0
+60,Code_Cavity sliding doorsets,0.0
+31,Material_Mastic resin,0.0
+29,Material_Loose surfacing decorative aggregates,0.0
+27,Material_Lacquer resin,0.0
+26,Material_Insulating glass,0.0
+4,Material_Air-cooled steel slag,0.0
+5,Material_Aluminium,0.0
+6,Material_Architectural glass,0.0
+7,Material_Basalt,0.0
+8,Material_Blinding aggregates,0.0
+9,Material_Brass,0.0
+10,Material_Cement,0.0
+12,Material_Clinker,0.0
+13,Material_Coade stone,0.0
+14,Material_Copper,0.0
+15,Material_Decorative aggregates,0.0
+16,Material_Encaustic,0.0
+17,Material_Expanded slate aggregates,0.0
+18,Material_Galvanized steel,0.0
+19,Material_Gas,0.0
+21,Material_Granite-powder cement,0.0
+22,Material_Granular soil,0.0
+62,Code_Ceramic tile borders,0.0
+64,Code_Ceramic tile round edges,0.0
+108,Code_Garden furnishings,0.0
+97,Code_Fermenters,0.0
+88,Code_Domestic cooking equipment,0.0
+89,Code_Domestic dishwashers,0.0
+90,Code_Door dampers,0.0
+91,Code_Door frames and leaves,0.0
+92,Code_Door lever handle sets,0.0
+93,Code_Dovecotes,0.0
+94,Code_Drainage pumps,0.0
+95,Code_Escalators,0.0
+99,Code_Fibre-cement slates,0.0
+66,Code_Chemical soils stabilizers,0.0
+100,Code_Fishwashers,0.0
+101,Code_Flat-needled carpet tiles,0.0
+102,Code_Flip-top tables,0.0
+103,Code_Floor edging strips,0.0
+104,"Code_Floor plates, gratings and edgings",0.0
+105,Code_Flue liners,0.0
+106,Code_Food preparation tables,0.0
+107,Code_Garden awnings,0.0
+87,Code_Dishwashers,0.0
+86,Code_Dish and utensil washers,0.0
+85,Code_Dining tables,0.0
+84,Code_Desks,0.0
+67,Code_Clay paving tiles,0.0
+68,Code_Coffee tables,0.0
+69,Code_Coffered ceiling infill units,0.0
+70,Code_Collapsible timber bollards,0.0
+71,Code_Commercial cooking equipment,0.0
+72,Code_Commercial gas bratt pans,0.0
+73,Code_Concealed hinges,0.0
+74,Code_Concrete pavers,0.0
+75,Code_Conference tables,0.0
+76,Code_Copper nails,0.0
+77,Code_Copper plating,0.0
+78,Code_Copper slates,0.0
+79,Code_Cultivated turf,0.0
+80,Code_Cupboards,0.0
+81,Code_Cutlery,0.0
+82,Code_Decorative metal tiles,0.0
+83,Code_Decorator’s caulks,0.0
+195,"third_level_Floor plates, gratings and edgings",0.0

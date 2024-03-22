@@ -1,0 +1,249 @@
+,Feature,Importance
+128,Belgium_Raw_Glassware,0.19889511
+12,Category_Door,0.094484776
+83,material_emb_Prismatic glass,0.077494815
+232,first_level_Other,0.0565316
+51,material_emb_Aluminium,0.053950362
+21,Category_Objet Trouvé,0.048279315
+84,material_emb_Reflective glass,0.046040066
+236,"second_level_Blocks, Panels, Fences, Bricks",0.04401962
+76,material_emb_Patterned glass,0.039983515
+235,"first_level_Wall, Barriers, Pannels",0.037916187
+2,Latest_Price,0.026219841
+5,Price_Change,0.02126015
+240,second_level_Other,0.020587727
+30,Category_Wood,0.020476762
+0,Weight,0.020222036
+4,Stock_Now,0.017816842
+58,material_emb_Coloured glass,0.017581923
+13,Category_Doors,0.017300092
+52,material_emb_Architectural glass,0.0172293
+16,Category_Furniture,0.016273953
+1,Initial_Price,0.015919235
+19,Category_Lighting,0.015432492
+238,"second_level_Floors, Ceiling",0.014436247
+237,"second_level_Door, Windows, Gates",0.013533133
+230,first_level_Furnishings,0.010476214
+93,material_emb_Wood,0.0103968475
+158,Belgium_Raw_Wood panelled door leaves,0.009990807
+233,"first_level_Roof, Slabs, Stairs",0.008765306
+157,Belgium_Raw_Wood doorsets,0.0050743953
+156,Belgium_Raw_Wood door frames,0.0017641815
+17,Category_Hardware,0.0016472181
+174,Belgium_Code_Pr_25_71_33_40,0.0
+173,Belgium_Code_Pr_25_71_33_39,0.0
+178,Belgium_Code_Pr_25_71_57_38,0.0
+162,Belgium_Code_Pr_15_31_26_31,0.0
+163,Belgium_Code_Pr_20_65_34,0.0
+164,Belgium_Code_Pr_20_76_08_03,0.0
+165,Belgium_Code_Pr_20_93_33_34,0.0
+166,Belgium_Code_Pr_20_93_52_10,0.0
+177,Belgium_Code_Pr_25_71_57_33,0.0
+176,Belgium_Code_Pr_25_71_57_24,0.0
+175,Belgium_Code_Pr_25_71_50_24,0.0
+167,Belgium_Code_Pr_25_30_85_03,0.0
+168,Belgium_Code_Pr_25_30_90_12,0.0
+169,Belgium_Code_Pr_25_57_06_30,0.0
+170,Belgium_Code_Pr_25_71_33_03,0.0
+161,Belgium_Raw_Wood window walls,0.0
+172,Belgium_Code_Pr_25_71_33_36,0.0
+179,Belgium_Code_Pr_25_71_57_65,0.0
+171,Belgium_Code_Pr_25_71_33_35,0.0
+149,Belgium_Raw_Spotlights,0.0
+160,Belgium_Raw_Wood veneers,0.0
+143,Belgium_Raw_Overmantel mirrors,0.0
+133,Belgium_Raw_Handblown crown glass,0.0
+134,Belgium_Raw_Handblown plate glass,0.0
+135,Belgium_Raw_Handblown polished plate glass,0.0
+136,Belgium_Raw_Hardwood framed panels,0.0
+137,Belgium_Raw_Icemakers,0.0
+138,Belgium_Raw_Lacquers,0.0
+139,Belgium_Raw_Laminboard core plywoods,0.0
+140,Belgium_Raw_Lantern lights,0.0
+141,Belgium_Raw_Lead-lined plywood boards,0.0
+142,Belgium_Raw_Murals,0.0
+144,Belgium_Raw_Pendant luminaires,0.0
+159,Belgium_Raw_Wood skirtings,0.0
+145,Belgium_Raw_Plywood framed panels,0.0
+146,Belgium_Raw_Porcelain tiles,0.0
+147,Belgium_Raw_Refrigerated display cabinet doors,0.0
+148,Belgium_Raw_Special lamps,0.0
+150,Belgium_Raw_Stainless steel door leaves,0.0
+151,Belgium_Raw_Stainless steel shelving and racking units,0.0
+152,Belgium_Raw_Tubular fluorescent lamps,0.0
+153,Belgium_Raw_Upholstered benches,0.0
+154,Belgium_Raw_Window hinges,0.0
+155,Belgium_Raw_Window walls,0.0
+180,Belgium_Code_Pr_25_71_94_98,0.0
+191,Belgium_Code_Pr_30_59_23_32,0.0
+181,Belgium_Code_Pr_25_71_97_46,0.0
+221,Belgium_Code_Pr_40_70_23_40,0.0
+210,Belgium_Code_Pr_35_90_43_98,0.0
+211,Belgium_Code_Pr_35_93_96_19,0.0
+212,Belgium_Code_Pr_35_93_96_63,0.0
+213,Belgium_Code_Pr_40_30_53_30,0.0
+214,Belgium_Code_Pr_40_30_53_59,0.0
+215,Belgium_Code_Pr_40_30_78_85,0.0
+216,Belgium_Code_Pr_40_30_87_29,0.0
+217,Belgium_Code_Pr_40_50_05_55,0.0
+218,Belgium_Code_Pr_40_50_12_93,0.0
+219,Belgium_Code_Pr_40_50_21_14,0.0
+220,Belgium_Code_Pr_40_70_23_36,0.0
+222,Belgium_Code_Pr_65_12_71_10,0.0
+182,Belgium_Code_Pr_25_71_97_47,0.0
+223,Belgium_Code_Pr_65_72_97_16,0.0
+224,Belgium_Code_Pr_70_70_46_30,0.0
+225,Belgium_Code_Pr_70_70_46_80,0.0
+226,Belgium_Code_Pr_70_70_48_13,0.0
+227,Belgium_Code_Pr_70_70_48_62,0.0
+228,Belgium_Code_Pr_70_70_48_82,0.0
+229,Belgium_Code_Pr_80_77_48_02,0.0
+231,first_level_Openings,0.0
+234,first_level_Technical elements,0.0
+239,second_level_Furnishings,0.0
+241,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+209,Belgium_Code_Pr_35_90_07_33,0.0
+208,Belgium_Code_Pr_35_31_68_46,0.0
+207,Belgium_Code_Pr_30_59_99_96,0.0
+206,Belgium_Code_Pr_30_59_99,0.0
+183,Belgium_Code_Pr_25_93_72_11,0.0
+184,Belgium_Code_Pr_30_36_36_11,0.0
+185,Belgium_Code_Pr_30_36_36_96,0.0
+186,Belgium_Code_Pr_30_59_09_03,0.0
+187,Belgium_Code_Pr_30_59_09_33,0.0
+188,Belgium_Code_Pr_30_59_23,0.0
+189,Belgium_Code_Pr_30_59_23_03,0.0
+190,Belgium_Code_Pr_30_59_23_16,0.0
+131,Belgium_Raw_Glazed structures,0.0
+192,Belgium_Code_Pr_30_59_23_85,0.0
+193,Belgium_Code_Pr_30_59_23_96,0.0
+194,Belgium_Code_Pr_30_59_23_98,0.0
+195,Belgium_Code_Pr_30_59_24_02,0.0
+196,Belgium_Code_Pr_30_59_24_70,0.0
+197,Belgium_Code_Pr_30_59_24_97,0.0
+198,Belgium_Code_Pr_30_59_33_34,0.0
+199,Belgium_Code_Pr_30_59_48_34,0.0
+200,Belgium_Code_Pr_30_59_61_32,0.0
+201,Belgium_Code_Pr_30_59_61_35,0.0
+202,Belgium_Code_Pr_30_59_72_25,0.0
+203,Belgium_Code_Pr_30_59_72_31,0.0
+204,Belgium_Code_Pr_30_59_72_46,0.0
+205,Belgium_Code_Pr_30_59_98_02,0.0
+132,Belgium_Raw_Glazing beads,0.0
+121,Belgium_Raw_Glass blocks,0.0
+130,Belgium_Raw_Glazed pavement light panels,0.0
+53,material_emb_Blown glass,0.0
+40,"Technical_Mode d’assemblage : Sur gonds
+Préconisations de dépose : À dégonder",0.0
+41,"Technical_Mode d’assemblage : Vissée au mur
+Préconisations de dépose :",0.0
+42,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+43,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+44,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+45,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+46,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+47,Collection_SOUB : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+48,Country_BE,0.0
+49,Store_rotordc,0.0
+50,Language_fr,0.0
+54,material_emb_Borosilicate glass,0.0
+38,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposée",0.0
+55,material_emb_Brass,0.0
+56,material_emb_Ceramic,0.0
+57,material_emb_Chrome steel,0.0
+59,material_emb_Crystal glass,0.0
+60,material_emb_Decorative aggregates,0.0
+61,material_emb_Expansive concrete,0.0
+62,material_emb_Figured glass,0.0
+63,material_emb_Fire clay,0.0
+64,material_emb_Float glass,0.0
+65,material_emb_Galvanized steel,0.0
+66,material_emb_Glare-reducing glass,0.0
+39,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposées",0.0
+37,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+68,material_emb_Granule,0.0
+22,Category_Per Building,0.0
+3,Initial_Stock,0.0
+6,Quantity_Change,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+10,Category_Bricks,0.0
+11,Category_Ceiling,0.0
+14,Category_Floor,0.0
+15,Category_Floors,0.0
+18,Category_Insulation,0.0
+20,Category_Mobilier,0.0
+23,Category_Per building,0.0
+36,Material_Verre,0.0
+24,Category_Portes et fenêtres,0.0
+25,Category_Sanitaires,0.0
+26,Category_Sanitary,0.0
+27,Category_Scénographie,0.0
+28,Category_Stairs,0.0
+29,Category_Wall Cladding,0.0
+31,Condition_Correct,0.0
+32,Material_Composé,0.0
+33,Material_Céramique,0.0
+34,Material_Métal,0.0
+35,Material_Plexiglas,0.0
+67,material_emb_Glass wool,0.0
+69,material_emb_Insulating glass,0.0
+129,Belgium_Raw_Glazed floorlight panels,0.0
+114,Belgium_Raw_Door frames and leaves,0.0
+103,Belgium_Raw_Cabinet and countertop hinges,0.0
+104,Belgium_Raw_Ceiling light switches,0.0
+105,Belgium_Raw_Ceramic slates,0.0
+106,Belgium_Raw_Ceramic tiles,0.0
+107,Belgium_Raw_Chandeliers,0.0
+108,Belgium_Raw_Chute automatic fire doors,0.0
+109,Belgium_Raw_Coffee tables,0.0
+110,Belgium_Raw_Composite door leaves,0.0
+111,Belgium_Raw_Concrete glazed stair landing panels,0.0
+112,Belgium_Raw_Decorative metal panels,0.0
+113,Belgium_Raw_Decorative timber panels,0.0
+115,Belgium_Raw_Double glazed light pipe diffusers,0.0
+101,Belgium_Raw_Antique glass,0.0
+116,Belgium_Raw_Filing cabinets,0.0
+117,Belgium_Raw_Flexible glass wool mat insulation,0.0
+118,Belgium_Raw_Framed glass mirrors,0.0
+119,Belgium_Raw_Framed rooflights,0.0
+120,Belgium_Raw_Frameless glass door leaves,0.0
+122,Belgium_Raw_Glass bottles,0.0
+123,Belgium_Raw_Glass brise-soleil louvre blades,0.0
+124,Belgium_Raw_Glass infill gate leaves,0.0
+125,Belgium_Raw_Glass louvre blades,0.0
+126,Belgium_Raw_Glass noise barrier panels,0.0
+127,Belgium_Raw_Glass panels,0.0
+102,Belgium_Raw_Baryte bricks,0.0
+100,Belgium_Raw_Aluminium window units,0.0
+70,material_emb_Liquid crystal polymer resin,0.0
+85,material_emb_Rolled glass,0.0
+71,material_emb_Loose surfacing decorative aggregates,0.0
+72,material_emb_Mosaic glass,0.0
+73,material_emb_Nickel steel,0.0
+74,material_emb_Oak,0.0
+75,material_emb_Opal glass,0.0
+77,material_emb_Pine,0.0
+78,material_emb_Plate glass,0.0
+79,material_emb_Polycarbonate (PC),0.0
+80,material_emb_Polyvinyl chloride (PVC),0.0
+81,material_emb_Porcelain,0.0
+82,material_emb_Pre-blended concrete,0.0
+86,material_emb_Sheet glass,0.0
+99,Belgium_Raw_Aluminium loft ladders,0.0
+87,material_emb_Sitka spruce,0.0
+88,material_emb_Spandrel glass,0.0
+89,material_emb_Stainless steel,0.0
+90,material_emb_Structural glass,0.0
+91,material_emb_Teak,0.0
+92,material_emb_Wired glass,0.0
+94,Belgium_Raw_Aluminium alloy hinged bollards,0.0
+95,Belgium_Raw_Aluminium brise-soleil louvre blades,0.0
+96,Belgium_Raw_Aluminium door leaves,0.0
+97,Belgium_Raw_Aluminium doorsets,0.0
+98,Belgium_Raw_Aluminium lighting bollards,0.0
+242,third_level_Glass blocks and panels,0.0

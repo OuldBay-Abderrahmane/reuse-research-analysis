@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Covering, Finish","              precision    recall  f1-score   support
+
+           0       0.73      0.70      0.71        86
+           1       0.84      0.86      0.85       154
+
+    accuracy                           0.80       240
+   macro avg       0.78      0.78      0.78       240
+weighted avg       0.80      0.80      0.80       240
+","                                             Feature  Importance
+148                   first_level_Technical elements    0.054014
+154                          third_level_Furnishings    0.053009
+0                                              Price    0.049537
+157    third_level_Headwall and swale inlet products    0.046827
+123                              Code_Soffit grilles    0.046578
+..                                               ...         ...
+68                                     Code_Ferrules    0.000000
+69                                 Code_Fire dampers    0.000000
+70                                 Code_Food mincers    0.000000
+71                              Code_Gas bains-marie    0.000000
+174  third_level_Wire structure and general products    0.000000
+
+[175 rows x 2 columns]"

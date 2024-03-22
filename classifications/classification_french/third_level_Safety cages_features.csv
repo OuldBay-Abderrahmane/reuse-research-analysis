@@ -1,0 +1,233 @@
+,Feature,Importance
+128,location_NEUILLY-SUR-SEINE,0.26306382
+82,BIM_class_C.20.10.90.2e,0.13246493
+8,Width,0.115275934
+136,location_PARIS-1ER-ARRONDISSEMENT,0.057224825
+182,French_Raw_Metal skirtings,0.04954624
+229,second_level_Other,0.03503012
+105,location_AUBAGNE,0.032124404
+38,category_solid_exterior_door,0.022774545
+170,French_Raw_Corner guards,0.02144692
+190,French_Raw_Vault doors,0.016432708
+156,material_emb_Gravel,0.015786793
+154,material_emb_Encaustic,0.015280663
+14,category_balcony_railing_terrace_roof,0.015061413
+13,material_state_verygood,0.014670034
+10,material_state_correct,0.013208296
+222,first_level_Other,0.0127153285
+228,"second_level_Door, Windows, Gates",0.0125774825
+161,material_emb_Silt,0.011183614
+138,location_PARIS-8E-ARRONDISSEMENT,0.011040027
+35,category_security_system,0.009121003
+159,material_emb_Pisé,0.009096888
+123,location_LYON--6E--ARRONDISSEMENT,0.008951102
+11,material_state_damaged,0.008866389
+139,location_PARIS-9E-ARRONDISSEMENT,0.008694506
+3,quantity_latest,0.0075949654
+225,"first_level_Wall, Barriers, Pannels",0.007180324
+0,price_initial,0.006944261
+226,"second_level_Blocks, Panels, Fences, Bricks",0.0064248475
+121,location_LEVALLOIS-PERRET,0.006360602
+171,French_Raw_Door hinges,0.006183686
+168,French_Raw_Column guards,0.006058636
+4,price,0.0059532775
+94,BIM_class_E.20.20.05.5a,0.0049952264
+21,category_handrail,0.004905364
+40,category_storage_unit,0.0043283124
+221,first_level_Openings,0.0042073163
+175,French_Raw_Gates and turnstiles,0.0040051267
+36,category_simple_solid_doors,0.0036566025
+223,"first_level_Roof, Slabs, Stairs",0.0033278025
+33,category_railing,0.0023333847
+79,BIM_class_C.20.10.90.2a,0.002318764
+24,category_lift_and_rolling_doors,0.0015835048
+167,French_Raw_Automatic revolving doorsets,0.0
+129,location_ORLEANS,0.0
+157,material_emb_Metal,0.0
+158,material_emb_Net,0.0
+160,material_emb_Safety glass,0.0
+169,French_Raw_Concealed hinges,0.0
+162,material_emb_Sitka spruce,0.0
+163,material_emb_Steel,0.0
+164,material_emb_Wood,0.0
+165,French_Raw_Alarms,0.0
+166,French_Raw_Arrises,0.0
+135,location_PARIS-16E-ARRONDISSEMENT,0.0
+153,material_emb_Bone,0.0
+155,material_emb_Fire clay,0.0
+130,location_PARIS-10E-ARRONDISSEMENT,0.0
+137,location_PARIS-20E-ARRONDISSEMENT,0.0
+133,location_PARIS-13E-ARRONDISSEMENT,0.0
+140,location_PONTCHARRA,0.0
+141,location_PUTEAUX,0.0
+132,location_PARIS-12E-ARRONDISSEMENT,0.0
+131,location_PARIS-11E-ARRONDISSEMENT,0.0
+143,location_RUNGIS,0.0
+144,location_SAINT-ETIENNE,0.0
+145,location_SAINT-OUEN,0.0
+146,location_VILLENEUVE-SAINT-GEORGES,0.0
+147,material_type_new,0.0
+148,material_type_reconditioned,0.0
+149,material_type_used,0.0
+150,country_FR,0.0
+151,state_ bon,0.0
+152,material_emb_Anti-bandit glass,0.0
+134,location_PARIS-15E-ARRONDISSEMENT,0.0
+142,location_RENNES,0.0
+183,French_Raw_Protection and security control products,0.0
+172,French_Raw_Doorsets,0.0
+212,French_Code_Pr_35_90_43_59,0.0
+202,French_Code_Pr_30_59_33,0.0
+203,French_Code_Pr_30_59_33_52,0.0
+204,French_Code_Pr_30_59_34,0.0
+205,French_Code_Pr_30_59_34_38,0.0
+206,French_Code_Pr_30_59_57_76,0.0
+207,French_Code_Pr_35_90_15_82,0.0
+208,French_Code_Pr_35_90_31_84,0.0
+209,French_Code_Pr_35_90_43_04,0.0
+210,French_Code_Pr_35_90_43_13,0.0
+211,French_Code_Pr_35_90_43_15,0.0
+213,French_Code_Pr_40_30_22_34,0.0
+173,French_Raw_Fire alarm sounders,0.0
+214,French_Code_Pr_40_30_75_36,0.0
+215,French_Code_Pr_40_30_75_94,0.0
+216,French_Code_Pr_45_31_63_76,0.0
+217,French_Code_Pr_75_50_20_02,0.0
+218,French_Code_Pr_75_75_94_37,0.0
+219,French_Code_Pr_75_80,0.0
+220,French_Code_Pr_75_80_30_30,0.0
+224,first_level_Technical elements,0.0
+227,"second_level_Covering, Finish",0.0
+230,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+201,French_Code_Pr_30_59_24_97,0.0
+200,French_Code_Pr_30_59_24_37,0.0
+199,French_Code_Pr_30_59_24_04,0.0
+198,French_Code_Pr_30_59_24,0.0
+174,French_Raw_Gate surrounds and leaves,0.0
+176,French_Raw_Guard barriers,0.0
+177,French_Raw_High-security doorsets,0.0
+178,French_Raw_High-security safes,0.0
+179,French_Raw_Horn voice alarm loudspeakers,0.0
+180,French_Raw_Joist seals,0.0
+181,French_Raw_Metal gate surrounds,0.0
+126,location_NANCY,0.0
+184,French_Raw_Security shutters,0.0
+185,French_Raw_Sedge,0.0
+186,French_Raw_Stainless steel arris armourings,0.0
+187,French_Raw_Stair trims,0.0
+188,French_Raw_Steel bearers,0.0
+189,French_Raw_Uncontrolled door closers,0.0
+191,French_Raw_Wood doorsets,0.0
+192,French_Raw_Wood gates,0.0
+193,French_Code_Pr_20_85_72_83,0.0
+194,French_Code_Pr_25_57_21_44,0.0
+195,French_Code_Pr_30_36_36_15,0.0
+196,French_Code_Pr_30_36_36_21,0.0
+197,French_Code_Pr_30_36_59_92,0.0
+127,location_NANTERRE,0.0
+116,location_EPERNAY,0.0
+125,location_MONTIGNY-LES-CORMEILLES,0.0
+66,BIM_class_C.10.20.01.4e,0.0
+42,BIM_class_B.20.10.09.b,0.0
+43,BIM_class_B.20.20.06.a,0.0
+44,BIM_class_B.20.20.06.g,0.0
+45,BIM_class_B.20.30.01.1a,0.0
+46,BIM_class_B.20.30.01.1b,0.0
+47,BIM_class_B.20.30.01.1c,0.0
+48,BIM_class_B.20.30.01.1e,0.0
+49,BIM_class_B.20.30.04.3a,0.0
+50,BIM_class_B.20.30.04.3b,0.0
+51,BIM_class_B.20.30.04.3e,0.0
+52,BIM_class_B.20.30.04.4a,0.0
+53,BIM_class_B.20.30.07.2a,0.0
+54,BIM_class_C.10.10.04.1,0.0
+55,BIM_class_C.10.10.04.1a,0.0
+56,BIM_class_C.10.10.04.1e,0.0
+57,BIM_class_C.10.10.04.1g,0.0
+58,BIM_class_C.10.20.01.1a,0.0
+59,BIM_class_C.10.20.01.1c,0.0
+60,BIM_class_C.10.20.01.1d,0.0
+61,BIM_class_C.10.20.01.1e,0.0
+62,BIM_class_C.10.20.01.1f,0.0
+63,BIM_class_C.10.20.01.2e,0.0
+64,BIM_class_C.10.20.01.2f,0.0
+41,BIM_class_B.20.10.09.a,0.0
+39,category_sports_fields,0.0
+37,category_sliding_and_folding_doors,0.0
+19,category_glass_interior_door,0.0
+2,price_change,0.0
+5,quantity,0.0
+6,min_quantity,0.0
+7,Length,0.0
+9,Height,0.0
+12,material_state_new,0.0
+15,category_chest,0.0
+16,category_fencing_gates,0.0
+17,category_fire_alarm_device,0.0
+18,category_fire_doors,0.0
+20,category_guardrail_barrier,0.0
+34,category_security_structure,0.0
+22,category_identifying_devices,0.0
+23,category_intercommunication_system,0.0
+25,category_other_built_in_accessory,0.0
+26,category_other_coating,0.0
+27,category_other_interior_special_door,0.0
+28,category_other_special_equipment,0.0
+29,category_other_special_interior_furnishings,0.0
+30,category_overhead_doors,0.0
+31,category_paved_surfaces,0.0
+32,category_portal,0.0
+65,BIM_class_C.10.20.01.3e,0.0
+67,BIM_class_C.10.20.01.55,0.0
+124,location_MARSEILLE--2E--ARRONDISSEMENT,0.0
+68,BIM_class_C.10.20.02.1b,0.0
+98,BIM_class_E.20.20.09.4,0.0
+99,BIM_class_F.10.30.01.2,0.0
+100,BIM_class_G.20.30.01.3c,0.0
+101,BIM_class_G.20.30.04.3,0.0
+102,BIM_class_G.20.40.01.6,0.0
+103,BIM_class_G.20.40.04.2,0.0
+104,location_ARGENTEUIL,0.0
+106,location_BAGNEUX,0.0
+107,location_CHASSELAY,0.0
+108,location_CHATEAUROUX,0.0
+109,location_CHATILLON,0.0
+110,location_CHAURAY,0.0
+111,location_CHEVILLY-LARUE,0.0
+112,location_CHOLET,0.0
+113,location_CLERMONT-FERRAND,0.0
+114,location_COURBEVOIE,0.0
+115,location_CRAS,0.0
+1,price_latest,0.0
+117,location_GENNEVILLIERS,0.0
+118,location_LA MADELEINE,0.0
+119,location_LE BOURGET,0.0
+120,location_LES SABLES-D'OLONNE,0.0
+122,location_LOIRE-SUR-RHONE,0.0
+97,BIM_class_E.20.20.05.5f,0.0
+96,BIM_class_E.20.20.05.5c,0.0
+95,BIM_class_E.20.20.05.5b,0.0
+80,BIM_class_C.20.10.90.2b,0.0
+69,BIM_class_C.10.20.02.2b,0.0
+70,BIM_class_C.10.20.02.55,0.0
+71,BIM_class_C.10.20.02.5b,0.0
+72,BIM_class_C.10.20.03,0.0
+73,BIM_class_C.10.20.04.1,0.0
+74,BIM_class_C.10.20.04.2f,0.0
+75,BIM_class_C.10.20.04.2i,0.0
+76,BIM_class_C.10.20.05,0.0
+77,BIM_class_C.10.20.90.1,0.0
+78,BIM_class_C.10.30.90.1,0.0
+81,BIM_class_C.20.10.90.2c,0.0
+93,BIM_class_E.20.10.90.1,0.0
+83,BIM_class_C.30.30.90,0.0
+84,BIM_class_D.40.10.01.1,0.0
+85,BIM_class_D.40.10.01.2,0.0
+86,BIM_class_D.40.10.01.3,0.0
+87,BIM_class_D.50.30.03.3,0.0
+88,BIM_class_D.50.30.05.2,0.0
+89,BIM_class_D.50.30.05.3,0.0
+90,BIM_class_D.50.30.05.5,0.0
+91,BIM_class_E.10.90.07.4,0.0
+92,BIM_class_E.10.90.90.2,0.0
+231,third_level_Safety cages,0.0

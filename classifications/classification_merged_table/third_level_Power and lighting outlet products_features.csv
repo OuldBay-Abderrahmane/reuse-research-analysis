@@ -1,0 +1,119 @@
+,Feature,Importance
+62,Code_Electrical diagrams,0.35959935
+25,Material_Lignite,0.1600628
+83,Code_Lighting distribution boxes,0.091133416
+29,Material_Petroleum,0.051733844
+18,Material_Gas,0.04400695
+37,Material_Sitka spruce,0.042857464
+33,Material_Reflective glass,0.025994891
+32,Material_Potable water,0.02481469
+110,"second_level_Blocks, Panels, Fences, Bricks",0.023588775
+0,Price,0.02263814
+9,Material_Coloured glass,0.016519142
+114,second_level_Furnishings,0.016294435
+1,Length,0.013658277
+109,"first_level_Wall, Barriers, Pannels",0.012337203
+106,first_level_Other,0.012111714
+13,Material_Encaustic,0.011369509
+2,Width,0.010931754
+115,second_level_Other,0.010274025
+108,first_level_Technical elements,0.008123175
+103,Code_Water strainers,0.0073613585
+113,"second_level_Floors, Ceiling",0.0064468672
+46,Code_Built-in electric hobs,0.0062298607
+10,Material_Compressed air,0.0058477004
+86,Code_Modular cassette ventilated ceilings,0.0048882603
+88,Code_Pendant luminaires,0.004860856
+105,first_level_Furnishings,0.0033781035
+78,Code_Lamps,0.0029373919
+100,Code_Strip ventilators,0.0
+76,Code_Intumescent fire and smoke dampers,0.0
+82,Code_Lighting beacons,0.0
+81,Code_Light-emitting diode (LED) lamps,0.0
+80,Code_Light switches,0.0
+79,Code_Lantern lights,0.0
+77,Code_LED light panels,0.0
+75,Code_High-voltage switches,0.0
+116,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+74,Code_Heat pumps,0.0
+73,Code_Glazed pavement light panels,0.0
+72,Code_Gas meters,0.0
+71,Code_Fire detection and alarm devices and control equipment,0.0
+70,Code_Extra-low-voltage occupancy detectors,0.0
+69,Code_Equipment heaters,0.0
+107,"first_level_Roof, Slabs, Stairs",0.0
+68,Code_Equipment,0.0
+111,"second_level_Covering, Finish",0.0
+84,Code_Lighting tracks,0.0
+99,Code_Special lamps,0.0
+66,Code_Electromagnetic door holders,0.0
+112,"second_level_Door, Windows, Gates",0.0
+98,Code_Solar heat stores,0.0
+97,Code_Solar heat collectors,0.0
+96,Code_Recessed luminaires,0.0
+101,Code_Tubular fluorescent lamps,0.0
+95,Code_Projectors,0.0
+94,Code_Power supply equipment,0.0
+102,Code_Water heaters,0.0
+85,"Code_Luminaires, lighting track and lighting accessories",0.0
+93,Code_Power over ethernet (POE) network switches,0.0
+92,Code_Power and lighting outlet products,0.0
+91,Code_Plugs,0.0
+104,Code_Wattmeters,0.0
+90,Code_Plastics plugs,0.0
+89,Code_Photovoltaic modules,0.0
+87,Code_Multistage pumps,0.0
+67,Code_Energy meters,0.0
+59,Code_Electric free-standing cookers,0.0
+65,Code_Electrodialysis units,0.0
+64,Code_Electrical power products and wiring accessories,0.0
+31,Material_Plastics,0.0
+30,Material_Photosensitive glass,0.0
+28,Material_Opal glass,0.0
+27,Material_Non-reflective glass,0.0
+26,Material_Net,0.0
+24,Material_Lead glass,0.0
+23,Material_Lead,0.0
+22,Material_Heat-absorbing glass,0.0
+21,Material_Halon,0.0
+20,Material_Gravel,0.0
+19,Material_Glare-reducing glass,0.0
+17,Material_Fire clay,0.0
+16,Material_Fir,0.0
+15,Material_Fibreglass,0.0
+14,Material_Fibre,0.0
+12,Material_Emulsion,0.0
+11,Material_Earthenware,0.0
+8,Material_Blinding aggregates,0.0
+7,"Material_Base, bed and fill aggregates",0.0
+6,Material_Asphalt,0.0
+5,Material_Aluminium,0.0
+4,Material_Air-cooled steel slag,0.0
+3,Height,0.0
+34,Material_Rubber,0.0
+35,Material_Silt,0.0
+36,Material_Silver,0.0
+51,Code_Coaxial cables,0.0
+63,Code_Electrical power components,0.0
+61,Code_Electrical connection boxes,0.0
+60,Code_Electric ovens,0.0
+58,Code_Electric cooking ranges,0.0
+57,Code_Electric boilers,0.0
+56,Code_Edison screw batten lampholders,0.0
+55,Code_Current transformers,0.0
+54,Code_Connection cables,0.0
+53,Code_Compact fluorescent lamps,0.0
+52,Code_Commercial electric griddles,0.0
+50,Code_Ceiling light switches,0.0
+38,Material_Structural glass,0.0
+49,Code_Canopy tubes,0.0
+48,Code_Built-in gas hobs,0.0
+47,Code_Built-in electric ovens,0.0
+45,Code_Batteries,0.0
+44,Code_Aluminium lighting columns,0.0
+43,Code_Air-to-air heat pumps,0.0
+42,Material_Wired glass,0.0
+41,Material_Weathering steel,0.0
+40,Material_Water,0.0
+39,Material_Thermoplastic elastomer resin,0.0
+117,third_level_Power and lighting outlet products,0.0

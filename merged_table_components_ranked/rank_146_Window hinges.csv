@@ -1,0 +1,18 @@
+,Title,Price,Material,Code,Sold,Days,Imagefile,first_level,second_level,third_level,Length,Width,Height
+35,Ouvrant porte alvéolaire + vitre,10.0,Architectural glass,Window hinges,0.0,576.0,['508e8c88-f765-4b67-bbb0-004c998b358c.jpg'],Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+543,Panneau vitré réfléchissant,45.0,Prismatic glass,Window hinges,0.0,537.0,"['aa1aebde-05c6-481a-8325-57c0aed95157.jpg', '9e424003-c84e-489b-b85c-dae3744c9fdd.jpg', '00b04705-01a0-4111-a83b-f7f89da15b04.jpg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+627,Panneau vitré réfléchissant,45.0,Prismatic glass,Window hinges,0.0,537.0,"['1325973d-18f3-4cc6-8d51-42cf7fff8233.jpg', '295a9190-67f2-4b7e-9294-0925b16fef34.jpg', '0197ef00-8f66-4a36-9c94-a3db9904bd7c.jpg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+856,Vitre de porte vitrée,50.0,Architectural glass,Window hinges,0.0,751.0,"['8aa0c68a-c485-4b46-9fc9-257f1b146351', 'ef4d3bec-5bc7-492d-bcc7-e98a8a027d7b']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+899,Vitre de porte vitrée,50.0,Architectural glass,Window hinges,0.0,751.0,"['18afd8b7-e7c0-4123-8489-c9e2da33e964', '313158f4-492b-40bd-ad5b-2473bcb13673']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+1299,Porte fenêtre,60.0,Sitka spruce,Window hinges,1.0,125.0,"['73f12e4f-2920-4f64-849a-121d4da4ab7d.jpeg', '6e7b3d80-31f5-4e7e-bbd7-d06999a63d56.jpeg', 'fbe80004-4b34-4f91-b094-cfec73532e6a.jpeg']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+1488,Autre fenêtre,120.0,Sheet glass,Window hinges,1.0,118.0,"['9d00f1ea-7e3b-4f1d-ac59-f0b35418ac00.jpeg', 'aa0b60e1-bb60-4744-b888-aa23819e96e3.jpeg']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+2090,Autre fenêtre,0.0,Sheet glass,Window hinges,1.0,142.0,['92435e45-e274-4763-bb41-f63c953a42b8.jpeg'],Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+4545,Window handle in brass right,9.0,Brass,Window hinges,0.0,,,Other,"Door, Windows, Gates",Glass blocks and panels,,,
+4546,Window handle in brass left,9.0,Brass,Window hinges,0.0,,,Other,"Door, Windows, Gates",Glass blocks and panels,,,
+5849,Fenstertüre Fl x,,Sheet glass,Window hinges,1.0,265.0,20211201_093921_570x570.jpg,Openings,"Door, Windows, Gates",Glass blocks and panels,9.0,70.0,206.0
+5850,Balkontür zweiflüglig,,Architectural glass,Window hinges,1.0,265.0,img_0241_570x570.jpeg,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units,,1.08,2.114
+5862,Fenstertüre fl . x,,Architectural glass,Window hinges,1.0,265.0,20200415_135058_570x570.jpg,Openings,"Door, Windows, Gates",Glass blocks and panels,,69.0,197.0
+5909,Fenstertüre mit Doppelverglasung,,Architectural glass,Window hinges,1.0,232.0,2627_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.0,95.0,197.0
+6729,Fenster -flügelig / -flügelige Fenstertür,,Architectural glass,Window hinges,1.0,26.0,innenseite_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6743,Fenster -flügelig / -flügelige Fenstertür,,Architectural glass,Window hinges,1.0,4.0,innenseite_%281%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+7211,flügliges kleineres Fenster,,Prismatic glass,Window hinges,1.0,51.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,82.0,80.0

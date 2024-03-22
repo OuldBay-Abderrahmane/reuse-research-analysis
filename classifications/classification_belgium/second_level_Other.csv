@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.80      0.83      0.81       122
+           1       0.62      0.58      0.60        59
+
+    accuracy                           0.75       181
+   macro avg       0.71      0.70      0.71       181
+weighted avg       0.74      0.75      0.74       181
+","                                            Feature  Importance
+5                                      Price_Change    0.216625
+534  third_level_Space heating and cooling products    0.050629
+511                               first_level_Other    0.045288
+30                                Category_Sanitary    0.044775
+318                  Belgium_Raw_Pendant luminaires    0.042299
+..                                              ...         ...
+197                       material_emb_Rolled glass    0.000000
+14              Category_Electricités et luminaires    0.000000
+195    material_emb_Recycled lightweight aggregates    0.000000
+194                       material_emb_Radiata pine    0.000000
+271                            Belgium_Raw_Culverts    0.000000
+
+[542 rows x 2 columns]"

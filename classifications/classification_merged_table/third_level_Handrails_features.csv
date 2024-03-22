@@ -1,0 +1,84 @@
+,Feature,Importance
+25,Material_Wood,0.24726033
+22,Material_Steel,0.20795904
+18,Material_Pisé,0.124009274
+77,"second_level_Door, Windows, Gates",0.087025255
+59,Code_Stair trims,0.08099788
+3,Height,0.04833951
+71,first_level_Other,0.04795011
+2,Width,0.036045242
+0,Price,0.034366477
+13,Material_Gravel,0.025544895
+51,Code_Rail pads,0.021559022
+72,"first_level_Roof, Slabs, Stairs",0.020633746
+81,"second_level_Stairs, Ramps, Lift, Hardware",0.018309196
+76,"second_level_Blocks, Panels, Fences, Bricks",0.0
+54,Code_Stainless steel doorsets,0.0
+58,Code_Stair lift signs,0.0
+57,Code_Stainless steel support rails,0.0
+56,Code_Stainless steel rails,0.0
+55,Code_Stainless steel handrails,0.0
+52,Code_Rigid stair nosings,0.0
+53,Code_Solenoid latches and locks,0.0
+61,Code_Step lifts,0.0
+50,Code_Rail clips,0.0
+49,Code_Metal stair stringers,0.0
+48,Code_Metal stair spines,0.0
+47,Code_Metal skirtings,0.0
+60,Code_Steel bridge pedestals,0.0
+63,Code_Timber stair treads,0.0
+62,Code_Stone stair treads,0.0
+75,"first_level_Wall, Barriers, Pannels",0.0
+80,second_level_Other,0.0
+64,Code_Track circuit receivers,0.0
+65,Code_Trolleys,0.0
+45,Code_Hardwood stair landing units,0.0
+66,Code_Wheel lathes,0.0
+67,Code_Wood handrails,0.0
+68,Code_Wood post and rail stiles,0.0
+79,second_level_Furnishings,0.0
+69,Code_Wood skirtings,0.0
+70,first_level_Furnishings,0.0
+78,"second_level_Floors, Ceiling",0.0
+73,first_level_Structural elements,0.0
+74,first_level_Technical elements,0.0
+46,Code_Metal hanging rails,0.0
+41,Code_Elevator bolts,0.0
+44,Code_Gates and turnstiles,0.0
+12,Material_Granule,0.0
+21,Material_Stainless steel,0.0
+20,Material_Sitka spruce,0.0
+19,Material_Silt,0.0
+17,Material_Metal,0.0
+16,Material_Lodgepole pine,0.0
+15,Material_Iron,0.0
+14,Material_Hemlock,0.0
+11,Material_Granite,0.0
+43,Code_Exercise bikes,0.0
+10,Material_Expansive concrete,0.0
+9,Material_Encaustic,0.0
+8,Material_Designated concrete,0.0
+7,Material_Cast iron,0.0
+6,Material_Asphalt,0.0
+5,Material_Architectural glass,0.0
+4,Material_Air-entrained concrete,0.0
+23,Material_Steel-aluminium alloy,0.0
+24,Material_Stone,0.0
+26,Material_Wool,0.0
+27,Code_Aluminium handrails,0.0
+42,Code_Escalators,0.0
+1,Length,0.0
+40,Code_Ducted rail tracks,0.0
+39,Code_Door locks,0.0
+38,Code_Door hinges,0.0
+37,Code_Cycle ramps,0.0
+36,Code_Coat racks,0.0
+35,Code_Ceiling track hoists,0.0
+34,Code_Cast steel pile shoes,0.0
+33,Code_Brass handrails,0.0
+32,Code_Bonding coats,0.0
+31,Code_Bidets,0.0
+30,Code_Belt conveyors,0.0
+29,Code_Arrises,0.0
+28,Code_Aluminium stair treads,0.0
+82,third_level_Handrails,0.0

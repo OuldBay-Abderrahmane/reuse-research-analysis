@@ -1,0 +1,41 @@
+,Code,report,features
+0,Wood panelled door leaves,"              precision    recall  f1-score   support
+
+           0       0.71      0.85      0.77        20
+           1       0.62      0.42      0.50        12
+
+    accuracy                           0.69        32
+   macro avg       0.67      0.63      0.64        32
+weighted avg       0.68      0.69      0.67        32
+","                                           Feature  Importance
+10                                   Category_Door    0.627331
+0                                           Weight    0.073232
+2                                     Latest_Price    0.068585
+29             third_level_Glass blocks and panels    0.046673
+1                                    Initial_Price    0.046017
+15                material_emb_Architectural glass    0.045782
+28                         third_level_Furnishings    0.044879
+5                                     Price_Change    0.025013
+21                               material_emb_Wood    0.022488
+6                                  Quantity_Change    0.000000
+19                       material_emb_Sitka spruce    0.000000
+3                                    Initial_Stock    0.000000
+27  third_level_Floor plates, gratings and edgings    0.000000
+26               second_level_Door, Windows, Gates    0.000000
+25                 first_level_Roof, Slabs, Stairs    0.000000
+24                         first_level_Furnishings    0.000000
+23                     Belgium_Code_Pr_30_59_23_98    0.000000
+22           Belgium_Raw_Wood panelled door leaves    0.000000
+20                   material_emb_Structural glass    0.000000
+18                               material_emb_Pine    0.000000
+7                                           Length    0.000000
+17                                material_emb_Oak    0.000000
+16                   material_emb_Insulating glass    0.000000
+4                                        Stock_Now    0.000000
+14                                     Language_fr    0.000000
+13                                   Store_rotordc    0.000000
+12                                      Country_BE    0.000000
+11                                  Category_Doors    0.000000
+9                                           Height    0.000000
+8                                            Width    0.000000
+30   third_level_Sanitary fittings and accessories    0.000000"

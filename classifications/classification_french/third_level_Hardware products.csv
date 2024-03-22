@@ -1,0 +1,23 @@
+,Code,report,features
+0,Hardware products,"              precision    recall  f1-score   support
+
+           0       0.57      0.80      0.67         5
+           1       0.93      0.81      0.87        16
+
+    accuracy                           0.81        21
+   macro avg       0.75      0.81      0.77        21
+weighted avg       0.84      0.81      0.82        21
+","                                Feature  Importance
+55           location_NEUILLY-SUR-SEINE    0.425139
+15   category_fire_extinguishing_device    0.126289
+59     location_PARIS-9E-ARRONDISSEMENT    0.098609
+76                     material_emb_Net    0.071357
+54    location_LYON--6E--ARRONDISSEMENT    0.057664
+..                                  ...         ...
+35               BIM_class_D.40.50.01.3    0.000000
+34               BIM_class_D.40.50.01.2    0.000000
+33               BIM_class_D.40.50.01.1    0.000000
+32                 BIM_class_D.30.90.01    0.000000
+102       third_level_Hardware products    0.000000
+
+[103 rows x 2 columns]"

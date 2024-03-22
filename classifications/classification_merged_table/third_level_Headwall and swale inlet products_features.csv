@@ -1,0 +1,57 @@
+,Feature,Importance
+51,"second_level_Covering, Finish",0.51322323
+52,"second_level_Floors, Ceiling",0.08923584
+49,"first_level_Wall, Barriers, Pannels",0.062652186
+10,Material_Silt,0.047680344
+0,Price,0.04326934
+31,Code_Sinks,0.03231387
+1,Length,0.027939145
+50,"second_level_Blocks, Panels, Fences, Bricks",0.025844876
+2,Width,0.021097248
+3,Height,0.019340588
+46,first_level_Other,0.018069806
+43,Code_Water strainers,0.015223919
+17,Code_Bathroom cabinets,0.015086961
+11,Material_Sitka spruce,0.014177368
+8,Material_Porcelain,0.013874929
+13,Material_Ultrapure water,0.010086622
+28,Code_Sedge,0.00920439
+20,Code_Bidets,0.0090776
+54,second_level_Other,0.008547213
+9,Material_Potable water,0.0040545566
+16,Code_Bath panels,0.0
+39,Code_Water conditioners,0.0
+40,Code_Water flumes,0.0
+41,Code_Water hoses,0.0
+42,Code_Water storage products,0.0
+12,Material_Soap,0.0
+44,Code_Water-sensing cables,0.0
+45,first_level_Furnishings,0.0
+47,"first_level_Roof, Slabs, Stairs",0.0
+37,Code_Wash troughs,0.0
+48,first_level_Technical elements,0.0
+7,Material_Pisé,0.0
+6,Material_Lignite,0.0
+5,Material_Float glass,0.0
+4,Material_Ceramic,0.0
+53,second_level_Furnishings,0.0
+38,Code_Washbasin spouts,0.0
+36,Code_Wall-hung washbasins,0.0
+18,Code_Bathroom pods,0.0
+35,Code_Urinal dividers,0.0
+19,Code_Baths,0.0
+21,Code_Ceramic sinks,0.0
+22,Code_Fountains,0.0
+23,Code_Grommets,0.0
+24,Code_Healthcare hand rinse basins,0.0
+25,Code_Icemakers,0.0
+26,Code_Pedestal washbasins,0.0
+27,Code_Rainwater weirs,0.0
+15,Code_Arrises,0.0
+29,Code_Shower heads,0.0
+30,Code_Sink taps,0.0
+14,Material_Water,0.0
+32,Code_Slab urinals,0.0
+33,Code_Sprigs,0.0
+34,Code_Swimming pool fittings,0.0
+55,third_level_Headwall and swale inlet products,0.0

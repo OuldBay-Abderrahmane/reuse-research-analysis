@@ -1,0 +1,321 @@
+,Feature,Importance
+198,material_emb_Aluminium,0.12257751
+57,BIM_class_B.20.20.01.3c,0.10374747
+193,material_type_reconditioned,0.08071037
+258,French_Raw_Window hinges,0.06867642
+170,location_PARIS-10E-ARRONDISSEMENT,0.052873444
+140,location_ARGENTEUIL,0.05279843
+173,location_PARIS-15E-ARRONDISSEMENT,0.04752624
+181,location_PUTEAUX,0.041020058
+141,location_AUBAGNE,0.033453178
+318,second_level_Other,0.033269085
+317,second_level_Furnishings,0.030914892
+17,category_demountable_partitions,0.026206044
+175,location_PARIS-1ER-ARRONDISSEMENT,0.025222357
+182,location_RENNES,0.024249092
+202,material_emb_Decorative aggregates,0.023834683
+172,location_PARIS-13E-ARRONDISSEMENT,0.020659752
+240,French_Raw_Glass fins,0.019027995
+161,location_LEVALLOIS-PERRET,0.017374106
+8,Width,0.013681689
+22,category_glass_interior_door,0.013495073
+0,price_initial,0.01199613
+199,material_emb_Architectural glass,0.011935894
+163,location_LYON--6E--ARRONDISSEMENT,0.011696521
+178,location_PARIS-8E-ARRONDISSEMENT,0.009890981
+314,"second_level_Covering, Finish",0.009064951
+19,category_exterior_claddings,0.007981743
+312,"first_level_Wall, Barriers, Pannels",0.007951112
+309,"first_level_Roof, Slabs, Stairs",0.006882564
+315,"second_level_Door, Windows, Gates",0.0061449255
+44,category_windows,0.005953717
+194,material_type_used,0.0057834405
+313,"second_level_Blocks, Panels, Fences, Bricks",0.0057663363
+97,BIM_class_C.10.20.02.1a,0.005476432
+13,material_state_verygood,0.004914275
+11,material_state_damaged,0.004809899
+216,material_emb_Sitka spruce,0.004809127
+3,quantity_latest,0.0046416926
+4,price,0.004540444
+10,material_state_correct,0.00409618
+209,material_emb_Patterned glass,0.0030276873
+253,French_Raw_Sliding shutter doorsets,0.0029642573
+21,category_glass_doors,0.001976257
+210,material_emb_Pisé,0.0015028853
+64,BIM_class_B.20.20.01.5d,0.0014255285
+311,first_level_Technical elements,0.0012219892
+98,BIM_class_C.10.20.02.1b,0.0011151849
+56,BIM_class_B.20.20.01.3b,0.000687556
+87,BIM_class_B.20.30.02.6b,0.00042439095
+225,French_Raw_Balancing veneers,0.0
+177,location_PARIS-6E-ARRONDISSEMENT,0.0
+176,location_PARIS-20E-ARRONDISSEMENT,0.0
+217,material_emb_Stone,0.0
+218,material_emb_Structural glass,0.0
+219,material_emb_Wood,0.0
+220,French_Raw_Acoustic batten cradles,0.0
+316,"second_level_Floors, Ceiling",0.0
+221,French_Raw_Aluminium doorsets,0.0
+222,French_Raw_Aluminium gates,0.0
+223,French_Raw_Aluminium shutters,0.0
+224,French_Raw_Aluminium skirtings,0.0
+191,location_VOUVRAY,0.0
+214,material_emb_Sheet glass,0.0
+226,French_Raw_Boxed sash window hanging fittings,0.0
+227,French_Raw_Ceramic slates,0.0
+228,French_Raw_Clay tile ornamental fittings,0.0
+229,French_Raw_Concealed hinges,0.0
+230,French_Raw_Decorative facings,0.0
+231,French_Raw_Display plinths,0.0
+232,French_Raw_Door hinges,0.0
+233,French_Raw_Doorsets,0.0
+234,French_Raw_Double window steam sight glasses,0.0
+174,location_PARIS-16E-ARRONDISSEMENT,0.0
+215,material_emb_Silt,0.0
+213,material_emb_Safety glass,0.0
+192,material_type_new,0.0
+212,material_emb_Reflective glass,0.0
+190,location_VILLENEUVE-SAINT-GEORGES,0.0
+189,location_VERTOU,0.0
+195,country_FR,0.0
+196,state_ Bon,0.0
+197,"state_ neuves jamais servies,",0.0
+188,location_TOULOUSE,0.0
+187,location_SAVIGNY-SUR-ORGE,0.0
+186,location_SAINTE-LUCE-SUR-LOIRE,0.0
+185,location_SAINT-OUEN,0.0
+184,location_SAINT-ETIENNE,0.0
+200,material_emb_Ceramic,0.0
+201,material_emb_Crystal glass,0.0
+236,French_Raw_Frameless glass door leaves,0.0
+203,material_emb_Encaustic,0.0
+204,material_emb_Fibreglass,0.0
+205,material_emb_Figured glass,0.0
+183,location_RUNGIS,0.0
+206,material_emb_Glass wool,0.0
+207,material_emb_Insulating glass,0.0
+208,material_emb_Non-reflective glass,0.0
+180,location_PONTCHARRA,0.0
+179,location_PARIS-9E-ARRONDISSEMENT,0.0
+211,material_emb_Prismatic glass,0.0
+235,French_Raw_Framed plastics mirrors,0.0
+239,French_Raw_Glass fibre fleeces,0.0
+237,French_Raw_Glass blocks,0.0
+283,French_Code_Pr_30_59_24,0.0
+289,French_Code_Pr_30_59_98_34,0.0
+288,French_Code_Pr_30_59_97_94,0.0
+287,French_Code_Pr_30_59_34_02,0.0
+286,French_Code_Pr_30_59_24_84,0.0
+285,French_Code_Pr_30_59_24_49,0.0
+284,French_Code_Pr_30_59_24_02,0.0
+282,French_Code_Pr_30_59_23_32,0.0
+291,French_Code_Pr_30_59_99,0.0
+281,French_Code_Pr_30_59_09_33,0.0
+280,French_Code_Pr_30_59_07_02,0.0
+279,French_Code_Pr_30_36_36_96,0.0
+278,French_Code_Pr_30_36_36_67,0.0
+277,French_Code_Pr_30_36_36_21,0.0
+276,French_Code_Pr_30_36_36_15,0.0
+290,French_Code_Pr_30_59_98_96,0.0
+292,French_Code_Pr_30_59_99_96,0.0
+238,French_Raw_Glass brise-soleil louvre blades,0.0
+301,French_Code_Pr_40_70_23_36,0.0
+307,first_level_Openings,0.0
+306,first_level_Furnishings,0.0
+305,French_Code_Pr_70_70_48_62,0.0
+304,French_Code_Pr_65_52_34_24,0.0
+303,French_Code_Pr_45_63_63_94,0.0
+302,French_Code_Pr_40_70_67,0.0
+300,French_Code_Pr_40_30_53_32,0.0
+293,French_Code_Pr_35_31_64_76,0.0
+299,French_Code_Pr_40_30_25_67,0.0
+298,French_Code_Pr_40_30_25_24,0.0
+297,French_Code_Pr_40_30_20_97,0.0
+296,French_Code_Pr_40_30_20_78,0.0
+295,French_Code_Pr_35_90_43_02,0.0
+294,French_Code_Pr_35_90_31_74,0.0
+275,French_Code_Pr_30_36_36_08,0.0
+274,French_Code_Pr_30_36_08_95,0.0
+273,French_Code_Pr_25_93_72_15,0.0
+246,French_Raw_Pendant luminaires,0.0
+252,French_Raw_Shower curtains,0.0
+251,French_Raw_Scagliola,0.0
+250,French_Raw_Rigid stair nosings,0.0
+171,location_PARIS-12E-ARRONDISSEMENT,0.0
+248,French_Raw_Projection window hinges,0.0
+247,French_Raw_Projection screens,0.0
+245,French_Raw_Natural stone quoins,0.0
+272,French_Code_Pr_25_93_72_11,0.0
+244,French_Raw_Louvre doorsets,0.0
+243,French_Raw_Glazed enclosures,0.0
+242,French_Raw_Glassware,0.0
+241,French_Raw_Glass louvre window units,0.0
+310,first_level_Structural elements,0.0
+308,first_level_Other,0.0
+254,French_Raw_Vases,0.0
+255,French_Raw_Vision panels,0.0
+256,French_Raw_Window casement fasteners,0.0
+257,French_Raw_Window curtains,0.0
+259,French_Raw_Window walls,0.0
+260,French_Raw_Wood veneers,0.0
+261,French_Raw_Wood window units,0.0
+262,French_Raw_Wood window walls,0.0
+263,French_Code_Pr_20_65_34_34,0.0
+264,French_Code_Pr_20_85_47_04,0.0
+265,French_Code_Pr_20_93_33_34,0.0
+266,French_Code_Pr_25_57_51_33,0.0
+267,French_Code_Pr_25_71_33_34,0.0
+268,French_Code_Pr_25_71_94_06,0.0
+269,French_Code_Pr_25_71_94_23,0.0
+270,French_Code_Pr_25_71_94_98,0.0
+271,French_Code_Pr_25_93_51_58,0.0
+249,French_Raw_Projectors,0.0
+160,location_LES SABLES-D'OLONNE,0.0
+169,location_PANTIN,0.0
+69,BIM_class_B.20.20.06.a,0.0
+67,BIM_class_B.20.20.02.3,0.0
+66,BIM_class_B.20.20.01.9,0.0
+65,BIM_class_B.20.20.01.5f,0.0
+63,BIM_class_B.20.20.01.5c,0.0
+62,BIM_class_B.20.20.01.5b,0.0
+61,BIM_class_B.20.20.01.5a,0.0
+60,BIM_class_B.20.20.01.4c,0.0
+59,BIM_class_B.20.20.01.4b,0.0
+58,BIM_class_B.20.20.01.3f,0.0
+55,BIM_class_B.20.20.01.3a,0.0
+54,BIM_class_B.20.20.01.2a,0.0
+53,BIM_class_B.20.10.03.3,0.0
+52,BIM_class_B.20.10.03.1r,0.0
+51,BIM_class_B.20.10.02.5,0.0
+50,BIM_class_B.20.10.02.1k,0.0
+68,BIM_class_B.20.20.04.1,0.0
+70,BIM_class_B.20.20.06.e,0.0
+168,location_NEUILLY-SUR-SEINE,0.0
+71,BIM_class_B.20.20.06.g,0.0
+86,BIM_class_B.20.30.02.6a,0.0
+85,BIM_class_B.20.30.02.5b,0.0
+84,BIM_class_B.20.30.02.2f,0.0
+83,BIM_class_B.20.30.02.2b,0.0
+82,BIM_class_B.20.30.02.2a,0.0
+81,BIM_class_B.20.30.02.1h,0.0
+80,BIM_class_B.20.30.02.1f,0.0
+79,BIM_class_B.20.30.02.1c,0.0
+78,BIM_class_B.20.30.02.1b,0.0
+77,BIM_class_B.20.30.02.1a,0.0
+76,BIM_class_B.20.30.01.2h,0.0
+75,BIM_class_B.20.30.01.2b,0.0
+74,BIM_class_B.20.30.01.2a,0.0
+73,BIM_class_B.20.30.01.1h,0.0
+72,BIM_class_B.20.30.01.1b,0.0
+49,BIM_class_B.20.10.02.1c,0.0
+48,BIM_class_B.20.10.02.1b,0.0
+47,BIM_class_B.20.10.02.1a,0.0
+46,BIM_class_B.20.10.01.1c,0.0
+26,category_lighting_general_equipment,0.0
+25,category_lavatories,0.0
+24,category_insulation_vapor_barrier,0.0
+23,category_glazed_partitions_and_storefronts,0.0
+20,category_fixed_partitions,0.0
+18,category_exterior_building_stair,0.0
+16,category_awning_canopy_awning,0.0
+15,category_air_heating_cooling_distribution,0.0
+14,category_acoustical_panels_adhered_to_wall,0.0
+12,material_state_new,0.0
+9,Height,0.0
+7,Length,0.0
+6,min_quantity,0.0
+5,quantity,0.0
+2,price_change,0.0
+27,category_metal_construction_system,0.0
+28,category_notice_board_chalk_board,0.0
+29,category_other_built_in_accessory,0.0
+38,category_sliding_and_folding_doors,0.0
+45,BIM_class_B.10.20.04,0.0
+43,category_wall_panelling,0.0
+42,category_storefronts,0.0
+41,category_storage_unit,0.0
+40,category_solid_exterior_door,0.0
+39,category_slope_/_flat_roof,0.0
+37,category_simple_solid_doors,0.0
+30,category_other_coating,0.0
+36,category_showers_baths,0.0
+35,category_railing,0.0
+34,category_pierre,0.0
+33,category_outdoor_sun_protection_device,0.0
+32,category_other_special_interior_furnishings,0.0
+31,category_other_special_equipment,0.0
+88,BIM_class_B.20.30.02.8,0.0
+89,BIM_class_B.30.10.01.6,0.0
+90,BIM_class_C.10.10.01.1,0.0
+129,BIM_class_D.50.20.02.1,0.0
+147,location_CHAMPS-SUR-MARNE,0.0
+146,location_BRIANCON,0.0
+145,location_BOURG-LA-REINE,0.0
+144,location_BAZEMONT,0.0
+143,location_BAGNEUX,0.0
+142,location_AVON,0.0
+139,BIM_class_F.10.10.01,0.0
+138,BIM_class_E.20.20.05.3d,0.0
+137,BIM_class_E.20.20.05.1a,0.0
+136,BIM_class_E.20.10.90.1,0.0
+135,BIM_class_E.10.90.90.2,0.0
+134,BIM_class_D.50.20.02.9,0.0
+133,BIM_class_D.50.20.02.6,0.0
+132,BIM_class_D.50.20.02.15,0.0
+131,BIM_class_D.50.20.02.14,0.0
+148,location_CHASSELAY,0.0
+149,location_CHATEAU-GONTIER,0.0
+150,location_CHAURAY,0.0
+159,location_LE BOURGET,0.0
+167,location_NANTES,0.0
+166,location_NANTERRE,0.0
+165,location_MONTIGNY-LES-CORMEILLES,0.0
+164,location_MARSEILLE--2E--ARRONDISSEMENT,0.0
+162,location_LYON--3E--ARRONDISSEMENT,0.0
+1,price_latest,0.0
+158,location_LA MADELEINE,0.0
+151,location_CHEVILLY-LARUE,0.0
+157,location_ISSY-LES-MOULINEAUX,0.0
+156,location_GENNEVILLIERS,0.0
+155,location_EPERNAY,0.0
+154,location_COURBEVOIE,0.0
+153,location_CLICHY,0.0
+152,location_CLERMONT-FERRAND,0.0
+130,BIM_class_D.50.20.02.10,0.0
+128,BIM_class_D.30.40.01.6,0.0
+91,BIM_class_C.10.10.01.3a,0.0
+127,BIM_class_D.20.10.06.2,0.0
+108,BIM_class_C.10.20.02.4b,0.0
+107,BIM_class_C.10.20.02.3b,0.0
+106,BIM_class_C.10.20.02.3a,0.0
+105,BIM_class_C.10.20.02.2c,0.0
+104,BIM_class_C.10.20.02.2b,0.0
+103,BIM_class_C.10.20.02.2a,0.0
+102,BIM_class_C.10.20.02.1i,0.0
+101,BIM_class_C.10.20.02.1g,0.0
+100,BIM_class_C.10.20.02.1f,0.0
+99,BIM_class_C.10.20.02.1c,0.0
+96,BIM_class_C.10.20.01.1e,0.0
+95,BIM_class_C.10.20.01.1b,0.0
+94,BIM_class_C.10.10.02.9,0.0
+93,BIM_class_C.10.10.02.1f,0.0
+92,BIM_class_C.10.10.02.1e,0.0
+109,BIM_class_C.10.20.02.55,0.0
+110,BIM_class_C.10.20.02.56,0.0
+111,BIM_class_C.10.20.02.5a,0.0
+120,BIM_class_C.30.10.90.2,0.0
+126,BIM_class_D.20.10.04.7b,0.0
+125,BIM_class_D.20.10.04.1b,0.0
+124,BIM_class_C.30.30.90,0.0
+123,BIM_class_C.30.30.06.1,0.0
+122,BIM_class_C.30.20.06.c,0.0
+121,BIM_class_C.30.10.90.4,0.0
+119,BIM_class_C.20.10.01.2a,0.0
+112,BIM_class_C.10.20.02.5b,0.0
+118,BIM_class_C.10.30.90.1,0.0
+117,BIM_class_C.10.30.03.2,0.0
+116,BIM_class_C.10.30.03.1,0.0
+115,BIM_class_C.10.20.04.2i,0.0
+114,BIM_class_C.10.20.02.5g,0.0
+113,BIM_class_C.10.20.02.5f,0.0
+319,third_level_Glass blocks and panels,0.0

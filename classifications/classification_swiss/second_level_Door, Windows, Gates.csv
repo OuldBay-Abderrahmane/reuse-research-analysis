@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Door, Windows, Gates","              precision    recall  f1-score   support
+
+           0       1.00      0.67      0.80        12
+           1       0.94      1.00      0.97        60
+
+    accuracy                           0.94        72
+   macro avg       0.97      0.83      0.88        72
+weighted avg       0.95      0.94      0.94        72
+","                                        Feature  Importance
+111                               Material_Holz    0.451155
+120                           Material_gemischt    0.262085
+68                       Swiss_Raw_Window walls    0.071169
+82                     Condition_used & cleaned    0.026240
+0                                     LastPrice    0.024806
+..                                          ...         ...
+41   Swiss_Raw_Glass brise-soleil louvre blades    0.000000
+40            Swiss_Raw_Glass block wall panels    0.000000
+39                        Swiss_Raw_Gate hinges    0.000000
+38                        Swiss_Raw_Gate arches    0.000000
+125           second_level_Door, Windows, Gates    0.000000
+
+[126 rows x 2 columns]"

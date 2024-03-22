@@ -1,0 +1,23 @@
+,Code,report,features
+0,Power and lighting outlet products,"              precision    recall  f1-score   support
+
+           0       0.70      0.92      0.79        25
+           1       0.94      0.77      0.85        43
+
+    accuracy                           0.82        68
+   macro avg       0.82      0.84      0.82        68
+weighted avg       0.85      0.82      0.83        68
+","                                            Feature  Importance
+62                         Code_Electrical diagrams    0.359599
+25                                 Material_Lignite    0.160063
+83                 Code_Lighting distribution boxes    0.091133
+29                               Material_Petroleum    0.051734
+18                                     Material_Gas    0.044007
+..                                              ...         ...
+42                             Material_Wired glass    0.000000
+41                        Material_Weathering steel    0.000000
+40                                   Material_Water    0.000000
+39           Material_Thermoplastic elastomer resin    0.000000
+117  third_level_Power and lighting outlet products    0.000000
+
+[118 rows x 2 columns]"

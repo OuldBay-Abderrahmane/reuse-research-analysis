@@ -1,0 +1,70 @@
+,Feature,Importance
+0,Weight,0.2870828
+12,Category_Sanitary,0.17734408
+46,Belgium_Raw_Sinks,0.16808325
+1,Initial_Price,0.09978299
+2,Latest_Price,0.09961844
+43,Belgium_Raw_Bathroom cabinets,0.09230765
+37,material_emb_Porcelain,0.07578078
+57,"second_level_Floors, Ceiling",0.0
+44,Belgium_Raw_Bathroom pods,0.0
+33,Language_fr,0.0
+34,material_emb_Ceramic,0.0
+35,material_emb_Daub,0.0
+36,material_emb_Pisé,0.0
+38,material_emb_Sitka spruce,0.0
+39,material_emb_Ultrapure water,0.0
+40,material_emb_Underwater concrete,0.0
+41,material_emb_Water,0.0
+42,Belgium_Raw_Arrises,0.0
+45,Belgium_Raw_Ceramic sinks,0.0
+56,"second_level_Blocks, Panels, Fences, Bricks",0.0
+32,Store_rotordc,0.0
+48,Belgium_Code_Pr_20_65_50_10,0.0
+49,Belgium_Code_Pr_35_90_43_04,0.0
+58,second_level_Other,0.0
+50,Belgium_Code_Pr_40_20_93_74,0.0
+51,Belgium_Code_Pr_40_20_96_15,0.0
+52,Belgium_Code_Pr_40_20_96_81,0.0
+53,Belgium_Code_Pr_40_30_87_03,0.0
+54,first_level_Other,0.0
+55,"first_level_Wall, Barriers, Pannels",0.0
+47,Belgium_Raw_Urinal dividers,0.0
+30,Collection_SOUB : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+31,Country_BE,0.0
+29,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+3,Initial_Stock,0.0
+4,Stock_Now,0.0
+5,Price_Change,0.0
+6,Quantity_Change,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+10,Category_Per building,0.0
+11,Category_Sanitaires,0.0
+13,Condition_Correct,0.0
+14,Material_Céramique,0.0
+15,Material_Inox,0.0
+16,Material_Métal,0.0
+17,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+18,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible du 03 au 14 Avril 2023",0.0
+19,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible du 05.06.2023 au 16.06.2023",0.0
+20,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposé",0.0
+21,"Technical_Mode d’assemblage : Boulonné au mur
+Préconisations de dépose :",0.0
+22,"Technical_Mode d’assemblage : Boulonné au mur
+Préconisations de dépose : Couper l’arrivée d’eau",0.0
+23,"Technical_Mode d’assemblage : Encastré dans plan de travail
+Préconisations de dépose :",0.0
+24,"Technical_Mode d’assemblage : boulonné au mur
+Préconisations de dépose : Peu complexe,
+S’assurer que l’alimentation en eau est coupée",0.0
+25,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+26,Collection_ECO-CUI DEB :,0.0
+27,Collection_ECO-CUI LCO : A coordonner avec Matériuum,0.0
+28,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+59,third_level_Headwall and swale inlet products,0.0

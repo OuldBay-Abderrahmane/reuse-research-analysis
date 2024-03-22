@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Roof, Slabs, Stairs","              precision    recall  f1-score   support
+
+           0       0.69      0.80      0.74        45
+           1       0.90      0.83      0.86        96
+
+    accuracy                           0.82       141
+   macro avg       0.80      0.82      0.80       141
+weighted avg       0.83      0.82      0.83       141
+","                                    Feature  Importance
+12                       material_state_new    0.068001
+302                         location_RENNES    0.057886
+246                     location_ARGENTEUIL    0.046439
+294       location_PARIS-1ER-ARRONDISSEMENT    0.045963
+279  location_MARSEILLE-13E--ARRONDISSEMENT    0.037847
+..                                      ...         ...
+208                  BIM_class_D.30.40.01.2    0.000000
+207                 BIM_class_D.30.20.90.8a    0.000000
+206                 BIM_class_D.30.20.90.7a    0.000000
+205                  BIM_class_D.30.20.90.4    0.000000
+554               third_level_Trim products    0.000000
+
+[555 rows x 2 columns]"

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Space heating and cooling products,"              precision    recall  f1-score   support
+
+           0       0.70      0.68      0.69        28
+           1       0.91      0.92      0.91        97
+
+    accuracy                           0.86       125
+   macro avg       0.81      0.80      0.80       125
+weighted avg       0.86      0.86      0.86       125
+","                                            Feature  Importance
+98                              Code_Soffit grilles    0.118137
+28                                    Material_Silt    0.095884
+132                        second_level_Furnishings    0.070107
+67                             Code_Fridge-freezers    0.069639
+131                    second_level_Floors, Ceiling    0.063657
+..                                              ...         ...
+47                           Code_Catering freezers    0.000000
+46                    Code_Built-in microwave ovens    0.000000
+45                                     Code_Boilers    0.000000
+44                                      Code_Bidets    0.000000
+135  third_level_Space heating and cooling products    0.000000
+
+[136 rows x 2 columns]"

@@ -1,0 +1,11 @@
+,Unnamed: 0.1,Unnamed: 0,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,SoldAfterDays
+2,2,2,909CLA002PC,Beerse Steen rijnvorm brick,1.2,kg,pc,"
+Machine-made bricks cleaned by hand to remove mortar.Rijnvorm dimension: 180 mm x 85 mm x 50 mmColor: orange-red± 90 bricks /m2Uses:For indoor/outdoor decorative brickwork.Conditions:The bricks are free of large mortar residues, but superficial traces of mortar may remain.At least one stretcher and one header are in good state.Low water absorptionWhen not in stock, orders take +- 10 working days.
+",Bricks,https://rotordc.com/shop/product/beerse-steen-rijnvorm-brick-58757?category=28,,0.66,0.9,,,,,,,,,,0.24,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.33892151713371277, 'start': 1, 'end': 20, 'answer': 'Machine-made bricks'}","{'score': 0.7370399236679077, 'start': 73, 'end': 102, 'answer': ' 180 mm x 85 mm x 50 mmColor:'}","{'score': 0.301396906375885, 'start': 114, 'end': 136, 'answer': ' 90 bricks /m2Uses:For'}",Coade stone,Baryte bricks,Pr_20_93_52_10,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units,
+11,11,11,909FUR009,Glass bricks `` Bol '',0.84,kg,pc,"
+These glass blocks were intended to be used as inserts in concrete panels to create light effects.
+
+They are great for making wall lights, coffee tables, illuminated partitions, and other decorative items, or just as small sculptures.
+
+Dimensions : diameter 11,5 cm x height 5 cm
+",Bricks,https://rotordc.com/shop/product/909fur009-glass-bricks-bol-34912?category=28,,2.48,3.0,,,,,,,,,2022-10-28,0.52,,2022-08-02,BE,rotordc,fr,1,87.0,"{'score': 0.29107415676116943, 'start': 6, 'end': 19, 'answer': ' glass blocks'}","{'score': 0.3564075529575348, 'start': 249, 'end': 280, 'answer': ' diameter 11,5 cm x height 5 cm'}","{'score': 0.23354622721672058, 'start': 6, 'end': 19, 'answer': ' glass blocks'}",Borosilicate glass,Baryte bricks,Pr_20_93_52_10,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels,87.0

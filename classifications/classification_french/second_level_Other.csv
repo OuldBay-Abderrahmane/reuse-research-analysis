@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.82      0.83      0.82       196
+           1       0.85      0.85      0.85       233
+
+    accuracy                           0.84       429
+   macro avg       0.84      0.84      0.84       429
+weighted avg       0.84      0.84      0.84       429
+","                                              Feature  Importance
+567                  location_PARIS-9E-ARRONDISSEMENT    0.037291
+550                        location_NEUILLY-SUR-SEINE    0.034436
+216                           BIM_class_C.10.10.02.1g    0.027079
+625                              material_emb_Clinker    0.026300
+523                            location_GENNEVILLIERS    0.024192
+...                                               ...         ...
+371                            BIM_class_D.40.10.01.1    0.000000
+372                            BIM_class_D.40.10.01.2    0.000000
+373                            BIM_class_D.40.10.01.3    0.000000
+374                            BIM_class_D.40.10.01.4    0.000000
+1050  third_level_Wire structure and general products    0.000000
+
+[1051 rows x 2 columns]"

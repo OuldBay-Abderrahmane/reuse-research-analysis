@@ -1,0 +1,23 @@
+,Code,report,features
+0,Wire structure and general products,"              precision    recall  f1-score   support
+
+           0       0.62      1.00      0.77         5
+           1       0.00      0.00      0.00         3
+
+    accuracy                           0.62         8
+   macro avg       0.31      0.50      0.38         8
+weighted avg       0.39      0.62      0.48         8
+","                                            Feature  Importance
+71                                first_level_Other    0.391846
+1                                     Initial_Price    0.293801
+2                                      Latest_Price    0.121546
+73                   first_level_Technical elements    0.098438
+0                                            Weight    0.094369
+..                                              ...         ...
+25                           material_emb_Aluminium    0.000000
+24                                      Language_fr    0.000000
+23                                    Store_rotordc    0.000000
+22                                       Country_BE    0.000000
+77  third_level_Wire structure and general products    0.000000
+
+[78 rows x 2 columns]"

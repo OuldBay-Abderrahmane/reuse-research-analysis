@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.75      0.75      0.75         4
+           1       0.96      0.96      0.96        28
+
+    accuracy                           0.94        32
+   macro avg       0.86      0.86      0.86        32
+weighted avg       0.94      0.94      0.94        32
+","                                    Feature  Importance
+98                            Material_Holz    0.233509
+66                 Condition_used & cleaned    0.189336
+75                Subcategory_Einrichtungen    0.110781
+1                                  Quantity    0.108572
+101                          Material_Mixed    0.058457
+..                                      ...         ...
+36            Swiss_Raw_Meeting room chairs    0.000000
+35                 Swiss_Raw_Meeting booths    0.000000
+34                   Swiss_Raw_Light tables    0.000000
+33   Swiss_Raw_Laundry troughs and cabinets    0.000000
+112                 third_level_Furnishings    0.000000
+
+[113 rows x 2 columns]"

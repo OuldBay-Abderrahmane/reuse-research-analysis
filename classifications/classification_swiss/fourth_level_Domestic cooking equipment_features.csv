@@ -1,0 +1,41 @@
+,Feature,Importance
+4,Category_Ausbau,0.505724
+2,Length,0.1495048
+10,Swiss_Raw_Domestic cooking equipment,0.11244452
+0,LastPrice,0.10949646
+26,Subcategory_Einbauküchen,0.05613306
+3,Width,0.04923045
+24,Subcategory_Apparate & Geräte,0.017466737
+31,Material_Glass,0.0
+25,Subcategory_Armaturen,0.0
+27,Subcategory_Einrichtungen,0.0
+28,Subcategory_Gastroküche & Gastroartikel,0.0
+29,Subcategory_Spülen,0.0
+30,Subcategory_Wärmeerzeugung,0.0
+33,Material_Metal,0.0
+32,Material_Marble,0.0
+22,Condition_used & cleaned,0.0
+34,Material_Mixed,0.0
+35,Material_Natural stone,0.0
+36,Material_Naturstein,0.0
+37,Material_Stainless steel,0.0
+38,Material_Stone,0.0
+23,"Condition_used, cleaned & tested",0.0
+20,Condition_mixed,0.0
+21,Condition_used,0.0
+12,Swiss_Raw_Electric free-standing cookers,0.0
+5,Category_Gebäudetechnik & Sanitär,0.0
+6,Category_Sonstiges,0.0
+7,Swiss_Raw_Built-in electric ovens,0.0
+8,Swiss_Raw_Built-in gas hobs,0.0
+9,Swiss_Raw_Built-in microwave ovens,0.0
+11,Swiss_Raw_Electric cooking ranges,0.0
+13,Swiss_Raw_Gas cooking ranges,0.0
+1,Quantity,0.0
+14,Swiss_Raw_Gas free-standing cookers,0.0
+15,Swiss_Raw_Microwave ovens,0.0
+16,Condition_cleaned & tested,0.0
+17,Condition_gebraucht & gereinigt,0.0
+18,"Condition_gebraucht, gereinigt & geprüft",0.0
+19,Condition_like new,0.0
+39,Material_gemischt,0.0

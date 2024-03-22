@@ -1,33 +1,32 @@
-,third_level,SoldAfterDays,CountEntity
-0,Glass blocks and panels,108.72236503856041,389
-1,Sanitary fittings and accessories,111.79032258064517,372
-2,Structural units,265.0,1
-3,Space heating and cooling products,104.70270270270271,333
-4,"Floor plates, gratings and edgings",90.80988593155894,263
-5,Prefabricated buildings and structures,87.0,44
-6,Furnishings,98.95348837209302,129
-7,Other,108.3069306930693,606
-8,"Lighting columns, brackets and bollards",117.70246085011186,447
-9,Fastener products,89.26086956521739,23
-10,Formless structure and general products,150.125,8
-11,Handrails,129.34615384615384,26
-12,Retaining wall units,121.33333333333333,3
-13,"Non-rigid sheet, mat and strip covering and finish products",141.5,20
-14,Treads and landing units,116.84375,64
-15,Masonry walling units,129.84615384615384,52
-16,Power and lighting outlet products,109.2566371681416,113
-17,Walling units,108.07920792079207,101
-18,Air and fume distribution products,150.43478260869566,23
-19,Headwall and swale inlet products,92.31410256410257,156
-20,Structural roofing units,100.52173913043478,46
-21,Sectional products,40.9375,16
-22,Trim products,123.84615384615384,39
-23,Wire structure and general products,95.375,24
-24,Safety cages,97.96428571428571,28
-25,Hardware products,82.31818181818181,22
-26,Structure and general products,73.0,9
-27,Unit covering and finish products,120.56521739130434,23
-28,Shaft-lining products,50.10526315789474,19
-29,Services support and containment products,249.0,1
-30,Support and restraint products,49.4,15
-31,Openings and opening component products,10.0,1
+,third_level,DaysDays,CountEntity
+0,Sectional products,100.72413793103448,87
+1,Other,135.08959537572255,346
+2,Sanitary fittings and accessories,157.8603678929766,1196
+3,Glass blocks and panels,115.43232044198895,724
+4,Space heating and cooling products,136.92635024549918,611
+5,"Lighting columns, brackets and bollards",157.4135166093929,873
+6,Support and restraint products,165.04545454545453,110
+7,Furnishings,121.69117647058823,408
+8,Safety cages,169.80068728522338,291
+9,Air and fume distribution products,195.30555555555554,36
+10,"Floor plates, gratings and edgings",140.74187725631768,554
+11,Power and lighting outlet products,165.18709677419355,310
+12,Trim products,175.12101910828025,157
+13,Walling units,147.95205479452054,146
+14,Wire structure and general products,171.52336448598132,107
+15,Structural roofing units,168.34074074074073,135
+16,Masonry walling units,148.68,50
+17,Treads and landing units,170.81372549019608,102
+18,Headwall and swale inlet products,125.46408839779005,181
+19,"Non-rigid sheet, mat and strip covering and finish products",161.03030303030303,33
+20,Structure and general products,240.66666666666666,6
+21,Hardware products,138.2394366197183,71
+22,Unit covering and finish products,189.20754716981133,53
+23,Prefabricated buildings and structures,147.5681818181818,44
+24,Handrails,141.37894736842105,95
+25,Openings and opening component products,364.2,5
+26,Fastener products,142.0,9
+27,Retaining wall units,55.5,6
+28,Services support and containment products,30.5,2
+29,Shaft-lining products,86.58823529411765,17
+30,Formless structure and general products,204.33333333333334,3

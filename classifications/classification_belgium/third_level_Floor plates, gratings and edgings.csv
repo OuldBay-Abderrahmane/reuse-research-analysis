@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floor plates, gratings and edgings","              precision    recall  f1-score   support
+
+           0       0.85      0.78      0.82        37
+           1       0.60      0.71      0.65        17
+
+    accuracy                           0.76        54
+   macro avg       0.73      0.74      0.73        54
+weighted avg       0.77      0.76      0.76        54
+","                                            Feature  Importance
+112                       Belgium_Raw_Ceramic tiles    0.213796
+5                                      Price_Change    0.143614
+14                                   Category_Floor    0.129449
+150           Belgium_Raw_Wood panelled door leaves    0.093074
+105                         material_emb_Terracotta    0.076726
+..                                              ...         ...
+77               material_emb_Granite-powder cement    0.000000
+78                             material_emb_Granule    0.000000
+79                              material_emb_Gravel    0.000000
+80                    material_emb_Insulating glass    0.000000
+208  third_level_Floor plates, gratings and edgings    0.000000
+
+[209 rows x 2 columns]"

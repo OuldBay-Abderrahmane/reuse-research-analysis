@@ -1,0 +1,151 @@
+,Feature,Importance
+123,Material_Keramik,0.15699208
+54,Condition_neuwertig,0.124844454
+142,Material_gemischt,0.113053426
+50,"Condition_gebraucht, gereinigt & geprüft",0.07975273
+127,Material_Metall,0.07370214
+49,Condition_gebraucht & gereinigt,0.059550364
+66,Subcategory_Baustoffe,0.050320268
+135,Material_Stahl,0.043846928
+106,Subcategory_Waschküche & Trockner,0.026727114
+132,Material_Plastic,0.025247276
+56,Condition_used & cleaned,0.023164067
+53,Condition_mixed,0.020028943
+93,Subcategory_Sonstiges,0.017689224
+129,Material_Mixed,0.016107293
+126,Material_Metal,0.015676796
+57,"Condition_used, cleaned & tested",0.015463783
+141,Material_Wood,0.015208477
+8,Category_Sonstiges,0.0147628365
+9,Category_Umgebung,0.012763226
+139,Material_Stone,0.010808151
+0,LastPrice,0.010329723
+2,Length,0.009854862
+114,Material_Ceramic,0.008474514
+91,Subcategory_Möbel,0.0082778465
+51,Condition_like new,0.0072989385
+7,Category_Gebäudetechnik & Sanitär,0.0068076598
+3,Width,0.0059722974
+60,Subcategory_Apparate & Geräte,0.005845007
+94,Subcategory_Spülen,0.0049185185
+6,Category_Gebäudehülle & Konstruktion,0.0047388906
+1,Quantity,0.0041427626
+55,Condition_used,0.0036830278
+4,Category_Ausbau,0.002219285
+107,Subcategory_Waschtisch & Lavabos,0.0017270794
+96,Subcategory_Stützen,0.0
+86,Subcategory_Leitern,0.0
+87,Subcategory_Leuchten & Lampen,0.0
+88,Subcategory_Läden & Storen,0.0
+89,Subcategory_Lüftungsanlage,0.0
+104,Subcategory_Wandfenster,0.0
+105,Subcategory_Waschküche & Trocknen,0.0
+108,Subcategory_Werkzeug,0.0
+103,Subcategory_WCs - Toiletten,0.0
+102,Subcategory_WC-Anlagen,0.0
+101,Subcategory_Verkleidung,0.0
+90,Subcategory_Mauern,0.0
+92,Subcategory_Pflanzen,0.0
+100,Subcategory_Umgebungsfläche,0.0
+99,Subcategory_Treppen & Rampen,0.0
+95,Subcategory_Steinbeläge,0.0
+98,Subcategory_Tore,0.0
+97,Subcategory_Teppiche,0.0
+115,Material_Chrome steel,0.0
+109,Subcategory_Wände,0.0
+130,Material_Natural stone,0.0
+148,Energy_Efficiency_G,0.0
+147,Energy_Efficiency_F,0.0
+146,Energy_Efficiency_D,0.0
+145,Energy_Efficiency_C,0.0
+144,Energy_Efficiency_B,0.0
+143,Energy_Efficiency_A,0.0
+140,Material_Textile,0.0
+138,Material_Stein,0.0
+137,Material_Steel,0.0
+136,Material_Stainless steel,0.0
+134,Material_Similar,0.0
+133,Material_Plexiglass,0.0
+131,Material_Other,0.0
+128,Material_Miscellaneous,0.0
+110,Subcategory_Wärmeerzeugung,0.0
+125,Material_Kunststoff,0.0
+124,Material_Kunststein,0.0
+122,Material_Holz,0.0
+121,Material_Glass-ceramics,0.0
+120,Material_Glass,0.0
+119,Material_Glas,0.0
+118,Material_Foamed PVC,0.0
+117,Material_Concrete,0.0
+116,Material_Compound,0.0
+84,Subcategory_Küchenmöbel,0.0
+113,Material_Aluminum,0.0
+112,Subcategory_Öfen & Cheminées,0.0
+111,Subcategory_Zubehör,0.0
+85,Subcategory_Laminat,0.0
+75,Subcategory_Freistehend,0.0
+83,Subcategory_Klingelanlagen,0.0
+39,Swiss_Raw_Urinal cisterns,0.0
+37,Swiss_Raw_Trees,0.0
+36,Swiss_Raw_Tee hinges,0.0
+35,Swiss_Raw_Sprinklers,0.0
+34,Swiss_Raw_Sports netting,0.0
+33,Swiss_Raw_Slab urinals,0.0
+32,Swiss_Raw_Sedge,0.0
+31,Swiss_Raw_Scuttles,0.0
+30,Swiss_Raw_Scagliola,0.0
+29,Swiss_Raw_Sand,0.0
+28,Swiss_Raw_Roses,0.0
+27,Swiss_Raw_Rainwater weirs,0.0
+26,Swiss_Raw_Printers,0.0
+25,Swiss_Raw_Pin kerbs,0.0
+24,Swiss_Raw_Letter boxes,0.0
+23,Swiss_Raw_Joist seals,0.0
+22,Swiss_Raw_Healthcare hand rinse basins,0.0
+21,Swiss_Raw_Gypsum,0.0
+20,Swiss_Raw_Girder clamps,0.0
+19,Swiss_Raw_Espresso machines,0.0
+18,Swiss_Raw_Emergency call radio-based equipment,0.0
+17,Swiss_Raw_Duvets,0.0
+16,Swiss_Raw_Duct banks,0.0
+15,Swiss_Raw_Door hinges,0.0
+14,Swiss_Raw_Dish and utensil washers,0.0
+13,Swiss_Raw_Bogie presses,0.0
+12,Swiss_Raw_Bare-root budded roses,0.0
+11,Swiss_Raw_Arrises,0.0
+10,Swiss_Raw_Acrylic resins,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+38,Swiss_Raw_Trellises,0.0
+40,Swiss_Raw_Urinal dividers,0.0
+82,Subcategory_Keramikbeläge,0.0
+41,Swiss_Raw_Urinal flush pipes,0.0
+81,Subcategory_Innentüren,0.0
+80,Subcategory_Holzbeläge,0.0
+79,Subcategory_Heizkörper,0.0
+78,Subcategory_Geländer,0.0
+77,Subcategory_Gastroküche & Gastroartikel,0.0
+76,Subcategory_Gartenmöbel,0.0
+74,Subcategory_Fertigteile & Geräte,0.0
+73,Subcategory_Fenster,0.0
+72,Subcategory_Elektrogerät,0.0
+71,Subcategory_Einrichtungen,0.0
+70,Subcategory_Einbauküchen,0.0
+69,Subcategory_Dachkonstruktion,0.0
+68,Subcategory_Dachhaut,0.0
+67,Subcategory_Dachfenster,0.0
+65,Subcategory_Baumaschinen,0.0
+64,Subcategory_Badezimmermöbel,0.0
+63,Subcategory_Badewanne & Dusche,0.0
+62,Subcategory_Bad & Dusche,0.0
+61,Subcategory_Armaturen,0.0
+59,Subcategory_Anlage Frischwasser,0.0
+58,Subcategory_An- & Einbauten,0.0
+52,Condition_mangelhaft,0.0
+48,Condition_gebraucht,0.0
+47,Condition_defective,0.0
+46,Condition_cleaned & tested,0.0
+45,Swiss_Raw_Washers,0.0
+44,Swiss_Raw_WC pans,0.0
+43,Swiss_Raw_Vertical extended spindles,0.0
+42,Swiss_Raw_Vermicides ,0.0
+149,third_level_Other,0.0

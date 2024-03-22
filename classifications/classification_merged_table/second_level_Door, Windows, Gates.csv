@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Door, Windows, Gates","              precision    recall  f1-score   support
+
+           0       0.84      0.71      0.77        92
+           1       0.81      0.90      0.85       124
+
+    accuracy                           0.82       216
+   macro avg       0.82      0.80      0.81       216
+weighted avg       0.82      0.82      0.82       216
+","                                          Feature  Importance
+92                    Code_High-security doorsets    0.116528
+53                   Code_Controlled door closers    0.071116
+140                          first_level_Openings    0.069080
+61                               Code_Door hinges    0.060140
+4                              Material_Aluminium    0.058306
+..                                            ...         ...
+57   Code_Door and window weatherstrips and seals    0.000000
+56                            Code_Cranked hinges    0.000000
+55             Code_Corrugated wired glass sheets    0.000000
+54                          Code_Corner cupboards    0.000000
+161                     third_level_Walling units    0.000000
+
+[162 rows x 2 columns]"

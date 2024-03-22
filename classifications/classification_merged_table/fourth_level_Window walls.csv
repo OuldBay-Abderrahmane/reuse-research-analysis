@@ -1,0 +1,29 @@
+,Code,report,features
+0,Window walls,"              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        21
+
+    accuracy                           1.00        21
+   macro avg       1.00      1.00      1.00        21
+weighted avg       1.00      1.00      1.00        21
+","                                          Feature  Importance
+15            first_level_Wall, Barriers, Pannels    0.466633
+2                                           Width    0.200065
+3                                          Height    0.161364
+0                                           Price    0.146706
+4                    Material_Architectural glass    0.025231
+12                        first_level_Furnishings    0.000000
+18  third_level_Sanitary fittings and accessories    0.000000
+17            third_level_Glass blocks and panels    0.000000
+16              second_level_Door, Windows, Gates    0.000000
+14                first_level_Roof, Slabs, Stairs    0.000000
+13                           first_level_Openings    0.000000
+10                          Material_Sitka spruce    0.000000
+11                              Code_Window walls    0.000000
+1                                          Length    0.000000
+9                                   Material_Silt    0.000000
+8                            Material_Sheet glass    0.000000
+7                        Material_Prismatic glass    0.000000
+6                       Material_Insulating glass    0.000000
+5                                  Material_Glass    0.000000
+19           third_level_Structural roofing units    0.000000"

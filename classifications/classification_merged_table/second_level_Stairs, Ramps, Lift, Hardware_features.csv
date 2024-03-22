@@ -1,0 +1,169 @@
+,Feature,Importance
+160,third_level_Sanitary fittings and accessories,0.21528569
+148,"first_level_Wall, Barriers, Pannels",0.112751365
+1,Length,0.09838758
+31,Material_Metal,0.08594498
+0,Price,0.052232277
+108,Code_Rail pads,0.047222435
+147,first_level_Technical elements,0.04491409
+3,Height,0.032277904
+8,Material_Architectural glass,0.03136658
+154,third_level_Handrails,0.02925965
+162,third_level_Space heating and cooling products,0.026654013
+33,Material_Pisé,0.026406733
+2,Width,0.025685139
+145,"first_level_Roof, Slabs, Stairs",0.021570625
+18,Material_Encaustic,0.020340448
+119,Code_Stair trims,0.018602742
+25,Material_Gravel,0.017201195
+37,Material_Sitka spruce,0.014399172
+102,Code_Pliable conduit,0.013324677
+125,Code_Steppers,0.012968734
+167,third_level_Wire structure and general products,0.011513519
+159,third_level_Safety cages,0.011069565
+58,Code_Cable troughs,0.007465656
+91,Code_Heat pumps,0.006589183
+22,Material_Gas,0.0048697568
+151,"third_level_Floor plates, gratings and edgings",0.004146058
+165,third_level_Treads and landing units,0.004081295
+75,Code_Elevator bolts,0.0034689729
+121,Code_Steel bridge pedestals,0.0
+116,Code_Stainless steel shelving and racking units,0.0
+117,Code_Stainless steel support rails,0.0
+118,Code_Stair lift signs,0.0
+12,Material_Ceramic,0.0
+120,Code_Steam traps and strainers,0.0
+123,Code_Steel spiles,0.0
+122,Code_Steel security cabinets,0.0
+114,Code_Stainless steel cycle lockers,0.0
+124,Code_Step lifts,0.0
+11,Material_Bone,0.0
+126,Code_Stone stair treads,0.0
+127,Code_Stretcher drive brackets,0.0
+128,Code_Timber stair treads,0.0
+115,Code_Stainless steel handrails,0.0
+111,Code_Sample coolers,0.0
+113,Code_Solar heat stores,0.0
+112,Code_Shower doors,0.0
+130,Code_Track circuit receivers,0.0
+110,Code_Rigid stair nosings,0.0
+109,Code_Refrigerators,0.0
+13,Material_Compressed air,0.0
+107,Code_Rail clips,0.0
+106,Code_Radiators,0.0
+105,Code_Process equipment,0.0
+104,Code_Primer-undercoats,0.0
+103,Code_Power supply equipment,0.0
+14,Material_Daub,0.0
+101,Code_Pendant luminaires,0.0
+100,Code_Metal stair stringers,0.0
+99,Code_Metal stair spines,0.0
+129,Code_Tool dispensers,0.0
+21,Material_Fir,0.0
+131,Code_Traction motors,0.0
+157,third_level_Other,0.0
+150,third_level_Air and fume distribution products,0.0
+152,third_level_Furnishings,0.0
+153,third_level_Glass blocks and panels,0.0
+6,Material_Air-entrained concrete,0.0
+155,third_level_Hardware products,0.0
+156,"third_level_Lighting columns, brackets and bollards",0.0
+158,third_level_Power and lighting outlet products,0.0
+7,Material_Anti-bandit glass,0.0
+5,Material_Air-cooled steel slag,0.0
+161,third_level_Shaft-lining products,0.0
+4,Material_Aerogel,0.0
+163,third_level_Structural roofing units,0.0
+164,third_level_Support and restraint products,0.0
+166,third_level_Trim products,0.0
+149,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+9,Material_Asphalt,0.0
+97,Code_Metal edgings,0.0
+138,Code_Washers,0.0
+132,Code_Trap switches,0.0
+133,Code_Trolleys,0.0
+134,Code_Turbine air motors,0.0
+135,Code_Under-mounted washbasins,0.0
+136,Code_Upper body trainers,0.0
+137,Code_Vehicle hoists,0.0
+139,Code_Water fire-extinguishing outlets,0.0
+146,first_level_Structural elements,0.0
+140,Code_Wood handrails,0.0
+141,Code_Wood screws,0.0
+142,Code_Wood skirtings,0.0
+143,first_level_Furnishings,0.0
+144,first_level_Other,0.0
+10,"Material_Base, bed and fill aggregates",0.0
+98,Code_Metal skirtings,0.0
+94,Code_Kitchen worktops,0.0
+96,Code_Lighting tracks,0.0
+47,Material_Wrought iron,0.0
+41,Material_Stone,0.0
+42,Material_Terne-coated steel,0.0
+43,Material_Thermoplastic elastomer resin,0.0
+44,Material_Water,0.0
+45,Material_Weathering steel,0.0
+46,Material_Wood,0.0
+48,Code_Air conditioning units,0.0
+39,Material_Steel,0.0
+49,Code_Air-to-air heat pumps,0.0
+50,Code_Airlift injectors,0.0
+51,Code_Aluminium handrails,0.0
+52,Code_Aluminium stair treads,0.0
+53,Code_Analogue metering equipment,0.0
+54,Code_Arrises,0.0
+40,Material_Steel-aluminium alloy,0.0
+38,Material_Stainless steel,0.0
+56,Code_Belt conveyors,0.0
+29,Material_Lignite,0.0
+23,Material_Granite,0.0
+24,Material_Granule,0.0
+20,Material_Filament,0.0
+26,Material_Heat-absorbing glass,0.0
+27,Material_Heat-resisting glass,0.0
+28,Material_Iron,0.0
+30,Material_Lodgepole pine,0.0
+16,Material_Earthenware,0.0
+19,Material_Expansive concrete,0.0
+32,Material_Patterned glass,0.0
+17,Material_Emulsion,0.0
+34,Material_Porcelain,0.0
+35,Material_Reflective glass,0.0
+36,Material_Silt,0.0
+55,Code_Automatic revolving doorsets,0.0
+57,Code_Brass handrails,0.0
+95,Code_Laundry washing machines,0.0
+85,Code_Footstools,0.0
+79,Code_Escalator pallets,0.0
+80,Code_Escalators,0.0
+81,Code_Fermenters,0.0
+82,Code_Fishwashers,0.0
+83,Code_Flap control gates,0.0
+15,Material_Designated concrete,0.0
+86,Code_Garage door holders,0.0
+77,"Code_Equipment enclosures, cabinets, boxes and housings",0.0
+87,Code_Garage door operators,0.0
+88,Code_Gas free-standing cookers,0.0
+89,Code_Glass stair treads,0.0
+90,Code_Hardwood stair landing units,0.0
+92,Code_Industrial bells,0.0
+93,Code_Jumping equipment,0.0
+78,Code_Equipment heaters,0.0
+76,Code_Equipment,0.0
+59,Code_Coat racks,0.0
+66,Code_Concrete helical stair flight units,0.0
+60,Code_Coaxial cables,0.0
+61,Code_Commercial cooking equipment,0.0
+62,Code_Commercial electric griddles,0.0
+63,Code_Commercial washers,0.0
+64,Code_Concealed hinges,0.0
+65,Code_Concrete glazed stair landing panels,0.0
+67,Code_Cutlery,0.0
+74,Code_Electric ovens,0.0
+68,Code_Cycle ramps,0.0
+69,Code_Desks,0.0
+70,Code_Drafting machines,0.0
+71,Code_Ducted rail tracks,0.0
+72,Code_Electric boilers,0.0
+73,Code_Electric cooking ranges,0.0
+84,Code_Flexible stair coverings,0.0

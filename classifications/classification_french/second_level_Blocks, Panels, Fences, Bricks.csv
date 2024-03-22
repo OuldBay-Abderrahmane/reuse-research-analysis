@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Blocks, Panels, Fences, Bricks","              precision    recall  f1-score   support
+
+           0       0.78      0.72      0.75        69
+           1       0.77      0.82      0.79        76
+
+    accuracy                           0.77       145
+   macro avg       0.77      0.77      0.77       145
+weighted avg       0.77      0.77      0.77       145
+","                                             Feature  Importance
+261                          BIM_class_E.20.20.05.3b    0.067495
+336                       location_NEUILLY-SUR-SEINE    0.056629
+433                               French_Raw_Arrises    0.049859
+319                           location_GENNEVILLIERS    0.032414
+361                                location_TOULOUSE    0.029153
+..                                               ...         ...
+227                          BIM_class_D.30.20.01.1c    0.000000
+228                          BIM_class_D.30.20.01.5b    0.000000
+229                          BIM_class_D.30.20.01.5c    0.000000
+230                          BIM_class_D.30.20.90.10    0.000000
+681  third_level_Wire structure and general products    0.000000
+
+[682 rows x 2 columns]"

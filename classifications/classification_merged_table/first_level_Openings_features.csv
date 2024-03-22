@@ -1,0 +1,47 @@
+,Feature,Importance
+9,Material_Pisé,0.21732189
+29,Code_Window hinges,0.11238761
+12,Material_Silt,0.11205178
+13,Material_Sitka spruce,0.111873195
+19,Code_Door hinges,0.109234
+0,Price,0.087648615
+37,second_level_Other,0.06042732
+34,"second_level_Door, Windows, Gates",0.04930396
+43,third_level_Safety cages,0.048292194
+40,"third_level_Lighting columns, brackets and bollards",0.031017158
+4,Material_Architectural glass,0.026156934
+39,third_level_Glass blocks and panels,0.024265151
+7,Material_Encaustic,0.01002023
+41,third_level_Openings and opening component products,0.0
+28,Code_Uncontrolled door closers,0.0
+44,third_level_Sanitary fittings and accessories,0.0
+30,Code_Window panels,0.0
+31,Code_Window walls,0.0
+32,first_level_Openings,0.0
+35,"second_level_Floors, Ceiling",0.0
+33,"second_level_Covering, Finish",0.0
+36,second_level_Furnishings,0.0
+26,Code_Screen door closers,0.0
+38,third_level_Furnishings,0.0
+42,third_level_Other,0.0
+27,Code_Sliding shutter doorsets,0.0
+23,Code_Gate hinges,0.0
+25,Code_Pendant luminaires,0.0
+14,Code_Access control units,0.0
+2,Width,0.0
+3,Height,0.0
+5,Material_Asphalt,0.0
+6,Material_Blinding aggregates,0.0
+8,Material_Net,0.0
+10,Material_Reflective glass,0.0
+11,Material_Sheet glass,0.0
+15,Code_Arrises,0.0
+24,Code_Joist seals,0.0
+16,Code_Automatic revolving doorsets,0.0
+17,Code_Cranked hinges,0.0
+18,Code_Door coordinators,0.0
+20,Code_Doorsets,0.0
+21,Code_Ductwork access doorsets,0.0
+22,Code_Exercise bikes,0.0
+1,Length,0.0
+45,third_level_Support and restraint products,0.0

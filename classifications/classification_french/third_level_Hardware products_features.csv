@@ -1,0 +1,104 @@
+,Feature,Importance
+55,location_NEUILLY-SUR-SEINE,0.42513916
+15,category_fire_extinguishing_device,0.1262894
+59,location_PARIS-9E-ARRONDISSEMENT,0.09860854
+76,material_emb_Net,0.07135686
+54,location_LYON--6E--ARRONDISSEMENT,0.05766444
+57,location_PARIS-15E-ARRONDISSEMENT,0.05104833
+100,second_level_Other,0.024993103
+4,price,0.022905907
+53,location_LEVALLOIS-PERRET,0.017740453
+1,price_latest,0.01713106
+3,quantity_latest,0.016558938
+10,material_state_correct,0.016472898
+0,price_initial,0.013122047
+86,French_Raw_Paging consoles,0.0123166265
+12,material_state_verygood,0.011948408
+24,category_storage_unit,0.008546793
+58,location_PARIS-8E-ARRONDISSEMENT,0.0040812963
+17,category_intercommunication_system,0.0040757
+91,French_Code_Pr_40_50_13,0.0
+71,state_ Très bon,0.0
+70,country_FR,0.0
+69,material_type_used,0.0
+68,material_type_reconditioned,0.0
+67,material_type_new,0.0
+66,location_VILLEPINTE,0.0
+65,location_VILLENEUVE-SAINT-GEORGES,0.0
+64,location_SAINT-OUEN,0.0
+63,location_SAINT-ETIENNE,0.0
+62,location_RUNGIS,0.0
+61,location_RENNES,0.0
+60,location_PUTEAUX,0.0
+96,French_Code_Pr_65_72_97,0.0
+97,French_Code_Pr_70_75_15_66,0.0
+98,first_level_Technical elements,0.0
+99,second_level_Furnishings,0.0
+101,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+72,material_emb_Daub,0.0
+73,material_emb_Encaustic,0.0
+74,material_emb_Fir,0.0
+84,French_Raw_High-voltage disconnecting circuit breakers,0.0
+90,French_Code_Pr_20_85_34_84,0.0
+89,French_Raw_Wiring accessories,0.0
+88,French_Raw_Steel spiles,0.0
+87,French_Raw_Printers,0.0
+92,French_Code_Pr_40_70,0.0
+93,French_Code_Pr_60_70_38_21,0.0
+85,French_Raw_Miniature circuit breakers,0.0
+83,French_Raw_Equipment,0.0
+75,material_emb_Gravel,0.0
+94,French_Code_Pr_60_75_06_60,0.0
+81,material_emb_Wired glass,0.0
+80,material_emb_Steel,0.0
+79,material_emb_Slag bound mixtures,0.0
+78,material_emb_Sitka spruce,0.0
+77,material_emb_Paper,0.0
+95,French_Code_Pr_65_72_27_52,0.0
+82,French_Raw_Clocks,0.0
+51,location_LA MADELEINE,0.0
+56,location_PARIS-10E-ARRONDISSEMENT,0.0
+29,BIM_class_C.10.30.02.7,0.0
+27,BIM_class_C.10.30.02.3,0.0
+26,BIM_class_C.10.30.02.10,0.0
+25,BIM_class_C.10.30.02.1,0.0
+23,category_ovens,0.0
+22,category_other_special_system_device,0.0
+21,category_other_services_and_electric_distribution,0.0
+20,category_other_built_in_accessory,0.0
+19,category_notice_board_chalk_board,0.0
+18,category_miscellaneous_fixed_mobile_equipment,0.0
+16,category_general_construction_element,0.0
+14,category_circuits_breackers,0.0
+13,category_bath_and_toilet_accessories,0.0
+11,material_state_damaged,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,min_quantity,0.0
+5,quantity,0.0
+2,price_change,0.0
+28,BIM_class_C.10.30.02.5,0.0
+30,BIM_class_C.10.30.03.1,0.0
+52,location_LE BOURGET,0.0
+31,BIM_class_C.10.30.90.2,0.0
+50,location_EPERNAY,0.0
+49,location_CHOLET,0.0
+48,location_CHEVILLY-LARUE,0.0
+47,location_CHATILLON,0.0
+46,location_CHAMPS-SUR-MARNE,0.0
+45,location_BRIANCON,0.0
+44,location_AUBAGNE,0.0
+43,BIM_class_E.20.20.05.2,0.0
+42,BIM_class_E.10.90.02.52,0.0
+41,BIM_class_E.10.20.01.2,0.0
+40,BIM_class_D.50.90.07.3,0.0
+39,BIM_class_D.50.30.03.3,0.0
+38,BIM_class_D.50.10.08.1,0.0
+37,BIM_class_D.50.10.05.3,0.0
+36,BIM_class_D.50.10.05.2,0.0
+35,BIM_class_D.40.50.01.3,0.0
+34,BIM_class_D.40.50.01.2,0.0
+33,BIM_class_D.40.50.01.1,0.0
+32,BIM_class_D.30.90.01,0.0
+102,third_level_Hardware products,0.0

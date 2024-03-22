@@ -1,0 +1,10 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+816,925DOP004,"Double white door , cm x cm - Left",20.0,kg,pc,"
+Wooden door painted in white, with plexiglas partitions.
+
+Dimensions: H 201,6 cm x W 156 cm
+Thickness : 3,9 cm.
+Left
+
+Good used condition, may have traces of scratches. Two of the plexiglas are broken. Hinges and lock case are not included in the price. Handles and key are missing.
+",Doors,https://rotordc.com/shop/product/925dop004-double-white-door-h-201-6-cm-x-156-cm-left-34765?page=9&category=32,"['34765_143c2df.png', '2551_92eaeaf.png', '2552_92eaeaf.png', '2553_92eaeaf.png']",129.0,129.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.1563674807548523, 'start': 1, 'end': 45, 'answer': 'Wooden door painted in white, with plexiglas'}","{'score': 0.7881062626838684, 'start': 70, 'end': 92, 'answer': ' H 201,6 cm x W 156 cm'}","{'score': 0.0001494668103987351, 'start': 202, 'end': 254, 'answer': ' Hinges and lock case are not included in the price.'}",Sitka spruce,Composite door leaves,Pr_30_59_23_16,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,0.0001494668103987351,,,,59.0

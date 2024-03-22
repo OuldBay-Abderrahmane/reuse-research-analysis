@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Wall, Barriers, Pannels","              precision    recall  f1-score   support
+
+           0       0.85      0.90      0.88        31
+           1       0.86      0.78      0.82        23
+
+    accuracy                           0.85        54
+   macro avg       0.85      0.84      0.85        54
+weighted avg       0.85      0.85      0.85        54
+","                                             Feature  Importance
+5                                       Price_Change    0.570474
+293    third_level_Sanitary fittings and accessories    0.106745
+187                         Belgium_Raw_Quarry tiles    0.062462
+19                                 Category_Hardware    0.035614
+118                 material_emb_Insulating concrete    0.029174
+..                                               ...         ...
+111                          material_emb_French oak    0.000000
+112                                material_emb_Gold    0.000000
+113                             material_emb_Granite    0.000000
+114               material_emb_Granite-powder cement    0.000000
+297  third_level_Wire structure and general products    0.000000
+
+[298 rows x 2 columns]"

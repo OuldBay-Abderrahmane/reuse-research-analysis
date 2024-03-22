@@ -1,0 +1,235 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+258,1039,1039,Pissoir,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 2601,Ceramic,67.0,36.0,10,,,,,2023-01-13,60.0,,,1970-01-01,60.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Zürich, 8050",,useagain,82989,CH,de,2601_1_570x570.jpg,https://www.useagain.ch/de/pissoir-82989,D09.05,urinal,,,,"{'score': 0.0015808162279427052, 'start': 12, 'end': 17, 'answer': ' 2601'}","{'score': 0.00011308527609799057, 'start': 12, 'end': 17, 'answer': ' 2601'}","{'score': 0.36840203404426575, 'start': 12, 'end': 17, 'answer': ' 2601'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+414,1223,1223,Stuhl,"used, cleaned & tested",,,,Ausbau,Möbel & Einrichtungen,Möbel,Sitzhöhe verstellbar von 43-63cm,,,,,,,,,2022-08-09,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zürich, 8050",,useagain,79202,CH,de,,https://www.useagain.ch/de/stuhl-embru-79202,,chair,,,,"{'score': 0.00031640962697565556, 'start': 24, 'end': 32, 'answer': ' 43-63cm'}","{'score': 0.37143686413764954, 'start': 24, 'end': 32, 'answer': ' 43-63cm'}","{'score': 0.0009102138574235141, 'start': 24, 'end': 32, 'answer': ' 43-63cm'}",Pisé,Sedge,Pr_45_31_63_76,Furnishings,Furnishings,Furnishings
+694,1522,1522,DAchfenster,mixed,"['E03.01', 'F02.02']",Windows,,Gebäudehülle & Konstruktion,Fenster,Dachfenster,"rel gut erhaltene Dachfenster (von VELUX , TYP: GGL U04) mit Innenrouleau weiss. inkl. Kupfereindeckrahmen (für Ziegel)
+intern: Nr 1128 - 32 , HP 81033 ; ID 15917",,,,,,,,,2022-09-30,375.0,,,1970-01-01,375.0,1970-01-01 00:00:00.000,0.0,1.0,121.0,,,useagain,81033,CH,de,20210317_095910_570x570.jpg,https://www.useagain.ch/de/velux-dachfenster-ggl-u04-81033,E03.01,roof window,,,,"{'score': 0.07464727014303207, 'start': 73, 'end': 80, 'answer': ' weiss.'}","{'score': 0.0005119660054333508, 'start': 127, 'end': 140, 'answer': ' Nr 1128 - 32'}","{'score': 2.791389078993234e-06, 'start': 60, 'end': 80, 'answer': ' Innenrouleau weiss.'}",Daub,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Masonry walling units
+793,1624,1624,Duschecke Echtgals klar,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"Duschecke aus klarem Echtglas ( Securit), - effektiv 2 Türen , können vertauscht werden 1 x B: 84cm, 1 x 95cm  ( inkl. je 10 cm Aluprofil)-&gt; diese könnten auch weggelassen werden",Glass,84.0,95.0,201,,,,,,425.0,,,1970-01-01,425.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,79767,CH,de,20200506_090256_570x570.jpg,https://www.useagain.ch/de/duschecke-echtgals-klar-79767,J01.02,shower,,,,"{'score': 0.29902493953704834, 'start': 13, 'end': 29, 'answer': ' klarem Echtglas'}","{'score': 0.06295036524534225, 'start': 87, 'end': 109, 'answer': ' 1 x B: 84cm, 1 x 95cm'}","{'score': 0.0021954888943582773, 'start': 87, 'end': 109, 'answer': ' 1 x B: 84cm, 1 x 95cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+957,1791,1791,Pissoir,,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Produkte-Nr. 2590
+Lochabstand: 25 cm",Ceramic,,,,,,,,2023-01-13,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,184.0,"Zürich, 8050",,useagain,82972,CH,de,2590_1_570x570.jpg,https://www.useagain.ch/de/pissoir-82972,D09.05,urinal,,,,"{'score': 0.005068703554570675, 'start': 12, 'end': 17, 'answer': ' 2590'}","{'score': 0.11312876641750336, 'start': 17, 'end': 36, 'answer': '\nLochabstand: 25 cm'}","{'score': 0.7918096780776978, 'start': 12, 'end': 17, 'answer': ' 2590'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+1509,2360,2360,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 20cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikel Nr: 105843",,,,,,,,,2022-10-17,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,90922,CH,de,wcc_570x570.png,https://www.useagain.ch/de/wc-haengend-90922,D09.05,WC,,,,"{'score': 0.988739550113678, 'start': 101, 'end': 109, 'answer': ' Keramik'}","{'score': 0.3907443583011627, 'start': 62, 'end': 67, 'answer': ' 20cm'}","{'score': 3.456159174675122e-05, 'start': 62, 'end': 67, 'answer': ' 20cm'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1512,2363,2363,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 20 cm 
+Mängel: Gebrauchsspuren
+Montage: Unterbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109296",,,,,,,,,2022-10-18,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91010,CH,de,109296_1_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91010,D09.05,WC,,,,"{'score': 0.001728690112940967, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 0.35778307914733887, 'start': 62, 'end': 68, 'answer': ' 20 cm'}","{'score': 0.00011634542170213535, 'start': 140, 'end': 159, 'answer': '\nArtikel Nr: 109296'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1516,2367,2367,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Schloter Systems
+Garantie: ohne Garantie
+Lochabstand: 18 cm
+Masse: H: 37 cm B: 36 cm T: 53 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111040",,,,,,,,,2022-10-19,39.0,,,1970-01-01,39.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91025,CH,de,kkkk_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91025,D09.05,WC,,,,"{'score': 0.9908583760261536, 'start': 139, 'end': 147, 'answer': ' Keramik'}","{'score': 0.7415803074836731, 'start': 78, 'end': 105, 'answer': ' H: 37 cm B: 36 cm T: 53 cm'}","{'score': 0.00019221598631702363, 'start': 78, 'end': 105, 'answer': ' H: 37 cm B: 36 cm T: 53 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1523,2374,2374,Waschtisch weiss,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Reisser
+Garantie: ohne Garantie
+Lochabstand: 24,5 cm 
+Masse: H: 16 cm B: 53/60 cm T: 47 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110855",,,,,,,,,2022-10-21,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91088,CH,de,110855_570x570.jpg,https://www.useagain.ch/de/waschtisch-weiss-91088,J01.02,sink,,,,"{'score': 0.9834195971488953, 'start': 136, 'end': 144, 'answer': ' Keramik'}","{'score': 0.37254053354263306, 'start': 72, 'end': 102, 'answer': ' H: 16 cm B: 53/60 cm T: 47 cm'}","{'score': 2.3059226805344224e-05, 'start': 173, 'end': 192, 'answer': '\nArtikel Nr: 110855'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+1555,2406,2406,stehend,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Lochabstand: 30 cm
+Masse: H: 40 cm B: 36 cm T: 67 cm
+Material: Keramik
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110903",,,,,,,,,2022-10-19,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,20.0,"Münchenstein, 4142",,useagain,91023,CH,de,110903_570x570.jpg,https://www.useagain.ch/de/wc-stehend-91023,,WC,,,,"{'score': 0.930217981338501, 'start': 122, 'end': 130, 'answer': ' Keramik'}","{'score': 0.5415722131729126, 'start': 85, 'end': 112, 'answer': ' H: 40 cm B: 36 cm T: 67 cm'}","{'score': 3.12584888888523e-05, 'start': 85, 'end': 112, 'answer': ' H: 40 cm B: 36 cm T: 67 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1556,2407,2407,stehend,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Lochabstand: 18 cm
+Masse: H: 32 cm B: 36 cm T: 57 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111044",,,,,,,,,2022-10-19,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,20.0,"Münchenstein, 4142",,useagain,91027,CH,de,111044_570x570.jpg,https://www.useagain.ch/de/wc-stehend-91027,,WC,,,,"{'score': 0.909010112285614, 'start': 146, 'end': 154, 'answer': ' Keramik'}","{'score': 0.6767637729644775, 'start': 85, 'end': 112, 'answer': ' H: 32 cm B: 36 cm T: 57 cm'}","{'score': 7.015556911937892e-05, 'start': 85, 'end': 112, 'answer': ' H: 32 cm B: 36 cm T: 57 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1557,2408,2408,stehend,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 18 cm
+Masse: H: /, B: 30,5/35 cm, T: 58 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111045",,,,,,,,,2022-10-19,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,20.0,"Münchenstein, 4142",,useagain,91030,CH,de,111045_570x570.jpg,https://www.useagain.ch/de/wc-stehend-91030,,WC,,,,"{'score': 0.984409511089325, 'start': 139, 'end': 147, 'answer': ' Keramik'}","{'score': 0.6058639883995056, 'start': 75, 'end': 105, 'answer': ' H: /, B: 30,5/35 cm, T: 58 cm'}","{'score': 0.004972586873918772, 'start': 84, 'end': 105, 'answer': ' 30,5/35 cm, T: 58 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1567,2418,2418,Dunstabzug -,mixed,['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Hersteller: Wesco
+Garantie: ohne Garantie
+Masse: B: 90cm, T: 33,5cm
+Mängel: Gebrauchsspuren
+Material: gemischt
+Zustand: occasion/gebraucht
+
+Artikelnr:  112231",,,,,,,,,2022-09-30,499.0,,,1970-01-01,499.0,1970-01-01 00:00:00.000,0.0,1.0,14.0,"Münchenstein, 4142",,useagain,90678,CH,de,111356_570x570.jpg,https://www.useagain.ch/de/dunstabzug-wesco-evm-210-90-90678,H03.05,cooker hood,,,,"{'score': 0.9887001514434814, 'start': 101, 'end': 110, 'answer': ' gemischt'}","{'score': 0.7817263007164001, 'start': 48, 'end': 67, 'answer': ' B: 90cm, T: 33,5cm'}","{'score': 0.09634627401828766, 'start': 48, 'end': 67, 'answer': ' B: 90cm, T: 33,5cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1571,2422,2422,hängend,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 20 cm
+Masse: H: / B: 36/34 cm, T: 56,5 cm
+Mängel: Gebrauchsspuren
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109851",,,,,,,,,2022-10-18,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,91015,CH,de,109851_1_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91015,,WC,,,,"{'score': 0.0005910837207920849, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 0.626807451248169, 'start': 75, 'end': 104, 'answer': ' H: / B: 36/34 cm, T: 56,5 cm'}","{'score': 0.005966527387499809, 'start': 83, 'end': 104, 'answer': ' 36/34 cm, T: 56,5 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1613,2464,2464,Stützklappgriff Nosag,"used, cleaned & tested",,,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Zubehör,"Hersteller: Nosag AG
+Garantie: ohne Garantie
+Masse: H: 25cm, B: 11cm, T: 85cm
+Mängel: Gebrauchsspuren
+Material: Kunststoff
+Zustand: occasion/gebraucht
+
+Artikelnr:  112327",,,,,,,,,2022-10-17,199.0,,,1970-01-01,199.0,1970-01-01 00:00:00.000,0.0,1.0,29.0,"Münchenstein, 4142",,useagain,90961,CH,de,112327_570x570.jpg,https://www.useagain.ch/de/stuetzklappgriff-nosag-ag-90961,,,,,,"{'score': 0.9943695068359375, 'start': 111, 'end': 122, 'answer': ' Kunststoff'}","{'score': 0.8882914781570435, 'start': 51, 'end': 77, 'answer': ' H: 25cm, B: 11cm, T: 85cm'}","{'score': 0.17114035785198212, 'start': 51, 'end': 77, 'answer': ' H: 25cm, B: 11cm, T: 85cm'}",Pisé,Sedge,Pr_45_31_63_76,Technical elements,"Covering, Finish","Floor plates, gratings and edgings"
+1700,2551,2551,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 18 cm 
+Mängel: Gebrauchsspuren
+Montage: Unterbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109954",Mixed,,,,,,mixed,,2022-10-18,40.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91017,CH,de,109954_1_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91017,D09.05,WC,,,,"{'score': 0.0017307166708633304, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 0.3634737432003021, 'start': 62, 'end': 68, 'answer': ' 18 cm'}","{'score': 0.00013436908193398267, 'start': 140, 'end': 159, 'answer': '\nArtikel Nr: 109954'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1701,2552,2552,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 18 cm 
+Masse: H: 40 cm, B: 34/35 cm, T: 60 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Unterbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109973",Ceramic,60.0,35.0,40,,,white,,2022-10-19,40.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91021,CH,de,109973_1_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91021,D09.05,WC,,,,"{'score': 0.9876318573951721, 'start': 142, 'end': 150, 'answer': ' Keramik'}","{'score': 0.7942247986793518, 'start': 76, 'end': 108, 'answer': ' H: 40 cm, B: 34/35 cm, T: 60 cm'}","{'score': 0.00867518037557602, 'start': 76, 'end': 108, 'answer': ' H: 40 cm, B: 34/35 cm, T: 60 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1705,2556,2556,Bidet beige hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Masse: H: 40cm, B: 35cm, T: 60cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111527",Ceramic,60.0,35.0,40,,,mixed,,2022-10-19,40.0,,,1970-01-01,40.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91034,CH,de,111527_570x570.jpg,https://www.useagain.ch/de/bidet-beige-haengend-91034,D09.05,bidet,,,,"{'score': 0.9129473567008972, 'start': 126, 'end': 134, 'answer': ' Keramik'}","{'score': 0.8818197250366211, 'start': 66, 'end': 92, 'answer': ' H: 40cm, B: 35cm, T: 60cm'}","{'score': 0.09999418258666992, 'start': 66, 'end': 92, 'answer': ' H: 40cm, B: 35cm, T: 60cm'}",Sitka spruce,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1708,2559,2559,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 20 cm
+Masse: H: /, B: 33,5 cm, T: 55,5 cm
+Mängel: Gebrauchsspuren
+Material: Porzellan
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111883",Mixed,55.0,33.0,,,,white,,2022-10-19,49.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91040,CH,de,111883_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91040,D09.05,WC,,,,"{'score': 0.985319972038269, 'start': 138, 'end': 148, 'answer': ' Porzellan'}","{'score': 0.24003492295742035, 'start': 84, 'end': 104, 'answer': ' 33,5 cm, T: 55,5 cm'}","{'score': 0.0025597563944756985, 'start': 84, 'end': 104, 'answer': ' 33,5 cm, T: 55,5 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1719,2570,2570,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Farbe: Beige
+Garantie: ohne Garantie
+Lochabstand: 19 cm
+Masse: H: / B: 33,5/34 cm T: 60 cm
+Mängel: Gebrauchsspuren
+Spezifikation: Inkl. WC-Deckel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108705",Ceramic,60.0,34.0,,,,mixed,,2022-10-18,60.0,,,1970-01-01,60.0,1970-01-01 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91007,CH,de,108705_1_570x570.jpg,https://www.useagain.ch/de/wc-haengend-91007,D09.05,WC,,,,"{'score': 0.6232045292854309, 'start': 32, 'end': 38, 'answer': ' Beige'}","{'score': 0.44963309168815613, 'start': 88, 'end': 116, 'answer': ' H: / B: 33,5/34 cm T: 60 cm'}","{'score': 0.002581839682534337, 'start': 155, 'end': 171, 'answer': ' Inkl. WC-Deckel'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1730,2581,2581,hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Jika
+Garantie: ohne Garantie
+Masse: H: H:35cm B:36cm L:53.5cm
+Lochabstand: 18 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Wandmontage
+Spezifikation: 
+Zustand: occasion/gebraucht
+
+Artikelnr:  112317",Ceramic,53.0,36.0,35,,,white,,2022-10-12,45.0,,,1970-01-01,45.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,90879,CH,de,112317_570x570.jpg,https://www.useagain.ch/de/wc-jika-haengend-90879,D09.05,WC,,,,"{'score': 0.9795840382575989, 'start': 126, 'end': 134, 'answer': ' Keramik'}","{'score': 0.31331127882003784, 'start': 47, 'end': 73, 'answer': ' H: H:35cm B:36cm L:53.5cm'}","{'score': 0.03251044824719429, 'start': 47, 'end': 73, 'answer': ' H: H:35cm B:36cm L:53.5cm'}",Pisé,Sedge,Pr_45_31_63_76,"Roof, Slabs, Stairs","Covering, Finish","Lighting columns, brackets and bollards"
+1743,2594,2594,Kurbelstange,"used, cleaned & tested","['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 120 cm, B: 2 cm, T: 2 cm
+Mängel: Gebrauchsspuren
+Material: Kunststoff/Metall
+Zustand: occasion/gebraucht
+
+Artikelnr:  1122361",Mixed,2.0,2.0,120,,,mixed,,2022-09-28,35.0,,,1970-01-01,35.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,90619,CH,de,112261_570x570.jpg,https://www.useagain.ch/de/kurbelstange-90619,D11,,,,,"{'score': 0.8996145129203796, 'start': 118, 'end': 136, 'answer': ' Kunststoff/Metall'}","{'score': 0.8097623586654663, 'start': 56, 'end': 84, 'answer': ' H: 120 cm, B: 2 cm, T: 2 cm'}","{'score': 0.3316192626953125, 'start': 56, 'end': 84, 'answer': ' H: 120 cm, B: 2 cm, T: 2 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1849,2700,2700,et,like new,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"Stock de pièces (env. 2600) GEBERIT PE et SILENT (coudes, embranchements, manchons, collerettes etc).
+Matériel neuf. Reprise du lot entier (pas de vente à la pièce).
+Prix à convenir sur place lors de la visite (prendre rdv au préalable).
+Pour rdv: 022 792 73 76 (du lundi au vendredi, de 8h à 12h).",,,,,,,,,2022-09-30,1.0,,,1970-01-01,1.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Les Acacias, 1227",,useagain,90630,CH,de,img_0406_570x570.jpg,https://www.useagain.ch/de/geberit-pe-et-silent-90630,E02,,,,,"{'score': 0.1267743706703186, 'start': 101, 'end': 116, 'answer': '\nMatériel neuf.'}","{'score': 2.7647893148241565e-06, 'start': 48, 'end': 101, 'answer': ' (coudes, embranchements, manchons, collerettes etc).'}","{'score': 0.37305042147636414, 'start': 15, 'end': 27, 'answer': ' (env. 2600)'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Other
+1914,2765,2765,:,used & cleaned,"['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"ZUMTOBEL FL: TECTON 1/58W T26 WH für Einbau in Schiene, + 2 Stk noch orig verpackt; 1 x 58 Watt",Mixed,,,,,,,,,25.0,,,1970-01-01,25.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,76865,CH,de,20170915_142434_570x570.jpg,https://www.useagain.ch/de/zumtobel-fl-tecton-1-58w-t26-wh-76865,D01,,,,,"{'score': 0.018134979531168938, 'start': 12, 'end': 32, 'answer': ' TECTON 1/58W T26 WH'}","{'score': 0.022873707115650177, 'start': 83, 'end': 95, 'answer': ' 1 x 58 Watt'}","{'score': 0.2584500014781952, 'start': 83, 'end': 95, 'answer': ' 1 x 58 Watt'}",Pisé,Sedge,Pr_45_31_63_76,Other,"Covering, Finish",Other
+2008,2860,2860,Holztäfer,used & cleaned,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,Täfer aus Abbruch - in gutem Zustand ohne Verletzungen der Nut,Wood,240.0,8.0,"0,1",,,,,,1.0,,,1970-01-01,1.0,1970-01-01 00:00:00.002,0.0,1.0,165.0,"Oberdiessbach, 3672",,useagain,91368,CH,de,img_8284_570x570.jpg,https://www.useagain.ch/de/holztaefer-91368,E02,paneling,,,,"{'score': 0.647502064704895, 'start': 9, 'end': 17, 'answer': ' Abbruch'}","{'score': 0.0007439543260261416, 'start': 0, 'end': 5, 'answer': 'Täfer'}","{'score': 0.01227985043078661, 'start': 0, 'end': 5, 'answer': 'Täfer'}",Lignite,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2126,2982,2982,Dampfabzug-Dunstabzugshaube,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Unterbauhaube
+Hersteller: Miele
+Modell: DA 1255
+Jahrgang: 2017
+Farbe: Edelstahl
+Bauform: Einbau / CH-Norm
+Betrieb: Abluft (Umfluft mit Aktivkohlefilter möglich)
+LED-Beleuchtung
+Stutzen ² 12 cm
+Anschluss: 230V
+Ohne Montagematerial",,,,,,,,,2022-12-08,110.0,,,1970-01-01,110.0,1970-01-01 00:00:00.000,0.0,1.0,5.0,"Brügg, 2555",,useagain,91477,CH,de,_dsc9642_570x570.jpg,https://www.useagain.ch/de/dampfabzug-dunstabzugshaube-91477,H03.05,cooker hood,,,,"{'score': 0.1921052485704422, 'start': 69, 'end': 79, 'answer': ' Edelstahl'}","{'score': 0.013971524313092232, 'start': 186, 'end': 192, 'answer': ' 12 cm'}","{'score': 3.525618012645282e-05, 'start': 184, 'end': 192, 'answer': ' ² 12 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+2239,3097,3097,Deckentäfelung,,"['G02.02', 'G03.02']",Building fit-out,,Ausbau,Boden - & Wandbeläge,Holzbeläge,"Deckentäfelung in den 90er eingebaut.  Tafelung 22cm breit per Klippssytsem auf Latten montiert dazwischen mit Stryropor ausgedämmt.
+
+Decke: 10m2 (4m x 2.45m)
+Wand:: 11.5m2 (5m x h:2.3m)
+
+Es muss alles sorgfältig demontiert und mitgenommen werden.",Wood,,,,,,,,2023-01-09,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,0.0,1.0,26.0,"Reinach, 4153",,useagain,91599,CH,de,p1010097_570x570.jpg,https://www.useagain.ch/de/deckentaefelung-91599,G,,,,,"{'score': 9.237111953552812e-05, 'start': 110, 'end': 120, 'answer': ' Stryropor'}","{'score': 0.028129763901233673, 'start': 140, 'end': 158, 'answer': ' 10m2 (4m x 2.45m)'}","{'score': 8.774904563324526e-05, 'start': 140, 'end': 145, 'answer': ' 10m2'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+2328,3379,3379,Pavés,used,"['G02.02', 'G03.02']",Building fit-out,Sol et plafond,Ausbau,Boden - & Wandbeläge,Holzbeläge,Panneau Trespa en bon état avec des trous sur les extrémités pour cacher le système de fixation,Stone,0.0,10.0,10,,210kg,,,,135.0,0.0,40.0,1970-01-01,135.0,1970-01-01 00:00:00.000,8.0,1.0,48.0,,MAD,materiuum,2206-4299,CH,fr,['https://materiuum.ch/wp-content/uploads/2022/12/2206-4299-a-1.jpg'],https://materiuum.ch/produit/393-16/,G,paving stones,,,,"{'score': 0.7840142846107483, 'start': 7, 'end': 14, 'answer': ' Trespa'}","{'score': 0.0043163541704416275, 'start': 0, 'end': 14, 'answer': 'Panneau Trespa'}","{'score': 0.00012213877926114947, 'start': 0, 'end': 14, 'answer': 'Panneau Trespa'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+2433,3615,3615,Pissoir,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Garantie: ohne Garantie
+Lochabstand: 30 cm 
+Masse: H: 51 cm B: 50 cm T: 51 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 91699",,,,,,,,,2022-10-24,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,9.0,"Münchenstein, 4142",,useagain,91111,CH,de,91699_570x570.jpg,https://www.useagain.ch/de/pissoir-91111,D09.05,urinal,,,,"{'score': 0.9863893985748291, 'start': 130, 'end': 138, 'answer': ' Keramik'}","{'score': 0.6710672974586487, 'start': 69, 'end': 96, 'answer': ' H: 51 cm B: 50 cm T: 51 cm'}","{'score': 0.001321014598943293, 'start': 69, 'end': 78, 'answer': ' H: 51 cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2445,3628,3628,Dunstabzug -,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Baujahr:  keine Angaben
+Hersteller: Wesco
+Garantie: 6 Monate Garantie
+Masse: B:90cm,T:33,5cm
+Mängel: keine Mängel
+Spannung: 230 V
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111356",,33.0,90.0,,,,,,2023-01-27,499.0,,,1970-01-01,499.0,1970-01-01 00:00:00.000,0.0,1.0,32.0,"Münchenstein, 4142",,useagain,91789,CH,de,111356_%281%29_570x570.jpg,https://www.useagain.ch/de/dunstabzug-wesco-evm-210-90-91789,H03.05,cooker hood,,,,"{'score': 3.3110006825154414e-06, 'start': 92, 'end': 113, 'answer': '\nMängel: keine Mängel'}","{'score': 0.7453892827033997, 'start': 76, 'end': 92, 'answer': ' B:90cm,T:33,5cm'}","{'score': 0.432134747505188, 'start': 76, 'end': 92, 'answer': ' B:90cm,T:33,5cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+2535,3718,3718,Pissoir,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Lochabstand: 31cm
+Masse: H: 55cm B: 45cm T: 47cm
+Mängel: keine Mängel
+Material: Keramik
+Montage: Wandmontage
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112001",Ceramic,47.0,45.0,55,,,white,,2023-02-02,80.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,90.0,"Münchenstein, 4142",,useagain,91822,CH,de,112001_570x570.jpg,https://www.useagain.ch/de/pissoir-91822,D09.05,urinal,,,,"{'score': 0.9897878170013428, 'start': 79, 'end': 87, 'answer': ' Keramik'}","{'score': 0.25732555985450745, 'start': 24, 'end': 48, 'answer': ' H: 55cm B: 45cm T: 47cm'}","{'score': 8.21622961666435e-05, 'start': 27, 'end': 32, 'answer': ' 55cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2551,3734,3734,Div . Seife Halter,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Garantie: ohne Garantie
+Montage: Wandmontage
+Material: Edelstahl
+Mängel: keine Mängel
+Zustand: Occasion/gebraucht
+
+Artikel Nr:111990",,,,,,,,,2023-02-06,2.0,,,1970-01-01,1.0,2023-09-25 00:00:00.000,-1.0,1.0,90.0,"Münchenstein, 4142",,useagain,91862,CH,de,111990_570x570.jpg,https://www.useagain.ch/de/div.-seife-halter-91862,,,,,,"{'score': 0.9883386492729187, 'start': 54, 'end': 64, 'answer': ' Edelstahl'}","{'score': 0.016877973452210426, 'start': 32, 'end': 44, 'answer': ' Wandmontage'}","{'score': 0.000796388485468924, 'start': 114, 'end': 132, 'answer': '\nArtikel Nr:111990'}",Silt,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Support and restraint products
+2910,4106,4106,Mitigeur,used,['Sonstiges'],,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,,Entraxe : 13cm,Stainless steel,0.0,18.0,21.5,,,,,,15.0,0.0,0.0,1970-01-01,15.0,1970-01-01 00:00:00.000,10.0,1.0,14.0,,MAD,materiuum,2209-5013,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/01/2209-5013-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2209-5013-b-600x800.jpg']",https://materiuum.ch/produit/394-45/,,mixer faucet,,,,"{'score': 0.06203758716583252, 'start': 0, 'end': 7, 'answer': 'Entraxe'}","{'score': 0.24710853397846222, 'start': 0, 'end': 14, 'answer': 'Entraxe : 13cm'}","{'score': 0.1058671623468399, 'start': 9, 'end': 14, 'answer': ' 13cm'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Masonry walling units
+2932,4130,4130,Pissoir hängend,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Pissoir hängend von der Marke, Laufen",Ceramic,35.0,40.0,78,,,white,,2023-03-20,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.000,0.0,1.0,12.0,"Münchenstein, 4142",,useagain,92249,CH,de,112103_570x570.jpg,https://www.useagain.ch/de/pissoir-haengend-92249,D09.05,urinal,,,,"{'score': 0.770409107208252, 'start': 30, 'end': 37, 'answer': ' Laufen'}","{'score': 0.00011888901644852012, 'start': 0, 'end': 15, 'answer': 'Pissoir hängend'}","{'score': 0.00015932133828755468, 'start': 0, 'end': 15, 'answer': 'Pissoir hängend'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2984,4182,4182,gerade Einbautreppe mit Massivholztritten Buche u Metallwangen,used,"['C01.04', 'C04.02', 'C04.06', 'D12.04', 'I02.04']","Suspended structural slabs, roof structure",,Ausbau,Geländer & Treppen,Treppen & Rampen,"sehr gut erhaltene gerade Einbautreppe mit Massivholztritten (Buche D: 4cm) u Metallwangen; 12 Tritte (Laufbreite: 84,5 cm / mit Wangen: 100cm); Grundmass: ( Schattenwurf am Boden): 274cm ( inkl. längerem Austritt ( 79,5cm) - kann ev auf normale Tritt tiefe gekürzt weren-&gt; Felxen u Schwiessen?; Auftritt: 22,5 cm ( Tritttiefe); Steigung Bzw Tritthöhe: 21cm; inkl. schrägem Geländer,
+ + L-Geländer für oben B: 105 cm L: 185cm, -&gt; 3 von 5 Füssen müssen wieder angeschweisst werden-&gt; s auch PDF für Masse unten angehängt
+
+
+intern: Nr: 3094; ID: 19120; HP: 92278",Mixed,274.0,100.0,251,,,,,2023-03-22,1850.0,,,1970-01-01,1850.0,1970-01-01 00:00:00.002,0.0,1.0,45.0,,,useagain,92278,CH,de,img_9251_570x570.jpg,https://www.useagain.ch/de/gerade-einbautreppe-mit-massivholztritten-buche-u-metallwangen-92278,C04,stairs,,,,"{'score': 0.26478880643844604, 'start': 42, 'end': 67, 'answer': ' Massivholztritten (Buche'}","{'score': 0.04428815841674805, 'start': 144, 'end': 187, 'answer': ' Grundmass: ( Schattenwurf am Boden): 274cm'}","{'score': 2.553640297264792e-05, 'start': 91, 'end': 101, 'answer': ' 12 Tritte'}",Gravel,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+3130,4333,4333,Chaudière,"used, cleaned & tested","['D05.01', 'D05.02', 'I05.03']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Wärmeerzeugung,Chaudière à gaz avec grand boiler adapté pour chauffage de l'eau par panneaux thermiques.,Aluminum,,,,,,white,C,,1000.0,,,1970-01-01,1000.0,2023-09-25 00:00:00.000,0.0,1.0,15.0,"Blonay, 1807",,useagain,92405,CH,de,chaudirewolf_570x570.jpg,https://www.useagain.ch/de/chaudiere-wolf-cgb-k-20-92405,D05,,,,,"{'score': 0.30842992663383484, 'start': 68, 'end': 77, 'answer': ' panneaux'}","{'score': 8.975077798822895e-05, 'start': 0, 'end': 33, 'answer': 'Chaudière à gaz avec grand boiler'}","{'score': 0.0009836505632847548, 'start': 20, 'end': 33, 'answer': ' grand boiler'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+3232,4442,4442,Alu Briefkastenanlage er ohne Milchkästli,used,"['I06.01', 'I06.02', 'I06.03', 'I06.04']",External furnishings,,Umgebung,Garten & Aussenbereich,Fertigteile & Geräte,"sehr gut erhaltener Briefkasten; 6-er horizontal, mit nur 1 Türli -ohne Milchkästli bzw Paketablagefächli ; (ev besteht die Möglichkeit neue Türli ( 2-teilig) zu kaufen, da innen ein fester Boden existiert, das Schlössli könnte übernommen werden, ( Preis dafür?) je 1-3 Schlüsselvorhanden, war nur für interne Post im Hausinnern eingestzt worden div Farben u Grössen siehe weitere Angebote Â  Preis ist Fr. 60.--/Fach
+intern: Nr: 3140; ID: 19237 ; HP 92455",Aluminum,38.0,126.0,61,,,yellow,,2023-04-29,360.0,,,1970-01-01,360.0,2023-09-25 00:00:00.000,0.0,1.0,9.0,,,useagain,92455,CH,de,20230427_101513_570x570.jpg,https://www.useagain.ch/de/alu-briefkastenanlage-6er-ohne-milchkaestli-92455,I06,,,,,"{'score': 9.951330139301717e-05, 'start': 345, 'end': 366, 'answer': ' div Farben u Grössen'}","{'score': 0.00608696136623621, 'start': 345, 'end': 366, 'answer': ' div Farben u Grössen'}","{'score': 0.07238917797803879, 'start': 57, 'end': 65, 'answer': ' 1 Türli'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+3345,4558,4559,Stalllampe,gebraucht & gereinigt,"['D01.05', 'J01.03']",,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Stalllampe D: 20cm, keine Abplatzungen am Emailleschirm, laufend weitere an lager--&gt; fragen Sie danach im BauTeilLaden Wintethur 052 - 238 27 00",Ceramic,,,,20,,,,2022-09-30,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,,0.0,4.0,,,,73944,,,20170509_104743_570x570.jpg,https://www.useagain.ch/de/stalllampe-73944,,,,,,"{'score': 0.01874815858900547, 'start': 41, 'end': 56, 'answer': ' Emailleschirm,'}","{'score': 0.12297466397285461, 'start': 10, 'end': 19, 'answer': ' D: 20cm,'}","{'score': 0.011530675925314426, 'start': 13, 'end': 19, 'answer': ' 20cm,'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+3527,4761,4762,Stalllampe,used & cleaned,"['D01.05', 'J01.03']",,Electricités et luminaires,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Stalllampe D: 20cm, keine Abplatzungen am Emailleschirm, laufend weitere an lager--&gt; fragen Sie danach im BauTeilLaden Wintethur 052 - 238 27 00",Keramik,,,,20,,,,2022-09-30,,,,,,2023-09-25 00:00:00.000,,0.0,,,,useagain,73944,CH,de,20170509_104743_570x570.jpg,https://www.useagain.ch/de/stalllampe-73944,,lamp,50.0,,,"{'score': 0.01874815858900547, 'start': 41, 'end': 56, 'answer': ' Emailleschirm,'}","{'score': 0.12297466397285461, 'start': 10, 'end': 19, 'answer': ' D: 20cm,'}","{'score': 0.011530675925314426, 'start': 13, 'end': 19, 'answer': ' 20cm,'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+3955,5359,5360,Badarmatur,"used, cleaned & tested",['D08.05'],"Water: control fittings, appliances",Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Armaturen,"Lochabstand: 15.2cm
+
+Art. Nr.: 113749",Stahl,,,,,,,,2023-08-31,,,,,45.0,2023-09-25 00:00:00.000,,0.0,,"Münchenstein, 4142",,useagain,93304,CH,de,113749_570x570.jpg,https://www.useagain.ch/de/badarmatur-93304,D08.05,plumbing fixture,45.0,,,"{'score': 0.009978286921977997, 'start': 30, 'end': 37, 'answer': ' 113749'}","{'score': 0.14750836789608002, 'start': 12, 'end': 19, 'answer': ' 15.2cm'}","{'score': 0.006253676488995552, 'start': 30, 'end': 37, 'answer': ' 113749'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+3966,5370,5371,Pissoir,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",Sanitaires,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Masse: H: 8.5 cm B: 37/38 cm T: 79
+Lochabstand: 25.5 cm
+
+Art. Nr.: 113335",Keramik,,37.0,79,,,white,,2023-08-14,,,,,30.0,2023-09-25 00:00:00.000,,0.0,,"Münchenstein, 4142",,useagain,93089,CH,de,113335_570x570.jpg,https://www.useagain.ch/de/pissoir-93089,D09.05,urinal,30.0,,,"{'score': 0.0031950047705322504, 'start': 56, 'end': 66, 'answer': '\nArt. Nr.:'}","{'score': 0.2654323875904083, 'start': 6, 'end': 34, 'answer': ' H: 8.5 cm B: 37/38 cm T: 79'}","{'score': 0.2109764665365219, 'start': 66, 'end': 73, 'answer': ' 113335'}",Pisé,Sedge,Pr_45_31_63_76,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories

@@ -1,0 +1,30 @@
+,Code,report,features
+0,Refrigerators,"              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        16
+
+    accuracy                           1.00        16
+   macro avg       1.00      1.00      1.00        16
+weighted avg       1.00      1.00      1.00        16
+","                                           Feature  Importance
+3                                           Height    0.471569
+7                                 Material_Lignite    0.235081
+1                                           Length    0.223699
+2                                            Width    0.069651
+0                                            Price    0.000000
+13                 first_level_Roof, Slabs, Stairs    0.000000
+19      second_level_Stairs, Ramps, Lift, Hardware    0.000000
+18                              second_level_Other    0.000000
+17                        second_level_Furnishings    0.000000
+16               second_level_Door, Windows, Gates    0.000000
+15     second_level_Blocks, Panels, Fences, Bricks    0.000000
+14             first_level_Wall, Barriers, Pannels    0.000000
+10                              Code_Refrigerators    0.000000
+12                               first_level_Other    0.000000
+11                         first_level_Furnishings    0.000000
+9           Material_Thermoplastic elastomer resin    0.000000
+8                                    Material_Silt    0.000000
+6                        Material_Insulating glass    0.000000
+5                                 Material_Ammonia    0.000000
+4                   Material_Air-cooled steel slag    0.000000
+20  third_level_Space heating and cooling products    0.000000"

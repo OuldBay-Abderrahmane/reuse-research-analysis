@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Wall, Barriers, Pannels","              precision    recall  f1-score   support
+
+           0       0.94      0.62      0.75        48
+           1       0.92      0.99      0.95       196
+
+    accuracy                           0.92       244
+   macro avg       0.93      0.81      0.85       244
+weighted avg       0.92      0.92      0.91       244
+","                                 Feature  Importance
+266                     Material_Keramik    0.120502
+184                  Condition_neuwertig    0.115582
+270                      Material_Metall    0.102433
+177                  Condition_gebraucht    0.072816
+178      Condition_gebraucht & gereinigt    0.072376
+..                                   ...         ...
+111            Swiss_Raw_Porcelain tiles    0.000000
+112                 Swiss_Raw_Post boxes    0.000000
+113         Swiss_Raw_Protective fencing    0.000000
+114           Swiss_Raw_Pump accessories    0.000000
+290  first_level_Wall, Barriers, Pannels    0.000000
+
+[291 rows x 2 columns]"

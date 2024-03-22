@@ -1,0 +1,27 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+504,4058075433267,"° , Watt dimmable",0.3,kg,pc,"
+Socket: E27
+Dimensions: 113mm H x 80mm
+Watt: 9,6 watt (eq. 100watt)
+Lumens: 670 lm
+Colour: warm white (2 700K)
+Life Span: 25 000 H
+Dimmable : Yes
+",Lighting,https://rotordc.com/shop/product/4058075433267-led-r80-36-9-1-watt-dimmable-35259?page=6&category=39,,9.79,15.0,,,,,,,,,,5.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.00014162504521664232, 'start': 91, 'end': 102, 'answer': ' warm white'}","{'score': 0.8885165452957153, 'start': 24, 'end': 39, 'answer': ' 113mm H x 80mm'}","{'score': 0.2385278195142746, 'start': 45, 'end': 49, 'answer': ' 9,6'}",Halon,Wattmeters,Pr_80_51_51_98,Technical elements,Other,Power and lighting outlet products,0.2385278195142746,,,,
+505,4058075449602,"° , Watt dimmable",0.3,kg,pc,"
+Socket: E27
+5,9 watt, 345 lumens
+Dimmable: Yes
+Temp: 2700K warm white
+lifespan: 25.000h
+",Lighting,https://rotordc.com/shop/product/4058075449602-led-r80-36-5-9-watt-dimmable-35258?page=6&category=39,,14.75,14.0,,,,,,,,,2022-08-06,0.0,,2022-08-02,BE,rotordc,fr,1,4.0,"{'score': 7.5106950134795625e-06, 'start': 70, 'end': 80, 'answer': '\nlifespan:'}","{'score': 0.023626936599612236, 'start': 8, 'end': 12, 'answer': ' E27'}","{'score': 0.47480928897857666, 'start': 12, 'end': 22, 'answer': '\n5,9 watt,'}",Halon,Wattmeters,Pr_80_51_51_98,Technical elements,Other,Power and lighting outlet products,0.47480928897857666,,,,4.0
+506,4052899957527,", bulb , watt degrees",0.3,kg,pc,"
+6,1 watt LED for 350 lumens (replaces 35 watt halogen) Dimmable
+",Lighting,https://rotordc.com/shop/product/4052899957527-gu-5-3-bulb-6-1-watt-35-degrees-34959?page=6&category=39,,7.2,7.0,,6.0,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.004569081589579582, 'start': 55, 'end': 64, 'answer': ' Dimmable'}","{'score': 0.10921046137809753, 'start': 55, 'end': 64, 'answer': ' Dimmable'}","{'score': 0.6660371422767639, 'start': 1, 'end': 9, 'answer': '6,1 watt'}",Halon,Wattmeters,Pr_80_51_51_98,Other,Other,Power and lighting outlet products,0.6660371422767639,,,,146.0
+1149,4058075609457,"° , Watt dimmable",0.3,kg,pc,"
+Socket: E27
+5,9 watt, 345 lumens
+Dimmable: Yes
+Temp: 2700K warm white
+lifespan: 25.000h
+",Lighting,https://rotordc.com/shop/product/4058075609457-led-r80-36-5-9-watt-dimmable-35258?page=13&category=39,"['35258_9a7c994.png', '7433_89fc28b.png']",14.75,18.0,,,,,,,,,,3.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 7.5106950134795625e-06, 'start': 70, 'end': 80, 'answer': '\nlifespan:'}","{'score': 0.023626936599612236, 'start': 8, 'end': 12, 'answer': ' E27'}","{'score': 0.47480928897857666, 'start': 12, 'end': 22, 'answer': '\n5,9 watt,'}",Halon,Wattmeters,Pr_80_51_51_98,Technical elements,Other,Power and lighting outlet products,0.47480928897857666,,,,

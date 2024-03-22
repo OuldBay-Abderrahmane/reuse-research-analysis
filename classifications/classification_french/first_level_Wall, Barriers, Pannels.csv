@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Wall, Barriers, Pannels","              precision    recall  f1-score   support
+
+           0       0.83      0.87      0.85       181
+           1       0.87      0.83      0.85       192
+
+    accuracy                           0.85       373
+   macro avg       0.85      0.85      0.85       373
+weighted avg       0.85      0.85      0.85       373
+","                                              Feature  Importance
+565                        location_NEUILLY-SUR-SEINE    0.063610
+540                                  location_EPERNAY    0.037350
+511                                  location_AUBAGNE    0.028044
+574                 location_PARIS-15E-ARRONDISSEMENT    0.027865
+576                 location_PARIS-1ER-ARRONDISSEMENT    0.023402
+...                                               ...         ...
+365                           BIM_class_D.20.10.04.1e    0.000000
+366                           BIM_class_D.20.10.04.1g    0.000000
+367                           BIM_class_D.20.10.04.2b    0.000000
+368                           BIM_class_D.20.10.04.2d    0.000000
+1026  third_level_Wire structure and general products    0.000000
+
+[1027 rows x 2 columns]"

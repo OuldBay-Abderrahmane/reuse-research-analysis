@@ -1,0 +1,169 @@
+,Feature,Importance
+8,Material_Blinding aggregates,0.08812055
+114,Code_Recessed luminaires,0.057356045
+122,Code_Sprigs,0.054567754
+108,Code_Pendant luminaires,0.05177096
+0,Price,0.04679884
+36,Material_Reflective glass,0.044189602
+137,Code_Trellises,0.043488815
+14,Material_Coloured glass,0.039441828
+61,Code_Ceiling light switches,0.0382115
+1,Length,0.032118257
+86,Code_Grommets,0.031062456
+19,Material_Encaustic,0.030698003
+158,first_level_Technical elements,0.028373772
+34,Material_Pisé,0.025370128
+89,Code_Lacquers,0.024726944
+156,"first_level_Roof, Slabs, Stairs",0.024020398
+66,Code_Column casings,0.023865117
+160,"second_level_Blocks, Panels, Fences, Bricks",0.023762723
+123,Code_Sprinklers,0.023141166
+155,first_level_Other,0.023135161
+6,Material_Architectural glass,0.019427877
+2,Width,0.018093904
+50,Code_Arrises,0.017741324
+27,Material_Gravel,0.016266374
+37,Material_Sheet,0.015849074
+161,"second_level_Covering, Finish",0.0154169
+165,second_level_Other,0.014592859
+153,first_level_Furnishings,0.013130996
+164,second_level_Furnishings,0.013091
+39,Material_Sitka spruce,0.013056275
+38,Material_Silt,0.013011576
+3,Height,0.011922555
+159,"first_level_Wall, Barriers, Pannels",0.011303486
+118,Code_Sedge,0.011018648
+163,"second_level_Floors, Ceiling",0.010095329
+57,Code_Bolsters,0.009383022
+48,Material_Wood,0.007850729
+29,Material_Lignite,0.005721214
+154,first_level_Openings,0.004718237
+17,Material_Decorative aggregates,0.004088612
+101,Code_Mounting brackets,0.0
+99,Code_Metal spacers assemblies,0.0
+121,Code_Spotlights,0.0
+120,Code_Special lamps,0.0
+119,Code_Solar-powered illuminated bollards,0.0
+117,Code_Scagliola,0.0
+116,Code_Roses,0.0
+115,Code_Rigid pendants,0.0
+100,Code_Metal sways,0.0
+98,Code_Metal skirtings,0.0
+105,Code_Nave lecterns,0.0
+113,Code_Rack cabinets,0.0
+112,Code_Projectors,0.0
+97,Code_Metal bollards,0.0
+111,Code_Porcelain tiles,0.0
+110,Code_Plastics lighting bollards,0.0
+109,Code_Pillar hinges,0.0
+102,Code_Murals,0.0
+107,Code_Office tables,0.0
+103,Code_Museum showcases,0.0
+104,Code_Natural stone quoins,0.0
+106,Code_Occasional tables,0.0
+135,Code_Sundials,0.0
+124,Code_Stage curtains,0.0
+125,Code_Stainless steel balusters and newel posts,0.0
+166,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+162,"second_level_Door, Windows, Gates",0.0
+157,first_level_Structural elements,0.0
+152,Code_Zinc plating,0.0
+151,Code_Wood veneers,0.0
+150,Code_Wood skirtings,0.0
+149,Code_Wood lathings,0.0
+148,Code_Wood brise-soleil louvre blades,0.0
+147,Code_Wood architraves,0.0
+146,Code_Wind direction indicator products,0.0
+145,Code_Whiteboards,0.0
+144,Code_Wheel lathes,0.0
+143,Code_Vertical extended spindles,0.0
+142,Code_Vertical balers,0.0
+141,Code_Vases,0.0
+140,Code_Unframed glass mirrors,0.0
+139,Code_Tubular fluorescent lamps,0.0
+138,Code_Trickle vents,0.0
+136,Code_Surface luminaires,0.0
+95,Code_Lighting cornices,0.0
+134,Code_Stone slabs,0.0
+133,Code_Stilling tubes,0.0
+132,Code_Steel spiles,0.0
+131,Code_Steel lighting columns,0.0
+130,Code_Steel lighting bollards,0.0
+129,Code_Stainless steel wire ropes,0.0
+128,Code_Stainless steel structural beams,0.0
+127,Code_Stainless steel doorsets,0.0
+126,Code_Stainless steel bench units,0.0
+96,Code_Luminous paints,0.0
+84,Code_Garden ornaments,0.0
+94,Code_Light tables,0.0
+93,Code_Lecterns,0.0
+28,Material_Hydraulic road binder bound mixtures,0.0
+30,Material_Loose surfacing decorative aggregates,0.0
+31,Material_Mahogany,0.0
+32,Material_Metal,0.0
+33,Material_Non-reflective glass,0.0
+35,Material_Porcelain,0.0
+40,Material_Spruce,0.0
+41,Material_Stainless steel,0.0
+42,Material_Steel,0.0
+43,Material_Stone,0.0
+44,Material_Tabby,0.0
+45,Material_Terracotta,0.0
+46,Material_Weathering steel,0.0
+47,Material_White poplar,0.0
+49,Material_Zinc,0.0
+26,Material_Graphite,0.0
+25,Material_Granule,0.0
+24,Material_Gneiss,0.0
+12,Material_Cast iron,0.0
+4,Material_Aerogel,0.0
+5,Material_Air-cooled steel slag,0.0
+7,Material_Barytes aggregates,0.0
+9,Material_Blinding coarse aggregates,0.0
+10,Material_Borosilicate glass,0.0
+11,Material_Brass,0.0
+13,Material_Ceramic,0.0
+23,Material_Galvanized steel,0.0
+15,Material_Copper,0.0
+16,Material_Daub,0.0
+18,Material_Dolomite,0.0
+20,Material_Fibreglass,0.0
+21,Material_Figured glass,0.0
+22,Material_Fir,0.0
+51,Code_Artwork products,0.0
+52,Code_Auditorium chairs,0.0
+53,Code_Barometers,0.0
+82,Code_Flush bolts,0.0
+76,Code_Double slips,0.0
+77,Code_Double-capped tubular LED lamps,0.0
+78,Code_Downlights,0.0
+79,Code_Fixed hoists,0.0
+80,Code_Flannels,0.0
+81,Code_Floating decanters,0.0
+83,Code_Framed rooflights,0.0
+74,Code_Desks,0.0
+85,Code_Glazed half-height turnstiles,0.0
+87,Code_Ground-recessed luminaires,0.0
+88,Code_Hardwood beams,0.0
+90,Code_Lamprey plates,0.0
+91,Code_Lamps,0.0
+92,Code_Lantern lights,0.0
+75,Code_Double luminaires lighting columns,0.0
+73,Code_Demountable podiums and staging,0.0
+54,Code_Bathroom mirrors,0.0
+63,Code_Chandeliers,0.0
+55,Code_Beams and joists,0.0
+56,Code_Bidets,0.0
+58,Code_Buoys,0.0
+59,Code_Cabinet and countertop hinges,0.0
+60,Code_Cast brass glass fixing brackets,0.0
+62,Code_Ceramic slates,0.0
+64,Code_Circlips,0.0
+72,Code_Decorative facings,0.0
+65,Code_Coat racks,0.0
+67,Code_Container-grown cutting-raised roses,0.0
+68,Code_Container-grown shrubs,0.0
+69,Code_Copal resins,0.0
+70,Code_Copper brackets,0.0
+71,Code_Copper plating,0.0
+167,"third_level_Lighting columns, brackets and bollards",0.0

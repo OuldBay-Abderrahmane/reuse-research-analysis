@@ -1,0 +1,23 @@
+,Code,report,features
+0,Arrises,"              precision    recall  f1-score   support
+
+           0       1.00      0.25      0.40         4
+           1       0.85      1.00      0.92        17
+
+    accuracy                           0.86        21
+   macro avg       0.93      0.62      0.66        21
+weighted avg       0.88      0.86      0.82        21
+","                              Feature  Importance
+56                     Material_Metal    0.193211
+17           Condition_used & cleaned    0.182667
+18   Condition_used, cleaned & tested    0.163476
+5      Category_Baustoffe & Werkzeuge    0.118042
+7   Category_Gebäudetechnik & Sanitär    0.080723
+..                                ...         ...
+30         Subcategory_Läden & Storen    0.000000
+31                  Subcategory_Möbel    0.000000
+33              Subcategory_Sonstiges    0.000000
+34                 Subcategory_Spülen    0.000000
+64                  Material_gemischt    0.000000
+
+[65 rows x 2 columns]"

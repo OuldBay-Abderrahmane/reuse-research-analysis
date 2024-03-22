@@ -1,0 +1,53 @@
+,Code,report,features
+0,Sedge,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         2
+           1       0.78      1.00      0.88         7
+
+    accuracy                           0.78         9
+   macro avg       0.39      0.50      0.44         9
+weighted avg       0.60      0.78      0.68         9
+","                                 Feature  Importance
+16      Condition_used, cleaned & tested    0.390331
+2                                 Length    0.308686
+0                              LastPrice    0.300983
+32                   Subcategory_Zubehör    0.000000
+25                     Subcategory_Möbel    0.000000
+26                 Subcategory_Sonstiges    0.000000
+27          Subcategory_Treppen & Rampen    0.000000
+28                Subcategory_WC-Anlagen    0.000000
+29           Subcategory_WCs - Toiletten    0.000000
+30      Subcategory_Waschtisch & Lavabos    0.000000
+31            Subcategory_Wärmeerzeugung    0.000000
+33                     Material_Aluminum    0.000000
+23                Subcategory_Holzbeläge    0.000000
+34                      Material_Ceramic    0.000000
+35                        Material_Glass    0.000000
+36                      Material_Keramik    0.000000
+37                        Material_Mixed    0.000000
+38                        Material_Stahl    0.000000
+39              Material_Stainless steel    0.000000
+40                        Material_Stone    0.000000
+41                         Material_Wood    0.000000
+24         Subcategory_Leuchten & Lampen    0.000000
+21               Subcategory_Dachfenster    0.000000
+22      Subcategory_Fertigteile & Geräte    0.000000
+1                               Quantity    0.000000
+3                                  Width    0.000000
+4                        Category_Ausbau    0.000000
+5         Category_Baustoffe & Werkzeuge    0.000000
+6   Category_Gebäudehülle & Konstruktion    0.000000
+7      Category_Gebäudetechnik & Sanitär    0.000000
+8                     Category_Sonstiges    0.000000
+9                      Category_Umgebung    0.000000
+10                       Swiss_Raw_Sedge    0.000000
+11       Condition_gebraucht & gereinigt    0.000000
+12                    Condition_like new    0.000000
+13                       Condition_mixed    0.000000
+14                        Condition_used    0.000000
+15              Condition_used & cleaned    0.000000
+17         Subcategory_Apparate & Geräte    0.000000
+18                 Subcategory_Armaturen    0.000000
+19        Subcategory_Badewanne & Dusche    0.000000
+20                 Subcategory_Baustoffe    0.000000
+42                   Energy_Efficiency_C    0.000000"

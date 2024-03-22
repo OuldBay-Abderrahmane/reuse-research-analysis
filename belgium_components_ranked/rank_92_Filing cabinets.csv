@@ -1,0 +1,35 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+114,181FUR002,Cabinet drawers from Durobor factory,5.0,kg,pc,"
+Cabinet drawers in wood from Durobor factory in Soignies (Hainaut).  Dimensions (may slightly vary):Height : 9.5 cmLength: 53 cmWidth : 40 cmUsed condition (may have visible scratches, traces of paint and damaged on the wood structure). Dusty, needs to be cleaned.Only available in our shop
+",Furniture,https://rotordc.com/shop/product/181fur002-cabinet-drawers-from-durobor-factory-59167?page=2&category=35,,3.0,3.0,,,,,,,,,2022-10-28,0.0,,2022-08-02,BE,rotordc,fr,1,87.0,"{'score': 0.9712100028991699, 'start': 19, 'end': 24, 'answer': ' wood'}","{'score': 0.5682438015937805, 'start': 94, 'end': 146, 'answer': ' vary):Height : 9.5 cmLength: 53 cmWidth : 40 cmUsed'}","{'score': 0.0004601573455147445, 'start': 1, 'end': 24, 'answer': 'Cabinet drawers in wood'}",Sitka spruce,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Furnishings,0.0004601573455147445,,,,87.0
+182,999HAR938,Cabinet handles in plastic,0.01,kg,pc,"
+Dimensions:Width: 4,5 cmHeight: 3,2 cmDepth: 3 cmDistance between fixation holes: 3,2cmGood used conditions. There are imperfections such as scratches and colour variations due to time. Dusty, needs to be cleaned. 
+",Hardware,https://rotordc.com/shop/product/999har938-cabinet-handles-in-plastic-59269?category=37,,4.0,4.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.002823276212438941, 'start': 186, 'end': 193, 'answer': ' Dusty,'}","{'score': 0.3995744585990906, 'start': 1, 'end': 32, 'answer': 'Dimensions:Width: 4,5 cmHeight:'}","{'score': 0.07709062844514847, 'start': 1, 'end': 32, 'answer': 'Dimensions:Width: 4,5 cmHeight:'}",Plastics,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Sanitary fittings and accessories,0.07709062844514847,,,,
+276,103HAR032B25,Cabinet Handle,1.0,kg,pc,"
+W: 5 cm H: 25 cm D: 6,5 cm
+
+W: 5 cm H: 30 cm D: 6,5 cm
+
+ 
+
+ 
+",Hardware,https://rotordc.com/shop/product/brass-cabinet-handle-58502?page=6&category=37,,14.0,14.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.0004595732316374779, 'start': 1, 'end': 14, 'answer': 'W: 5 cm H: 25'}","{'score': 0.006403080653399229, 'start': 1, 'end': 17, 'answer': 'W: 5 cm H: 25 cm'}","{'score': 0.028994522988796234, 'start': 11, 'end': 14, 'answer': ' 25'}",Decorative aggregates,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Furnishings,0.028994522988796234,,,,
+295,103HAR079L,Cabinet Handle in brass,0.02,kg,pc,"
+Small
+D: 8,5 cm
+
+Large
+D: 9 cm
+",Hardware,https://rotordc.com/shop/product/cabinet-handle-in-brass-54480?page=7&category=37,,5.0,5.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 6.540199683513492e-05, 'start': 9, 'end': 13, 'answer': ' 8,5'}","{'score': 0.11704801768064499, 'start': 9, 'end': 16, 'answer': ' 8,5 cm'}","{'score': 0.010851847939193249, 'start': 9, 'end': 16, 'answer': ' 8,5 cm'}",Brass,Filing cabinets,Pr_40_30_87_29,Technical elements,Furnishings,Sanitary fittings and accessories,0.010851847939193249,,,,
+341,103HAR039,Cabinet Handle,0.13,kg,pc,"
+W: 8,5 cm H: 2,5 cm D: 2 cm
+",Hardware,https://rotordc.com/shop/product/103har039-cabinet-handle-51140?page=9&category=37,,6.0,6.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.002583286026492715, 'start': 20, 'end': 23, 'answer': ' D:'}","{'score': 0.20626592636108398, 'start': 1, 'end': 28, 'answer': 'W: 8,5 cm H: 2,5 cm D: 2 cm'}","{'score': 0.0740879476070404, 'start': 1, 'end': 10, 'answer': 'W: 8,5 cm'}",Decorative aggregates,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Furnishings,0.0740879476070404,,,,
+964,103HAR050,Cabinet Handle,0.01,kg,pc,"
+L : 7,5 cm
+",Hardware,https://rotordc.com/shop/product/103har050-cabinet-handle-51142?page=12&category=37,"['51142_143c2df.png', '7443_56a818d.png']",4.01,4.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 1.3636553376272786e-05, 'start': 1, 'end': 4, 'answer': 'L :'}","{'score': 0.07163096964359283, 'start': 1, 'end': 11, 'answer': 'L : 7,5 cm'}","{'score': 0.04477319121360779, 'start': 1, 'end': 11, 'answer': 'L : 7,5 cm'}",Decorative aggregates,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Furnishings,0.04477319121360779,,,,
+965,103HAR033,Cabinet Handle,0.04,kg,pc,"
+W: 10 cm H: 3 cm D: 2 cm
+",Hardware,https://rotordc.com/shop/product/103har033-cabinet-handle-51139?page=12&category=37,['51139_143c2df.png'],8.0,8.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.0014616427943110466, 'start': 17, 'end': 20, 'answer': ' D:'}","{'score': 0.22162538766860962, 'start': 20, 'end': 25, 'answer': ' 2 cm'}","{'score': 0.08580222725868225, 'start': 1, 'end': 9, 'answer': 'W: 10 cm'}",Decorative aggregates,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Furnishings,0.08580222725868225,,,,
+1661,999FUR1130,Cabinet in pine veneered particle boards,40.0,kg,pc,"
+Cabinet in pine veneered particle boardsHeight 194 cm Length 90,5 cm Depth 40 cm   In good used condition. Small scratches and chips on the veneer. A bit dusty, needs to be cleaned.
+",Furniture,https://rotordc.com/shop/product/999fur1130-cabinet-in-pine-veneered-particle-boards-60692?page=3&category=35,"['60692_3a1d52f.png', '14354_abea428.png', '14355_abea428.png', '14356_abea428.png', '14357_abea428.png', '14358_abea428.png']",119.0,119.0,,,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 0.8766421675682068, 'start': 11, 'end': 47, 'answer': ' pine veneered particle boardsHeight'}","{'score': 0.1418769210577011, 'start': 34, 'end': 69, 'answer': ' boardsHeight\xa0194\xa0cm\xa0Length\xa090,5\xa0cm'}","{'score': 0.001542853657156229, 'start': 34, 'end': 47, 'answer': ' boardsHeight'}",Wood,Filing cabinets,Pr_40_30_87_29,Furnishings,Furnishings,Glass blocks and panels,0.001542853657156229,,,,

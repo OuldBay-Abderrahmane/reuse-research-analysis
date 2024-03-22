@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Lighting columns, brackets and bollards","              precision    recall  f1-score   support
+
+           0       0.80      0.78      0.79        58
+           1       0.84      0.86      0.85        77
+
+    accuracy                           0.82       135
+   macro avg       0.82      0.82      0.82       135
+weighted avg       0.82      0.82      0.82       135
+","                                               Feature  Importance
+248                  location_PARIS-15E-ARRONDISSEMENT    0.061573
+65                               category_storage_unit    0.058491
+250                  location_PARIS-1ER-ARRONDISSEMENT    0.051469
+246                  location_PARIS-13E-ARRONDISSEMENT    0.050365
+227                              location_LA MADELEINE    0.036287
+..                                                 ...         ...
+167                             BIM_class_D.50.20.02.1    0.000000
+166                             BIM_class_D.50.20.01.5    0.000000
+165                             BIM_class_D.50.10.08.3    0.000000
+164                            BIM_class_D.40.90.90.1d    0.000000
+422  third_level_Lighting columns, brackets and bol...    0.000000
+
+[423 rows x 2 columns]"

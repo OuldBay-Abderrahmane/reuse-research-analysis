@@ -1,0 +1,120 @@
+,Feature,Importance
+11,Category_Furniture,0.3494992
+0,Weight,0.24325238
+98,first_level_Other,0.16664931
+2,Latest_Price,0.121394455
+1,Initial_Price,0.09852131
+99,"first_level_Roof, Slabs, Stairs",0.020683317
+81,Belgium_Code_Pr_25_30_36_84,0.0
+80,Belgium_Code_Pr_25_30_36_08,0.0
+73,Belgium_Raw_Trolleys,0.0
+78,Belgium_Code_Pr_20_85_07_85,0.0
+77,Belgium_Code_Pr_20_76_71_82,0.0
+82,Belgium_Code_Pr_25_30_36_96,0.0
+76,Belgium_Code_Pr_20_29_76_98,0.0
+75,Belgium_Raw_Wood screws,0.0
+74,Belgium_Raw_Wood handrails,0.0
+83,Belgium_Code_Pr_25_30_90_12,0.0
+79,Belgium_Code_Pr_25_30_36_03,0.0
+71,Belgium_Raw_Timber stair treads,0.0
+72,Belgium_Raw_Track circuit receivers,0.0
+85,Belgium_Code_Pr_35_90_43_59,0.0
+70,Belgium_Raw_Stretcher drive brackets,0.0
+69,Belgium_Raw_Steel security cabinets,0.0
+68,Belgium_Raw_Stair lift signs,0.0
+67,Belgium_Raw_Stainless steel support rails,0.0
+66,Belgium_Raw_Stainless steel shelving and racking units,0.0
+65,Belgium_Raw_Stainless steel handrails,0.0
+64,Belgium_Raw_Stainless steel cycle lockers,0.0
+63,Belgium_Raw_Radiators,0.0
+62,Belgium_Raw_Metal skirtings,0.0
+61,Belgium_Raw_Lighting tracks,0.0
+84,Belgium_Code_Pr_25_30_90_89,0.0
+88,Belgium_Code_Pr_40_30_75_84,0.0
+86,Belgium_Code_Pr_40_10_77_82,0.0
+102,"first_level_Wall, Barriers, Pannels",0.0
+113,third_level_Space heating and cooling products,0.0
+112,third_level_Shaft-lining products,0.0
+111,third_level_Sanitary fittings and accessories,0.0
+110,third_level_Safety cages,0.0
+109,third_level_Power and lighting outlet products,0.0
+108,third_level_Other,0.0
+107,"third_level_Lighting columns, brackets and bollards",0.0
+106,third_level_Handrails,0.0
+105,third_level_Glass blocks and panels,0.0
+104,"third_level_Floor plates, gratings and edgings",0.0
+103,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+101,first_level_Technical elements,0.0
+87,Belgium_Code_Pr_40_30_21_83,0.0
+100,first_level_Structural elements,0.0
+97,first_level_Furnishings,0.0
+96,Belgium_Code_Pr_70_75_70_88,0.0
+95,Belgium_Code_Pr_70_70_48_47,0.0
+94,Belgium_Code_Pr_70_60_36_73,0.0
+93,Belgium_Code_Pr_40_50_90,0.0
+92,Belgium_Code_Pr_40_50_21_24,0.0
+91,Belgium_Code_Pr_40_50_12_29,0.0
+90,Belgium_Code_Pr_40_30_78_85,0.0
+89,Belgium_Code_Pr_40_30_78_17,0.0
+59,Belgium_Raw_Drafting machines,0.0
+60,Belgium_Raw_Footstools,0.0
+57,Belgium_Raw_Coat racks,0.0
+58,Belgium_Raw_Concrete glazed stair landing panels,0.0
+16,Category_Sanitaires,0.0
+27,"Technical_Mode d’assemblage : Bois-bois
+Préconisations de dépose :",0.0
+26,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+25,Material_Métal,0.0
+24,Material_Inox,0.0
+23,Material_Céramique,0.0
+22,Material_Bois,0.0
+21,Condition_Correct,0.0
+20,Category_Techniques,0.0
+19,Category_Technical,0.0
+18,Category_Stairs,0.0
+17,Category_Scénographie,0.0
+15,Category_Per Building,0.0
+29,"Technical_Mode d’assemblage : Trois parties soudées
+Préconisations de dépose : Disponible été 2024",0.0
+14,Category_Matière brute,0.0
+13,Category_Lighting,0.0
+12,Category_Hardware,0.0
+10,Category_Ceiling,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,Quantity_Change,0.0
+5,Price_Change,0.0
+4,Stock_Now,0.0
+3,Initial_Stock,0.0
+28,"Technical_Mode d’assemblage : Pris dans le limon
+Préconisations de dépose : Dates de disponibilité à confirmer",0.0
+30,Collection_ECO-CUI DEB :,0.0
+56,Belgium_Raw_Brass handrails,0.0
+44,material_emb_Pisé,0.0
+55,Belgium_Raw_Aluminium handrails,0.0
+54,material_emb_Wrought iron,0.0
+53,material_emb_Wood,0.0
+52,material_emb_Weathering steel,0.0
+51,material_emb_Terne-coated steel,0.0
+50,material_emb_Structural steel,0.0
+49,material_emb_Steel-aluminium alloy,0.0
+48,material_emb_Steel,0.0
+47,material_emb_Stainless steel,0.0
+46,material_emb_Sitka spruce,0.0
+45,material_emb_Reflective glass,0.0
+43,material_emb_Metal,0.0
+31,Collection_ECO-CUI MDC :,0.0
+42,material_emb_Lime,0.0
+41,material_emb_Gravel,0.0
+40,material_emb_Expansive concrete,0.0
+39,material_emb_Designated concrete,0.0
+38,material_emb_Asphalt,0.0
+37,material_emb_Architectural glass,0.0
+36,material_emb_Air-cooled steel slag,0.0
+35,Language_fr,0.0
+34,Store_rotordc,0.0
+33,Country_BE,0.0
+32,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+114,third_level_Treads and landing units,0.0

@@ -1,0 +1,127 @@
+,Feature,Importance
+111,Material_Holz,0.45115483
+120,Material_gemischt,0.2620853
+68,Swiss_Raw_Window walls,0.07116892
+82,Condition_used & cleaned,0.026239732
+0,LastPrice,0.024805743
+81,Condition_used,0.021682696
+7,Category_Gebäudetechnik & Sanitär,0.020541377
+70,Swiss_Raw_Wood doorsets,0.018137526
+115,Material_Mixed,0.016157592
+2,Length,0.013986929
+109,Material_Glass,0.013797812
+86,Subcategory_Badewanne & Dusche,0.011625264
+83,"Condition_used, cleaned & tested",0.010660728
+3,Width,0.009927418
+95,Subcategory_Innentüren,0.008128381
+4,Category_Ausbau,0.005609311
+119,Material_Wood,0.0051749647
+78,Condition_like new,0.0037730474
+6,Category_Gebäudehülle & Konstruktion,0.0035110507
+101,Subcategory_Wandfenster,0.0018313392
+85,Subcategory_Aussentüren,0.0
+87,Subcategory_Badezimmermöbel,0.0
+88,Subcategory_Baustoffe,0.0
+84,Subcategory_Apparate & Geräte,0.0
+90,Subcategory_Dachhaut,0.0
+89,Subcategory_Dachfenster,0.0
+77,"Condition_gebraucht, gereinigt & geprüft",0.0
+80,Condition_neuwertig,0.0
+79,Condition_mixed,0.0
+92,Subcategory_Fenster,0.0
+76,Condition_gebraucht,0.0
+75,Condition_cleaned & tested,0.0
+74,Swiss_Raw_Wood window walls,0.0
+73,Swiss_Raw_Wood window units,0.0
+72,Swiss_Raw_Wood gates,0.0
+71,Swiss_Raw_Wood frame roof window units,0.0
+69,Swiss_Raw_Wood door frames,0.0
+91,Subcategory_Einrichtungen,0.0
+99,Subcategory_Sonstiges,0.0
+93,Subcategory_Holzbeläge,0.0
+94,Subcategory_Innenfenster,0.0
+124,Energy_Efficiency_G,0.0
+123,Energy_Efficiency_D,0.0
+122,Energy_Efficiency_B,0.0
+121,Energy_Efficiency_A,0.0
+118,Material_Steel,0.0
+117,Material_Plexiglass,0.0
+116,Material_Plastic,0.0
+114,Material_Metall,0.0
+113,Material_Metal,0.0
+112,Material_Kunststoff,0.0
+110,Material_Glass-ceramics,0.0
+108,Material_Glas,0.0
+107,Material_Compound,0.0
+106,Material_Aluminum,0.0
+105,Material_Aluminium,0.0
+104,Subcategory_Zubehör,0.0
+103,Subcategory_Wände,0.0
+102,Subcategory_Werkzeug,0.0
+100,Subcategory_Tore,0.0
+66,Swiss_Raw_Window panels,0.0
+98,Subcategory_Möbel,0.0
+97,Subcategory_Läden & Storen,0.0
+96,Subcategory_Kleinteile,0.0
+67,Swiss_Raw_Window sash fasteners,0.0
+63,Swiss_Raw_WC pans,0.0
+65,Swiss_Raw_Window hinges,0.0
+64,Swiss_Raw_Window curtains,0.0
+33,Swiss_Raw_Frameless glass door leaves,0.0
+32,Swiss_Raw_Flexible doorsets,0.0
+31,Swiss_Raw_Firebreak shutters,0.0
+30,Swiss_Raw_Electromagnetic door holders,0.0
+29,Swiss_Raw_Electric sliding door mechanisms,0.0
+28,Swiss_Raw_Double window steam sight glasses,0.0
+27,Swiss_Raw_Doorsets,0.0
+26,Swiss_Raw_Door protection panels,0.0
+25,Swiss_Raw_Door locks,0.0
+24,Swiss_Raw_Door knockers,0.0
+23,Swiss_Raw_Door hinges,0.0
+22,Swiss_Raw_Door frames and leaves,0.0
+21,Swiss_Raw_Door dampers,0.0
+20,Swiss_Raw_Corrugated wired glass sheets,0.0
+19,Swiss_Raw_Corner cupboards,0.0
+18,Swiss_Raw_Concealed hinges,0.0
+17,Swiss_Raw_Composite doorsets,0.0
+16,Swiss_Raw_Chute automatic fire doors,0.0
+15,Swiss_Raw_Bronze window units,0.0
+14,Swiss_Raw_Boxed sash window hanging fittings,0.0
+13,Swiss_Raw_Bidets,0.0
+12,Swiss_Raw_Arrises,0.0
+11,Swiss_Raw_Antique glass,0.0
+10,Swiss_Raw_Aluminium window walls,0.0
+9,Swiss_Raw_Aluminium doorsets,0.0
+8,Category_Sonstiges,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+34,Swiss_Raw_Fridge-freezers,0.0
+35,Swiss_Raw_Garage door holders,0.0
+36,Swiss_Raw_Garage door operators,0.0
+51,Swiss_Raw_Rigid polyurethane frame roof window units,0.0
+1,Quantity,0.0
+62,Swiss_Raw_Vault doors,0.0
+61,Swiss_Raw_Up-and-over doorsets,0.0
+60,Swiss_Raw_Trellises,0.0
+59,Swiss_Raw_Steel window walls,0.0
+58,Swiss_Raw_Stainless steel doorsets,0.0
+57,Swiss_Raw_Stained glass sheets,0.0
+56,Swiss_Raw_Sliding shutter doorsets,0.0
+55,Swiss_Raw_Shower enclosures,0.0
+54,Swiss_Raw_Shower doors,0.0
+53,Swiss_Raw_Sectional overhead doorsets,0.0
+52,Swiss_Raw_Roofing swags,0.0
+50,Swiss_Raw_Projection window hinges,0.0
+37,Swiss_Raw_Garden furnishings,0.0
+49,Swiss_Raw_Pleated blinds,0.0
+48,Swiss_Raw_Plastics window films,0.0
+47,Swiss_Raw_Pendant luminaires,0.0
+46,Swiss_Raw_Office desks,0.0
+45,Swiss_Raw_Metal gate surrounds,0.0
+44,Swiss_Raw_Grommets,0.0
+43,Swiss_Raw_Glass louvre window units,0.0
+42,Swiss_Raw_Glass fins,0.0
+41,Swiss_Raw_Glass brise-soleil louvre blades,0.0
+40,Swiss_Raw_Glass block wall panels,0.0
+39,Swiss_Raw_Gate hinges,0.0
+38,Swiss_Raw_Gate arches,0.0
+125,"second_level_Door, Windows, Gates",0.0

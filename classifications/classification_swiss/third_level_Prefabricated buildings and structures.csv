@@ -1,0 +1,23 @@
+,Code,report,features
+0,Prefabricated buildings and structures,"              precision    recall  f1-score   support
+
+           0       0.40      0.67      0.50         3
+           1       0.86      0.67      0.75         9
+
+    accuracy                           0.67        12
+   macro avg       0.63      0.67      0.62        12
+weighted avg       0.74      0.67      0.69        12
+","                                              Feature  Importance
+32                           Condition_used & cleaned    0.464062
+0                                           LastPrice    0.185213
+2                                              Length    0.085314
+7                   Category_Gebäudetechnik & Sanitär    0.080484
+31                                     Condition_used    0.070628
+..                                                ...         ...
+35                           Subcategory_Bad & Dusche    0.000000
+36                     Subcategory_Badewanne & Dusche    0.000000
+37                              Subcategory_Baustoffe    0.000000
+1                                            Quantity    0.000000
+75  third_level_Prefabricated buildings and struct...    0.000000
+
+[76 rows x 2 columns]"

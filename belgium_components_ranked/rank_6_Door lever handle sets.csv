@@ -1,0 +1,14 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+301,103HAR250-1,Set of aluminum door lever pairs with key plates in the style of Lucien Engels,0.15,kg,pc,"
+Base plate Distance: 7 cm
+Lever length: 11,5 cm
+Dimensions base plate: 25 x 9 cm
+
+From a building by Lucien Engels, but designer unattributed.
+
+ 
+",Hardware,https://rotordc.com/shop/product/103har250-1-set-of-4-aluminum-door-lever-pairs-with-key-plates-in-the-style-of-lucien-engels-51394?page=7&category=37,,499.0,499.0,,,,,,,,,2022-08-02,0.0,,2022-08-02,BE,rotordc,fr,1,0.0,"{'score': 7.701424920014688e-08, 'start': 89, 'end': 98, 'answer': ' building'}","{'score': 0.756648063659668, 'start': 71, 'end': 81, 'answer': ' 25 x 9 cm'}","{'score': 0.0001768851070664823, 'start': 71, 'end': 81, 'answer': ' 25 x 9 cm'}",Porcelain,Door lever handle sets,Pr_30_36_59_25,"Wall, Barriers, Pannels","Door, Windows, Gates","Floor plates, gratings and edgings",0.0001768851070664823,,,,0.0
+948,103HAR2431,Aluminum door lever by,0.51,kg,pc,"
+Base plate Distance: 11 cm
+Lever length: 12 cm
+",Hardware,https://rotordc.com/shop/product/103har2431-aluminum-door-lever-by-geno-51270?page=10&category=37,"['51270_143c2df.png', '7358_28d50ed.png', '7359_28d50ed.png']",39.0,39.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 1.047984255819756e-06, 'start': 1, 'end': 11, 'answer': 'Base plate'}","{'score': 0.2741543650627136, 'start': 1, 'end': 27, 'answer': 'Base plate Distance: 11 cm'}","{'score': 0.0015740804374217987, 'start': 1, 'end': 27, 'answer': 'Base plate Distance: 11 cm'}",Aluminium,Door lever handle sets,Pr_30_36_59_25,"Roof, Slabs, Stairs","Door, Windows, Gates",Sanitary fittings and accessories,0.0015740804374217987,,,,

@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Lighting columns, brackets and bollards","              precision    recall  f1-score   support
+
+           0       0.89      0.65      0.76        26
+           1       0.90      0.98      0.94        84
+
+    accuracy                           0.90       110
+   macro avg       0.90      0.82      0.85       110
+weighted avg       0.90      0.90      0.89       110
+","                                               Feature  Importance
+133                                    Material_Metall    0.112302
+62                                 Condition_gebraucht    0.111495
+65                                  Condition_like new    0.086013
+64            Condition_gebraucht, gereinigt & geprüft    0.079530
+67                                 Condition_neuwertig    0.076169
+..                                                 ...         ...
+47                                  Swiss_Raw_Sundials    0.000000
+46                            Swiss_Raw_Stilling tubes    0.000000
+45                              Swiss_Raw_Steel spiles    0.000000
+44                  Swiss_Raw_Stainless steel doorsets    0.000000
+150  third_level_Lighting columns, brackets and bol...    0.000000
+
+[151 rows x 2 columns]"

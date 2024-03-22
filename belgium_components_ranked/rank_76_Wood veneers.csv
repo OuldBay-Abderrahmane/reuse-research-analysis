@@ -1,0 +1,28 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+57,195FLO001,Bankirai terrace wood,3.0,kg,m,"
+Only available in our physical shop. Bankirai terrace wood, sold per linear meter.Dimensions: Variable lenghts: from 96 cm to 450 cmWidth: 140 - 145 mmThickness: 25 mmVery good used condition. May have a few traces and small chips, old nails that have been cut but not removed, and screw holes due to the old fixing system. Bankirai was used as an outdoor terrace so weather conditions created a beautiful grey patina. If you prefer to recover the original wood color you can easily sand it and then apply an oil finish. Screws for mounting this product are available online here
+",Floors,https://rotordc.com/shop/product/195flo001-bankirai-terrace-wood-59155?category=34,,7.0,7.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.5498694777488708, 'start': 37, 'end': 60, 'answer': '\xa0Bankirai terrace wood,'}","{'score': 0.3827185332775116, 'start': 117, 'end': 139, 'answer': ' 96 cm to 450 cmWidth:'}","{'score': 0.032939910888671875, 'start': 65, 'end': 94, 'answer': ' per linear meter.Dimensions:'}",Wood,Wood veneers,Pr_25_71_94_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Glass blocks and panels,0.032939910888671875,,,,146.0
+867,901FUR938,Cabinet in wood veneer by Frezza,40.0,kg,pc,"
+Wooden cabinet by Frezza with black plastic handles. 
+
+
+Width
+
+
+47 cm
+
+
+
+Length
+
+
+94 cm
+
+
+Height
+
+
+74,5 cm
+Good used condition. There are some small scratches on the wood. Colour and wood pattern may vary. Wood might be a bit chipped in the corners. Dusty, needs to be cleaned. No key included. 
+
+",Furniture,https://rotordc.com/shop/product/901fur938-cabinet-in-wood-veneer-by-frezza-59796?category=35,"['59796_c2dc9b0.png', '10797_f2a8939.png', '10798_f2a8939.png', '10799_f2a8939.png', '10800_f2a8939.png', '10801_f2a8939.png', '10802_f2a8939.png', '10803_f2a8939.png']",79.0,79.0,,,,,,,,,2022-10-28,0.0,,2022-10-28,BE,rotordc,fr,1,0.0,"{'score': 0.7279266119003296, 'start': 1, 'end': 7, 'answer': 'Wooden'}","{'score': 0.434283971786499, 'start': 56, 'end': 107, 'answer': '\nWidth\n\n\n47 cm\n\n\n\nLength\n\n\n94 cm\n\n\nHeight\n\n\n74,5 cm'}","{'score': 0.13131563365459442, 'start': 278, 'end': 295, 'answer': ' No key included.'}",Wood,Wood veneers,Pr_25_71_94_98,Furnishings,Furnishings,Furnishings,0.13131563365459442,,,,0.0

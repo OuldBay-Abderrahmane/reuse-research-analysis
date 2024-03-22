@@ -1,0 +1,212 @@
+,Feature,Importance
+206,Material_gemischt,0.22859558
+194,Material_Keramik,0.21025424
+197,Material_Metall,0.16973685
+139,"Condition_gebraucht, gereinigt & geprüft",0.12870899
+196,Material_Metal,0.047434118
+198,Material_Mixed,0.034958176
+200,Material_Plastic,0.033414584
+148,Subcategory_Armaturen,0.027779698
+140,Condition_like new,0.019851554
+0,LastPrice,0.01715058
+1,Quantity,0.0131731825
+187,Material_Ceramic,0.012034199
+4,Category_Ausbau,0.0112166535
+145,"Condition_used, cleaned & tested",0.009795355
+143,Condition_used,0.0067513427
+144,Condition_used & cleaned,0.006720025
+3,Width,0.006707619
+176,Subcategory_WCs - Toiletten,0.004961429
+2,Length,0.004076084
+180,Subcategory_Waschtisch & Lavabos,0.0038523579
+7,Category_Gebäudetechnik & Sanitär,0.0028274434
+136,Condition_cleaned & tested,0.0
+138,Condition_gebraucht,0.0
+137,Condition_defective,0.0
+134,Swiss_Raw_Wood fibres,0.0
+133,Swiss_Raw_Window walls,0.0
+135,Swiss_Raw_Wrought iron decorative panels,0.0
+150,Subcategory_Badewanne & Dusche,0.0
+141,Condition_mixed,0.0
+149,Subcategory_Bad & Dusche,0.0
+152,Subcategory_Baustoffe,0.0
+132,Swiss_Raw_Window sash fasteners,0.0
+146,Subcategory_Anlage Frischwasser,0.0
+147,Subcategory_Apparate & Geräte,0.0
+151,Subcategory_Badezimmermöbel,0.0
+142,Condition_neuwertig,0.0
+126,Swiss_Raw_Washers,0.0
+131,Swiss_Raw_Water strainers,0.0
+119,Swiss_Raw_Wall-hung WC support brackets,0.0
+110,Swiss_Raw_Towels,0.0
+111,Swiss_Raw_Under-mounted washbasins,0.0
+112,Swiss_Raw_Vanity and washroom furniture,0.0
+113,Swiss_Raw_Vapour meters,0.0
+114,Swiss_Raw_Vehicle hoists,0.0
+115,Swiss_Raw_Ventilation ducts,0.0
+116,Swiss_Raw_WC cisterns,0.0
+117,Swiss_Raw_WC pans,0.0
+118,Swiss_Raw_WC suites,0.0
+120,Swiss_Raw_Wall-hung urinals,0.0
+130,Swiss_Raw_Water heaters,0.0
+121,Swiss_Raw_Wall-hung washbasins,0.0
+122,Swiss_Raw_Wardrobes,0.0
+123,"Swiss_Raw_Wash basin, soap dispenser and hand dryer units",0.0
+124,Swiss_Raw_Washbasin spouts,0.0
+125,Swiss_Raw_Washer compactors,0.0
+154,Subcategory_Einbauküchen,0.0
+127,Swiss_Raw_Washing products,0.0
+128,Swiss_Raw_Waste bins,0.0
+129,Swiss_Raw_Water extraction presses,0.0
+153,Subcategory_Dachhaut,0.0
+161,Subcategory_Heizkörper,0.0
+155,Subcategory_Einrichtungen,0.0
+193,Material_Holz,0.0
+183,Subcategory_Zubehör,0.0
+184,Subcategory_Öfen & Cheminées,0.0
+185,Material_Aluminum,0.0
+186,Material_Artificial stone,0.0
+188,Material_Chrome steel,0.0
+189,Material_Compound,0.0
+190,Material_Concrete,0.0
+191,Material_Glas,0.0
+192,Material_Glass,0.0
+195,Material_Kunststoff,0.0
+181,Subcategory_Weitere nutzungsspezifische Anlage,0.0
+199,Material_Other,0.0
+201,Material_Stahl,0.0
+202,Material_Stainless steel,0.0
+203,Material_Steel,0.0
+204,Material_Stone,0.0
+205,Material_Wood,0.0
+207,Energy_Efficiency_A,0.0
+208,Energy_Efficiency_B,0.0
+209,Energy_Efficiency_C,0.0
+182,Subcategory_Werkzeug,0.0
+179,Subcategory_Waschküche & Trockner,0.0
+156,Subcategory_Elastische Beläge,0.0
+166,Subcategory_Lüftungsanlage,0.0
+157,Subcategory_Elektrogerät,0.0
+158,Subcategory_Fertigteile & Geräte,0.0
+159,Subcategory_Freistehend,0.0
+160,Subcategory_Gastroküche & Gastroartikel,0.0
+108,Swiss_Raw_Toilet showers,0.0
+162,Subcategory_Innentüren,0.0
+163,Subcategory_Keramikbeläge,0.0
+164,Subcategory_Leuchten & Lampen,0.0
+165,Subcategory_Läden & Storen,0.0
+167,Subcategory_Möbel,0.0
+178,Subcategory_Waschküche & Trocknen,0.0
+168,Subcategory_Pflanzen,0.0
+169,Subcategory_Sonstiges,0.0
+170,Subcategory_Spülen,0.0
+171,Subcategory_Steinbeläge,0.0
+172,Subcategory_Stützen,0.0
+173,Subcategory_Tore,0.0
+174,Subcategory_Verkleidung,0.0
+175,Subcategory_WC-Anlagen,0.0
+177,Subcategory_Wandfenster,0.0
+109,Swiss_Raw_Tool chests,0.0
+105,Swiss_Raw_Storage units and cupboards,0.0
+107,Swiss_Raw_Toilet paper dispensers,0.0
+42,Swiss_Raw_Equipment,0.0
+32,Swiss_Raw_Conveyor dishwashers,0.0
+33,Swiss_Raw_Corner cupboards,0.0
+34,Swiss_Raw_Corrugated fasteners,0.0
+35,Swiss_Raw_Countertop washbasins,0.0
+36,Swiss_Raw_Cupboards,0.0
+37,Swiss_Raw_Dish and utensil washers,0.0
+38,Swiss_Raw_Door frames and leaves,0.0
+39,Swiss_Raw_Door hinges,0.0
+40,Swiss_Raw_Dovecotes,0.0
+41,Swiss_Raw_Electric sliding door mechanisms,0.0
+43,"Swiss_Raw_Equipment enclosures, cabinets, boxes and housings",0.0
+30,Swiss_Raw_Concrete bollards,0.0
+44,Swiss_Raw_Espresso machines,0.0
+45,Swiss_Raw_Fabric accessory products,0.0
+46,Swiss_Raw_Fire detection and alarm devices and control equipment,0.0
+47,Swiss_Raw_Fishwashers,0.0
+48,"Swiss_Raw_Fixed roof ventilators, terminals and accessories",0.0
+49,Swiss_Raw_Flap valves,0.0
+50,Swiss_Raw_Flat washers,0.0
+51,Swiss_Raw_Flexible doorsets,0.0
+52,Swiss_Raw_Garage door operators,0.0
+53,Swiss_Raw_Grommets,0.0
+31,Swiss_Raw_Control and protection devices,0.0
+29,Swiss_Raw_Concealed hinges,0.0
+106,Swiss_Raw_Toilet brush holders,0.0
+16,Swiss_Raw_Bathroom cabinets,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+8,Category_Sonstiges,0.0
+9,Category_Umgebung,0.0
+10,Swiss_Raw_Abdominal machines,0.0
+11,Swiss_Raw_Accessible shower equipment packages,0.0
+12,Swiss_Raw_Aluminium skirtings,0.0
+13,Swiss_Raw_Arrises,0.0
+14,Swiss_Raw_Bath panels,0.0
+15,Swiss_Raw_Bath wastes,0.0
+17,Swiss_Raw_Bathroom mirrors,0.0
+28,Swiss_Raw_Composite sound-insulating panels,0.0
+18,Swiss_Raw_Bathroom pods,0.0
+19,Swiss_Raw_Baths,0.0
+20,Swiss_Raw_Bidet wastes,0.0
+21,Swiss_Raw_Bidets,0.0
+22,Swiss_Raw_Built-in gas hobs,0.0
+23,Swiss_Raw_Chemical disinfection devices,0.0
+24,Swiss_Raw_Cleaning equipment,0.0
+25,Swiss_Raw_Commercial gas cooking ranges,0.0
+26,Swiss_Raw_Commercial washers,0.0
+27,Swiss_Raw_Composite doorsets,0.0
+54,Swiss_Raw_Hand dryers,0.0
+55,Swiss_Raw_Healthcare clinical washbasins,0.0
+56,Swiss_Raw_Hinges and hanging hardware,0.0
+93,Swiss_Raw_Shower head holders,0.0
+83,Swiss_Raw_Radio receivers,0.0
+84,Swiss_Raw_Sanitary accessories,0.0
+85,Swiss_Raw_Sanitary towel dispensers,0.0
+86,Swiss_Raw_Scagliola,0.0
+87,Swiss_Raw_Sedge,0.0
+88,Swiss_Raw_Shower beds,0.0
+89,Swiss_Raw_Shower curtains,0.0
+90,Swiss_Raw_Shower doors,0.0
+91,Swiss_Raw_Shower enclosures,0.0
+92,Swiss_Raw_Shower fittings package,0.0
+94,Swiss_Raw_Shower heads,0.0
+57,Swiss_Raw_Hydraulic power components,0.0
+95,Swiss_Raw_Shower manual water supply sets,0.0
+96,Swiss_Raw_Shower seats,0.0
+97,Swiss_Raw_Sink spouts,0.0
+98,Swiss_Raw_Soap dispensers,0.0
+99,Swiss_Raw_Sound damping coatings,0.0
+100,Swiss_Raw_Sprigs,0.0
+101,Swiss_Raw_Sprung (split lock) washers,0.0
+102,Swiss_Raw_Stainless steel cappings and copings,0.0
+103,Swiss_Raw_Stainless steel cladding angles,0.0
+104,Swiss_Raw_Steam traps and strainers,0.0
+82,Swiss_Raw_Pump accessories,0.0
+81,Swiss_Raw_Pressure relief valves,0.0
+80,Swiss_Raw_Preformed casings,0.0
+79,Swiss_Raw_Post boxes,0.0
+58,Swiss_Raw_Insulation fixing straps,0.0
+59,Swiss_Raw_Lacquer resins,0.0
+60,Swiss_Raw_Lacquers,0.0
+61,Swiss_Raw_Laundry troughs,0.0
+62,Swiss_Raw_Laundry troughs and cabinets,0.0
+63,Swiss_Raw_Laundry washer-dryers,0.0
+64,Swiss_Raw_Laundry washing machines,0.0
+65,Swiss_Raw_Macerator and dewaterer tank wash,0.0
+66,Swiss_Raw_Machine parts cleaning washer units,0.0
+67,Swiss_Raw_Mail equipment,0.0
+68,Swiss_Raw_Medical and laboratory equipment,0.0
+69,Swiss_Raw_Medicine cabinets,0.0
+70,Swiss_Raw_Mobile plain top hot cupboards,0.0
+71,Swiss_Raw_Modular bearer tie plates,0.0
+72,Swiss_Raw_Office equipment,0.0
+73,"Swiss_Raw_Packings, washers and spacers",0.0
+74,Swiss_Raw_Pedestal washbasins,0.0
+75,Swiss_Raw_Pendant luminaires,0.0
+76,Swiss_Raw_Plastics skirtings,0.0
+77,Swiss_Raw_Plastics sleeving,0.0
+78,Swiss_Raw_Pliable conduit,0.0
+210,third_level_Sanitary fittings and accessories,0.0

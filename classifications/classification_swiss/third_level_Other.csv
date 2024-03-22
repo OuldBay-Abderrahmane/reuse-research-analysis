@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.91      0.82      0.86        38
+           1       0.94      0.97      0.96       114
+
+    accuracy                           0.93       152
+   macro avg       0.93      0.89      0.91       152
+weighted avg       0.93      0.93      0.93       152
+","                                      Feature  Importance
+123                          Material_Keramik    0.156992
+54                        Condition_neuwertig    0.124844
+142                         Material_gemischt    0.113053
+50   Condition_gebraucht, gereinigt & geprüft    0.079753
+127                           Material_Metall    0.073702
+..                                        ...         ...
+45                          Swiss_Raw_Washers    0.000000
+44                          Swiss_Raw_WC pans    0.000000
+43       Swiss_Raw_Vertical extended spindles    0.000000
+42                      Swiss_Raw_Vermicides     0.000000
+149                         third_level_Other    0.000000
+
+[150 rows x 2 columns]"

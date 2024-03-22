@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.89      0.88      0.89        84
+           1       0.96      0.96      0.96       226
+
+    accuracy                           0.94       310
+   macro avg       0.92      0.92      0.92       310
+weighted avg       0.94      0.94      0.94       310
+","                                      Feature  Importance
+223                          Material_Keramik    0.287290
+243                         Material_gemischt    0.170649
+227                           Material_Metall    0.077442
+139  Condition_gebraucht, gereinigt & geprüft    0.057353
+225                       Material_Kunststoff    0.051818
+..                                        ...         ...
+94        Swiss_Raw_Sanitary towel dispensers    0.000000
+95                        Swiss_Raw_Scagliola    0.000000
+96                         Swiss_Raw_Scuttles    0.000000
+97                            Swiss_Raw_Sedge    0.000000
+251                         first_level_Other    0.000000
+
+[252 rows x 2 columns]"

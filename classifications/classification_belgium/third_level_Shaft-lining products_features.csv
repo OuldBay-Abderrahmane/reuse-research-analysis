@@ -1,0 +1,76 @@
+,Feature,Importance
+0,Weight,0.9444043
+61,first_level_Technical elements,0.055595674
+42,material_emb_Nickel steel,0.0
+48,Belgium_Raw_Display plinths,0.0
+47,Belgium_Raw_Cast and wrought iron brackets,0.0
+46,Belgium_Raw_Brass sections,0.0
+45,material_emb_Wrought iron,0.0
+44,material_emb_Tin,0.0
+43,material_emb_Terne-coated steel,0.0
+41,material_emb_Metal,0.0
+50,Belgium_Raw_Metal skirtings,0.0
+40,material_emb_Gravel,0.0
+39,material_emb_Ceramic,0.0
+38,material_emb_Brass,0.0
+37,material_emb_Aluminium,0.0
+36,Language_fr,0.0
+49,Belgium_Raw_Drafting machines,0.0
+51,Belgium_Raw_Metal sways,0.0
+34,Country_BE,0.0
+52,Belgium_Raw_Stainless steel welded circular tubes,0.0
+53,Belgium_Code_Pr_20_29_87_52,0.0
+54,Belgium_Code_Pr_20_76_51_09,0.0
+55,Belgium_Code_Pr_20_76_52_86,0.0
+56,Belgium_Code_Pr_20_85_09_17,0.0
+57,Belgium_Code_Pr_35_90_43_59,0.0
+58,Belgium_Code_Pr_40_30_25_24,0.0
+59,Belgium_Code_Pr_40_50_21_24,0.0
+60,first_level_Other,0.0
+62,"first_level_Wall, Barriers, Pannels",0.0
+63,"second_level_Blocks, Panels, Fences, Bricks",0.0
+64,second_level_Other,0.0
+65,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+35,Store_rotordc,0.0
+33,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+1,Initial_Price,0.0
+16,Condition_Usé,0.0
+2,Latest_Price,0.0
+3,Initial_Stock,0.0
+4,Stock_Now,0.0
+5,Price_Change,0.0
+6,Quantity_Change,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+10,Category_Hardware,0.0
+11,Category_Lighting,0.0
+12,Category_Matière brute,0.0
+13,Category_Sanitaires,0.0
+14,Category_Scénographie,0.0
+15,Condition_Correct,0.0
+17,Material_Acier,0.0
+32,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+18,Material_Inox,0.0
+19,Material_Métal,0.0
+20,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+21,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible dès la semaine 23-24 (Juin 2023)",0.0
+22,"Technical_Mode d’assemblage : A poser sur support
+Préconisations de dépose : Déjà déposé",0.0
+23,"Technical_Mode d’assemblage : A posé sur support et vissé au mur
+Préconisations de dépose : Déjà déposé",0.0
+24,"Technical_Mode d’assemblage : Boulonné au mur avec joint
+Préconisations de dépose : A déboulonner",0.0
+25,"Technical_Mode d’assemblage : Encastré
+Préconisations de dépose :",0.0
+26,"Technical_Mode d’assemblage : Joint solicone
+Préconisations de dépose : Facile",0.0
+27,"Technical_Mode d’assemblage : Trois parties soudées
+Préconisations de dépose : Disponible été 2024",0.0
+28,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+29,Collection_ECO-CUI HDS : A coordonner avec Matériuum,0.0
+30,Collection_ECO-CUI MDC :,0.0
+31,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+66,third_level_Shaft-lining products,0.0

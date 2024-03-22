@@ -1,0 +1,23 @@
+,Code,report,features
+0,Technical elements,"              precision    recall  f1-score   support
+
+           0       0.80      0.73      0.76        22
+           1       0.92      0.94      0.93        70
+
+    accuracy                           0.89        92
+   macro avg       0.86      0.84      0.85        92
+weighted avg       0.89      0.89      0.89        92
+","                                      Feature  Importance
+133  Condition_gebraucht, gereinigt & geprüft    0.317720
+205                         Material_gemischt    0.246569
+188                   Material_Glass-ceramics    0.062425
+196                            Material_Mixed    0.058220
+193                            Material_Metal    0.044429
+..                                        ...         ...
+76                    Swiss_Raw_Medium boards    0.000000
+77                   Swiss_Raw_Meeting booths    0.000000
+78                Swiss_Raw_Metal newel posts    0.000000
+79                  Swiss_Raw_Metal skirtings    0.000000
+208            first_level_Technical elements    0.000000
+
+[209 rows x 2 columns]"

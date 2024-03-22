@@ -1,0 +1,13 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+1122,999LIG210W,Textile cable with switch and plug,0.1,kg,pc,"
+This product is factory new. It can easily be mounted on all of our wall lights.
+Length: 2m
+
+Max 6 amp.
+",Lighting,https://rotordc.com/shop/product/textile-cable-with-switch-and-plug-52162?page=12&category=39,['52162_143c2df.png'],6.99,7.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 2.2597916995437117e-06, 'start': 16, 'end': 29, 'answer': ' factory new.'}","{'score': 0.2973003387451172, 'start': 81, 'end': 92, 'answer': '\nLength: 2m'}","{'score': 0.09084676206111908, 'start': 81, 'end': 92, 'answer': '\nLength: 2m'}",Fibre,Connection cables,Pr_65_70_50_15,Other,Other,Power and lighting outlet products,0.09084676206111908,,,,
+1294,999LIG210BL,Textile cable with switch and plug,0.1,kg,pc,"
+This product is factory new. It can easily be mounted on all of our wall lights.
+Length: 2m
+
+Max 6 amp.
+",Lighting,https://rotordc.com/shop/product/textile-cable-with-switch-and-plug-52162?page=12&category=39,['52162_143c2df.png'],6.99,6.0,,,,,,,,,2022-12-26,0.0,,2022-12-26,BE,rotordc,fr,1,0.0,"{'score': 2.2597916995437117e-06, 'start': 16, 'end': 29, 'answer': ' factory new.'}","{'score': 0.2973003387451172, 'start': 81, 'end': 92, 'answer': '\nLength: 2m'}","{'score': 0.09084676206111908, 'start': 81, 'end': 92, 'answer': '\nLength: 2m'}",Fibre,Connection cables,Pr_65_70_50_15,Other,Other,Power and lighting outlet products,0.09084676206111908,,,,0.0

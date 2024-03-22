@@ -1,0 +1,23 @@
+,Code,report,features
+0,Sanitary fittings and accessories,"              precision    recall  f1-score   support
+
+           0       0.68      0.88      0.77        98
+           1       0.91      0.75      0.82       162
+
+    accuracy                           0.80       260
+   macro avg       0.80      0.82      0.80       260
+weighted avg       0.82      0.80      0.80       260
+","                                               Feature  Importance
+85                                         Code_Bidets    0.099005
+20                                        Material_Fir    0.059745
+195                               Code_Pliable conduit    0.056861
+0                                                Price    0.053957
+141  Code_Fire detection and alarm devices and cont...    0.048118
+..                                                 ...         ...
+117                                Code_Cylinder locks    0.000000
+118                  Code_Cylinders and buffer vessels    0.000000
+119                           Code_Defibrillator units    0.000000
+120                                         Code_Desks    0.000000
+298      third_level_Sanitary fittings and accessories    0.000000
+
+[299 rows x 2 columns]"

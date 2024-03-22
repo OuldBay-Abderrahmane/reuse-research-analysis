@@ -1,0 +1,70 @@
+,Code,report,features
+0,Headwall and swale inlet products,"              precision    recall  f1-score   support
+
+           0       0.43      1.00      0.60         3
+           1       1.00      0.43      0.60         7
+
+    accuracy                           0.60        10
+   macro avg       0.71      0.71      0.60        10
+weighted avg       0.83      0.60      0.60        10
+","                                              Feature  Importance
+0                                              Weight    0.287083
+12                                  Category_Sanitary    0.177344
+46                                  Belgium_Raw_Sinks    0.168083
+1                                       Initial_Price    0.099783
+2                                        Latest_Price    0.099618
+43                      Belgium_Raw_Bathroom cabinets    0.092308
+37                             material_emb_Porcelain    0.075781
+57                       second_level_Floors, Ceiling    0.000000
+44                          Belgium_Raw_Bathroom pods    0.000000
+33                                        Language_fr    0.000000
+34                               material_emb_Ceramic    0.000000
+35                                  material_emb_Daub    0.000000
+36                                  material_emb_Pisé    0.000000
+38                          material_emb_Sitka spruce    0.000000
+39                       material_emb_Ultrapure water    0.000000
+40                   material_emb_Underwater concrete    0.000000
+41                                 material_emb_Water    0.000000
+42                                Belgium_Raw_Arrises    0.000000
+45                          Belgium_Raw_Ceramic sinks    0.000000
+56        second_level_Blocks, Panels, Fences, Bricks    0.000000
+32                                      Store_rotordc    0.000000
+48                        Belgium_Code_Pr_20_65_50_10    0.000000
+49                        Belgium_Code_Pr_35_90_43_04    0.000000
+58                                 second_level_Other    0.000000
+50                        Belgium_Code_Pr_40_20_93_74    0.000000
+51                        Belgium_Code_Pr_40_20_96_15    0.000000
+52                        Belgium_Code_Pr_40_20_96_81    0.000000
+53                        Belgium_Code_Pr_40_30_87_03    0.000000
+54                                  first_level_Other    0.000000
+55                first_level_Wall, Barriers, Pannels    0.000000
+47                        Belgium_Raw_Urinal dividers    0.000000
+30  Collection_SOUB : Retrait des éléments sur ren...    0.000000
+31                                         Country_BE    0.000000
+29  Collection_Pointe à Pitre : Retrait des élémen...    0.000000
+3                                       Initial_Stock    0.000000
+4                                           Stock_Now    0.000000
+5                                        Price_Change    0.000000
+6                                     Quantity_Change    0.000000
+7                                              Length    0.000000
+8                                               Width    0.000000
+9                                              Height    0.000000
+10                              Category_Per building    0.000000
+11                                Category_Sanitaires    0.000000
+13                                  Condition_Correct    0.000000
+14                                 Material_Céramique    0.000000
+15                                      Material_Inox    0.000000
+16                                     Material_Métal    0.000000
+17  Technical_Mode d’assemblage :\r\nPréconisation...    0.000000
+18  Technical_Mode d’assemblage :\r\nPréconisation...    0.000000
+19  Technical_Mode d’assemblage :\r\nPréconisation...    0.000000
+20  Technical_Mode d’assemblage :\r\nPréconisation...    0.000000
+21  Technical_Mode d’assemblage : Boulonné au mur\...    0.000000
+22  Technical_Mode d’assemblage : Boulonné au mur\...    0.000000
+23  Technical_Mode d’assemblage : Encastré dans pl...    0.000000
+24  Technical_Mode d’assemblage : boulonné au mur\...    0.000000
+25  Collection_Beaumont : Démontage prévu en print...    0.000000
+26                           Collection_ECO-CUI DEB :    0.000000
+27  Collection_ECO-CUI LCO : A coordonner avec Mat...    0.000000
+28  Collection_MAD : Retrait des éléments sur rend...    0.000000
+59      third_level_Headwall and swale inlet products    0.000000"

@@ -1,0 +1,19 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+417,193LIG124,Hanging light 'Profilite Led ' by Spectra Light,5.0,kg,pc,"
+Hanging light in Aluminium by Spectra Lighting. Model 'Profilite 3 M-PRM Led'. Power supply: 230VDimensions:Length: 115 cmHeight: 8.5 cmWidth: 6 cmSuspension cable maximum length: 100 cm. Longer lengths possible on demand.Very good used condition. Less than 3 years old, operated on timer or detector. Estimated less than 7000h of operation (minimum life span 50.000h). May have small scratches and imperfections. Dusty, needs to be cleaned. 
+",Lighting,https://rotordc.com/shop/product/193lig124-hanging-light-profilite-3-m-prm-led-by-spectra-light-59327?page=2&category=39,,79.0,79.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.9637975096702576, 'start': 17, 'end': 27, 'answer': ' Aluminium'}","{'score': 0.48132914304733276, 'start': 93, 'end': 130, 'answer': ' 230VDimensions:Length: 115 cmHeight:'}","{'score': 0.0033380433451384306, 'start': 93, 'end': 130, 'answer': ' 230VDimensions:Length: 115 cmHeight:'}",Reflective glass,LED light panels,Pr_70_70_48_45,Other,Other,Power and lighting outlet products,0.0033380433451384306,,,,
+503,4058075607156,"LEDinestra bulb by Osram frosted , Sd , watt",0.15,kg,pc,"
+Tubular LED lamp LEDinestra by Osram (frosted, S14d, Dimmable).
+
+General characteristics :
+
+6W = 38W
+Lumens : 470 lm
+Socket : S14d
+Energy efficiency : A+
+Light color : Warm white
+Average lifetime : 15000 h.
+Dimensions : 500 x 29 mm.
+Not dimmable
+
+",Lighting,https://rotordc.com/shop/product/ledinestra-bulb-by-osram-frosted-s14d-6-watt-35261?page=6&category=39,,20.09,20.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.7320878505706787, 'start': 37, 'end': 47, 'answer': ' (frosted,'}","{'score': 0.910364031791687, 'start': 220, 'end': 233, 'answer': ' 500 x 29 mm.'}","{'score': 0.7125408053398132, 'start': 92, 'end': 101, 'answer': '\n6W = 38W'}",Lead glass,LED light panels,Pr_70_70_48_45,Other,Other,Power and lighting outlet products,0.7125408053398132,,29.0,500.0,146.0

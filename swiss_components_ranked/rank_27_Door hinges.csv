@@ -1,0 +1,177 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+183,953,953,"Wohnungseingangstüre mit Rahmen , schwer",used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"sehr schwere Wohnungseingangstüre mit Rahmen u. Dichtung, inkl. Türdrücker für kabazylinder, + Loch f  Kabaufsatzschloss, Band: links, Rahmenaussenmasse: B: 143cm; H:214cm  D: 4.5cm
+intern: Nr : 628 ; ID: 16145 ; HP: 80224",Wood,6.0,90.0,200,,,,,2023-03-30,495.0,,,1970-01-01,495.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,80224,CH,de,20200831_164821_570x570.jpg,https://www.useagain.ch/de/wohnungseingangstuere-mit-rahmen-schwer-80224,G01.05,interior doors,,,,"{'score': 0.0948018953204155, 'start': 121, 'end': 127, 'answer': ' Band:'}","{'score': 0.21660082042217255, 'start': 153, 'end': 181, 'answer': ' B: 143cm; H:214cm  D: 4.5cm'}","{'score': 2.767820888038841e-06, 'start': 0, 'end': 4, 'answer': 'sehr'}",Architectural glass,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Safety cages
+306,1095,1095,Türen Eiche furniert,,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"3 Zimmertüren mit Schloss, eine mit Drehzylinder
+
+Türe 1 
+Breite innen 82cm
+Höhe innen 193 cm
+Wandstärke 20.5 cm
+Türe höhe 194 cm
+Türe breite 86cm
+
+Türe 2
+Breite innen 70cm
+Höhe innen 197.5cm
+Wandstärke 4cm
+Türehöhe 200cm
+Türe breite 73.5cm
+
+Türe 3
+Breite innen 70cm
+Höhe innen 193cm
+Wandstärke 18.3cm
+Türehöhe 194.5cm
+Türe breite 73.5cm",Wood,,,,,,,,,1.0,,,1970-01-01,1.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Hochdorf, 6280",,useagain,81104,CH,de,,https://www.useagain.ch/de/3-tueren-eiche-furniert-81104,G01.05,interior doors,,,,"{'score': 3.073654806939885e-05, 'start': 128, 'end': 135, 'answer': ' 194 cm'}","{'score': 0.007678566966205835, 'start': 128, 'end': 135, 'answer': ' 194 cm'}","{'score': 0.05141851678490639, 'start': 0, 'end': 1, 'answer': '3'}",Encaustic,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Safety cages
+455,1266,1266,Wohnungseingangstüre ehem .,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"sehr schwere Wohnungseingangstüre (ehem.  T-30), mit Spion, inkl. Rahmen, Band: rechts, für Kabazylinder, aussen rot, innen Weiss; Rahmenaussenmasse:  B:100cm; H: 209cm
+
+intern: Nr: 9005 -7,55/6Â  ; ID: 16808 ; HP 78026",Wood,,84.0,196,,,,,2023-01-14,385.0,,,1970-01-01,385.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,78026,CH,de,20181212_105901_570x570.jpg,https://www.useagain.ch/de/wohnungseingangstuere-ehem.-t-30-78026,G01.05,interior doors,,,,"{'score': 0.00029291369719430804, 'start': 123, 'end': 130, 'answer': ' Weiss;'}","{'score': 0.00041490179137326777, 'start': 150, 'end': 168, 'answer': ' B:100cm; H: 209cm'}","{'score': 7.118928806448821e-07, 'start': 186, 'end': 195, 'answer': ' -7,55/6Â'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+730,1558,1558,Wohnungseingangstüre oder f. Aussen,used & cleaned,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"unisolierte Metalltüre mit Mattglas (vemutlich Pyrostopglas - da Wohnungstüre in MFH);  Oberlicht: Drahtglas; mit Rahmen , kein Schlüssel vorhanden; Band: rechts, Rahmenausenmass: B: 111 cm; T: 5cm; H: 235cm; ev auch als Aussentüre einsetzbar",Glass,5.0,100.0,204,,,,,,775.0,,,1970-01-01,775.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,79807,CH,de,20200525_164037_570x570.jpg,https://www.useagain.ch/de/wohnungseingangstuere-oder-f.-aussen-79807,E03.02,extrerior doors,,,,"{'score': 0.09677358716726303, 'start': 26, 'end': 35, 'answer': ' Mattglas'}","{'score': 0.000207759061595425, 'start': 182, 'end': 208, 'answer': ' 111 cm; T: 5cm; H: 235cm;'}","{'score': 1.1708952740718814e-07, 'start': 182, 'end': 186, 'answer': ' 111'}",Encaustic,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+860,1693,1693,schmale Wohnungseingangstüre,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"schmale sehr schwere Wohnungseingangstüre mit Dichtung u Rahmen - vermutlich Brandschutztüre (aber welche Norm?), Band: rechts, Rahmenaussenmasse: H: 221cm, B: 105cm; BJ ev Juli 1994?
+keine Schlüssel vorhanden (-&gt;Schloss ist auf geschlosen), ich kann bei bedarf den Zylinder demontieren (wird dabei zerstört)
+Bitte beachten Sie, dass einer dieser Artikel nicht im Laden sondern im unbedienten lager ist. daher unbedingt mind 1 Tag vorher tel. geben, damit wir ihn hierher holen können - danke",Wood,4.0,81.0,205,,,,,,395.0,,,1970-01-01,395.0,1970-01-01 00:00:00.000,0.0,1.0,,,,useagain,77232,CH,de,20180830_170933_570x570.jpg,https://www.useagain.ch/de/schmale-wohnungseingangstuere-77232,G01.05,interior doors,,,,"{'score': 0.01076708734035492, 'start': 113, 'end': 119, 'answer': ' Band:'}","{'score': 0.25870609283447266, 'start': 146, 'end': 166, 'answer': ' H: 221cm, B: 105cm;'}","{'score': 1.6190886071854038e-06, 'start': 383, 'end': 406, 'answer': ' unbedienten lager ist.'}",Sitka spruce,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+1392,2243,2243,Innentür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 196 cm, B: 86 cm, T: 4 cm
+Material: gemischt
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111468",,,,,,,,,2022-10-24,80.0,,,1970-01-01,80.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91168,CH,de,111468_570x570.jpg,https://www.useagain.ch/de/innentuer-91168,G01.05,interior doors,,,,"{'score': 0.9876009225845337, 'start': 95, 'end': 104, 'answer': ' gemischt'}","{'score': 0.7892106175422668, 'start': 56, 'end': 85, 'answer': ' H: 196 cm, B: 86 cm, T: 4 cm'}","{'score': 0.2929213345050812, 'start': 56, 'end': 85, 'answer': ' H: 196 cm, B: 86 cm, T: 4 cm'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1549,2400,2400,Eingangstür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 203 cm, B: 90 cm, T: 4.5 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111695",,,,,,,,,2022-10-06,399.0,,,1970-01-01,399.0,1970-01-01 00:00:00.000,0.0,1.0,20.0,"Münchenstein, 4142",,useagain,90811,CH,de,111695_570x570.jpg,https://www.useagain.ch/de/eingangstuer-90811,G01.05,interior doors,,,,"{'score': 0.9856806397438049, 'start': 121, 'end': 126, 'answer': ' Holz'}","{'score': 0.7619171142578125, 'start': 56, 'end': 87, 'answer': ' H: 203 cm, B: 90 cm, T: 4.5 cm'}","{'score': 0.28584983944892883, 'start': 56, 'end': 87, 'answer': ' H: 203 cm, B: 90 cm, T: 4.5 cm'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Other
+1626,2477,2477,Innentüre grau,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: Keine Angaben
+Garantie: ohne Garantie
+Masse: H: 210 cm,B: 84 cm,T: 4 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikelnr:  111359",,,,,,,,,2022-10-03,169.0,,,1970-01-01,169.0,1970-01-01 00:00:00.000,0.0,1.0,29.0,"Münchenstein, 4142",,useagain,90687,CH,de,111359_570x570.jpg,https://www.useagain.ch/de/innentuere-grau-90687,G01.05,interior doors,,,,"{'score': 0.986194908618927, 'start': 117, 'end': 122, 'answer': ' Holz'}","{'score': 0.7645002007484436, 'start': 56, 'end': 83, 'answer': ' H: 210 cm,B: 84 cm,T: 4 cm'}","{'score': 0.25565993785858154, 'start': 56, 'end': 83, 'answer': ' H: 210 cm,B: 84 cm,T: 4 cm'}",Sitka spruce,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+1788,2639,2639,Innentüre weiss,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: Keine Angaben
+Garantie: ohne Garantie
+Masse: H: 201,5 cm,B: 79,5 cm,T: 4 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikelnr:  111358",Wood,4.0,79.0,"201,5",,,,,2022-10-03,169.0,,,1970-01-01,40.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,90684,CH,de,111358_570x570.jpg,https://www.useagain.ch/de/innentuere-weiss-90684,G01.05,interior doors,,,,"{'score': 0.9863431453704834, 'start': 121, 'end': 126, 'answer': ' Holz'}","{'score': 0.0967455580830574, 'start': 59, 'end': 87, 'answer': ' 201,5 cm,B: 79,5 cm,T: 4 cm'}","{'score': 0.04425887018442154, 'start': 59, 'end': 87, 'answer': ' 201,5 cm,B: 79,5 cm,T: 4 cm'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1789,2640,2640,Innentüre grau,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: Keine Angaben
+Garantie: ohne Garantie
+Masse: H: 203 cm, B: 84 cm, T: 4 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikelnr:  111360",Wood,4.0,84.0,203,,,gray,,2022-10-03,169.0,,,1970-01-01,80.0,1970-01-01 00:00:00.002,-89.0,1.0,173.0,"Münchenstein, 4142",,useagain,90688,CH,de,111360_570x570.jpg,https://www.useagain.ch/de/innentuere-grau-90688,G01.05,interior doors,,,,"{'score': 0.9865635633468628, 'start': 119, 'end': 124, 'answer': ' Holz'}","{'score': 0.7701941132545471, 'start': 56, 'end': 85, 'answer': ' H: 203 cm, B: 84 cm, T: 4 cm'}","{'score': 0.21423384547233582, 'start': 56, 'end': 85, 'answer': ' H: 203 cm, B: 84 cm, T: 4 cm'}",Sitka spruce,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+1790,2641,2641,Innentüre weiss,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 213 cm, B: 89,5 cm, T: 4 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikelnr:  111363",Wood,4.0,89.0,213,,,white,,2022-10-03,149.0,,,1970-01-01,40.0,2023-09-25 00:00:00.000,-69.0,1.0,173.0,"Münchenstein, 4142",,useagain,90699,CH,de,111363_570x570.jpg,https://www.useagain.ch/de/innentuere-weiss-90699,G01.05,interior doors,,,,"{'score': 0.9842616319656372, 'start': 121, 'end': 126, 'answer': ' Holz'}","{'score': 0.7385010123252869, 'start': 56, 'end': 87, 'answer': ' H: 213 cm, B: 89,5 cm, T: 4 cm'}","{'score': 0.22643543779850006, 'start': 56, 'end': 87, 'answer': ' H: 213 cm, B: 89,5 cm, T: 4 cm'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1791,2642,2642,Innentüre,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 200 cm, B: 82,5 cm, T: 4 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111420",Wood,4.0,82.0,200,,,mixed,,2022-10-03,110.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-60.0,1.0,173.0,"Münchenstein, 4142",,useagain,90729,CH,de,111420_570x570.jpg,https://www.useagain.ch/de/innentuere-90729,G01.05,interior doors,,,,"{'score': 0.98478102684021, 'start': 121, 'end': 126, 'answer': ' Holz'}","{'score': 0.7611415386199951, 'start': 56, 'end': 87, 'answer': ' H: 200 cm, B: 82,5 cm, T: 4 cm'}","{'score': 0.28503960371017456, 'start': 56, 'end': 87, 'answer': ' H: 200 cm, B: 82,5 cm, T: 4 cm'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1794,2645,2645,Zimmertür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikel Nr:  111258",Wood,,,,,,mixed,,2022-10-06,149.0,,,1970-01-01,40.0,2023-09-25 00:00:00.000,-69.0,1.0,173.0,"Münchenstein, 4142",,useagain,90807,CH,de,111258_570x570.jpg,https://www.useagain.ch/de/zimmertuer-90807,G01.05,room door,,,,"{'score': 0.9882773756980896, 'start': 83, 'end': 88, 'answer': ' Holz'}","{'score': 0.0668015405535698, 'start': 83, 'end': 88, 'answer': ' Holz'}","{'score': 4.225131851853803e-05, 'start': 11, 'end': 25, 'answer': ' keine Angaben'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+1796,2647,2647,Innentür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 196 cm, B: 86 cm, T: 4 cm
+Material: gemischt
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111469",Mixed,4.0,86.0,196,,,mixed,,2022-10-24,169.0,,,1970-01-01,80.0,2023-09-25 00:00:00.000,-89.0,1.0,173.0,"Münchenstein, 4142",,useagain,91169,CH,de,111469_570x570.jpg,https://www.useagain.ch/de/innentuer-91169,G01.05,interior doors,,,,"{'score': 0.9875972270965576, 'start': 95, 'end': 104, 'answer': ' gemischt'}","{'score': 0.7866222858428955, 'start': 56, 'end': 85, 'answer': ' H: 196 cm, B: 86 cm, T: 4 cm'}","{'score': 0.2893892228603363, 'start': 56, 'end': 85, 'answer': ' H: 196 cm, B: 86 cm, T: 4 cm'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1797,2648,2648,Tür mit Luftschlitz,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 211 cm B: 86 cm T: 4 cm
+Material: gemischt
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111485",Mixed,4.0,86.0,211,,,mixed,,2022-10-24,139.0,,,1970-01-01,80.0,2023-09-25 00:00:00.000,-59.0,1.0,173.0,"Münchenstein, 4142",,useagain,91171,CH,de,111485_570x570.jpg,https://www.useagain.ch/de/tuer-mit-luftschlitz-91171,G01.05,interior doors,,,,"{'score': 0.9862728118896484, 'start': 93, 'end': 102, 'answer': ' gemischt'}","{'score': 0.6131736040115356, 'start': 56, 'end': 83, 'answer': ' H: 211 cm B: 86 cm T: 4 cm'}","{'score': 0.14583773910999298, 'start': 56, 'end': 83, 'answer': ' H: 211 cm B: 86 cm T: 4 cm'}",Sitka spruce,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Sanitary fittings and accessories
+1800,2651,2651,Innentüren,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Türe Innen Grau: 1 Stk. 
+2040x820x40mm: mit Stahlrahmen (t:82mm) und Fenster
+
+Türe Innen Grau: 1 Stk
+2040x820x40mm) mit Stahlrahmen (t:82mm)
+
+Türe Innen Grau: 1 Stk
+(2005x820x38mm) mit Stahlrahmen (t:155mm) mit Türschliesser
+
+Türe Innen Weiss (2025x770x40mm)
+
+Zubehör: Türschliesser",Mixed,,,,,,gray,,2022-11-08,80.0,,,1970-01-01,15.0,2023-09-25 00:00:00.000,-65.0,1.0,173.0,"Zürich, 8048",,useagain,91281,CH,de,img_5207_570x570.jpg,https://www.useagain.ch/de/innentueren-91281,G01.05,interior doors,,,,"{'score': 0.04290333017706871, 'start': 119, 'end': 158, 'answer': ' Stahlrahmen (t:82mm)\n\nTüre Innen Grau:'}","{'score': 0.03234843909740448, 'start': 164, 'end': 180, 'answer': '\n(2005x820x38mm)'}","{'score': 0.10205406695604324, 'start': 16, 'end': 23, 'answer': ' 1 Stk.'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1805,2656,2656,Innentür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 198 cm, B: 90 cm, T: 4 cm
+Material: gemischt
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111470",Mixed,4.0,90.0,198,,,mixed,,2022-10-24,169.0,,,1970-01-01,40.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91170,CH,de,111470_570x570.jpg,https://www.useagain.ch/de/innentuer-91170,G01.05,interior doors,,,,"{'score': 0.9874986410140991, 'start': 95, 'end': 104, 'answer': ' gemischt'}","{'score': 0.7887944579124451, 'start': 56, 'end': 85, 'answer': ' H: 198 cm, B: 90 cm, T: 4 cm'}","{'score': 0.32865118980407715, 'start': 56, 'end': 85, 'answer': ' H: 198 cm, B: 90 cm, T: 4 cm'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+1822,2673,2673,Zimmertüre,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"gut erhaltens Zimmertürblatt mit 1 Bartschlüssel, inkl. scharnieren, Band: links",Wood,,76.0,195,,,,,,150.0,,,1970-01-01,150.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,76472,CH,de,20180411_110308_570x570.jpg,https://www.useagain.ch/de/zimmertuere-76472,G01.05,room door,,,,"{'score': 0.01630358211696148, 'start': 0, 'end': 28, 'answer': 'gut erhaltens Zimmertürblatt'}","{'score': 1.6682322893757373e-05, 'start': 0, 'end': 28, 'answer': 'gut erhaltens Zimmertürblatt'}","{'score': 0.0017500160029157996, 'start': 0, 'end': 49, 'answer': 'gut erhaltens Zimmertürblatt mit 1 Bartschlüssel,'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+1823,2674,2674,Zimmertüre,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Zimmer- bzw Abtrenn-türe mit Glas (dieses ist defek), inkl. 1 Bartschlüssel und Scharnieren, Band: li",Mixed,,,,,,,,,150.0,,,1970-01-01,120.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,76473,CH,de,20180411_105529_570x570.jpg,https://www.useagain.ch/de/zimmertuere-76473,G01.05,room door,,,,"{'score': 0.08998312056064606, 'start': 45, 'end': 53, 'answer': ' defek),'}","{'score': 2.088464498228859e-06, 'start': 45, 'end': 53, 'answer': ' defek),'}","{'score': 8.20600034785457e-05, 'start': 59, 'end': 92, 'answer': ' 1 Bartschlüssel und Scharnieren,'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+1824,2675,2675,Zimmertüre,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"gut erhaltenes Zimmertürblatt mit 1 Bartschlüssel u Scharnieren,
+Band: links",Wood,,77.0,201,,,,,,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,179.0,,,useagain,76474,CH,de,20180417_163217_570x570.jpg,https://www.useagain.ch/de/zimmertuere-76474,G01.05,room door,,,,"{'score': 0.10474076867103577, 'start': 14, 'end': 29, 'answer': ' Zimmertürblatt'}","{'score': 1.233742841577623e-05, 'start': 0, 'end': 29, 'answer': 'gut erhaltenes Zimmertürblatt'}","{'score': 0.00041341056930832565, 'start': 33, 'end': 64, 'answer': ' 1 Bartschlüssel u Scharnieren,'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+1825,2676,2676,Zimmertüre,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"gut erhaltenes Zimmer- oder WC-Türblatt, inkl. 1 Bartschlüssel u Scharniere, Band: rechts",Wood,,67.0,201,,,,,,200.0,,,1970-01-01,200.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,76475,CH,de,20180417_162822_570x570.jpg,https://www.useagain.ch/de/zimmertuere-76475,G01.05,room door,,,,"{'score': 0.0009106633951887488, 'start': 0, 'end': 40, 'answer': 'gut erhaltenes Zimmer- oder WC-Türblatt,'}","{'score': 1.2079670341336168e-05, 'start': 0, 'end': 40, 'answer': 'gut erhaltenes Zimmer- oder WC-Türblatt,'}","{'score': 0.0015872989315539598, 'start': 46, 'end': 76, 'answer': ' 1 Bartschlüssel u Scharniere,'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+2069,2923,2923,Aussentüre / Haustüre,like new,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,Wunderschöne Haustüre,,,,,,,,,2022-12-05,1000.0,,,1970-01-01,1000.0,2023-09-25 00:00:00.000,0.0,1.0,154.0,"Bassersdorf, 8303",,useagain,91439,CH,de,32_%281%29_570x570.jpg,https://www.useagain.ch/de/aussentuere-haustuere-91439,E03.02,extrerior doors,,,,"{'score': 0.0196941327303648, 'start': 12, 'end': 21, 'answer': ' Haustüre'}","{'score': 0.01551133580505848, 'start': 0, 'end': 21, 'answer': 'Wunderschöne Haustüre'}","{'score': 0.0003820917336270213, 'start': 0, 'end': 21, 'answer': 'Wunderschöne Haustüre'}",Encaustic,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+2135,2991,2991,Tür mit Rahmen,,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 213 cm B: 109 cm T: 10 cm
+Material: Holz
+Mängel: kleine Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111497",Wood,,,,,,,,2022-12-13,379.0,,,1970-01-01,379.0,1970-01-01 00:00:00.000,0.0,1.0,2.0,"Münchenstein, 4142",,useagain,91505,CH,de,111497_%281%29_570x570.jpg,https://www.useagain.ch/de/tuer-mit-rahmen-91505,E03.02,extrerior doors,,,,"{'score': 0.9878044128417969, 'start': 95, 'end': 100, 'answer': ' Holz'}","{'score': 0.6624914407730103, 'start': 56, 'end': 85, 'answer': ' H: 213 cm B: 109 cm T: 10 cm'}","{'score': 0.28356319665908813, 'start': 56, 'end': 85, 'answer': ' H: 213 cm B: 109 cm T: 10 cm'}",Encaustic,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2226,3084,3084,Eingangstür mit Rahmen,"used, cleaned & tested",['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 206cm B: 98cm T: 2.5cm
+Einbaumass: H: 220cm B: 109.5cm T: 5.5cm
+Material: Metall
+Mängel: keine Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112514",Metal,2.0,98.0,206,,,white,,2023-01-19,399.0,,,1970-01-01,399.0,2023-09-25 00:00:00.000,0.0,1.0,107.0,"Münchenstein, 4142",,useagain,91641,CH,de,112514_570x570.jpg,https://www.useagain.ch/de/eingangstuer-mit-rahmen-91641,E03.02,extrerior doors,,,,"{'score': 0.976773202419281, 'start': 133, 'end': 140, 'answer': ' Metall'}","{'score': 0.5814764499664307, 'start': 56, 'end': 82, 'answer': ' H: 206cm B: 98cm T: 2.5cm'}","{'score': 0.44937795400619507, 'start': 56, 'end': 82, 'answer': ' H: 206cm B: 98cm T: 2.5cm'}",Architectural glass,Door hinges,Pr_30_36_36_21,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels
+2233,3091,3091,Türen,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Abholbar bern nähe wankdorf
+2 türen",,,,,,,,,,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,107.0,"Bern, 3006",,useagain,91576,CH,de,20221110_110351_%281%29_570x570.jpg,https://www.useagain.ch/de/tueren-91576,G01.05,interior doors,,,,"{'score': 0.06299243867397308, 'start': 0, 'end': 35, 'answer': 'Abholbar bern nähe wankdorf\n2 türen'}","{'score': 0.4735491871833801, 'start': 27, 'end': 35, 'answer': '\n2 türen'}","{'score': 0.548689603805542, 'start': 27, 'end': 35, 'answer': '\n2 türen'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Safety cages
+2403,3561,3561,Poignée de porte,used,['Sonstiges'],,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Werkzeug,"Panneau de porte : 83/214/4cm
+Imposte (partie haute) : 83/41cm
+Variante avec imposte en verre.",Aluminum,0.0,23.0,7.5,,,,,,6.0,0.0,1.0,1970-01-01,6.0,2023-09-25 00:00:00.000,14.0,1.0,30.0,,MACO,materiuum,2103-1362,CH,fr,"['https://materiuum.ch/wp-content/uploads/2022/10/2103-1362-b-82.jpg', 'https://materiuum.ch/wp-content/uploads/2022/10/2103-1362-a-82.jpg', 'https://materiuum.ch/wp-content/uploads/2022/10/2103-1362-b-83.jpg']",https://materiuum.ch/produit/379-5/,,handle,,,,"{'score': 0.03988228738307953, 'start': 87, 'end': 94, 'answer': ' verre.'}","{'score': 0.05061454698443413, 'start': 18, 'end': 29, 'answer': ' 83/214/4cm'}","{'score': 0.004181285854429007, 'start': 18, 'end': 29, 'answer': ' 83/214/4cm'}",Pisé,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+2404,3562,3562,Poignée de porte,used,['Sonstiges'],,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Kleinteile,"Store intégré à l'intérieur des cloisons actionnables avec une mollette.
+Dimension du verre: 106/236cm",Aluminum,0.0,15.0,7.5,,,,,,25.0,0.0,6.0,1970-01-01,25.0,2023-09-25 00:00:00.000,23.0,1.0,14.0,,MACO,materiuum,2103-1350,CH,fr,['https://materiuum.ch/wp-content/uploads/2022/10/2103-1350-a-82.jpg'],https://materiuum.ch/produit/379-4/,,handle,,,,"{'score': 0.0005189018556848168, 'start': 85, 'end': 92, 'answer': ' verre:'}","{'score': 0.6292583346366882, 'start': 92, 'end': 102, 'answer': ' 106/236cm'}","{'score': 0.0018696296028792858, 'start': 92, 'end': 102, 'answer': ' 106/236cm'}",Pisé,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+2607,3791,3791,Innentür abgerundet,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,Produkte-Nr. 2810,Wood,85.0,,200,,,white,,2022-11-14,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,,"Zürich, 8050",,useagain,91312,CH,de,2810_2_570x570.jpg,https://www.useagain.ch/de/innentuer-abgerundet-91312,G01.05,interior doors,,,,"{'score': 0.0012212073197588325, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 2810'}","{'score': 0.0004322726163081825, 'start': 12, 'end': 17, 'answer': ' 2810'}","{'score': 0.7032426595687866, 'start': 12, 'end': 17, 'answer': ' 2810'}",Sitka spruce,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+2638,3822,3822,Tür,"used, cleaned & tested",['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Produkte-Nr. 2812
+
+Verkauft: Vida, 03.05.23/swy",Wood,95.0,,202,,,white,,,30.0,,,1970-01-01,30.0,1970-01-01 00:00:00.000,0.0,1.0,64.0,"Zürich, 8050",,useagain,91316,CH,de,2812_2_570x570.jpg,https://www.useagain.ch/de/tuer-91316,E03.02,extrerior doors,,,,"{'score': 0.00073359499219805, 'start': 28, 'end': 34, 'answer': ' Vida,'}","{'score': 1.9017828890355304e-05, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 2812'}","{'score': 0.1246703565120697, 'start': 12, 'end': 17, 'answer': ' 2812'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Safety cages
+2804,3988,3988,Zimmertür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,Prdukte-Nr.: 2811,Wood,85.0,,200,,,white,,2022-11-14,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,,"Zürich, 8050",,useagain,91313,CH,de,2811_2_570x570.jpg,https://www.useagain.ch/de/zimmertuer-91313,G01.05,room door,,,,"{'score': 0.0010070743737742305, 'start': 0, 'end': 12, 'answer': 'Prdukte-Nr.:'}","{'score': 0.00017078813107218593, 'start': 0, 'end': 17, 'answer': 'Prdukte-Nr.: 2811'}","{'score': 0.38104766607284546, 'start': 12, 'end': 17, 'answer': ' 2811'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+2857,4046,4046,Poignée de porte,used,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"Armoire basse composée de 4 placards avec double porte et 4 tiroirs. Les doubles portes peuvent se fermer grâce à un ferrement coulissant. Les faces verticales du meuble sont recouverte d'un décor stratifié rose clair. Le plan horizontal est recouvert d'un décor stratifié gris clair.
+A l'intérieur des placards, un rayonnage intermédiaire fixe.",Aluminum,0.0,14.0,8,,.55kg,,,,10.0,0.0,6.0,1970-01-01,10.0,1970-01-01 00:00:00.000,,1.0,20.0,,MACO,materiuum,2302-5721,CH,fr,['https://materiuum.ch/wp-content/uploads/2023/02/2302-5721-a-600x800.jpg'],https://materiuum.ch/produit/345-23/,E02,handle,,,,"{'score': 0.496514230966568, 'start': 196, 'end': 206, 'answer': ' stratifié'}","{'score': 0.013807762414216995, 'start': 25, 'end': 68, 'answer': ' 4 placards avec double porte et 4 tiroirs.'}","{'score': 0.09609682857990265, 'start': 25, 'end': 68, 'answer': ' 4 placards avec double porte et 4 tiroirs.'}",Pisé,Door hinges,Pr_30_36_36_21,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+2914,4110,4110,Ferme porte,used,['Sonstiges'],,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,,Ferme-porte en applique à bras,Metal,0.0,22.0,4,,15kg,,,,25.0,0.0,5.0,1970-01-01,25.0,1970-01-01 00:00:00.000,6.0,1.0,0.0,,ECO-CUI LCO,materiuum,2202-3431,CH,fr,['https://materiuum.ch/wp-content/uploads/2023/02/2202-3431-a-1-600x450.jpg'],https://materiuum.ch/produit/384-194/,,door closer,,,,"{'score': 4.8640547902323306e-05, 'start': 11, 'end': 14, 'answer': ' en'}","{'score': 0.003909866325557232, 'start': 0, 'end': 30, 'answer': 'Ferme-porte en applique à bras'}","{'score': 0.0001364586642012, 'start': 0, 'end': 30, 'answer': 'Ferme-porte en applique à bras'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Safety cages
+3003,4201,4201,Innentüren,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Mit Röhrenspan, aussen fourniert Kiefer: Normalgrösse (200x80cm), ohne Rahmen, (Falls Sie am Rahmen interessiert sind könnten wir Sie nur ganz kurzfristig auffordern, diesen selber zu entfernen, gegen Ende April.) Nur einer der Rahmen steht zur Verfügung",Wood,,80.0,200,,,mixed,G,,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,45.0,"Tentlingen, 1734",,useagain,92266,CH,de,,https://www.useagain.ch/de/innentueren-92266,G01.05,interior doors,,,,"{'score': 0.014792922884225845, 'start': 32, 'end': 40, 'answer': ' Kiefer:'}","{'score': 0.523747444152832, 'start': 53, 'end': 65, 'answer': ' (200x80cm),'}","{'score': 0.04848897084593773, 'start': 53, 'end': 65, 'answer': ' (200x80cm),'}",Encaustic,Door hinges,Pr_30_36_36_21,Openings,"Door, Windows, Gates",Furnishings
+3226,4435,4435,Zimmertüre Innenbereich,like new,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Gratis abzugeben
+
+Zimmertüre, Holz, weiss lackiert, neuwertig.
+Muss abgholt werden.",Wood,,100.0,200,,,white,,,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,15.0,"Aarau, 5000",,useagain,92377,CH,de,wohnunggotthelfstrasse001_570x570.jpg,https://www.useagain.ch/de/zimmertuere-innenbereich-92377,G01.05,room door,,,,"{'score': 0.6882284283638, 'start': 29, 'end': 35, 'answer': ' Holz,'}","{'score': 0.005766319576650858, 'start': 17, 'end': 29, 'answer': '\nZimmertüre,'}","{'score': 0.001471286523155868, 'start': 17, 'end': 29, 'answer': '\nZimmertüre,'}",Architectural glass,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+3612,4861,4862,Zimmertüren,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Innentüren,"Massivholztüren in Tanne gestemmt, gebeitzt und lackiert, 3x rechts und 1x links gebandet",Holz,,80.0,200,,20,mixed,A,,,,,,120.0,2023-09-25 00:00:00.000,,0.0,,"Thundorf , 8512",,useagain,92844,CH,de,img_9731_%283%29_570x570.jpg,https://www.useagain.ch/de/zimmertueren-92844,G01.05,room door,120.0,,,"{'score': 0.9340522289276123, 'start': 18, 'end': 24, 'answer': ' Tanne'}","{'score': 0.013322802260518074, 'start': 57, 'end': 89, 'answer': ' 3x rechts und 1x links gebandet'}","{'score': 0.14746631681919098, 'start': 57, 'end': 89, 'answer': ' 3x rechts und 1x links gebandet'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+3613,4862,4863,Zimmertüren,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Innentüren,"Massivholztüren in Tanne gestemmt, gebeitzt und lackiert, 3x rechts und 1x links gebandet",Holz,,80.0,200,,20,mixed,A,,,,,,120.0,2023-09-25 00:00:00.000,,0.0,,"Thundorf , 8512",,useagain,92843,CH,de,img_9731_%281%29_570x570.jpg,https://www.useagain.ch/de/zimmertueren-92843,G01.05,room door,120.0,,,"{'score': 0.9340522289276123, 'start': 18, 'end': 24, 'answer': ' Tanne'}","{'score': 0.013322802260518074, 'start': 57, 'end': 89, 'answer': ' 3x rechts und 1x links gebandet'}","{'score': 0.14746631681919098, 'start': 57, 'end': 89, 'answer': ' 3x rechts und 1x links gebandet'}",Sitka spruce,Door hinges,Pr_30_36_36_21,Furnishings,"Door, Windows, Gates",Furnishings
+3825,5220,5221,Tür Edelstahl,,['G01.05'],Internal pedestrian doors,,,,,Preis und weitere Angaben auf Anfrage,,,,,,,,,,,,,,,,,0.0,,"Zürich, 8050",,useagain,93019,CH,de,bauteil302hygienetr_570x570.jpg,,G01.05,interior doors,0.0,,,"{'score': 5.163440073374659e-05, 'start': 0, 'end': 37, 'answer': 'Preis und weitere Angaben auf Anfrage'}","{'score': 5.635862180497497e-06, 'start': 0, 'end': 5, 'answer': 'Preis'}","{'score': 0.005398217123001814, 'start': 0, 'end': 5, 'answer': 'Preis'}",Encaustic,Door hinges,Pr_30_36_36_21,"Wall, Barriers, Pannels","Door, Windows, Gates",Safety cages

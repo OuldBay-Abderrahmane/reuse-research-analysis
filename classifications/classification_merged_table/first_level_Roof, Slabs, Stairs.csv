@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Roof, Slabs, Stairs","              precision    recall  f1-score   support
+
+           0       0.74      0.78      0.76       111
+           1       0.87      0.84      0.85       192
+
+    accuracy                           0.82       303
+   macro avg       0.80      0.81      0.81       303
+weighted avg       0.82      0.82      0.82       303
+","                             Feature  Importance
+260              Code_Terrazzo tiles    0.170987
+125  Code_Domestic cooking equipment    0.065846
+152         Code_Garage door holders    0.052178
+67                    Material_Steel    0.048606
+33     Material_Heat-absorbing glass    0.034821
+..                               ...         ...
+123                       Code_Desks    0.000000
+122          Code_Decorator’s caulks    0.000000
+121             Code_Cultivated turf    0.000000
+120       Code_Countertop washbasins    0.000000
+329        third_level_Trim products    0.000000
+
+[330 rows x 2 columns]"

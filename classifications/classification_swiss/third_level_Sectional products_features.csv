@@ -1,0 +1,43 @@
+,Feature,Importance
+11,Swiss_Raw_Sectional products,0.5351014
+0,LastPrice,0.18265103
+3,Width,0.16244915
+2,Length,0.11979845
+25,Subcategory_Laminat,0.0
+26,Subcategory_Möbel,0.0
+27,Subcategory_Tore,0.0
+28,Subcategory_Treppen & Rampen,0.0
+29,Subcategory_Umgebungsfläche,0.0
+30,Material_Aluminum,0.0
+31,Material_Compound,0.0
+32,Material_Holz,0.0
+33,Material_Metal,0.0
+23,Subcategory_Fertigteile & Geräte,0.0
+34,Material_Mixed,0.0
+35,Material_Plastic,0.0
+36,Material_Plexiglass,0.0
+37,Material_Stone,0.0
+38,Material_Wood,0.0
+39,Material_gemischt,0.0
+40,Energy_Efficiency_A,0.0
+24,Subcategory_Holzbeläge,0.0
+21,Subcategory_Aussentüren,0.0
+22,Subcategory_Baustoffe,0.0
+12,Swiss_Raw_Separators,0.0
+4,Category_Ausbau,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+6,Category_Sonstiges,0.0
+7,Category_Umgebung,0.0
+8,Swiss_Raw_Conical couplers,0.0
+9,Swiss_Raw_Occasional tables,0.0
+10,Swiss_Raw_Scagliola,0.0
+13,Condition_defective,0.0
+1,Quantity,0.0
+14,Condition_defekt,0.0
+15,Condition_gebraucht,0.0
+16,"Condition_gebraucht, gereinigt & geprüft",0.0
+17,Condition_used,0.0
+18,Condition_used & cleaned,0.0
+19,"Condition_used, cleaned & tested",0.0
+20,Subcategory_Apparate & Geräte,0.0
+41,third_level_Sectional products,0.0

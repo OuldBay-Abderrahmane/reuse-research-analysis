@@ -1,0 +1,199 @@
+,Feature,Importance
+5,Price_Change,0.22441867
+114,material_emb_Pisé,0.18971984
+18,Category_Lighting,0.14992179
+2,Latest_Price,0.12068217
+0,Weight,0.09522791
+117,material_emb_Pozzolana,0.0733446
+1,Initial_Price,0.061431717
+14,Category_Furniture,0.029637769
+4,Stock_Now,0.02616553
+124,material_emb_Sitka spruce,0.025149664
+24,Category_Per building,0.004300328
+135,material_emb_Weathering steel,0.0
+134,material_emb_Water,0.0
+137,material_emb_Wych elm,0.0
+120,material_emb_Roman concrete,0.0
+121,material_emb_Sandstone,0.0
+122,material_emb_Sheet,0.0
+123,material_emb_Silt,0.0
+125,material_emb_Soap,0.0
+126,material_emb_Special-class prescription concrete,0.0
+127,material_emb_Spheroidal graphite iron,0.0
+119,material_emb_Reflective glass,0.0
+129,material_emb_Terracotta,0.0
+130,material_emb_Tufa,0.0
+136,material_emb_White pine,0.0
+131,material_emb_Turpentine resin,0.0
+132,material_emb_Urea formaldehyde resin,0.0
+133,material_emb_Vermiculite aggregates,0.0
+128,material_emb_Teak,0.0
+116,material_emb_Powder,0.0
+118,material_emb_Radiata pine,0.0
+115,material_emb_Porcelain,0.0
+99,material_emb_Gravel,0.0
+100,material_emb_Hydraulic road binder bound mixtures,0.0
+101,material_emb_Japanese larch,0.0
+102,material_emb_Kaolin,0.0
+103,material_emb_Larch,0.0
+104,material_emb_Lead,0.0
+105,material_emb_Leather,0.0
+106,material_emb_Lignite,0.0
+107,material_emb_Lime,0.0
+108,material_emb_Limestone,0.0
+98,material_emb_Grass,0.0
+109,material_emb_Loose surfacing decorative aggregates,0.0
+110,material_emb_Mahogany,0.0
+111,material_emb_Oil,0.0
+112,material_emb_Opal glass,0.0
+113,material_emb_Paper,0.0
+139,Belgium_Raw_Auditorium seating,0.0
+138,Belgium_Raw_Arrises,0.0
+143,Belgium_Raw_Fonts,0.0
+140,Belgium_Raw_Chrome plating,0.0
+141,Belgium_Raw_Coat racks,0.0
+164,Belgium_Code_Pr_40_30_71_31,0.0
+165,Belgium_Code_Pr_40_30_78_17,0.0
+166,Belgium_Code_Pr_40_50_05_55,0.0
+167,Belgium_Code_Pr_40_50_12_59,0.0
+168,Belgium_Code_Pr_40_50_12_93,0.0
+169,Belgium_Code_Pr_40_70_23_27,0.0
+170,Belgium_Code_Pr_45_31_03_96,0.0
+171,Belgium_Code_Pr_45_31_63_76,0.0
+172,Belgium_Code_Pr_45_63_64_90,0.0
+173,Belgium_Code_Pr_70_70_48_82,0.0
+174,first_level_Other,0.0
+175,"first_level_Roof, Slabs, Stairs",0.0
+176,first_level_Technical elements,0.0
+177,"first_level_Wall, Barriers, Pannels",0.0
+178,"second_level_Blocks, Panels, Fences, Bricks",0.0
+179,"second_level_Covering, Finish",0.0
+180,"second_level_Door, Windows, Gates",0.0
+181,second_level_Other,0.0
+182,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+163,Belgium_Code_Pr_40_30_29_05,0.0
+162,Belgium_Code_Pr_40_20_96_81,0.0
+161,Belgium_Code_Pr_40_20_93_74,0.0
+150,Belgium_Raw_Spotlights,0.0
+142,Belgium_Raw_Espresso machines,0.0
+96,material_emb_Granite,0.0
+144,Belgium_Raw_Lime renders,0.0
+145,Belgium_Raw_Murals,0.0
+146,Belgium_Raw_Ottomans,0.0
+147,Belgium_Raw_Pull handles,0.0
+148,Belgium_Raw_Sedge,0.0
+149,Belgium_Raw_Sinks,0.0
+151,Belgium_Raw_Trellises,0.0
+160,Belgium_Code_Pr_35_90_43_87,0.0
+152,Belgium_Raw_Upholstered benches,0.0
+153,Belgium_Raw_Urinal dividers,0.0
+154,Belgium_Raw_Vermicides ,0.0
+155,Belgium_Raw_Wood architraves,0.0
+156,Belgium_Code_Pr_30_36_59_64,0.0
+157,Belgium_Code_Pr_35_31_64_48,0.0
+158,Belgium_Code_Pr_35_31_68_13,0.0
+159,Belgium_Code_Pr_35_90_43_04,0.0
+97,material_emb_Granule,0.0
+92,material_emb_Fuller's earth,0.0
+95,material_emb_Gold,0.0
+94,material_emb_Gneiss,0.0
+30,Category_Technical,0.0
+31,Condition_Correct,0.0
+32,Condition_Usé,0.0
+33,Material_Autre,0.0
+34,Material_Bois,0.0
+35,Material_Céramique,0.0
+36,Material_Forex,0.0
+37,Material_Inox,0.0
+38,Material_Métal,0.0
+39,Material_Plastique,0.0
+40,Material_Textile,0.0
+41,Material_Verre,0.0
+42,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+43,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible du 03 au 14 Avril 2023",0.0
+44,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible du 05.06.2023 au 16.06.2023",0.0
+45,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposé",0.0
+46,"Technical_Mode d’assemblage :
+Préconisations de dépose : JOINTS DE VITRAGES AMIANTES",0.0
+47,"Technical_Mode d’assemblage : A poser sur support
+Préconisations de dépose : Déjà déposé",0.0
+48,"Technical_Mode d’assemblage : Accroché avec collier de serrage
+Préconisations de dépose : Dévisser et couper le collier de serrage",0.0
+29,Category_Scénographie,0.0
+28,Category_Sanitary,0.0
+27,Category_Sanitaires,0.0
+13,Category_Floors,0.0
+3,Initial_Stock,0.0
+6,Quantity_Change,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+10,Category_Bricks,0.0
+11,Category_Droguerie,0.0
+12,Category_Electricités et luminaires,0.0
+15,Category_Garden,0.0
+26,Category_Quincaillerie,0.0
+16,Category_Hardware,0.0
+17,Category_Insolite,0.0
+19,Category_Maintenance,0.0
+20,Category_Matière brute,0.0
+21,Category_Mobilier,0.0
+22,Category_Objet Trouvé,0.0
+23,Category_Per Building,0.0
+25,Category_Portes et fenêtres,0.0
+49,"Technical_Mode d’assemblage : Boulonné
+Préconisations de dépose : À dévisser et à transporter individuellement",0.0
+50,"Technical_Mode d’assemblage : Collés sur plaque en bois
+Préconisations de dépose : En cas d’utilisation des éléments indépendamment, commencer par le miroir en bas à gauche (déjà légèrement abîmé)",0.0
+51,"Technical_Mode d’assemblage : Encastré dans plan de travail
+Préconisations de dépose :",0.0
+83,material_emb_Dolerite,0.0
+75,material_emb_Borosilicate glass,0.0
+76,material_emb_Brass,0.0
+77,material_emb_Bronze,0.0
+78,material_emb_Chrome steel,0.0
+79,material_emb_Coade stone,0.0
+80,material_emb_Daub,0.0
+81,material_emb_Decorative aggregates,0.0
+82,material_emb_Dichromatic glass,0.0
+84,material_emb_Dutch elm,0.0
+73,material_emb_Bituminous material,0.0
+85,material_emb_Emulsion,0.0
+86,material_emb_Encaustic,0.0
+87,material_emb_European larch,0.0
+88,material_emb_European oak,0.0
+89,material_emb_Expanded slag aggregates,0.0
+90,material_emb_Filament,0.0
+91,material_emb_French oak,0.0
+93,material_emb_Galvanized steel,0.0
+74,material_emb_Blinding aggregates,0.0
+72,material_emb_Asphaltite,0.0
+52,"Technical_Mode d’assemblage : Posé au sol
+Préconisations de dépose :",0.0
+61,Collection_ECO-CUI LCO : A coordonner avec Matériuum,0.0
+53,"Technical_Mode d’assemblage : Sur cadre applique (à vérifier sur place)
+Préconisations de dépose : Dépose du cadre à vérifier sur place",0.0
+54,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose :",0.0
+55,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose : Couper alimentation",0.0
+56,Collection_:,0.0
+57,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+58,Collection_CHUV Lausanne : Retrait des éléments sur rendez-vous (Lausanne) après confirmation de la commande par Matériuum.,0.0
+59,Collection_Chêne : Retrait des éléments sur rendez-vous (à Renens) ou à Genève après confirmation de la commande par Matériuum.,0.0
+60,Collection_ECO-CUI DEB :,0.0
+62,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+71,material_emb_Asphalt,0.0
+63,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+64,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+65,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+66,Country_BE,0.0
+67,Store_rotordc,0.0
+68,Language_fr,0.0
+69,material_emb_Adobe,0.0
+70,material_emb_Aluminium,0.0
+183,third_level_Other,0.0

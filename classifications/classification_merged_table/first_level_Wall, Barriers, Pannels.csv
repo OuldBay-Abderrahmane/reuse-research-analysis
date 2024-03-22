@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Wall, Barriers, Pannels","              precision    recall  f1-score   support
+
+           0       0.72      0.65      0.68       158
+           1       0.83      0.88      0.85       313
+
+    accuracy                           0.80       471
+   macro avg       0.78      0.76      0.77       471
+weighted avg       0.79      0.80      0.80       471
+","                         Feature  Importance
+169             Code_Door hinges    0.080604
+42               Material_Gravel    0.039266
+282            Code_Quarry tiles    0.036747
+140           Code_Column guards    0.035395
+0                          Price    0.031239
+..                           ...         ...
+172            Code_Double slips    0.000000
+171                Code_Doorsets    0.000000
+170  Code_Door lever handle sets    0.000000
+33                  Material_Gas    0.000000
+228          Code_Lantern lights    0.000000
+
+[413 rows x 2 columns]"

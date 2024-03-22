@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floor plates, gratings and edgings","              precision    recall  f1-score   support
+
+           0       0.66      0.84      0.74        61
+           1       0.83      0.66      0.74        76
+
+    accuracy                           0.74       137
+   macro avg       0.75      0.75      0.74       137
+weighted avg       0.76      0.74      0.74       137
+","                                            Feature  Importance
+28                                 Material_Lignite    0.095449
+165                                Code_Stone tiles    0.085604
+169                             Code_Terrazzo tiles    0.078289
+96          Code_Excavated earth and fill materials    0.062492
+54                              Material_Terracotta    0.062373
+..                                              ...         ...
+80                                   Code_Cupboards    0.000000
+81                                     Code_Cutlery    0.000000
+82                      Code_Decorative metal tiles    0.000000
+83                          Code_Decorator’s caulks    0.000000
+195  third_level_Floor plates, gratings and edgings    0.000000
+
+[196 rows x 2 columns]"

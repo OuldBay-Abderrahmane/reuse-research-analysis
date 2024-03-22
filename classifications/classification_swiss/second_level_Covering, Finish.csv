@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Covering, Finish","              precision    recall  f1-score   support
+
+           0       0.87      0.52      0.65        25
+           1       0.85      0.97      0.91        72
+
+    accuracy                           0.86        97
+   macro avg       0.86      0.75      0.78        97
+weighted avg       0.86      0.86      0.84        97
+","                                      Feature  Importance
+81   Condition_gebraucht, gereinigt & geprüft    0.225813
+79                        Condition_gebraucht    0.213029
+5              Category_Baustoffe & Werkzeuge    0.085691
+143                            Material_Glass    0.045130
+134                       Subcategory_Zubehör    0.042975
+..                                        ...         ...
+65                   Swiss_Raw_Stage curtains    0.000000
+64                       Swiss_Raw_Sprinklers    0.000000
+63                           Swiss_Raw_Sprigs    0.000000
+62           Swiss_Raw_Sound damping coatings    0.000000
+165             second_level_Covering, Finish    0.000000
+
+[166 rows x 2 columns]"

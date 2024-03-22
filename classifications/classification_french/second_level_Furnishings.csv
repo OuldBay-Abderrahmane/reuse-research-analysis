@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.70      0.81      0.75        32
+           1       0.93      0.88      0.90        88
+
+    accuracy                           0.86       120
+   macro avg       0.82      0.84      0.83       120
+weighted avg       0.87      0.86      0.86       120
+","                                            Feature  Importance
+219                          material_emb_Aluminium    0.136249
+161                                 location_CHOLET    0.127994
+160                         location_CHEVILLY-LARUE    0.071671
+191                location_PARIS-9E-ARRONDISSEMENT    0.054614
+398             third_level_Glass blocks and panels    0.046195
+..                                              ...         ...
+138                         BIM_class_E.20.20.10.3g    0.000000
+137                         BIM_class_E.20.20.10.3f    0.000000
+136                         BIM_class_E.20.20.10.3d    0.000000
+134                         BIM_class_E.20.20.10.3b    0.000000
+405  third_level_Space heating and cooling products    0.000000
+
+[406 rows x 2 columns]"

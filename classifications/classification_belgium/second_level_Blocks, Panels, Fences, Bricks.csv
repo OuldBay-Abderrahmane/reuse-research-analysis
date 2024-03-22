@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Blocks, Panels, Fences, Bricks","              precision    recall  f1-score   support
+
+           0       0.76      0.81      0.79        16
+           1       0.86      0.82      0.84        22
+
+    accuracy                           0.82        38
+   macro avg       0.81      0.82      0.81        38
+weighted avg       0.82      0.82      0.82        38
+","                                               Feature  Importance
+5                                         Price_Change    0.263824
+99                                 material_emb_Marble    0.174607
+18                                     Category_Garden    0.111715
+135                          Belgium_Raw_Ceramic tiles    0.103842
+161                           Belgium_Raw_Quarry tiles    0.088896
+..                                                 ...         ...
+95                    material_emb_Insulating concrete    0.000000
+96                                material_emb_Lignite    0.000000
+97   material_emb_Loose surfacing decorative aggreg...    0.000000
+98                        material_emb_Manganese steel    0.000000
+258    third_level_Wire structure and general products    0.000000
+
+[259 rows x 2 columns]"

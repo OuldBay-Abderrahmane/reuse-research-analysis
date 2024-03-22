@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Blocks, Panels, Fences, Bricks","              precision    recall  f1-score   support
+
+           0       0.62      0.65      0.63        86
+           1       0.80      0.77      0.79       155
+
+    accuracy                           0.73       241
+   macro avg       0.71      0.71      0.71       241
+weighted avg       0.73      0.73      0.73       241
+","                          Feature  Importance
+104                  Code_Arrises    0.058155
+111                   Code_Bidets    0.050296
+33                   Material_Gas    0.041260
+257             Code_Quarry tiles    0.039090
+289              Code_Stone tiles    0.035384
+..                            ...         ...
+156       Code_Decorator’s caulks    0.000000
+155   Code_Decorative metal tiles    0.000000
+154  Code_Decorative metal panels    0.000000
+153       Code_Decorative facings    0.000000
+181              Code_Gate arches    0.000000
+
+[363 rows x 2 columns]"

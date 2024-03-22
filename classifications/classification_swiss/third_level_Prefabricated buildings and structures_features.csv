@@ -1,0 +1,77 @@
+,Feature,Importance
+32,Condition_used & cleaned,0.4640618
+0,LastPrice,0.18521297
+2,Length,0.08531404
+7,Category_Gebäudetechnik & Sanitär,0.08048429
+31,Condition_used,0.070628054
+3,Width,0.058957946
+4,Category_Ausbau,0.055340875
+55,Subcategory_Waschtisch & Lavabos,0.0
+54,Subcategory_Waschküche & Trockner,0.0
+53,Subcategory_Verkleidung,0.0
+52,Subcategory_Umgebungsfläche,0.0
+51,Subcategory_Steinbeläge,0.0
+50,Subcategory_Spülen,0.0
+48,Subcategory_Möbel,0.0
+49,Subcategory_Sonstiges,0.0
+57,Subcategory_Öfen & Cheminées,0.0
+47,Subcategory_Löschanlage,0.0
+46,Subcategory_Läden & Storen,0.0
+45,Subcategory_Leuchten & Lampen,0.0
+44,Subcategory_Kunst & Kultur,0.0
+43,Subcategory_Innentüren,0.0
+56,Subcategory_Zubehör,0.0
+60,Material_Ceramic,0.0
+58,Material_Aluminium,0.0
+59,Material_Beton,0.0
+74,Energy_Efficiency_E,0.0
+73,Material_gemischt,0.0
+72,Material_Wood,0.0
+71,Material_Stone,0.0
+70,Material_Stainless steel,0.0
+69,Material_Plastic,0.0
+68,Material_Natural stone,0.0
+67,Material_Mixed,0.0
+66,Material_Metall,0.0
+65,Material_Metal,0.0
+64,Material_Keramik,0.0
+63,Material_Holz,0.0
+62,Material_Granit,0.0
+61,Material_Concrete,0.0
+41,Subcategory_Fertigteile & Geräte,0.0
+42,Subcategory_Holzbeläge,0.0
+38,Subcategory_Deckenkonstruktion,0.0
+40,Subcategory_Fassade,0.0
+13,Swiss_Raw_Concrete bollards,0.0
+19,Swiss_Raw_Pendant luminaires,0.0
+18,Swiss_Raw_Museum showcases,0.0
+17,Swiss_Raw_Lacquers,0.0
+16,Swiss_Raw_High strength concrete,0.0
+15,Swiss_Raw_Gate arches,0.0
+14,Swiss_Raw_Concretes,0.0
+12,Swiss_Raw_Concrete access cover seatings,0.0
+39,Subcategory_Einbauküchen,0.0
+11,Swiss_Raw_Bidets,0.0
+10,Swiss_Raw_Arrises,0.0
+9,Category_Umgebung,0.0
+8,Category_Sonstiges,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+20,Swiss_Raw_Renovating plasters,0.0
+21,Swiss_Raw_Smoke and fire barriers,0.0
+22,Swiss_Raw_Solders,0.0
+23,Swiss_Raw_Steel spiles,0.0
+24,Swiss_Raw_Structural wood composites,0.0
+25,Swiss_Raw_Wood veneers,0.0
+26,Condition_defective,0.0
+27,"Condition_gebraucht, gereinigt & geprüft",0.0
+28,Condition_like new,0.0
+29,Condition_mixed,0.0
+30,Condition_neuwertig,0.0
+33,"Condition_used, cleaned & tested",0.0
+34,Subcategory_Apparate & Geräte,0.0
+35,Subcategory_Bad & Dusche,0.0
+36,Subcategory_Badewanne & Dusche,0.0
+37,Subcategory_Baustoffe,0.0
+1,Quantity,0.0
+75,third_level_Prefabricated buildings and structures,0.0

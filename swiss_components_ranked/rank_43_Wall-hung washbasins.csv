@@ -1,0 +1,46 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+666,1490,1490,Waschtisch - Unterbau,mixed,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"sehr gut erhaltene Unterbaute von Loosli (Jahrgang 2014), Lavabo gibt's nicht mehr, ist nur zur Info",,,,,,,,,,75.0,,,1970-01-01,75.0,1970-01-01 00:00:00.000,0.0,1.0,121.0,,,useagain,77056,CH,de,20180727_172837-kopie_570x570.jpg,https://www.useagain.ch/de/waschtisch-unterbau-77056,J01.02,sink,,,,"{'score': 4.6264012780738994e-05, 'start': 0, 'end': 29, 'answer': 'sehr gut erhaltene Unterbaute'}","{'score': 1.2107997463317588e-05, 'start': 0, 'end': 29, 'answer': 'sehr gut erhaltene Unterbaute'}","{'score': 9.96295852928597e-07, 'start': 0, 'end': 40, 'answer': 'sehr gut erhaltene Unterbaute von Loosli'}",Gravel,Wall-hung washbasins,Pr_40_20_96_96,"Roof, Slabs, Stairs","Floors, Ceiling",Sanitary fittings and accessories
+1083,1930,1930,Wand Laufen mit -Mengen Spülkasten,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,WC-Anlagen,"gut erhaltenes Wand WC von Laufen (Typ: moderna)(aufputz) inkl. aufgesetztem Spülkasten (von GEBERIT) 2-Mengen, chemisch entkalkt
+(NP: Fr.581.--) , viele weitere WC's an Lager für Wand oder Stand, ( z.T noch nicht entkalkte an Lager -&gt; werden laufend aufbereitet - gereinigt)
+gosse Auswahl an WC-Deckeln - auch mit Absenkautomatik
+
+intern: 24.. ; HP 73347; L1 u L II",,,,,,,,,2022-08-30,250.0,,,1970-01-01,250.0,1970-01-01 00:00:00.000,0.0,1.0,108.0,,,useagain,73347,CH,de,15.07.2011-033_570x570.jpg,https://www.useagain.ch/de/wand-wc-laufen-mit-2-mengen-spuelkasten-73347,,WC,,,,"{'score': 0.00020318276074249297, 'start': 111, 'end': 129, 'answer': ' chemisch entkalkt'}","{'score': 1.2186904996269732e-06, 'start': 359, 'end': 369, 'answer': ' L1 u L II'}","{'score': 0.044132478535175323, 'start': 101, 'end': 111, 'answer': ' 2-Mengen,'}",Sitka spruce,Wall-hung washbasins,Pr_40_20_96_96,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Walling units
+1724,2575,2575,Wand-WC mit Lavabo,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Wand-WC ohne Spülkasten (für Unterputzspülkasten)
+Hersteller: Laufen (altes Modell, Mitte Wasserzulauf bis Mitte Abgang 14,5 cm)
+Material: Keramik
+Farbe: Grün
+Abgang: horizontal
+
+Lavabo:
+Hersteller: Laufen
+Material: Keramik
+Farbe: Grün
+Masse: Breite: 60 cm, Höhe: 24 cm, Tiefe: 57 cm
+Lochabstand für Wandmontage: 28 cm und 40 cm
+Ohne Montagematerial",Ceramic,56.0,34.0,34,,,green,,2022-09-21,120.0,,,1970-01-01,120.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Brügg, 2555",,useagain,90560,CH,de,_dsc9236_570x570.jpg,https://www.useagain.ch/de/wand-wc-up-mit-lavabo-90560,D09.05,sink,,,,"{'score': 0.43554413318634033, 'start': 138, 'end': 158, 'answer': ' Keramik\nFarbe: Grün'}","{'score': 0.2991023361682892, 'start': 242, 'end': 283, 'answer': ' Breite: 60 cm, Höhe: 24 cm, Tiefe: 57 cm'}","{'score': 1.1851901035697665e-05, 'start': 242, 'end': 283, 'answer': ' Breite: 60 cm, Höhe: 24 cm, Tiefe: 57 cm'}",Sitka spruce,Wall-hung washbasins,Pr_40_20_96_96,"Wall, Barriers, Pannels","Floors, Ceiling",Headwall and swale inlet products
+2464,3647,3647,Wand-WC mit aufgesetztem Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Material: Keramik
+Farbe: Weiss
+Montageart: Wandmontage
+
+Spülkasten:
+Hersteller: Geberit
+Material: Kunststoff
+Farbe: Weiss
+Spülung: Einmengenauslösung
+Spülkasten-Anschluss: links und rechts, wechselbar",,,,,,,,,2023-02-01,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Brügg, 2555",,useagain,91809,CH,de,_dsc9908_570x570.jpg,https://www.useagain.ch/de/wand-wc-mit-aufgesetztem-spuelkasten-91809,D09.05,WC,,,,"{'score': 0.03577245771884918, 'start': 116, 'end': 127, 'answer': ' Kunststoff'}","{'score': 3.5451089388516266e-06, 'start': 61, 'end': 86, 'answer': ' Wandmontage\n\nSpülkasten:'}","{'score': 2.157782930112262e-08, 'start': 149, 'end': 168, 'answer': ' Einmengenauslösung'}",Sitka spruce,Wall-hung washbasins,Pr_40_20_96_96,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+2844,4028,4028,Wand-WC mit aufgesetztem Spülkasten,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Wand-WC mit aufgesetztem Spülkasten
+Hersteller: Laufen
+Material: Keramik
+Farbe: Weiss
+Montageart: Wandmontage
+
+Spülkasten:
+Hersteller: Geberit
+Material: Kunststoff
+Farbe: Weiss
+Spülung: Zweimengenauslösung
+Spülkasten-Anschluss: links, wechselbar",Mixed,66.0,39.0,"75,5",,,white,,2023-02-21,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,13.0,"Brügg, 2555",,useagain,91993,CH,de,_dsc0019_570x570.jpg,https://www.useagain.ch/de/wand-wc-mit-aufgesetztem-spuelkasten-91993,D09.05,WC,,,,"{'score': 0.21647775173187256, 'start': 64, 'end': 72, 'answer': ' Keramik'}","{'score': 0.00024696820764802396, 'start': 97, 'end': 109, 'answer': ' Wandmontage'}","{'score': 8.81448087852732e-08, 'start': 0, 'end': 54, 'answer': 'Wand-WC mit aufgesetztem Spülkasten\nHersteller: Laufen'}",Sitka spruce,Wall-hung washbasins,Pr_40_20_96_96,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+3336,4549,4549,Wand-WC mit Spülkasten,,['D09.05'],,,,,,"Wand-WC mit aufgesetztem Spülkasten
+Hersteller: Laufenâ€¦",,,,,,,,,,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Brügg, 2555",,,92648,,,_dsc0778_570x570.jpg,,,,,,,"{'score': 0.5255125164985657, 'start': 47, 'end': 57, 'answer': ' Laufenâ€¦'}","{'score': 0.01414504460990429, 'start': 0, 'end': 7, 'answer': 'Wand-WC'}","{'score': 0.00011878931400133297, 'start': 47, 'end': 57, 'answer': ' Laufenâ€¦'}",Sitka spruce,Wall-hung washbasins,Pr_40_20_96_96,Furnishings,Furnishings,Sanitary fittings and accessories
+3575,4818,4819,Wand-WC ohne Spülkasten Laufen,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",Sanitaires,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkte-Nr. 3034,Keramik,58.0,36.0,38,,,white,,2023-06-26,,,,,60.0,2023-09-25 00:00:00.000,,0.0,,"Zürich, 8050",,useagain,92790,CH,de,3034-2_570x570.jpg,https://www.useagain.ch/de/wand-wc-ohne-spuelkasten-laufen-92790,D09.05,WC,60.0,,,"{'score': 0.03867792710661888, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 3034'}","{'score': 0.00020296452566981316, 'start': 0, 'end': 17, 'answer': 'Produkte-Nr. 3034'}","{'score': 0.40233179926872253, 'start': 12, 'end': 17, 'answer': ' 3034'}",Sitka spruce,Wall-hung washbasins,Pr_40_20_96_96,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories

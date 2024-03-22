@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.94      0.89      0.91       116
+           1       0.96      0.98      0.97       328
+
+    accuracy                           0.95       444
+   macro avg       0.95      0.93      0.94       444
+weighted avg       0.95      0.95      0.95       444
+","                                      Feature  Importance
+299                          Material_Keramik    0.230111
+321                         Material_gemischt    0.109059
+211                       Condition_neuwertig    0.080317
+207  Condition_gebraucht, gereinigt & geprüft    0.055898
+304                           Material_Metall    0.047727
+..                                        ...         ...
+113        Swiss_Raw_Laundry washing machines    0.000000
+112                           Swiss_Raw_Lamps    0.000000
+111        Swiss_Raw_Laminboard core plywoods    0.000000
+110                        Swiss_Raw_Lacquers    0.000000
+329                        second_level_Other    0.000000
+
+[330 rows x 2 columns]"

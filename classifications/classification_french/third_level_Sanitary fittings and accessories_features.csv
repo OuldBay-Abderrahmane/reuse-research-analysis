@@ -1,0 +1,545 @@
+,Feature,Importance
+277,location_NEUILLY-SUR-SEINE,0.0686332
+285,location_PARIS-15E-ARRONDISSEMENT,0.035770234
+294,location_RENNES,0.0343872
+302,location_VILLENEUVE-SAINT-GEORGES,0.03436225
+293,location_PUTEAUX,0.033966765
+241,location_ARGENTEUIL,0.033943836
+295,location_RUNGIS,0.030309457
+263,location_LA MADELEINE,0.028731361
+402,French_Raw_Pliable conduit,0.0280462
+291,location_PLOEREN,0.027756525
+259,location_GENNEVILLIERS,0.027001705
+257,location_EPERNAY,0.025614677
+287,location_PARIS-1ER-ARRONDISSEMENT,0.024867505
+290,location_PARIS-9E-ARRONDISSEMENT,0.024303855
+276,location_NANTES,0.022934616
+542,"second_level_Stairs, Ramps, Lift, Hardware",0.022634637
+253,location_CHEVILLY-LARUE,0.02094144
+270,location_MARSEILLE--2E--ARRONDISSEMENT,0.020641373
+271,location_MARSEILLE-13E--ARRONDISSEMENT,0.020330068
+242,location_AUBAGNE,0.019911991
+111,BIM_class_C.10.20.01.1f,0.019350652
+265,location_LEVALLOIS-PERRET,0.019279482
+537,"second_level_Covering, Finish",0.01816043
+539,"second_level_Floors, Ceiling",0.016549254
+273,location_MONTIGNY-LES-CORMEILLES,0.01372019
+269,location_LYON--6E--ARRONDISSEMENT,0.013647835
+396,French_Raw_Metal skirtings,0.011762589
+7,Length,0.010703377
+28,category_faucets,0.010500658
+14,material_state_verygood,0.010427225
+281,location_PARIS-10E-ARRONDISSEMENT,0.0103209
+67,category_solid_exterior_door,0.010119703
+284,location_PARIS-13E-ARRONDISSEMENT,0.009451694
+1,price_latest,0.009000372
+119,BIM_class_C.10.20.01.2e,0.00884445
+289,location_PARIS-8E-ARRONDISSEMENT,0.008821559
+0,price_initial,0.008649627
+538,"second_level_Door, Windows, Gates",0.008384739
+370,French_Raw_Double slips,0.008197179
+536,"second_level_Blocks, Panels, Fences, Bricks",0.007839384
+183,BIM_class_D.20.10.04.7b,0.0076974
+8,Width,0.0075290496
+18,category_bath_and_toilet_accessories,0.0071091
+533,"first_level_Roof, Slabs, Stairs",0.006886413
+40,category_handrail,0.0068492624
+4,price,0.006681066
+9,Height,0.0063312887
+110,BIM_class_C.10.20.01.1e,0.006176053
+126,BIM_class_C.10.20.01.3e,0.0059613725
+530,first_level_Furnishings,0.0059563965
+304,material_type_reconditioned,0.005901307
+10,material_state_correct,0.005862656
+109,BIM_class_C.10.20.01.1d,0.005850793
+305,material_type_used,0.0056961426
+11,material_state_damaged,0.005688291
+331,material_emb_Pisé,0.0053576618
+336,material_emb_Sitka spruce,0.0052047726
+279,location_ORLEANS,0.0050031748
+177,BIM_class_D.20.10.04.1b,0.0049105245
+541,second_level_Other,0.0046472023
+12,material_state_new,0.004386495
+334,material_emb_Safety glass,0.004371761
+63,category_simple_solid_doors,0.0043642437
+540,second_level_Furnishings,0.004355998
+3,quantity_latest,0.0038436556
+45,category_lavatories,0.0038270205
+322,material_emb_Gravel,0.0034891586
+388,French_Raw_Lacquers,0.003326114
+353,French_Raw_Bidets,0.003173521
+118,BIM_class_C.10.20.01.2d,0.002828898
+147,BIM_class_C.10.30.02.7,0.0027989917
+534,first_level_Technical elements,0.0026927802
+255,location_CLERMONT-FERRAND,0.0023154067
+392,French_Raw_Manual trapdoors,0.0021942027
+318,material_emb_Encaustic,0.0021369893
+535,"first_level_Wall, Barriers, Pannels",0.0019374435
+426,French_Raw_Voice alarm controllers,0.0019361952
+327,material_emb_Metal,0.0017390711
+30,category_fire_alarm_device,0.0013638695
+62,category_showers_baths,0.0012146384
+298,location_SAINT-OUEN,0.00086874166
+532,first_level_Other,0.00061321585
+156,BIM_class_C.20.10.90.3a,0.000101395024
+480,French_Code_Pr_40_20_87_08,0.0
+341,material_emb_Weathering steel,0.0
+351,French_Raw_Bath mixer taps,0.0
+350,French_Raw_Automatic revolving doorsets,0.0
+349,French_Raw_Arrises,0.0
+348,French_Raw_Analogue metering equipment,0.0
+347,French_Raw_Aluminium doorsets,0.0
+346,French_Raw_Aluminium door leaves,0.0
+345,French_Raw_Acoustic duct linings,0.0
+344,French_Raw_Acoustic batten cradles,0.0
+343,material_emb_Zinc,0.0
+342,material_emb_Wood,0.0
+340,material_emb_Water,0.0
+496,French_Code_Pr_40_50_07_46,0.0
+339,material_emb_Steel,0.0
+338,material_emb_Stainless steel,0.0
+337,material_emb_Soap,0.0
+497,French_Code_Pr_40_50_21_21,0.0
+335,material_emb_Silt,0.0
+498,French_Code_Pr_40_50_81_90,0.0
+333,material_emb_Potable water,0.0
+332,material_emb_Polycarbonate (PC),0.0
+499,French_Code_Pr_40_70,0.0
+500,French_Code_Pr_40_70_17,0.0
+501,French_Code_Pr_40_70_21_22,0.0
+352,French_Raw_Bathroom cabinets,0.0
+354,French_Raw_Boxed sash window hanging fittings,0.0
+329,material_emb_Paper,0.0
+355,French_Raw_Ceramic sinks,0.0
+378,French_Raw_Fire detection and alarm devices and control equipment,0.0
+377,French_Raw_Fire dampers,0.0
+376,French_Raw_Equipment protection enclosures,0.0
+375,French_Raw_Equipment,0.0
+374,French_Raw_Engine exhausts,0.0
+373,French_Raw_Emergency luminaires,0.0
+372,French_Raw_Ductwork accessories,0.0
+371,French_Raw_Dovecotes,0.0
+495,French_Code_Pr_40_30_87_96,0.0
+369,French_Raw_Door dampers,0.0
+368,French_Raw_Domestic refrigerators and freezers,0.0
+367,French_Raw_Dish and utensil washers,0.0
+366,French_Raw_Desks,0.0
+365,French_Raw_Defibrillator units,0.0
+364,French_Raw_Cylinder locks,0.0
+363,French_Raw_Cupboard safes,0.0
+362,French_Raw_Cranked hinges,0.0
+361,French_Raw_Countertop washbasins,0.0
+360,French_Raw_Controlled door closers,0.0
+359,French_Raw_Concealed hinges,0.0
+358,French_Raw_Commercial freezer cabinets,0.0
+357,French_Raw_Commercial cooking equipment,0.0
+356,French_Raw_Clamp brackets,0.0
+330,material_emb_Petrol,0.0
+328,material_emb_Normal-weight concrete,0.0
+380,French_Raw_Firefighting alarm devices,0.0
+514,French_Code_Pr_65_53_65,0.0
+310,state_ neuf,0.0
+309,state_ bon,0.0
+516,French_Code_Pr_65_65_24_30,0.0
+517,French_Code_Pr_65_67_78_02,0.0
+308,state_ Très bon,0.0
+518,French_Code_Pr_65_70_11_63,0.0
+307,state_ Neuf,0.0
+519,French_Code_Pr_65_72_43_71,0.0
+306,country_FR,0.0
+520,French_Code_Pr_70_55_42,0.0
+521,French_Code_Pr_70_55_97,0.0
+522,French_Code_Pr_70_70_48_25,0.0
+523,French_Code_Pr_70_75_94_42,0.0
+524,French_Code_Pr_75_50_20_30,0.0
+303,material_type_new,0.0
+525,French_Code_Pr_75_75_94_95,0.0
+526,French_Code_Pr_75_75_94_97,0.0
+527,French_Code_Pr_75_80_30,0.0
+528,French_Code_Pr_80_51_51_04,0.0
+529,French_Code_Pr_80_77_28_68,0.0
+531,first_level_Openings,0.0
+301,location_TOULOUSE,0.0
+300,location_SAVIGNY-SUR-ORGE,0.0
+515,French_Code_Pr_65_65_23,0.0
+513,French_Code_Pr_65_52_61_68,0.0
+502,French_Code_Pr_40_70_22_62,0.0
+512,French_Code_Pr_65_12_47_40,0.0
+326,material_emb_Lodgepole pine,0.0
+325,material_emb_Lignite,0.0
+324,material_emb_Lacquer resin,0.0
+323,material_emb_Insulating concrete,0.0
+503,French_Code_Pr_40_70_22_75,0.0
+321,material_emb_Granule,0.0
+504,French_Code_Pr_40_70_22_81,0.0
+320,material_emb_Fire clay,0.0
+505,French_Code_Pr_40_70_26,0.0
+319,material_emb_Fir,0.0
+506,French_Code_Pr_40_70_31_29,0.0
+507,French_Code_Pr_40_70_51_22,0.0
+508,French_Code_Pr_60_45_30_52,0.0
+317,material_emb_Daub,0.0
+316,material_emb_Compressed air,0.0
+315,material_emb_Clinker,0.0
+509,French_Code_Pr_60_45_93_50,0.0
+314,material_emb_Ceramic,0.0
+510,French_Code_Pr_60_55_97_96,0.0
+313,material_emb_Architectural glass,0.0
+312,material_emb_Aluminium,0.0
+311,material_emb_Air-cooled steel slag,0.0
+511,French_Code_Pr_60_70_65_27,0.0
+379,French_Raw_Fire protection safes,0.0
+381,French_Raw_Flap control gates,0.0
+479,French_Code_Pr_40_20_76_86,0.0
+445,French_Code_Pr_20_85_47_04,0.0
+482,French_Code_Pr_40_20_87_78,0.0
+483,French_Code_Pr_40_20_87_84,0.0
+452,French_Code_Pr_30_36_36_17,0.0
+451,French_Code_Pr_30_36_36_15,0.0
+450,French_Code_Pr_30_36_36_08,0.0
+449,French_Code_Pr_30_36_08_19,0.0
+448,French_Code_Pr_25_93_50,0.0
+447,French_Code_Pr_25_71_94_98,0.0
+484,French_Code_Pr_40_20_93_77,0.0
+485,French_Code_Pr_40_20_93_94,0.0
+446,French_Code_Pr_20_85_47_51,0.0
+444,French_Code_Pr_20_85_20_43,0.0
+382,French_Raw_Flexible doorsets,0.0
+443,French_Code_Pr_20_76_71_24,0.0
+442,French_Code_Pr_20_76_52,0.0
+441,French_Code_Pr_20_76_06_83,0.0
+486,French_Code_Pr_40_20_93_97,0.0
+440,French_Code_Pr_20_29_85_64,0.0
+439,French_Code_Pr_20_29_70_73,0.0
+438,French_Code_Pr_20_29_70_13,0.0
+437,French_Code_Pr_20_29_60_34,0.0
+436,French_Raw_Zinc plating,0.0
+435,French_Raw_Wood veneers,0.0
+434,French_Raw_Wood skirtings,0.0
+481,French_Code_Pr_40_20_87_77,0.0
+453,French_Code_Pr_30_36_59_15,0.0
+454,French_Code_Pr_30_36_59_23,0.0
+455,French_Code_Pr_30_36_59_32,0.0
+478,French_Code_Pr_40_20_76,0.0
+477,French_Code_Pr_40_20_06_83,0.0
+476,French_Code_Pr_40_20_06_79,0.0
+475,French_Code_Pr_40_20_06_11,0.0
+474,French_Code_Pr_35_90_43_98,0.0
+473,French_Code_Pr_35_90_43_66,0.0
+472,French_Code_Pr_35_90_43_59,0.0
+471,French_Code_Pr_35_90_43_04,0.0
+470,French_Code_Pr_35_31_68_99,0.0
+469,French_Code_Pr_35_31_68_46,0.0
+468,French_Code_Pr_35_31_66_68,0.0
+467,French_Code_Pr_30_59_95_30,0.0
+466,French_Code_Pr_30_59_48_77,0.0
+465,French_Code_Pr_30_59_36_50,0.0
+464,French_Code_Pr_30_59_33_52,0.0
+463,French_Code_Pr_30_59_29_82,0.0
+462,French_Code_Pr_30_59_24_84,0.0
+461,French_Code_Pr_30_59_24_30,0.0
+460,French_Code_Pr_30_59_24_04,0.0
+459,French_Code_Pr_30_59_24_02,0.0
+458,French_Code_Pr_30_59_23_85,0.0
+457,French_Code_Pr_30_59_23_03,0.0
+456,French_Code_Pr_30_59_09_91,0.0
+433,French_Raw_Wood brise-soleil louvre blades,0.0
+432,French_Raw_Water fire-extinguishing outlets,0.0
+431,French_Raw_Water conditioners,0.0
+405,French_Raw_Puddle flanges,0.0
+403,French_Raw_Preformed casings,0.0
+489,French_Code_Pr_40_20_96_63,0.0
+401,French_Raw_Plastics sleeving,0.0
+400,French_Raw_Pedestal washbasins,0.0
+399,French_Raw_Paper towel dispensers,0.0
+398,French_Raw_Metal tubes and hollow sections,0.0
+397,French_Raw_Metal suspended ceiling hangers,0.0
+490,French_Code_Pr_40_30_04_25,0.0
+395,French_Raw_Metal penstocks,0.0
+394,French_Raw_Metal gate surrounds,0.0
+393,French_Raw_Masonry capping and coping units,0.0
+491,French_Code_Pr_40_30_75_20,0.0
+492,French_Code_Pr_40_30_75_29,0.0
+391,French_Raw_Macerator and dewaterer tank wash,0.0
+390,French_Raw_Linen containers,0.0
+389,French_Raw_Linen chute inlet doors,0.0
+493,French_Code_Pr_40_30_87,0.0
+494,French_Code_Pr_40_30_87_03,0.0
+387,French_Raw_Irrigation water outlets,0.0
+386,French_Raw_Industrial bells,0.0
+385,French_Raw_Hardwood cladding battens,0.0
+384,French_Raw_Grommets,0.0
+383,French_Raw_Garage door holders,0.0
+404,French_Raw_Primer-undercoats,0.0
+406,French_Raw_Pump accessories,0.0
+430,French_Raw_Wardrobes,0.0
+407,French_Raw_Rail foot insulators,0.0
+429,French_Raw_WC suites,0.0
+428,French_Raw_WC pans,0.0
+427,French_Raw_Voice alarm power amplifiers,0.0
+487,French_Code_Pr_40_20_96_15,0.0
+425,French_Raw_Towels,0.0
+424,French_Raw_Toilet brush holders,0.0
+423,French_Raw_Strip ventilators,0.0
+422,French_Raw_Storage units and cupboards,0.0
+421,French_Raw_Stainless steel door leaves,0.0
+488,French_Code_Pr_40_20_96_18,0.0
+420,French_Raw_Stainless steel balusters and newel posts,0.0
+299,location_SAINTE-LUCE-SUR-LOIRE,0.0
+418,French_Raw_Sliding shutter doorsets,0.0
+417,French_Raw_Slab urinals,0.0
+416,French_Raw_Sink taps,0.0
+415,French_Raw_Shower seats,0.0
+414,French_Raw_Shower manual water supply sets,0.0
+413,French_Raw_Shower head holders,0.0
+412,French_Raw_Shower enclosures,0.0
+411,French_Raw_Screening and ventilation access doors,0.0
+410,French_Raw_Sanitary towel dispensers,0.0
+409,French_Raw_Sanitary accessories,0.0
+408,French_Raw_Rectifiers,0.0
+419,French_Raw_Soap dispensers,0.0
+272,location_MEZE,0.0
+297,location_SAINT-ETIENNE,0.0
+108,BIM_class_C.10.20.01.1c,0.0
+106,BIM_class_C.10.20.01.1a,0.0
+105,BIM_class_C.10.10.02.9,0.0
+104,BIM_class_C.10.10.02.1f,0.0
+103,BIM_class_C.10.10.01.5h,0.0
+102,BIM_class_C.10.10.01.4i,0.0
+101,BIM_class_C.10.10.01.1,0.0
+100,BIM_class_B.30.10.05.b,0.0
+99,BIM_class_B.30.10.01.8,0.0
+98,BIM_class_B.30.10.01.6,0.0
+97,BIM_class_B.20.30.99.1,0.0
+96,BIM_class_B.20.30.04.4d,0.0
+95,BIM_class_B.20.30.04.1a,0.0
+94,BIM_class_B.20.30.02.2h,0.0
+93,BIM_class_B.20.30.02.2f,0.0
+92,BIM_class_B.20.30.01.3a,0.0
+91,BIM_class_B.20.30.01.2e,0.0
+90,BIM_class_B.20.30.01.2d,0.0
+89,BIM_class_B.20.30.01.2a,0.0
+88,BIM_class_B.20.30.01.1g,0.0
+87,BIM_class_B.20.30.01.1e,0.0
+86,BIM_class_B.20.30.01.1d,0.0
+85,BIM_class_B.20.30.01.1b,0.0
+84,BIM_class_B.20.30.01.1a,0.0
+83,BIM_class_B.20.20.01.9,0.0
+82,BIM_class_B.20.20.01.3f,0.0
+81,BIM_class_B.20.10.03.3,0.0
+80,BIM_class_B.10.10.90,0.0
+107,BIM_class_C.10.20.01.1b,0.0
+112,BIM_class_C.10.20.01.1g,0.0
+296,location_SAINT-BRIEUC,0.0
+113,BIM_class_C.10.20.01.1h,0.0
+143,BIM_class_C.10.30.01,0.0
+142,BIM_class_C.10.20.90.6,0.0
+141,BIM_class_C.10.20.90.4,0.0
+140,BIM_class_C.10.20.90.3,0.0
+139,BIM_class_C.10.20.07.5,0.0
+138,BIM_class_C.10.20.07.4,0.0
+137,BIM_class_C.10.20.07.1,0.0
+136,BIM_class_C.10.20.04.2a,0.0
+135,BIM_class_C.10.20.04.1,0.0
+134,BIM_class_C.10.20.03,0.0
+133,BIM_class_C.10.20.02.5b,0.0
+132,BIM_class_C.10.20.01.6e,0.0
+131,BIM_class_C.10.20.01.6a,0.0
+130,BIM_class_C.10.20.01.5h,0.0
+129,BIM_class_C.10.20.01.5g,0.0
+128,BIM_class_C.10.20.01.5e,0.0
+127,BIM_class_C.10.20.01.3f,0.0
+125,BIM_class_C.10.20.01.3d,0.0
+124,BIM_class_C.10.20.01.3c,0.0
+123,BIM_class_C.10.20.01.3b,0.0
+122,BIM_class_C.10.20.01.3a,0.0
+121,BIM_class_C.10.20.01.2h,0.0
+120,BIM_class_C.10.20.01.2f,0.0
+117,BIM_class_C.10.20.01.2c,0.0
+116,BIM_class_C.10.20.01.2b,0.0
+115,BIM_class_C.10.20.01.2a,0.0
+114,BIM_class_C.10.20.01.1i,0.0
+79,category_woodwork,0.0
+78,category_wood_flooring,0.0
+77,category_windows,0.0
+76,category_warehouse_shelving,0.0
+41,category_hot_water_boiler,0.0
+39,category_gutter_downspout,0.0
+38,category_guardrail_barrier,0.0
+37,category_glass_interior_door,0.0
+36,category_glass_doors,0.0
+35,category_freight_lift,0.0
+34,category_fixed_partitions,0.0
+33,category_fire_extinguishing_device,0.0
+32,category_fire_extinguisher_cabinet,0.0
+31,category_fire_doors,0.0
+29,category_fencing_gates,0.0
+27,category_fan_coil,0.0
+26,category_false_floor,0.0
+25,category_exhaust_hood_system,0.0
+24,category_emergency_device,0.0
+23,category_door_hardware,0.0
+22,category_domestic_water_systems_equipment,0.0
+21,category_desc,0.0
+20,category_demountable_partitions,0.0
+19,category_call_system,0.0
+17,category_air_heating_cooling_distribution,0.0
+16,category_acoustical_panels_adhered_to_wall,0.0
+15,category_WC,0.0
+13,material_state_reconditioned,0.0
+6,min_quantity,0.0
+5,quantity,0.0
+2,price_change,0.0
+42,category_insulation_vapor_barrier,0.0
+43,category_integrated_assembly,0.0
+44,category_interior_distribution_transformeur,0.0
+60,category_seated,0.0
+75,category_wardrobe,0.0
+74,category_wall_panelling,0.0
+73,category_vent_equipment_and_sanatory,0.0
+72,category_urinals,0.0
+71,category_toilet_compartment_cabin_division,0.0
+70,category_terracotta_faience_natural_stone,0.0
+69,category_taps_and_hoses_connection,0.0
+68,category_storage_unit,0.0
+66,category_slope_/_flat_roof,0.0
+65,category_sliding_and_folding_doors,0.0
+64,category_sinks,0.0
+61,category_security_structure,0.0
+59,category_room_for_specific_use,0.0
+46,category_lift_and_rolling_doors,0.0
+58,category_ovens,0.0
+57,category_other_special_system_device,0.0
+56,category_other_special_interior_furnishings,0.0
+55,category_other_special_fire_protection_system,0.0
+54,category_other_special_equipment,0.0
+53,category_other_special_control_instrument,0.0
+52,category_other_plumbing_fixture,0.0
+51,category_other_interior_special_door,0.0
+50,category_other_furniture,0.0
+49,category_other_floor_construction,0.0
+48,category_other_exterior_personnel_doors,0.0
+47,category_locker,0.0
+144,BIM_class_C.10.30.02.1,0.0
+145,BIM_class_C.10.30.02.3,0.0
+146,BIM_class_C.10.30.02.5,0.0
+211,BIM_class_D.40.90.04,0.0
+239,BIM_class_G.20.40.01.5d,0.0
+238,BIM_class_G.20.40.01.5c,0.0
+237,BIM_class_G.20.40.01.5b,0.0
+236,BIM_class_G.20.30.04.3,0.0
+235,BIM_class_F.10.50.90,0.0
+234,BIM_class_F.10.20.02,0.0
+233,BIM_class_F.10.20.01,0.0
+232,BIM_class_E.20.20.90.4,0.0
+231,BIM_class_E.20.20.90.1,0.0
+230,BIM_class_E.20.20.10.1c,0.0
+229,BIM_class_E.20.20.06.5g,0.0
+228,BIM_class_E.20.20.05.5b,0.0
+227,BIM_class_E.20.20.05.4b,0.0
+226,BIM_class_E.20.20.05.3b,0.0
+225,BIM_class_E.20.20.05.2,0.0
+224,BIM_class_E.20.20.05.1a,0.0
+223,BIM_class_E.20.10.90.1,0.0
+222,BIM_class_E.10.90.90.2,0.0
+221,BIM_class_E.10.90.02.8,0.0
+220,BIM_class_E.10.90.02.46,0.0
+219,BIM_class_E.10.90.02.44,0.0
+218,BIM_class_E.10.90.02.37,0.0
+217,BIM_class_E.10.90.02.22,0.0
+216,BIM_class_D.50.90.07.3,0.0
+215,BIM_class_D.50.30.01.3,0.0
+214,BIM_class_D.50.10.03.2,0.0
+213,BIM_class_D.50.10.03.1a,0.0
+240,BIM_class_G.20.40.04.2,0.0
+243,location_AUBERVILLIERS,0.0
+244,location_BREST,0.0
+264,location_LE BOURGET,0.0
+292,location_PONTCHARRA,0.0
+288,location_PARIS-20E-ARRONDISSEMENT,0.0
+286,location_PARIS-16E-ARRONDISSEMENT,0.0
+283,location_PARIS-12E-ARRONDISSEMENT,0.0
+282,location_PARIS-11E-ARRONDISSEMENT,0.0
+280,location_ORLY,0.0
+278,location_NOISY-LE-SEC,0.0
+275,location_NANTERRE,0.0
+274,location_NANCY,0.0
+268,location_LYON--3E--ARRONDISSEMENT,0.0
+267,location_LOIRE-SUR-RHONE,0.0
+266,location_LIVRY-GARGAN,0.0
+262,location_ISSY-LES-MOULINEAUX,0.0
+245,location_BRIANCON,0.0
+261,location_HOUILLES,0.0
+260,location_GONFREVILLE-L'ORCHER,0.0
+258,location_EZE,0.0
+256,location_DRANCY,0.0
+254,location_CHOLET,0.0
+252,location_CHELLES,0.0
+251,location_CHAVILLE,0.0
+250,location_CHAURAY,0.0
+249,location_CHATILLON,0.0
+248,location_CHATEAUROUX,0.0
+247,location_CHANTELOUP-LES-VIGNES,0.0
+246,location_CHAMPS-SUR-MARNE,0.0
+212,BIM_class_D.40.90.90.2,0.0
+210,BIM_class_D.40.50.01.2,0.0
+148,BIM_class_C.10.30.02.8,0.0
+209,BIM_class_D.40.50.01.1,0.0
+176,BIM_class_D.20.10.04.1a,0.0
+175,BIM_class_D.20.10.04.11,0.0
+174,BIM_class_D.20.10.04.10,0.0
+173,BIM_class_D.20.10.03.1,0.0
+172,BIM_class_D.20.10.02.2a,0.0
+171,BIM_class_D.20.10.02.1a,0.0
+170,BIM_class_D.20.10.01.4,0.0
+169,BIM_class_D.20.10.01.1,0.0
+168,BIM_class_D.10.10.03,0.0
+167,BIM_class_C.30.30.06.d,0.0
+166,BIM_class_C.30.30.06.c,0.0
+165,BIM_class_C.30.30.06.1,0.0
+164,BIM_class_C.30.20.05.1e,0.0
+163,BIM_class_C.30.20.03.2,0.0
+162,BIM_class_C.30.20.01.2,0.0
+161,BIM_class_C.30.20.01.1c,0.0
+160,BIM_class_C.30.20.01.1a,0.0
+159,BIM_class_C.30.10.99,0.0
+158,BIM_class_C.30.10.90.4,0.0
+157,BIM_class_C.20.10.90.3c,0.0
+155,BIM_class_C.10.30.10.2,0.0
+154,BIM_class_C.10.30.10.1,0.0
+153,BIM_class_C.10.30.07,0.0
+152,BIM_class_C.10.30.06.2,0.0
+151,BIM_class_C.10.30.05.4,0.0
+150,BIM_class_C.10.30.05.3,0.0
+149,BIM_class_C.10.30.02.9,0.0
+178,BIM_class_D.20.10.04.1c,0.0
+179,BIM_class_D.20.10.04.1d,0.0
+180,BIM_class_D.20.10.04.1e,0.0
+196,BIM_class_D.20.10.90,0.0
+208,BIM_class_D.40.20.01.1,0.0
+207,BIM_class_D.40.10.01.5,0.0
+206,BIM_class_D.40.10.01.3,0.0
+205,BIM_class_D.40.10.01.2,0.0
+204,BIM_class_D.40.10.01.1,0.0
+203,BIM_class_D.30.50.03.1,0.0
+202,BIM_class_D.30.40.01.7,0.0
+201,BIM_class_D.30.40.01.2,0.0
+200,BIM_class_D.30.40.01.1,0.0
+199,BIM_class_D.30.20.01.10,0.0
+198,BIM_class_D.20.30.04,0.0
+197,BIM_class_D.20.20.03,0.0
+195,BIM_class_D.20.10.09.2d,0.0
+181,BIM_class_D.20.10.04.1g,0.0
+194,BIM_class_D.20.10.09.2a,0.0
+193,BIM_class_D.20.10.09.1,0.0
+192,BIM_class_D.20.10.06.4,0.0
+191,BIM_class_D.20.10.06.3c,0.0
+190,BIM_class_D.20.10.06.3a,0.0
+189,BIM_class_D.20.10.06.2,0.0
+188,BIM_class_D.20.10.05.3b,0.0
+187,BIM_class_D.20.10.05.2b,0.0
+186,BIM_class_D.20.10.05.2a,0.0
+185,BIM_class_D.20.10.04.7e,0.0
+184,BIM_class_D.20.10.04.7c,0.0
+182,BIM_class_D.20.10.04.4b,0.0
+543,third_level_Sanitary fittings and accessories,0.0

@@ -1,0 +1,261 @@
+,Feature,Importance
+156,Condition_gebraucht & gereinigt,0.20849162
+155,Condition_gebraucht,0.12868221
+241,Material_Metall,0.12753758
+179,Subcategory_Einrichtungen,0.08553644
+55,Swiss_Raw_Glassware,0.057540305
+237,Material_Holz,0.050522115
+234,Material_Glass-ceramics,0.03952949
+242,Material_Mixed,0.025957586
+252,Material_Wood,0.024327336
+178,Subcategory_Einbauküchen,0.02216426
+228,Material_Ceramic,0.020177264
+240,Material_Metal,0.019636048
+245,Material_Plastic,0.018917317
+0,LastPrice,0.016891556
+158,Condition_like new,0.015159297
+1,Quantity,0.014768125
+164,Condition_used & cleaned,0.01282503
+233,Material_Glass,0.012006138
+163,Condition_used,0.011815973
+167,Subcategory_Apparate & Geräte,0.011686686
+9,Category_Umgebung,0.011269387
+2,Length,0.010890562
+165,"Condition_used, cleaned & tested",0.010301174
+172,Subcategory_Baustoffe,0.010099481
+3,Width,0.0074858875
+205,Subcategory_Sonstiges,0.007062888
+8,Category_Sonstiges,0.006256849
+4,Category_Ausbau,0.004448101
+7,Category_Gebäudetechnik & Sanitär,0.0032905922
+6,Category_Gebäudehülle & Konstruktion,0.003145434
+5,Category_Baustoffe & Werkzeuge,0.0015772328
+182,Subcategory_Fassade,0.0
+170,Subcategory_Bad & Dusche,0.0
+190,Subcategory_Holzbeläge,0.0
+189,Subcategory_Heizkörper,0.0
+188,Subcategory_Geländer,0.0
+171,Subcategory_Badewanne & Dusche,0.0
+187,Subcategory_Gastroküche & Gastroartikel,0.0
+173,Subcategory_Dachfenster,0.0
+186,Subcategory_Gartenmöbel,0.0
+175,Subcategory_Dachkonstruktion,0.0
+174,Subcategory_Dachhaut,0.0
+181,Subcategory_Elektroinstallation,0.0
+176,Subcategory_Deckenkonstruktion,0.0
+185,Subcategory_Freistehend,0.0
+177,Subcategory_Dämmung,0.0
+169,Subcategory_Aussentüren,0.0
+184,Subcategory_Fertigteile & Geräte,0.0
+183,Subcategory_Fenster,0.0
+180,Subcategory_Elektrogerät,0.0
+140,Swiss_Raw_Water conditioners,0.0
+162,Condition_new,0.0
+168,Subcategory_Armaturen,0.0
+137,Swiss_Raw_Wall-hung washbasins,0.0
+142,Swiss_Raw_Wheels,0.0
+143,Swiss_Raw_Wood architraves,0.0
+144,Swiss_Raw_Wood blocks,0.0
+145,Swiss_Raw_Wood cover strips,0.0
+146,Swiss_Raw_Wood frames,0.0
+147,Swiss_Raw_Wood lathings,0.0
+139,Swiss_Raw_Waste bins,0.0
+148,Swiss_Raw_Wood shutters,0.0
+149,Swiss_Raw_Wood skirtings,0.0
+138,Swiss_Raw_Washbasin spouts,0.0
+150,Swiss_Raw_Wood subframes,0.0
+166,Subcategory_Anlage Frischwasser,0.0
+151,Swiss_Raw_Wood veneers,0.0
+152,Swiss_Raw_Wood-burning stoves,0.0
+153,Condition_cleaned & tested,0.0
+154,Condition_defective,0.0
+192,Subcategory_Keramikbeläge,0.0
+157,"Condition_gebraucht, gereinigt & geprüft",0.0
+159,Condition_mangelhaft,0.0
+160,Condition_mixed,0.0
+161,Condition_neuwertig,0.0
+141,Swiss_Raw_Weatherproof equipment enclosures,0.0
+191,Subcategory_Innentüren,0.0
+202,Subcategory_Oberlichter,0.0
+193,Subcategory_Kleinteile,0.0
+223,Subcategory_Zubehör,0.0
+225,Material_Aluminium,0.0
+226,Material_Aluminum,0.0
+227,Material_Beton,0.0
+229,Material_Chrome steel,0.0
+230,Material_Compound,0.0
+231,Material_Concrete,0.0
+232,Material_Glas,0.0
+235,Material_Granit,0.0
+236,Material_Hardwood,0.0
+238,Material_Keramik,0.0
+239,Material_Kunststein,0.0
+243,Material_Natural stone,0.0
+244,Material_Other,0.0
+246,Material_Plexiglass,0.0
+247,Material_Stahl,0.0
+248,Material_Stainless steel,0.0
+249,Material_Steel,0.0
+250,Material_Stone,0.0
+251,Material_Tarpaulin,0.0
+253,Material_gemischt,0.0
+254,Energy_Efficiency_A,0.0
+255,Energy_Efficiency_B,0.0
+256,Energy_Efficiency_C,0.0
+257,Energy_Efficiency_E,0.0
+258,Energy_Efficiency_G,0.0
+224,Subcategory_Öfen & Cheminées,0.0
+222,Subcategory_Wärmeerzeugung,0.0
+194,Subcategory_Klingelanlagen,0.0
+221,Subcategory_Werkzeug,0.0
+195,Subcategory_Kunst & Kultur,0.0
+196,Subcategory_Laminat,0.0
+197,Subcategory_Leuchten & Lampen,0.0
+198,Subcategory_Läden & Storen,0.0
+199,Subcategory_Löschanlage,0.0
+200,Subcategory_Mauern,0.0
+201,Subcategory_Möbel,0.0
+135,Swiss_Raw_Wall hangings,0.0
+203,Subcategory_Pflanzen,0.0
+204,Subcategory_Produktionsanlage,0.0
+206,Subcategory_Spülen,0.0
+207,Subcategory_Steinbeläge,0.0
+208,Subcategory_Stromerzeugung,0.0
+209,Subcategory_Stützen,0.0
+210,Subcategory_Tore,0.0
+211,Subcategory_Treppen & Rampen,0.0
+212,Subcategory_Umgebungsfläche,0.0
+213,Subcategory_Verkleidung,0.0
+214,Subcategory_WC-Anlagen,0.0
+215,Subcategory_WCs - Toiletten,0.0
+216,Subcategory_Wandfenster,0.0
+217,Subcategory_Warmwasseraufbereitung,0.0
+218,Subcategory_Waschküche & Trocknen,0.0
+219,Subcategory_Waschküche & Trockner,0.0
+220,Subcategory_Waschtisch & Lavabos,0.0
+136,Swiss_Raw_Wall-hung urinals,0.0
+130,Swiss_Raw_Trellises,0.0
+134,Swiss_Raw_WC pans,0.0
+54,Swiss_Raw_Glass fins,0.0
+41,Swiss_Raw_Equipment heaters,0.0
+42,Swiss_Raw_Exercise bikes,0.0
+43,Swiss_Raw_Fibre-reinforced resin composite mineral boards,0.0
+44,"Swiss_Raw_Floor plates, gratings and edgings",0.0
+45,Swiss_Raw_Food preparation worktops,0.0
+46,Swiss_Raw_Garden awnings,0.0
+47,Swiss_Raw_Garden furnishings,0.0
+48,Swiss_Raw_Garden taps,0.0
+49,Swiss_Raw_Gate arches,0.0
+50,Swiss_Raw_Glass barrier panels,0.0
+51,Swiss_Raw_Glass blocks,0.0
+52,Swiss_Raw_Glass brise-soleil louvre blades,0.0
+53,Swiss_Raw_Glass fibre fleeces,0.0
+56,Swiss_Raw_Glazed structures,0.0
+133,Swiss_Raw_Vertical extended spindles,0.0
+57,Swiss_Raw_Gold plating,0.0
+58,Swiss_Raw_Grommets,0.0
+59,Swiss_Raw_Heat emitters,0.0
+60,Swiss_Raw_Heat pipes,0.0
+61,Swiss_Raw_Heating and cooling source products,0.0
+62,Swiss_Raw_High strength concrete,0.0
+63,Swiss_Raw_Insect guard mesh,0.0
+64,Swiss_Raw_Insulation fixing straps,0.0
+65,Swiss_Raw_Isolation hangers,0.0
+66,Swiss_Raw_Kitchenette units,0.0
+67,Swiss_Raw_Lacquers,0.0
+68,Swiss_Raw_Mail equipment,0.0
+69,Swiss_Raw_Marble dust,0.0
+40,Swiss_Raw_Energy storage equipment,0.0
+39,Swiss_Raw_Electrical diagrams,0.0
+38,Swiss_Raw_Dovecotes,0.0
+37,Swiss_Raw_Domestic cooking equipment,0.0
+10,Swiss_Raw_Aluminium brise-soleil louvre blades,0.0
+11,Swiss_Raw_Aluminium door frames,0.0
+12,Swiss_Raw_Aluminium skirtings,0.0
+13,Swiss_Raw_Arrises,0.0
+14,Swiss_Raw_Artwork products,0.0
+15,Swiss_Raw_Beams and joists,0.0
+16,Swiss_Raw_Bidet wastes,0.0
+17,Swiss_Raw_Bidets,0.0
+18,Swiss_Raw_Boilers,0.0
+19,Swiss_Raw_Bolsters,0.0
+20,Swiss_Raw_Buoys,0.0
+21,Swiss_Raw_Ceramic slates,0.0
+22,Swiss_Raw_Clay chimney pots,0.0
+23,Swiss_Raw_Cleaning equipment,0.0
+24,Swiss_Raw_Composite glass sheets,0.0
+25,Swiss_Raw_Composite sound-insulating panels,0.0
+26,Swiss_Raw_Concrete access cover seatings,0.0
+27,Swiss_Raw_Concrete bollards,0.0
+28,Swiss_Raw_Concrete containment parapet units,0.0
+29,Swiss_Raw_Concretes,0.0
+30,Swiss_Raw_Conical couplers,0.0
+31,Swiss_Raw_Copper slates,0.0
+32,Swiss_Raw_Decorative stone finishing battens,0.0
+33,Swiss_Raw_Decorator’s caulks,0.0
+34,Swiss_Raw_Desks,0.0
+35,Swiss_Raw_Dimensioned stones,0.0
+36,Swiss_Raw_Dining tables,0.0
+70,Swiss_Raw_Metal bollards,0.0
+71,Swiss_Raw_Metal flues and chimneys,0.0
+72,Swiss_Raw_Metal hanging rails,0.0
+103,Swiss_Raw_Rock dowels,0.0
+105,Swiss_Raw_Roofing clamping plates,0.0
+106,Swiss_Raw_Scagliola,0.0
+107,Swiss_Raw_Sedge,0.0
+108,Swiss_Raw_Separators,0.0
+109,Swiss_Raw_Shower enclosures,0.0
+110,Swiss_Raw_Smoke and fire barriers,0.0
+111,Swiss_Raw_Soffit grilles,0.0
+112,Swiss_Raw_Solders,0.0
+113,Swiss_Raw_Soleplates,0.0
+114,Swiss_Raw_Sprigs,0.0
+115,Swiss_Raw_Sprinklers,0.0
+116,Swiss_Raw_Stainless steel cappings and copings,0.0
+117,Swiss_Raw_Stainless steel cladding angles,0.0
+118,Swiss_Raw_Steam traps and strainers,0.0
+119,Swiss_Raw_Steel spiles,0.0
+120,Swiss_Raw_Stone plant containers,0.0
+121,Swiss_Raw_Stone slabs,0.0
+122,Swiss_Raw_Stone tiles,0.0
+123,Swiss_Raw_Structural wood composites,0.0
+124,Swiss_Raw_Sundials,0.0
+125,Swiss_Raw_Terrazzo tile skirtings,0.0
+126,Swiss_Raw_Thermal storage heaters,0.0
+127,Swiss_Raw_Thermostatic steam traps,0.0
+128,Swiss_Raw_Tool chests,0.0
+129,Swiss_Raw_Trap switches,0.0
+131,Swiss_Raw_Unit heaters,0.0
+132,Swiss_Raw_Vapour meters,0.0
+104,Swiss_Raw_Roof anchors for solar modules,0.0
+102,Swiss_Raw_Renovating plasters,0.0
+73,Swiss_Raw_Metal panels,0.0
+101,Swiss_Raw_Refrigerators,0.0
+74,Swiss_Raw_Metal skirtings,0.0
+75,Swiss_Raw_Metal spacers assemblies,0.0
+76,Swiss_Raw_Metal sways,0.0
+77,Swiss_Raw_Metal tubes and hollow sections,0.0
+78,Swiss_Raw_Mosaic tiles,0.0
+79,Swiss_Raw_Murals,0.0
+80,Swiss_Raw_Museum showcases,0.0
+81,Swiss_Raw_Natural stone quoins,0.0
+82,Swiss_Raw_Natural stone slates,0.0
+83,Swiss_Raw_Natural turf,0.0
+84,Swiss_Raw_Nave lecterns,0.0
+85,Swiss_Raw_Pavement heating cables,0.0
+86,Swiss_Raw_Pedestal washbasins,0.0
+87,Swiss_Raw_Pendant luminaires,0.0
+88,Swiss_Raw_Plaques,0.0
+89,Swiss_Raw_Plastics linings,0.0
+90,Swiss_Raw_Plastics sheet wall claddings,0.0
+91,Swiss_Raw_Plastics skirtings,0.0
+92,Swiss_Raw_Plastics sleeving,0.0
+93,Swiss_Raw_Plastics windsock masts,0.0
+94,Swiss_Raw_Polyvinyl chloride (PVC) cove skirtings,0.0
+95,Swiss_Raw_Porcelain tiles,0.0
+96,Swiss_Raw_Post boxes,0.0
+97,Swiss_Raw_Prefabricated balconies,0.0
+98,Swiss_Raw_Protective fencing,0.0
+99,Swiss_Raw_Pump accessories,0.0
+100,Swiss_Raw_Rainwater storage butts,0.0
+259,"second_level_Blocks, Panels, Fences, Bricks",0.0

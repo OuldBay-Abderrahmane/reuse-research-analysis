@@ -1,0 +1,94 @@
+,Feature,Importance
+81,first_level_Other,0.5713215
+0,Weight,0.15007551
+88,second_level_Other,0.123488925
+12,Category_Hardware,0.056778308
+37,material_emb_Stainless steel,0.053539615
+1,Initial_Price,0.0447961
+49,Belgium_Raw_Gates and turnstiles,0.0
+58,Belgium_Raw_Trolleys,0.0
+65,Belgium_Code_Pr_25_30_36_08,0.0
+64,Belgium_Code_Pr_25_30_36_03,0.0
+63,Belgium_Code_Pr_20_85_62_15,0.0
+62,Belgium_Code_Pr_20_85_07_85,0.0
+61,Belgium_Code_Pr_20_85_07_84,0.0
+60,Belgium_Raw_Wood handrails,0.0
+59,Belgium_Raw_Wheel lathes,0.0
+56,Belgium_Raw_Timber stair treads,0.0
+57,Belgium_Raw_Track circuit receivers,0.0
+50,Belgium_Raw_Solenoid latches and locks,0.0
+67,Belgium_Code_Pr_25_30_36_96,0.0
+55,Belgium_Raw_Stair lift signs,0.0
+54,Belgium_Raw_Stainless steel support rails,0.0
+53,Belgium_Raw_Stainless steel rails,0.0
+52,Belgium_Raw_Stainless steel handrails,0.0
+51,Belgium_Raw_Stainless steel doorsets,0.0
+66,Belgium_Code_Pr_25_30_36_84,0.0
+69,Belgium_Code_Pr_30_36_08_36,0.0
+68,Belgium_Code_Pr_25_30_90_89,0.0
+79,Belgium_Code_Pr_75_30_27_81,0.0
+89,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+87,"second_level_Door, Windows, Gates",0.0
+86,"second_level_Blocks, Panels, Fences, Bricks",0.0
+85,"first_level_Wall, Barriers, Pannels",0.0
+84,first_level_Technical elements,0.0
+83,first_level_Structural elements,0.0
+82,"first_level_Roof, Slabs, Stairs",0.0
+80,first_level_Furnishings,0.0
+78,Belgium_Code_Pr_70_75_70_88,0.0
+47,Belgium_Raw_Door hinges,0.0
+77,Belgium_Code_Pr_40_70_73_96,0.0
+76,Belgium_Code_Pr_40_50_90,0.0
+75,Belgium_Code_Pr_40_30_78_17,0.0
+74,Belgium_Code_Pr_40_10_77_82,0.0
+73,Belgium_Code_Pr_35_31_66_09,0.0
+72,Belgium_Code_Pr_30_59_34,0.0
+71,Belgium_Code_Pr_30_59_24_85,0.0
+70,Belgium_Code_Pr_30_36_36_21,0.0
+48,Belgium_Raw_Door locks,0.0
+45,Belgium_Raw_Cast steel pile shoes,0.0
+46,Belgium_Raw_Coat racks,0.0
+11,Category_Furniture,0.0
+20,"Technical_Mode d’assemblage : Pris dans le limon
+Préconisations de dépose : Dates de disponibilité à confirmer",0.0
+19,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+18,Material_Bois,0.0
+17,Condition_Correct,0.0
+16,Category_Technical,0.0
+15,Category_Per Building,0.0
+14,Category_Matière brute,0.0
+13,Category_Lighting,0.0
+10,Category_Cloisons,0.0
+22,Collection_TOURELLE : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,Quantity_Change,0.0
+5,Price_Change,0.0
+4,Stock_Now,0.0
+3,Initial_Stock,0.0
+2,Latest_Price,0.0
+21,Collection_ECO-CUI DEB :,0.0
+23,Country_BE,0.0
+44,Belgium_Raw_Brass handrails,0.0
+34,material_emb_Hemlock,0.0
+43,Belgium_Raw_Bonding coats,0.0
+42,Belgium_Raw_Aluminium handrails,0.0
+41,material_emb_Wool,0.0
+40,material_emb_Wood,0.0
+39,material_emb_Steel-aluminium alloy,0.0
+38,material_emb_Steel,0.0
+36,material_emb_Sitka spruce,0.0
+35,material_emb_Pisé,0.0
+33,material_emb_Gravel,0.0
+24,Store_rotordc,0.0
+32,material_emb_Expansive concrete,0.0
+31,material_emb_European larch,0.0
+30,material_emb_Designated concrete,0.0
+29,material_emb_Cast iron,0.0
+28,material_emb_Asphalt,0.0
+27,material_emb_Architectural glass,0.0
+26,material_emb_Air-entrained concrete,0.0
+25,Language_fr,0.0
+90,third_level_Handrails,0.0

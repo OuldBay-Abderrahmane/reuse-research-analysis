@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Covering, Finish","              precision    recall  f1-score   support
+
+           0       0.78      0.84      0.81        92
+           1       0.87      0.82      0.84       120
+
+    accuracy                           0.83       212
+   macro avg       0.82      0.83      0.82       212
+weighted avg       0.83      0.83      0.83       212
+","                                             Feature  Importance
+411                                   location_Wavre    0.050005
+384                location_PARIS-10E-ARRONDISSEMENT    0.049593
+341                                 location_AUBAGNE    0.044982
+397                                 location_PLOEREN    0.036288
+352                          location_CHEVILLY-LARUE    0.036137
+..                                               ...         ...
+209                          BIM_class_C.30.20.01.1d    0.000000
+208                          BIM_class_C.30.20.01.1b    0.000000
+207                           BIM_class_C.30.10.90.4    0.000000
+206                           BIM_class_C.30.10.90.2    0.000000
+593  third_level_Wire structure and general products    0.000000
+
+[594 rows x 2 columns]"

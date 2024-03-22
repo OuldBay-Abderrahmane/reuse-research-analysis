@@ -1,0 +1,137 @@
+,Feature,Importance
+98,Code_Soffit grilles,0.11813734
+28,Material_Silt,0.09588417
+132,second_level_Furnishings,0.070106804
+67,Code_Fridge-freezers,0.06963927
+131,"second_level_Floors, Ceiling",0.063656844
+127,"first_level_Wall, Barriers, Pannels",0.049959183
+27,Material_Radon,0.046266444
+130,"second_level_Door, Windows, Gates",0.043708608
+0,Price,0.04130872
+3,Height,0.031814687
+58,Code_Equipment heaters,0.03148219
+20,Material_Lignite,0.029216828
+94,Code_Refrigerators,0.028038034
+1,Length,0.02769412
+4,Material_Air-cooled steel slag,0.027008666
+133,second_level_Other,0.026212344
+30,Material_Sitka spruce,0.025692502
+92,Code_Radiators,0.021911113
+134,"second_level_Stairs, Ramps, Lift, Hardware",0.021184511
+2,Width,0.021119699
+8,Material_Compressed air,0.016991077
+125,"first_level_Roof, Slabs, Stairs",0.01673711
+124,first_level_Other,0.012956687
+16,Material_Heat-absorbing glass,0.012490849
+126,first_level_Technical elements,0.012260204
+12,Material_Gas,0.009012939
+39,Code_Air conditioning units,0.007275629
+77,Code_Heat pumps,0.007197814
+128,"second_level_Blocks, Panels, Fences, Bricks",0.006091984
+121,Code_Water heaters,0.005386999
+96,Code_Sample coolers,0.0035565582
+95,Code_Room heaters,0.0
+89,Code_Photovoltaic modules,0.0
+93,Code_Recessed luminaires,0.0
+91,Code_Radiator enamels,0.0
+90,Code_Points heating harnesses,0.0
+81,Code_Laboratory freezers,0.0
+88,Code_Pavement heating cables,0.0
+87,Code_Overhead ventilators,0.0
+86,Code_Oils,0.0
+85,Code_Microwave ovens,0.0
+84,Code_Metal flues and chimneys,0.0
+83,Code_Manual air vents,0.0
+82,Code_Liquid fuel tank heaters,0.0
+80,Code_Hot cupboards,0.0
+79,Code_Heating and cooling source products,0.0
+78,Code_Heat-resisting coatings,0.0
+97,Code_Sauna room packages,0.0
+109,Code_Thermodynamic steam traps,0.0
+99,Code_Solar heat collectors,0.0
+100,Code_Steam feedtanks,0.0
+129,"second_level_Covering, Finish",0.0
+123,first_level_Furnishings,0.0
+122,Code_Wood-burning stoves,0.0
+120,Code_Water grilles,0.0
+119,Code_Water flumes,0.0
+118,Code_Waste bins,0.0
+117,Code_Vertical wastewater heat exchangers,0.0
+116,Code_Ventilation grilles,0.0
+115,Code_Ventilation ducts,0.0
+114,Code_Ventilated ceilings,0.0
+113,Code_Unit heaters,0.0
+112,Code_Trickle vents,0.0
+111,Code_Thermostatic steam traps,0.0
+110,Code_Thermostatic radiator valves,0.0
+75,Code_Heat protective blankets,0.0
+108,Code_Thermal storage heaters,0.0
+107,Code_Temperature gauges,0.0
+106,Code_Temperature controllers,0.0
+105,Code_Submerged panel heat exchangers,0.0
+104,Code_Strip ventilators,0.0
+103,Code_Steam valves,0.0
+102,Code_Steam traps and strainers,0.0
+101,Code_Steam generators,0.0
+76,Code_Heat pump dehumidifiers,0.0
+68,Code_Gas cooking ranges,0.0
+74,Code_Heat pipes,0.0
+73,Code_Heat emitters,0.0
+38,Code_Abutment ventilators,0.0
+37,Material_Wychert,0.0
+36,Material_Wrought iron,0.0
+35,Material_Wood,0.0
+34,Material_Weathering steel,0.0
+33,Material_Water,0.0
+32,Material_Thermoplastic elastomer resin,0.0
+31,Material_Slag bound mixtures,0.0
+29,Material_Sintered pulverized fuel ash,0.0
+26,Material_Radiata pine,0.0
+25,Material_Potable water,0.0
+24,Material_Petrol,0.0
+23,Material_Partially ground granulated blast-furnace slag (PGGBS),0.0
+22,Material_Oil,0.0
+21,Material_Microemulsion,0.0
+19,Material_Insulating glass,0.0
+18,Material_Heat-strengthened glass,0.0
+17,Material_Heat-resisting glass,0.0
+15,Material_Gravel,0.0
+14,Material_Granule,0.0
+13,Material_Gases,0.0
+11,Material_Float glass,0.0
+10,Material_Fire clay,0.0
+9,Material_Encaustic,0.0
+7,Material_Chlorofluorocarbons,0.0
+6,Material_Basalt,0.0
+5,Material_Ammonia,0.0
+40,Code_Air ventilation grilles,0.0
+41,Code_Air-handling luminaires,0.0
+42,Code_Air-to-air heat pumps,0.0
+57,Code_Electric storage water heaters,0.0
+72,Code_Grommets,0.0
+71,Code_Gas-fired unit heaters,0.0
+70,Code_Gas-fired boilers,0.0
+69,Code_Gas free-standing cookers,0.0
+66,Code_Freezers,0.0
+65,Code_Freezer blinds,0.0
+64,Code_Food preparation worktops,0.0
+63,Code_Flange adaptors,0.0
+62,Code_Fishwashers,0.0
+61,Code_Fermenters,0.0
+60,Code_Fan convectors,0.0
+59,Code_Evaporative condensers,0.0
+56,Code_Electric ovens,0.0
+43,Code_Ball float steam traps,0.0
+55,Code_Dry air coolers,0.0
+54,Code_Door and window weatherstrips and seals,0.0
+53,Code_Domestic refrigerators and freezers,0.0
+52,Code_Domestic cooking equipment,0.0
+51,Code_Domestic air diffusers and grilles,0.0
+50,Code_Curtain wall glazing and panel gaskets,0.0
+49,Code_Centrifugal blowers,0.0
+48,Code_Catering refrigerators,0.0
+47,Code_Catering freezers,0.0
+46,Code_Built-in microwave ovens,0.0
+45,Code_Boilers,0.0
+44,Code_Bidets,0.0
+135,third_level_Space heating and cooling products,0.0

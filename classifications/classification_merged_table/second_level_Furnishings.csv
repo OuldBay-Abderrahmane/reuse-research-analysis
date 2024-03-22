@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.53      0.58      0.55        48
+           1       0.82      0.78      0.80       116
+
+    accuracy                           0.73       164
+   macro avg       0.67      0.68      0.68       164
+weighted avg       0.73      0.73      0.73       164
+","                                           Feature  Importance
+71                         Code_Aluminium shutters    0.137274
+177                          Code_Reclining chairs    0.098702
+211                                 Code_Wardrobes    0.091784
+160                         Code_Occasional tables    0.074282
+213                        Code_Wiring accessories    0.061800
+..                                             ...         ...
+95                      Code_Countertop washbasins    0.000000
+96                             Code_Cupboard safes    0.000000
+99                                 Code_Deckchairs    0.000000
+100                        Code_Decorative facings    0.000000
+246  third_level_Unit covering and finish products    0.000000
+
+[247 rows x 2 columns]"

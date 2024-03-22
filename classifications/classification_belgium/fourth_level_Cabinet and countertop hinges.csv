@@ -1,0 +1,56 @@
+,Code,report,features
+0,Cabinet and countertop hinges,"              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.93         7
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.89         9
+   macro avg       0.94      0.75      0.80         9
+weighted avg       0.90      0.89      0.87         9
+","                                              Feature  Importance
+2                                        Latest_Price    0.370586
+39                           second_level_Furnishings    0.347554
+1                                       Initial_Price    0.117168
+41     third_level_Floor plates, gratings and edgings    0.062316
+0                                              Weight    0.039669
+27                             material_emb_Porcelain    0.032900
+45      third_level_Sanitary fittings and accessories    0.029807
+7                                              Length    0.000000
+36                     first_level_Technical elements    0.000000
+29                           material_emb_Sheet glass    0.000000
+30                          material_emb_Sitka spruce    0.000000
+31                    material_emb_Terne-coated steel    0.000000
+32          Belgium_Raw_Cabinet and countertop hinges    0.000000
+33                        Belgium_Code_Pr_30_36_36_11    0.000000
+34                            first_level_Furnishings    0.000000
+35                                  first_level_Other    0.000000
+37        second_level_Blocks, Panels, Fences, Bricks    0.000000
+5                                        Price_Change    0.000000
+38                  second_level_Door, Windows, Gates    0.000000
+4                                           Stock_Now    0.000000
+40                                 second_level_Other    0.000000
+3                                       Initial_Stock    0.000000
+42                            third_level_Furnishings    0.000000
+43                third_level_Glass blocks and panels    0.000000
+44  third_level_Lighting columns, brackets and bol...    0.000000
+28                          material_emb_Rolled glass    0.000000
+26                           material_emb_Plate glass    0.000000
+8                                               Width    0.000000
+16                   material_emb_Architectural glass    0.000000
+9                                              Height    0.000000
+10                                 Category_Furniture    0.000000
+11                                  Category_Hardware    0.000000
+12                                         Country_BE    0.000000
+13                                      Store_rotordc    0.000000
+14                                        Language_fr    0.000000
+15                             material_emb_Aluminium    0.000000
+17                                 material_emb_Brass    0.000000
+25                                   material_emb_Oak    0.000000
+18                               material_emb_Ceramic    0.000000
+19                           material_emb_Copal resin    0.000000
+20                      material_emb_Insulating glass    0.000000
+21                         material_emb_Lacquer resin    0.000000
+22          material_emb_Liquid crystal polymer resin    0.000000
+6                                     Quantity_Change    0.000000
+24                          material_emb_Mastic resin    0.000000
+23                                material_emb_Marble    0.000000"

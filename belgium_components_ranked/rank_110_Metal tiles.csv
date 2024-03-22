@@ -1,0 +1,14 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+69,999FLO124,Speckled grey tiles ‘ Welkenraedt ’ mm,28.0,kg,m2,"
+Speckled grey tiles ‘Welkenraedt’.
+
+Dimensions: 100 mm x 100 mm (+/- 1mm)
+Thickness: 7 mm
+1 sqm = 100 tiles
+
+Very good used condition. The old mortar is completely removed using an acid bath (the tile itself is insensitive to acids). Some tiles may have a few scratches and very small chips.
+
+Ready for installation, chip tolerance less than 5 mm. Tiles are dirty but can be easily cleaned with brush and soap after installation.
+
+Visible color variation in tiles due to fabrication dates.
+",Floors,https://rotordc.com/shop/product/999flo124-speckled-grey-tiles-welkenraedt-100-mm-36580?page=2&category=34,,68.99,619.0,,,,,,,,,2022-12-26,550.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.5018558502197266, 'start': 1, 'end': 20, 'answer': 'Speckled grey tiles'}","{'score': 0.697805643081665, 'start': 48, 'end': 64, 'answer': ' 100 mm x 100 mm'}","{'score': 0.3881986141204834, 'start': 90, 'end': 108, 'answer': '\n1 sqm = 100 tiles'}",Ceramic,Metal tiles,Pr_25_93_72_52,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings",0.3881986141204834,,,,146.0

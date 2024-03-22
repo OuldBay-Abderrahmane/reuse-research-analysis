@@ -1,0 +1,36 @@
+,Code,report,features
+0,Ceramic tiles,"              precision    recall  f1-score   support
+
+           0       0.33      1.00      0.50         1
+           1       1.00      0.33      0.50         3
+
+    accuracy                           0.50         4
+   macro avg       0.67      0.67      0.50         4
+weighted avg       0.83      0.50      0.50         4
+","                                           Feature  Importance
+21             first_level_Wall, Barriers, Pannels    0.388822
+0                                           Weight    0.221070
+22     second_level_Blocks, Panels, Fences, Bricks    0.172342
+1                                    Initial_Price    0.135998
+2                                     Latest_Price    0.081768
+14                                   Store_rotordc    0.000000
+24  third_level_Floor plates, gratings and edgings    0.000000
+23                    second_level_Floors, Ceiling    0.000000
+20                 first_level_Roof, Slabs, Stairs    0.000000
+19                               first_level_Other    0.000000
+18                     Belgium_Code_Pr_35_93_96_19    0.000000
+17                       Belgium_Raw_Ceramic tiles    0.000000
+16                            material_emb_Ceramic    0.000000
+15                                     Language_fr    0.000000
+13                                      Country_BE    0.000000
+12                          Category_Wall Cladding    0.000000
+11                                 Category_Floors    0.000000
+10                                  Category_Floor    0.000000
+9                                           Height    0.000000
+8                                            Width    0.000000
+7                                           Length    0.000000
+6                                  Quantity_Change    0.000000
+5                                     Price_Change    0.000000
+4                                        Stock_Now    0.000000
+3                                    Initial_Stock    0.000000
+25             third_level_Glass blocks and panels    0.000000"

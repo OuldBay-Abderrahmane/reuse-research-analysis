@@ -1,0 +1,23 @@
+,Code,report,features
+0,Sanitary fittings and accessories,"              precision    recall  f1-score   support
+
+           0       0.87      0.54      0.67        24
+           1       0.85      0.97      0.91        66
+
+    accuracy                           0.86        90
+   macro avg       0.86      0.76      0.79        90
+weighted avg       0.86      0.86      0.84        90
+","                                           Feature  Importance
+206                              Material_gemischt    0.228596
+194                               Material_Keramik    0.210254
+197                                Material_Metall    0.169737
+139       Condition_gebraucht, gereinigt & geprüft    0.128709
+196                                 Material_Metal    0.047434
+..                                             ...         ...
+75                    Swiss_Raw_Pendant luminaires    0.000000
+76                    Swiss_Raw_Plastics skirtings    0.000000
+77                     Swiss_Raw_Plastics sleeving    0.000000
+78                       Swiss_Raw_Pliable conduit    0.000000
+210  third_level_Sanitary fittings and accessories    0.000000
+
+[211 rows x 2 columns]"

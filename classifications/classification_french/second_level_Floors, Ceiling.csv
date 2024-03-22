@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floors, Ceiling","              precision    recall  f1-score   support
+
+           0       0.93      0.75      0.83        51
+           1       0.76      0.93      0.84        44
+
+    accuracy                           0.83        95
+   macro avg       0.84      0.84      0.83        95
+weighted avg       0.85      0.83      0.83        95
+","                              Feature  Importance
+12                 material_state_new    0.105103
+190        location_NEUILLY-SUR-SEINE    0.078847
+7                              Length    0.067886
+203  location_PARIS-9E-ARRONDISSEMENT    0.053107
+207                   location_RENNES    0.043901
+..                                ...         ...
+127            BIM_class_D.30.40.01.3    0.000000
+126              BIM_class_D.30.10.90    0.000000
+125              BIM_class_D.20.90.05    0.000000
+124              BIM_class_D.20.20.03    0.000000
+363         third_level_Walling units    0.000000
+
+[364 rows x 2 columns]"

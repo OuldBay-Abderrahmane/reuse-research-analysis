@@ -1,0 +1,33 @@
+,Code,report,features
+0,Wood doorsets,"              precision    recall  f1-score   support
+
+           0       0.50      0.25      0.33         4
+           1       0.00      0.00      0.00         1
+
+    accuracy                           0.20         5
+   macro avg       0.25      0.12      0.17         5
+weighted avg       0.40      0.20      0.27         5
+","                                Feature  Importance
+1                         Initial_Price    0.383672
+0                                Weight    0.376016
+16                    material_emb_Wood    0.126148
+14     material_emb_Architectural glass    0.114164
+12                        Store_rotordc    0.000000
+21              third_level_Furnishings    0.000000
+20    second_level_Door, Windows, Gates    0.000000
+19      first_level_Roof, Slabs, Stairs    0.000000
+18          Belgium_Code_Pr_30_59_24_97    0.000000
+17            Belgium_Raw_Wood doorsets    0.000000
+15      material_emb_Expansive concrete    0.000000
+13                          Language_fr    0.000000
+11                           Country_BE    0.000000
+10                       Category_Doors    0.000000
+9                                Height    0.000000
+8                                 Width    0.000000
+7                                Length    0.000000
+6                       Quantity_Change    0.000000
+5                          Price_Change    0.000000
+4                             Stock_Now    0.000000
+3                         Initial_Stock    0.000000
+2                          Latest_Price    0.000000
+22  third_level_Glass blocks and panels    0.000000"

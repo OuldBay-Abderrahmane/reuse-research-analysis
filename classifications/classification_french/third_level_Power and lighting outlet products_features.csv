@@ -1,0 +1,216 @@
+,Feature,Importance
+102,location_NEUILLY-SUR-SEINE,0.14369345
+143,material_emb_Reflective glass,0.123906106
+104,location_PARIS-10E-ARRONDISSEMENT,0.058755748
+203,first_level_Other,0.058078814
+14,category_auxiliary_equipment,0.057188794
+123,material_type_used,0.053327736
+113,location_RENNES,0.05207173
+114,location_RUNGIS,0.049113393
+26,category_main_switchboard,0.045942184
+110,location_PARIS-9E-ARRONDISSEMENT,0.040686544
+78,location_AUBAGNE,0.04068654
+137,material_emb_Gas,0.03468439
+8,Width,0.031723794
+9,Height,0.02396417
+139,material_emb_Lignite,0.02365872
+145,material_emb_Sitka spruce,0.019917004
+162,French_Raw_Lamps,0.01403267
+95,location_LYON--6E--ARRONDISSEMENT,0.013341074
+168,French_Raw_Pendant luminaires,0.012640503
+142,material_emb_Potable water,0.010480515
+1,price_latest,0.00856405
+0,price_initial,0.0084294425
+105,location_PARIS-13E-ARRONDISSEMENT,0.008314306
+134,material_emb_Encaustic,0.007932566
+17,category_fan_coil,0.0069508003
+52,BIM_class_D.50.10.03.1a,0.005875846
+211,second_level_Other,0.0057747
+10,material_state_correct,0.004448094
+109,location_PARIS-8E-ARRONDISSEMENT,0.0042426675
+205,first_level_Technical elements,0.0038884217
+3,quantity_latest,0.0038140982
+207,"second_level_Blocks, Panels, Fences, Bricks",0.00379839
+4,price,0.0036226665
+210,second_level_Furnishings,0.0034611842
+13,material_state_verygood,0.0028900437
+107,location_PARIS-1ER-ARRONDISSEMENT,0.0024133516
+25,category_lighting_general_equipment,0.0021824038
+22,category_interior_distribution_transformeur,0.0019394585
+92,location_LEVALLOIS-PERRET,0.0017222392
+21,category_hot_water_supply,0.001361498
+206,"first_level_Wall, Barriers, Pannels",0.0003289396
+40,BIM_class_D.30.10.04.5,0.0001509681
+152,French_Raw_Coaxial cables,0.0
+153,French_Raw_Current transformers,0.0
+154,French_Raw_Electrical connection boxes,0.0
+155,French_Raw_Electrical diagrams,0.0
+156,French_Raw_Electrical power components,0.0
+157,French_Raw_Energy meters,0.0
+158,French_Raw_Extra-low-voltage occupancy detectors,0.0
+159,French_Raw_Heat pumps,0.0
+36,BIM_class_B.30.10.06.3,0.0
+160,French_Raw_High-voltage switches,0.0
+150,French_Raw_Built-in gas hobs,0.0
+161,French_Raw_Intumescent fire and smoke dampers,0.0
+15,category_circuits_breackers,0.0
+163,French_Raw_Lantern lights,0.0
+164,French_Raw_Lighting distribution boxes,0.0
+165,"French_Raw_Luminaires, lighting track and lighting accessories",0.0
+166,French_Raw_Modular cassette ventilated ceilings,0.0
+167,French_Raw_Multistage pumps,0.0
+151,French_Raw_Canopy tubes,0.0
+147,material_emb_Wired glass,0.0
+149,French_Raw_Built-in electric hobs,0.0
+148,French_Raw_Air-to-air heat pumps,0.0
+129,material_emb_Aggregates,0.0
+130,material_emb_Air-cooled steel slag,0.0
+131,material_emb_Blinding aggregates,0.0
+132,material_emb_Coloured glass,0.0
+133,material_emb_Compressed air,0.0
+135,material_emb_Fir,0.0
+136,material_emb_Fire clay,0.0
+138,material_emb_Heat-absorbing glass,0.0
+20,category_hot_water_boiler,0.0
+140,material_emb_Petroleum,0.0
+141,material_emb_Plastics,0.0
+19,category_fire_alarm_device,0.0
+18,category_faucets,0.0
+144,material_emb_Silt,0.0
+16,category_cooling_system,0.0
+146,material_emb_Water,0.0
+169,French_Raw_Power supply equipment,0.0
+12,material_state_new,0.0
+170,French_Raw_Projectors,0.0
+127,state_ bonne,0.0
+202,first_level_Furnishings,0.0
+194,French_Code_Pr_70_70_47_28,0.0
+195,French_Code_Pr_70_70_48,0.0
+196,French_Code_Pr_70_70_48_62,0.0
+197,French_Code_Pr_70_70_48_71,0.0
+198,French_Code_Pr_80_51_51_19,0.0
+199,French_Code_Pr_80_51_51_28,0.0
+200,French_Code_Pr_82_70_65,0.0
+201,French_Code_Pr_85_50_25,0.0
+11,material_state_damaged,0.0
+192,French_Code_Pr_70_70_46,0.0
+204,"first_level_Roof, Slabs, Stairs",0.0
+7,Length,0.0
+6,min_quantity,0.0
+208,"second_level_Covering, Finish",0.0
+209,"second_level_Floors, Ceiling",0.0
+5,quantity,0.0
+2,price_change,0.0
+212,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+193,French_Code_Pr_70_70_46_30,0.0
+191,French_Code_Pr_70_65_04_53,0.0
+171,French_Raw_Recessed luminaires,0.0
+180,French_Code_Pr_40_70_24_09,0.0
+172,French_Raw_Strip ventilators,0.0
+173,French_Raw_Tubular fluorescent lamps,0.0
+174,French_Raw_Water strainers,0.0
+175,French_Code_Pr_20_93_92_10,0.0
+176,French_Code_Pr_30_59_29_82,0.0
+177,French_Code_Pr_30_59_72_46,0.0
+178,French_Code_Pr_40_10_57_23,0.0
+179,French_Code_Pr_40_70_24_07,0.0
+181,French_Code_Pr_40_70_67,0.0
+190,French_Code_Pr_70_60_37_02,0.0
+182,French_Code_Pr_60_70_22_46,0.0
+183,French_Code_Pr_60_70_36_82,0.0
+184,French_Code_Pr_65_53_86_55,0.0
+185,French_Code_Pr_65_57_95_96,0.0
+186,French_Code_Pr_65_65_24_42,0.0
+187,French_Code_Pr_65_70_15_13,0.0
+188,French_Code_Pr_65_72_97_27,0.0
+189,French_Code_Pr_70_60_37,0.0
+128,state_ très bon,0.0
+125,"state_
+Très bon",0.0
+126,state_ Bon,0.0
+69,BIM_class_D.50.20.02.6,0.0
+61,BIM_class_D.50.20.02.10,0.0
+62,BIM_class_D.50.20.02.12,0.0
+63,BIM_class_D.50.20.02.13,0.0
+64,BIM_class_D.50.20.02.15,0.0
+65,BIM_class_D.50.20.02.2,0.0
+66,BIM_class_D.50.20.02.3,0.0
+67,BIM_class_D.50.20.02.4,0.0
+68,BIM_class_D.50.20.02.5,0.0
+70,BIM_class_D.50.20.02.7,0.0
+59,BIM_class_D.50.20.01.6,0.0
+71,BIM_class_D.50.20.02.9,0.0
+72,BIM_class_D.50.20.90.2,0.0
+73,BIM_class_D.50.90.01,0.0
+74,BIM_class_E.20.10.90.1,0.0
+75,BIM_class_E.20.20.90.4,0.0
+76,location_AIX-EN-PROVENCE,0.0
+77,location_ARGENTEUIL,0.0
+34,category_suspension_system,0.0
+60,BIM_class_D.50.20.02.1,0.0
+58,BIM_class_D.50.10.08.2,0.0
+80,location_CHAMPS-SUR-MARNE,0.0
+47,BIM_class_D.30.50.03.3,0.0
+38,BIM_class_D.20.10.09.2b,0.0
+39,BIM_class_D.30.10.04.2,0.0
+41,BIM_class_D.30.10.04.6,0.0
+42,BIM_class_D.30.20.01.1c,0.0
+43,BIM_class_D.30.20.04.2,0.0
+44,BIM_class_D.30.30.01.2,0.0
+45,BIM_class_D.30.30.01.4,0.0
+46,BIM_class_D.30.50.03.2,0.0
+48,BIM_class_D.40.10.01.3,0.0
+57,BIM_class_D.50.10.08.1,0.0
+49,BIM_class_D.40.10.01.6,0.0
+50,BIM_class_D.40.90.90.2,0.0
+51,BIM_class_D.50.10.01,0.0
+35,category_wires_connections,0.0
+53,BIM_class_D.50.10.03.1b,0.0
+54,BIM_class_D.50.10.04.1,0.0
+55,BIM_class_D.50.10.05.2,0.0
+56,BIM_class_D.50.10.06,0.0
+79,location_BRIANCON,0.0
+81,location_CHASSELAY,0.0
+37,BIM_class_C.30.30.05.2,0.0
+115,location_SAINT-ETIENNE,0.0
+106,location_PARIS-15E-ARRONDISSEMENT,0.0
+29,category_other_services_and_electric_distribution,0.0
+108,location_PARIS-20E-ARRONDISSEMENT,0.0
+28,category_other_illuminations_and_wires_connections,0.0
+27,category_other_furniture,0.0
+111,location_PONTCHARRA,0.0
+112,location_PUTEAUX,0.0
+24,category_lighting_equipment,0.0
+116,location_SAINT-OUEN,0.0
+31,category_other_special_interior_furnishings,0.0
+117,location_SAMES,0.0
+118,location_SAVIGNY-SUR-ORGE,0.0
+119,location_TOULOUSE,0.0
+120,location_VILLENEUVE-SAINT-GEORGES,0.0
+121,material_type_new,0.0
+122,material_type_reconditioned,0.0
+23,category_junction_electric_panel,0.0
+124,country_FR,0.0
+30,category_other_special_fire_protection_system,0.0
+103,location_ORLEANS,0.0
+82,location_CHEVILLY-LARUE,0.0
+91,location_LE BOURGET,0.0
+83,location_CHOLET,0.0
+84,location_CLERMONT-FERRAND,0.0
+85,location_CORBEIL-ESSONNES,0.0
+86,location_CRAS,0.0
+87,location_DRANCY,0.0
+88,location_EPERNAY,0.0
+89,location_GENNEVILLIERS,0.0
+90,location_LA MADELEINE,0.0
+93,location_LOIRE-SUR-RHONE,0.0
+32,category_primary_processor,0.0
+94,location_LYON--3E--ARRONDISSEMENT,0.0
+33,category_roof_opening_support,0.0
+96,location_LYON--7E--ARRONDISSEMENT,0.0
+97,location_MARSEILLE--2E--ARRONDISSEMENT,0.0
+98,location_MARSEILLE-13E--ARRONDISSEMENT,0.0
+99,location_MONTIGNY-LES-CORMEILLES,0.0
+100,location_NANCY,0.0
+101,location_NANTES,0.0
+213,third_level_Power and lighting outlet products,0.0

@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Roof, Slabs, Stairs","              precision    recall  f1-score   support
+
+           0       0.96      0.81      0.88        27
+           1       0.95      0.99      0.97        97
+
+    accuracy                           0.95       124
+   macro avg       0.95      0.90      0.92       124
+weighted avg       0.95      0.95      0.95       124
+","                                Feature  Importance
+168                 Condition_gebraucht    0.185083
+255                   Material_gemischt    0.163593
+243                     Material_Metall    0.149194
+239                       Material_Holz    0.141195
+248                    Material_Plastic    0.060016
+..                                  ...         ...
+94   Swiss_Raw_Projection window hinges    0.000000
+95                  Swiss_Raw_Radiators    0.000000
+96            Swiss_Raw_Rainwater weirs    0.000000
+97              Swiss_Raw_Refrigerators    0.000000
+259     first_level_Roof, Slabs, Stairs    0.000000
+
+[260 rows x 2 columns]"

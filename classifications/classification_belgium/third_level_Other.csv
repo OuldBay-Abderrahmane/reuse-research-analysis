@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.64      0.82      0.72        17
+           1       0.82      0.64      0.72        22
+
+    accuracy                           0.72        39
+   macro avg       0.73      0.73      0.72        39
+weighted avg       0.74      0.72      0.72        39
+","                    Feature  Importance
+5              Price_Change    0.224419
+114       material_emb_Pisé    0.189720
+18        Category_Lighting    0.149922
+2              Latest_Price    0.120682
+0                    Weight    0.095228
+..                      ...         ...
+67            Store_rotordc    0.000000
+68              Language_fr    0.000000
+69       material_emb_Adobe    0.000000
+70   material_emb_Aluminium    0.000000
+183       third_level_Other    0.000000
+
+[184 rows x 2 columns]"

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Glass blocks and panels,"              precision    recall  f1-score   support
+
+           0       0.94      0.75      0.83        20
+           1       0.93      0.99      0.96        70
+
+    accuracy                           0.93        90
+   macro avg       0.93      0.87      0.90        90
+weighted avg       0.93      0.93      0.93        90
+","                                               Feature  Importance
+150                                  Material_gemischt    0.248280
+137                                      Material_Holz    0.184329
+91            Condition_gebraucht, gereinigt & geprüft    0.151387
+136                            Material_Glass-ceramics    0.064716
+102                     Subcategory_Badewanne & Dusche    0.045977
+..                                                 ...         ...
+56   Swiss_Raw_Polyvinyl chloride (PVC) cove skirtings    0.000000
+57                  Swiss_Raw_Projection window hinges    0.000000
+58                                Swiss_Raw_Projectors    0.000000
+59   Swiss_Raw_Rigid polyurethane frame roof window...    0.000000
+156                third_level_Glass blocks and panels    0.000000
+
+[157 rows x 2 columns]"

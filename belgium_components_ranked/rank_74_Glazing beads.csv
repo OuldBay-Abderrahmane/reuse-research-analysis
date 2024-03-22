@@ -1,0 +1,38 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+999,203LIG044,Wall light 'Very Well ' in metal and coloured glass beads by Belux,1.6,kg,pc,"
+Wall light 'Very Well' in metal and coloured glass beads by Belux. 
+
+
+
+Height
+
+
+28 cm
+
+
+
+
+Length
+
+
+8.5 cm
+
+
+
+
+Width
+
+
+25 cm 
+
+
+
+
+Socket
+
+
+E14The fitting and electric system are entirely renewed. New. From overstock. Dusty, needs to be cleaned. Bulb is not included in the price.
+",Lighting,https://rotordc.com/shop/product/203lig044-wall-light-very-well-in-metal-and-coloured-glass-beads-by-belux-59819?page=2&category=39,"['59819_7b2f2a7.png', '10900_19e6b30.png', '10901_19e6b30.png', '10902_19e6b30.png', '10903_19e6b30.png']",119.0,119.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.2878437042236328, 'start': 36, 'end': 57, 'answer': ' coloured glass beads'}","{'score': 0.41837844252586365, 'start': 71, 'end': 86, 'answer': '\nHeight\n\n\n28 cm'}","{'score': 0.017039310187101364, 'start': 205, 'end': 216, 'answer': ' overstock.'}",Coloured glass,Glazing beads,Pr_35_90_07_33,Other,Other,Glass blocks and panels,0.017039310187101364,,,,59.0
+1075,999LIG1017,Pendant light with glass beads,0.33,kg,pc,"
+Pendant light with glass beads.Height15 cmLength12 cmWidth12 cmSocket1 x E27Good used condition. May have some scratches and chipped paint on the the structure. A little bit dusty, needs to be cleaned. Bulb is not included in the price.
+",Lighting,https://rotordc.com/shop/product/999lig1017-pendant-light-with-glass-beads-59543?page=6&category=39,"['59543_143c2df.png', '9989_805594e.png', '9990_805594e.png', '9991_805594e.png']",59.0,59.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.4010216295719147, 'start': 19, 'end': 40, 'answer': ' glass beads.Height15'}","{'score': 0.31746119260787964, 'start': 25, 'end': 61, 'answer': ' beads.Height15 cmLength12 cmWidth12'}","{'score': 0.19986742734909058, 'start': 61, 'end': 81, 'answer': ' cmSocket1 x E27Good'}",Coloured glass,Glazing beads,Pr_35_90_07_33,Other,Other,Glass blocks and panels,0.19986742734909058,,,,

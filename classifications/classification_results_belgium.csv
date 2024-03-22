@@ -1,41 +1,77 @@
 ,Code,report,features
-0,Pr_30_59_23_98,"              precision    recall  f1-score   support
+0,Pr_70_70_46_80,"              precision    recall  f1-score   support
 
-           0       0.73      0.80      0.76        20
-           1       0.60      0.50      0.55        12
-
-    accuracy                           0.69        32
-   macro avg       0.66      0.65      0.65        32
-weighted avg       0.68      0.69      0.68        32
-","                                  Feature  Importance
-2                           Category_Door    0.759888
-0                                  Weight    0.100397
-1                            Latest_Price    0.068312
-5        material_emb_Architectural glass    0.053108
-11                      material_emb_Wood    0.018296
-3                          Category_Doors    0.000000
-4   Belgium_Raw_Wood panelled door leaves    0.000000
-6           material_emb_Insulating glass    0.000000
-7                        material_emb_Oak    0.000000
-8                       material_emb_Pine    0.000000
-9               material_emb_Sitka spruce    0.000000
-10          material_emb_Structural glass    0.000000"
-1,Pr_30_59_24_97,"              precision    recall  f1-score   support
-
-           0       0.50      0.25      0.33         4
+           0       0.50      1.00      0.67         1
            1       0.00      0.00      0.00         1
 
-    accuracy                           0.20         5
-   macro avg       0.25      0.12      0.17         5
-weighted avg       0.40      0.20      0.27         5
-","                            Feature  Importance
-1                      Latest_Price    0.396751
-0                            Weight    0.305117
-4  material_emb_Architectural glass    0.149354
-6                 material_emb_Wood    0.148778
-2                    Category_Doors    0.000000
-3         Belgium_Raw_Wood doorsets    0.000000
-5   material_emb_Expansive concrete    0.000000"
+    accuracy                           0.50         2
+   macro avg       0.25      0.50      0.33         2
+weighted avg       0.25      0.50      0.33         2
+","                                              Feature  Importance
+0                                              Weight         0.0
+15                        material_emb_Coloured glass         0.0
+27  third_level_Lighting columns, brackets and bol...         0.0
+26                third_level_Glass blocks and panels         0.0
+25                                 second_level_Other         0.0
+24                           second_level_Furnishings         0.0
+23                                  first_level_Other         0.0
+22                            first_level_Furnishings         0.0
+21                        Belgium_Code_Pr_70_70_46_80         0.0
+20                          Belgium_Raw_Special lamps         0.0
+19                          material_emb_Sitka spruce         0.0
+18                      material_emb_Reflective glass         0.0
+17                            material_emb_Opal glass         0.0
+16                  material_emb_Glare-reducing glass         0.0
+14            material_emb_Blinding coarse aggregates         0.0
+1                                       Initial_Price         0.0
+13                                        Language_fr         0.0
+12                                      Store_rotordc         0.0
+11                                         Country_BE         0.0
+10                                  Category_Lighting         0.0
+9                                              Height         0.0
+8                                               Width         0.0
+7                                              Length         0.0
+6                                     Quantity_Change         0.0
+5                                        Price_Change         0.0
+4                                           Stock_Now         0.0
+3                                       Initial_Stock         0.0
+2                                        Latest_Price         0.0
+28     third_level_Power and lighting outlet products         0.0"
+1,Pr_70_70_48_13,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       0.0
+           1       0.00      0.00      0.00       2.0
+
+    accuracy                           0.00       2.0
+   macro avg       0.00      0.00      0.00       2.0
+weighted avg       0.00      0.00      0.00       2.0
+","                                              Feature  Importance
+0                                              Weight         0.0
+1                                       Initial_Price         0.0
+24                third_level_Glass blocks and panels         0.0
+23                                 second_level_Other         0.0
+22                           second_level_Furnishings         0.0
+21                                  first_level_Other         0.0
+20                            first_level_Furnishings         0.0
+19                        Belgium_Code_Pr_70_70_48_13         0.0
+18                            Belgium_Raw_Chandeliers         0.0
+17                             material_emb_Porcelain         0.0
+16                           material_emb_Float glass         0.0
+15                         material_emb_Crystal glass         0.0
+14                           material_emb_Blown glass         0.0
+13                                        Language_fr         0.0
+12                                      Store_rotordc         0.0
+11                                         Country_BE         0.0
+10                                  Category_Lighting         0.0
+9                                              Height         0.0
+8                                               Width         0.0
+7                                              Length         0.0
+6                                     Quantity_Change         0.0
+5                                        Price_Change         0.0
+4                                           Stock_Now         0.0
+3                                       Initial_Stock         0.0
+2                                        Latest_Price         0.0
+25  third_level_Lighting columns, brackets and bol...         0.0"
 2,Pr_35_93_96_89,"              precision    recall  f1-score   support
 
            0       0.00      0.00      0.00       0.0
@@ -44,98 +80,175 @@ weighted avg       0.40      0.20      0.27         5
     accuracy                           0.00       2.0
    macro avg       0.00      0.00      0.00       2.0
 weighted avg       0.00      0.00      0.00       2.0
-","                               Feature  Importance
-0                               Weight         0.0
-1                         Latest_Price         0.0
-2                      Category_Floors         0.0
-3               Category_Wall Cladding         0.0
-4  Belgium_Raw_Terrazzo tile skirtings         0.0
-5         material_emb_Pozzolan cement         0.0
-6              material_emb_Terracotta         0.0"
-3,Pr_35_93_96,"              precision    recall  f1-score   support
+","                                           Feature  Importance
+0                                           Weight         0.0
+12                                      Country_BE         0.0
+21  third_level_Floor plates, gratings and edgings         0.0
+20     second_level_Blocks, Panels, Fences, Bricks         0.0
+19             first_level_Wall, Barriers, Pannels         0.0
+18                     Belgium_Code_Pr_35_93_96_89         0.0
+17             Belgium_Raw_Terrazzo tile skirtings         0.0
+16                         material_emb_Terracotta         0.0
+15                    material_emb_Pozzolan cement         0.0
+14                                     Language_fr         0.0
+13                                   Store_rotordc         0.0
+11                          Category_Wall Cladding         0.0
+1                                    Initial_Price         0.0
+10                                 Category_Floors         0.0
+9                                           Height         0.0
+8                                            Width         0.0
+7                                           Length         0.0
+6                                  Quantity_Change         0.0
+5                                     Price_Change         0.0
+4                                        Stock_Now         0.0
+3                                    Initial_Stock         0.0
+2                                     Latest_Price         0.0
+22                       third_level_Walling units         0.0"
+3,Pr_40_70_73_96,"              precision    recall  f1-score   support
 
-           0       0.88      0.78      0.82        18
-           1       0.64      0.78      0.70         9
+           0       1.00      1.00      1.00         1
 
-    accuracy                           0.78        27
-   macro avg       0.76      0.78      0.76        27
-weighted avg       0.80      0.78      0.78        27
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
 ","                                              Feature  Importance
-18                         Belgium_Raw_Terrazzo tiles    0.326551
-26                                material_emb_Marble    0.166665
-2                                      Category_Floor    0.147003
-8                    Belgium_Raw_Ceramic tile borders    0.089268
-14                           Belgium_Raw_Quarry tiles    0.077482
-4                                     Category_Garden    0.067902
-7                              Category_Wall Cladding    0.044862
-11                          Belgium_Raw_Ceramic tiles    0.023905
-3                                     Category_Floors    0.013123
-0                                              Weight    0.010800
-31                            material_emb_Terracotta    0.010095
-1                                        Latest_Price    0.008245
-17                Belgium_Raw_Terrazzo tile skirtings    0.005780
-19              Belgium_Raw_Wall and floor tile units    0.004510
-20                               material_emb_Ceramic    0.003810
-10               Belgium_Raw_Ceramic tile round edges    0.000000
-24                   material_emb_Insulating concrete    0.000000
-30                                 material_emb_Slate    0.000000
-29                             material_emb_Sandstone    0.000000
-28                       material_emb_Pozzolan cement    0.000000
-27                             material_emb_Porcelain    0.000000
-5                               Category_Objet Trouvé    0.000000
-25  material_emb_Loose surfacing decorative aggreg...    0.000000
-21             material_emb_Expanded slate aggregates    0.000000
-23                 material_emb_Granite-powder cement    0.000000
-22                               material_emb_Granite    0.000000
-12     Belgium_Raw_Natural stone wall and floor slabs    0.000000
-6                                   Category_Sanitary    0.000000
-15                            Belgium_Raw_Stone slabs    0.000000
-9             Belgium_Raw_Ceramic tile cove skirtings    0.000000
-13                        Belgium_Raw_Porcelain tiles    0.000000
-16                            Belgium_Raw_Stone tiles    0.000000"
-4,Pr_30_59_23_32,"              precision    recall  f1-score   support
+0                                              Weight         0.0
+12                                      Store_rotordc         0.0
+21                              third_level_Handrails         0.0
+20                                 second_level_Other         0.0
+19        second_level_Blocks, Panels, Fences, Bricks         0.0
+18                                  first_level_Other         0.0
+17                        Belgium_Code_Pr_40_70_73_96         0.0
+16                           Belgium_Raw_Wheel lathes         0.0
+15                                material_emb_Gravel         0.0
+14                             material_emb_Cast iron         0.0
+13                                        Language_fr         0.0
+11                                         Country_BE         0.0
+1                                       Initial_Price         0.0
+10                                  Category_Hardware         0.0
+9                                              Height         0.0
+8                                               Width         0.0
+7                                              Length         0.0
+6                                     Quantity_Change         0.0
+5                                        Price_Change         0.0
+4                                           Stock_Now         0.0
+3                                       Initial_Stock         0.0
+2                                        Latest_Price         0.0
+22  third_level_Lighting columns, brackets and bol...         0.0"
+4,Pr_70_70_48_62,"              precision    recall  f1-score   support
 
-           0       1.00      1.00      1.00         2
-
-    accuracy                           1.00         2
-   macro avg       1.00      1.00      1.00         2
-weighted avg       1.00      1.00      1.00         2
-","                                   Feature  Importance
-0                                   Weight         0.0
-1                             Latest_Price         0.0
-2                           Category_Doors         0.0
-3  Belgium_Raw_Frameless glass door leaves         0.0
-4         material_emb_Architectural glass         0.0"
-5,Pr_40_30_87_03,"              precision    recall  f1-score   support
-
-           0       0.50      0.33      0.40         3
+           0       0.83      1.00      0.91         5
            1       0.00      0.00      0.00         1
 
-    accuracy                           0.25         4
-   macro avg       0.25      0.17      0.20         4
-weighted avg       0.38      0.25      0.30         4
-","                         Feature  Importance
-1                   Latest_Price    0.879007
-0                         Weight    0.120993
-2              Category_Mobilier    0.000000
-3          Category_Per building    0.000000
-4              Category_Sanitary    0.000000
-5                 Condition_Neuf    0.000000
-6  Belgium_Raw_Bathroom cabinets    0.000000
-7         material_emb_Porcelain    0.000000
-8      material_emb_Sitka spruce    0.000000
-9             material_emb_Water    0.000000"
-6,Pr_25_71_97_46,"              precision    recall  f1-score   support
+    accuracy                           0.83         6
+   macro avg       0.42      0.50      0.45         6
+weighted avg       0.69      0.83      0.76         6
+","                                              Feature  Importance
+1                                       Initial_Price     0.53935
+2                                        Latest_Price     0.46065
+34                     first_level_Technical elements     0.00000
+25                                material_emb_Gneiss     0.00000
+26                               material_emb_Lignite     0.00000
+27                      material_emb_Reflective glass     0.00000
+28                          material_emb_Sitka spruce     0.00000
+29                     Belgium_Raw_Pendant luminaires     0.00000
+30                        Belgium_Code_Pr_70_70_48_62     0.00000
+31                            first_level_Furnishings     0.00000
+32                               first_level_Openings     0.00000
+33                                  first_level_Other     0.00000
+0                                              Weight     0.00000
+24                            material_emb_Fibreglass     0.00000
+36        second_level_Blocks, Panels, Fences, Bricks     0.00000
+37                      second_level_Covering, Finish     0.00000
+38                       second_level_Floors, Ceiling     0.00000
+39                           second_level_Furnishings     0.00000
+40                                 second_level_Other     0.00000
+41                third_level_Glass blocks and panels     0.00000
+42  third_level_Lighting columns, brackets and bol...     0.00000
+43     third_level_Power and lighting outlet products     0.00000
+35                first_level_Wall, Barriers, Pannels     0.00000
+22                              material_emb_Dolomite     0.00000
+23                             material_emb_Encaustic     0.00000
+11                                  Category_Lighting     0.00000
+3                                       Initial_Stock     0.00000
+4                                           Stock_Now     0.00000
+5                                        Price_Change     0.00000
+6                                     Quantity_Change     0.00000
+7                                              Length     0.00000
+8                                               Width     0.00000
+9                                              Height     0.00000
+10                Category_Electricités et luminaires     0.00000
+12                                  Condition_Correct     0.00000
+21                                  material_emb_Daub     0.00000
+13                                     Material_Métal     0.00000
+14                                 Material_Plastique     0.00000
+15  Technical_Mode d’assemblage :\r\nPréconisation...     0.00000
+16  Collection_MACO : Retrait sur place du mardi a...     0.00000
+17                                         Country_BE     0.00000
+18                                      Store_rotordc     0.00000
+19                                        Language_fr     0.00000
+20                        material_emb_Coloured glass     0.00000
+44                          third_level_Trim products     0.00000"
+5,Pr_40_50_21_49,"              precision    recall  f1-score   support
 
-           0       0.67      1.00      0.80         2
-           1       0.00      0.00      0.00         1
+           0       1.00      1.00      1.00         1
 
-    accuracy                           0.67         3
-   macro avg       0.33      0.50      0.40         3
-weighted avg       0.44      0.67      0.53         3
-","                                Feature  Importance
-1                          Latest_Price         1.0
-0                                Weight         0.0
-2                         Category_Wood         0.0
-3  Belgium_Raw_Laminboard core plywoods         0.0
-4                     material_emb_Wood         0.0"
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+","                                              Feature  Importance
+0                                              Weight         0.0
+1                                       Initial_Price         0.0
+22                                 second_level_Other         0.0
+21                           second_level_Furnishings         0.0
+20                                  first_level_Other         0.0
+19                            first_level_Furnishings         0.0
+18                        Belgium_Code_Pr_40_50_21_49         0.0
+17                           Belgium_Raw_Light tables         0.0
+16                      material_emb_Reflective glass         0.0
+15                        material_emb_Coloured glass         0.0
+14                                 material_emb_Brass         0.0
+13                                        Language_fr         0.0
+12                                      Store_rotordc         0.0
+11                                         Country_BE         0.0
+10                                  Category_Lighting         0.0
+9                                              Height         0.0
+8                                               Width         0.0
+7                                              Length         0.0
+6                                     Quantity_Change         0.0
+5                                        Price_Change         0.0
+4                                           Stock_Now         0.0
+3                                       Initial_Stock         0.0
+2                                        Latest_Price         0.0
+23  third_level_Lighting columns, brackets and bol...         0.0"
+6,Pr_30_59_09_33,"              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         3
+
+    accuracy                           1.00         3
+   macro avg       1.00      1.00      1.00         3
+weighted avg       1.00      1.00      1.00         3
+","                                         Feature  Importance
+0                                         Weight         0.0
+12                                 Store_rotordc         0.0
+21                            second_level_Other         0.0
+20                  second_level_Floors, Ceiling         0.0
+19                             first_level_Other         0.0
+18                   Belgium_Code_Pr_30_59_09_33         0.0
+17  Belgium_Raw_Glass brise-soleil louvre blades         0.0
+16                 material_emb_Reflective glass         0.0
+15                  material_emb_Patterned glass         0.0
+14                   material_emb_Coloured glass         0.0
+13                                   Language_fr         0.0
+11                                    Country_BE         0.0
+1                                  Initial_Price         0.0
+10                             Category_Lighting         0.0
+9                                         Height         0.0
+8                                          Width         0.0
+7                                         Length         0.0
+6                                Quantity_Change         0.0
+5                                   Price_Change         0.0
+4                                      Stock_Now         0.0
+3                                  Initial_Stock         0.0
+2                                   Latest_Price         0.0
+22           third_level_Glass blocks and panels         0.0"

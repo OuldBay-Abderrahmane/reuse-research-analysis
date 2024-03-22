@@ -1,0 +1,17 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+150,998FUR001A,Kids chair by Pagholz,3.89,kg,pc,"
+Dimensions: H74 cm x W36,5 cm
+Seating height: 42cm, suitable for kids and short humans.
+
+Condition:
+A quality -> mild traces of wear such as a few scratches and paint chipped on the foot.
+B quality -> traces of Tipex (kids!)
+",Furniture,https://rotordc.com/shop/product/kids-chair-by-pagholz-58431?page=4&category=35,,49.0,49.0,,,,,,,,,2022-08-06,0.0,,2022-08-02,BE,rotordc,fr,1,4.0,"{'score': 0.022825609892606735, 'start': 211, 'end': 217, 'answer': ' Tipex'}","{'score': 0.8483733534812927, 'start': 12, 'end': 30, 'answer': ' H74 cm x W36,5 cm'}","{'score': 2.227790645292771e-07, 'start': 12, 'end': 16, 'answer': ' H74'}",Sitka spruce,Play chairs,Pr_40_50_12_63,Furnishings,Furnishings,Furnishings,2.227790645292771e-07,,,,4.0
+885,998FUR001B,Kids chair by Pagholz,3.89,kg,pc,"
+Dimensions: H74 cm x W36,5 cm
+Seating height: 42cm, suitable for kids and short humans.
+
+Condition:
+A quality -> mild traces of wear such as a few scratches and paint chipped on the foot.
+B quality -> traces of Tipex (kids!)
+",Furniture,https://rotordc.com/shop/product/kids-chair-by-pagholz-58431?page=4&category=35,"['58431_d7440b6.png', '6393_7ea4233.png', '6394_7ea4233.png', '6395_7ea4233.png']",34.0,34.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.022825609892606735, 'start': 211, 'end': 217, 'answer': ' Tipex'}","{'score': 0.8483733534812927, 'start': 12, 'end': 30, 'answer': ' H74 cm x W36,5 cm'}","{'score': 2.227790645292771e-07, 'start': 12, 'end': 16, 'answer': ' H74'}",Sitka spruce,Play chairs,Pr_40_50_12_63,Furnishings,Furnishings,Furnishings,2.227790645292771e-07,,,,59.0

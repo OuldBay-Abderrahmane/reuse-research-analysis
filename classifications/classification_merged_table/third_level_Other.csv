@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.36      0.50      0.42        16
+           1       0.84      0.75      0.80        57
+
+    accuracy                           0.70        73
+   macro avg       0.60      0.63      0.61        73
+weighted avg       0.74      0.70      0.71        73
+","                          Feature  Importance
+55                   Code_Bureaux    0.325895
+12              Material_Dolerite    0.131613
+42          Material_White poplar    0.099097
+91                Code_Projectors    0.053175
+89              Code_Pot bearings    0.050109
+..                            ...         ...
+45   Code_Acoustic batten cradles    0.000000
+44                 Code_Abat-voix    0.000000
+43               Material_Wychert    0.000000
+41      Material_Weathering steel    0.000000
+132             third_level_Other    0.000000
+
+[133 rows x 2 columns]"

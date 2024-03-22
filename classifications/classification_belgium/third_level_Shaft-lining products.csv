@@ -1,0 +1,23 @@
+,Code,report,features
+0,Shaft-lining products,"              precision    recall  f1-score   support
+
+           0       1.00      0.33      0.50         3
+           1       0.33      1.00      0.50         1
+
+    accuracy                           0.50         4
+   macro avg       0.67      0.67      0.50         4
+weighted avg       0.83      0.50      0.50         4
+","                                              Feature  Importance
+0                                              Weight    0.944404
+61                     first_level_Technical elements    0.055596
+42                          material_emb_Nickel steel    0.000000
+48                        Belgium_Raw_Display plinths    0.000000
+47         Belgium_Raw_Cast and wrought iron brackets    0.000000
+..                                                ...         ...
+28  Collection_Beaumont : Démontage prévu en print...    0.000000
+29  Collection_ECO-CUI HDS : A coordonner avec Mat...    0.000000
+30                           Collection_ECO-CUI MDC :    0.000000
+31  Collection_MACO : Retrait sur place du mardi a...    0.000000
+66                  third_level_Shaft-lining products    0.000000
+
+[67 rows x 2 columns]"

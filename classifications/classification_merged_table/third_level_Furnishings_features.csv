@@ -1,0 +1,137 @@
+,Feature,Importance
+80,Code_Meeting room tables,0.15660347
+83,Code_Office chairs,0.08356517
+72,Code_Garden furnishings,0.08187617
+90,Code_Reclining chairs,0.075440414
+126,"first_level_Roof, Slabs, Stairs",0.06938212
+24,Material_Porcelain,0.0555798
+9,Material_Encaustic,0.048444364
+116,Code_Wood doorsets,0.03210671
+31,Material_Wood,0.028950829
+2,Width,0.028286662
+8,Material_Decorative aggregates,0.027780151
+133,second_level_Furnishings,0.027686542
+0,Price,0.024512632
+120,Code_Wood skirtings,0.023397515
+69,Code_Furnishings,0.02238444
+40,Code_Chaises longues,0.022130715
+75,Code_Kitchenette units,0.021612193
+22,Material_Pisé,0.021381367
+3,Height,0.018473132
+124,first_level_Furnishings,0.018279709
+131,"second_level_Door, Windows, Gates",0.01794135
+1,Length,0.016863445
+129,"second_level_Blocks, Panels, Fences, Bricks",0.01603647
+57,Code_Door hinges,0.0147357
+27,Material_Sitka spruce,0.013712838
+119,Code_Wood panelled door leaves,0.011732287
+108,Code_Vanity and washroom furniture,0.011092217
+48,Code_Cushions,0.0054904004
+56,Code_Door frames and leaves,0.004521225
+88,Code_Play chairs,0.0
+91,Code_Reclining treatment armchairs,0.0
+92,Code_Screen door closers,0.0
+93,Code_Sedge,0.0
+94,Code_Shelves,0.0
+130,"second_level_Covering, Finish",0.0
+89,Code_Post room racks,0.0
+123,Code_Wrought iron decorative panels,0.0
+84,Code_Office desks,0.0
+87,Code_Plastics balusters and newel posts,0.0
+86,Code_Overchair tables,0.0
+85,Code_Office tables,0.0
+96,Code_Sofas,0.0
+82,Code_Occasional tables,0.0
+81,Code_Modified wood deck boards,0.0
+132,"second_level_Floors, Ceiling",0.0
+134,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+79,Code_Lounge chairs,0.0
+78,Code_Library shelf units,0.0
+77,Code_Laundry troughs and cabinets,0.0
+95,"Code_Shelves, hangers and racks",0.0
+99,Code_Stair trims,0.0
+97,Code_Stacking benches,0.0
+111,Code_Wood architraves,0.0
+121,Code_Wood veneers,0.0
+118,Code_Wood louvre frames,0.0
+125,first_level_Openings,0.0
+117,Code_Wood lathings,0.0
+127,first_level_Technical elements,0.0
+115,Code_Wood door frames,0.0
+114,Code_Wood brise-soleil units,0.0
+113,Code_Wood brise-soleil louvre blades,0.0
+128,"first_level_Wall, Barriers, Pannels",0.0
+112,Code_Wood blocks,0.0
+110,Code_Wardrobes,0.0
+98,Code_Stacking chairs,0.0
+109,Code_Wall-mounted kitchen cupboards,0.0
+107,Code_Upholstered benches,0.0
+76,Code_Laminboard core plywoods,0.0
+105,Code_Uncontrolled door closers,0.0
+104,Code_Trellises,0.0
+103,Code_Timber-framed and panelled shelters,0.0
+102,Code_Tiered seating,0.0
+101,Code_Telephone enclosures,0.0
+100,Code_Stools,0.0
+122,Code_Wood-burning stoves,0.0
+106,Code_Up-and-over doorsets,0.0
+68,Code_Frameless glass door leaves,0.0
+74,Code_Joist seals,0.0
+19,Material_Mahogany,0.0
+35,Code_Auditorium chairs,0.0
+34,Code_Arrises,0.0
+33,Code_Acoustic screens,0.0
+32,Material_Wychert,0.0
+30,Material_Terne-coated steel,0.0
+29,Material_Teak,0.0
+28,Material_Spruce,0.0
+26,Material_Sheet glass,0.0
+25,Material_Sheet,0.0
+23,Material_Plastics,0.0
+21,Material_Oak,0.0
+20,Material_Metal,0.0
+18,Material_Loose surfacing decorative aggregates,0.0
+37,Code_Boxed sash window hanging fittings,0.0
+17,Material_Leather,0.0
+16,Material_Green glass,0.0
+15,Material_Gravel,0.0
+14,Material_Grass,0.0
+13,Material_Galvanized steel,0.0
+12,Material_Fir,0.0
+11,Material_Fine bedding concrete,0.0
+10,Material_Fibreglass,0.0
+7,Material_Ceramic,0.0
+6,Material_Architectural glass,0.0
+5,Material_American red oak,0.0
+4,Material_Aluminium,0.0
+36,Code_Bidets,0.0
+38,Code_Buoyancy-aided movable floors,0.0
+73,Code_Hardwood dowels,0.0
+55,Code_Door coordinators,0.0
+71,Code_Galvanized coatings,0.0
+70,Code_Furniture trolleys,0.0
+67,Code_Folding tables,0.0
+66,Code_Flexible doorsets,0.0
+65,Code_Flat-needled carpets,0.0
+64,Code_Fixed seats,0.0
+63,"Code_Fitted desks, tables and worktops",0.0
+62,Code_Filing cabinets,0.0
+61,Code_Easy chairs,0.0
+60,Code_Dormers,0.0
+59,Code_Doorsets,0.0
+58,Code_Door knockers,0.0
+54,Code_Dining chairs,0.0
+39,Code_Cabinet and countertop hinges,0.0
+53,Code_Desks and tables,0.0
+52,Code_Desks,0.0
+51,Code_Decorative metal panels,0.0
+50,Code_Decorative facings,0.0
+49,Code_Deckchairs,0.0
+47,Code_Cupboards,0.0
+46,Code_Cupboard safes,0.0
+45,Code_Controlled door closers,0.0
+44,Code_Conference tables,0.0
+43,Code_Commodes,0.0
+42,Code_Coat racks,0.0
+41,Code_Classroom desks and tables,0.0
+135,third_level_Furnishings,0.0

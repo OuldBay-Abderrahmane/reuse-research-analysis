@@ -1,0 +1,423 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+694,202DOP006,Solid wooden door with opaque glass panels from Ixelles City Hall . x cm -Right,45.0,kg,pc,"
+Location of door:D5Attributes:Material:Note:Door panelSolid woodVarnishedWindow panelGlassOpaqueGeneral conditionGood used condition, varnish might be chipped. There might be some scratches. Dimensions:Height227.5 cmWidth92 cmThickness5.5 cmWeight45 kgDoor swing directionRightHardware:HandlesNoHingesNoLockcaseNoKeyNoDoor frame is not included.
+",Doors,https://rotordc.com/shop/product/202dop006-solid-wooden-door-with-opaque-glass-panels-from-ixelles-city-hall-h-227-5-x-w-92-cm-right-59703?page=3&category=32,"['59703_7f82891.png', '10507_548704c.png', '10508_548704c.png', '10509_548704c.png']",149.0,149.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.733941376209259, 'start': 49, 'end': 80, 'answer': ' panelSolid woodVarnishedWindow'}","{'score': 0.01697549968957901, 'start': 191, 'end': 239, 'answer': '\xa0Dimensions:Height227.5 cmWidth92 cmThickness5.5'}","{'score': 0.0014469156740233302, 'start': 239, 'end': 257, 'answer': ' cmWeight45 kgDoor'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.0014469156740233302,,,,
+697,202DOP012,Door in solid wood and texture glass from Ixelles City Hall x . cm - Left,45.0,kg,pc,"
+Door in solid wood and texture glass panels (double glass). 
+ 
+
+
+Location of door:
+
+
+D5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attributes:
+
+
+Material:
+
+
+Note:
+
+
+
+
+Door panel
+
+
+Solid wood
+
+
+Painted white on one side, Varnished on the other.
+
+
+
+
+Window panels
+
+
+Glass
+
+
+One glass panel is broken.
+
+
+
+
+General condition
+
+
+
+
+
+
+
+
+
+
+
+
+Good used condition, varnish might be chipped. There might be some scratches. Dusty, needs to be cleaned.
+One glass panel is broken. There is a cutout of a former extra locker in the frame. Stickers on the wood. 
+
+Dimensions:
+
+
+
+
+
+
+
+
+
+Height
+
+
+227 cm
+
+
+
+
+
+
+Width
+
+
+88.5 cm
+
+
+
+
+
+
+Thickness
+
+
+5.5 cm
+
+
+
+
+
+
+Weight
+
+
+45 kg
+
+
+
+
+
+Door swing direction
+
+
+Left
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hardware:
+
+
+
+
+
+
+
+
+
+Handles
+
+
+No
+
+
+
+
+
+
+Hinges
+
+
+No
+
+
+
+
+
+
+Lockcase
+
+
+No
+
+
+
+
+
+
+Key
+
+
+No
+
+
+
+
+Door frame is not included.
+",Doors,https://rotordc.com/shop/product/202dop012-door-in-solid-wood-and-texture-glass-from-ixelles-city-hall-h-227-x-w-88-5-cm-left-59700?page=3&category=32,"['59700_2b8e355.png', '10500_f4ad472.png', '10501_f4ad472.png', '10502_f4ad472.png', '10503_f4ad472.png']",99.0,99.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.2779970169067383, 'start': 8, 'end': 19, 'answer': ' solid wood'}","{'score': 0.0019792350940406322, 'start': 541, 'end': 579, 'answer': '\nHeight\n\n\n227 cm\n\n\n\n\n\n\nWidth\n\n\n88.5 cm'}","{'score': 0.00010621015098877251, 'start': 619, 'end': 625, 'answer': '\n45 kg'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.00010621015098877251,,,,
+699,202DOP002,"Door in solid wood and opaque glass from Ixelles City Hall x , cm - Left",45.0,kg,pc,"
+Location of door:D5/D4Attributes:Material:Note:Door panelSolid woodVarnished on both sidesWindow panelOpaque glassGeneral conditionGood used condition, varnish might be chipped. One glass panel is broken.Dimensions:Height222 cmWidth87.5 cmThickness5.5Weight45 kgDoor swing directionLeftHardware:HandlesNoHingesNoLockcaseNoKeyNoDoor frame is not included.
+",Doors,https://rotordc.com/shop/product/202dop002-door-in-solid-wood-and-opaque-glass-from-ixelles-city-hall-h-222-x-w-87-5-cm-left-59698?page=3&category=32,"['59698_1dd03fe.png', '10492_9a04f6f.png', '10493_9a04f6f.png']",129.0,129.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.960275411605835, 'start': 52, 'end': 77, 'answer': ' panelSolid woodVarnished'}","{'score': 0.027105148881673813, 'start': 197, 'end': 260, 'answer': ' broken.Dimensions:Height222 cmWidth87.5 cmThickness5.5Weight45'}","{'score': 5.3715742978965864e-05, 'start': 237, 'end': 267, 'answer': ' cmThickness5.5Weight45 kgDoor'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,5.3715742978965864e-05,,,,
+700,202DOP001L,"Door in solid wood and opaque glass from Ixelles City Hall x , cm - Left/Right",45.0,kg,pc,"
+Location of door:A quality: D5/D6B quality: D4Attributes:Material:Note:Door panelSolid woodPainted white on one side / Varnished on the otherWindow panelOpaque glassGeneral conditionGood used condition, paint and varnish might be chipped. Dimensions:Height222 cmWidth87.5 cmThickness5.5Weight45 kgDoor swing directionLeft/RightHardware:HandlesNoHingesNoLockcaseNoKeyNo    Door frame is not included.
+",Doors,https://rotordc.com/shop/product/door-in-solid-wood-and-opaque-glass-from-ixelles-city-hall-h-222-x-w-87-5-cm-left-right-59697?page=3&category=32,"['59697_0acc1e9.png', '10487_b6465ac.png', '10488_b6465ac.png', '10489_b6465ac.png', '10490_b6465ac.png', '10491_b6465ac.png']",129.0,129.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.9736663103103638, 'start': 76, 'end': 99, 'answer': ' panelSolid woodPainted'}","{'score': 0.0731780081987381, 'start': 239, 'end': 295, 'answer': '\xa0Dimensions:Height222 cmWidth87.5 cmThickness5.5Weight45'}","{'score': 0.004978688899427652, 'start': 28, 'end': 35, 'answer': ' D5/D6B'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,0.004978688899427652,,,,
+721,999DOP829,"Double door with etched glass panels , x cm – Right",90.0,kg,pc,"
+
+
+
+
+Location of door:
+
+
+C5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attributes:
+
+
+Material:
+
+
+Note:
+
+
+
+
+Door panels
+
+
+Solid wood
+
+
+Good used condition. Some scratches and chipping of paint.
+
+
+
+
+Window panels
+
+
+Clear glass
+
+
+Good used condition. Opaque field in the lower section.
+
+
+
+
+General condition
+
+
+
+
+
+Good used condition. Dusty, needs to be cleaned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dimensions:
+
+
+
+
+
+
+
+
+
+
+Height
+
+
+291,5 cm
+
+
+
+
+
+
+Width142 cm
+
+
+
+
+
+
+Thickness
+
+
+5,5 cm
+
+
+
+
+
+
+
+Weight
+
+
+90 kg
+
+
+
+
+
+
+
+Door swing direction
+
+
+Right
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hardware:
+
+
+
+
+
+
+
+
+
+
+Handels
+
+
+No
+
+
+
+
+
+
+
+Hinges
+
+
+No
+
+
+
+
+
+
+
+Lockcase
+
+
+Yes
+
+
+
+
+
+
+
+Key
+
+
+No
+
+
+
+
+
+
+
+",Doors,https://rotordc.com/shop/product/999dop829-double-door-with-etched-glass-panels-h-291-5-x-w-142-cm-right-59570?page=4&category=32,"['59570_308340d.png', '10056_bf7bc9b.png', '10057_bf7bc9b.png', '10058_bf7bc9b.png', '10059_bf7bc9b.png', '10060_bf7bc9b.png']",449.0,449.0,,,,,,,,,2022-10-28,0.0,,2022-10-28,BE,rotordc,fr,1,0.0,"{'score': 0.936119794845581, 'start': 95, 'end': 106, 'answer': '\nSolid wood'}","{'score': 0.03900482878088951, 'start': 370, 'end': 406, 'answer': '\nHeight\n\n\n291,5 cm\n\n\n\n\n\n\nWidth142 cm'}","{'score': 0.013054280541837215, 'start': 447, 'end': 453, 'answer': '\n90 kg'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.013054280541837215,,,,0.0
+726,999DOP823,Double door with glass panel . x cm – Left,100.0,kg,pc,"
+Location:C4 Double door with glass panel (one is missing).Height282.5 cmTotal width182 cmThickness5.7 cmGood used condition. There are some scratches and imperfections with chipped paint. Dusty, needs to be cleaned. Please note one glass panel is missing. Keys, hinges and handles are missing. Lock case is included in the price.
+",Doors,https://rotordc.com/shop/product/999dop823-double-door-with-glass-panel-h-282-5-x-w-182-cm-left-59509?page=4&category=32,"['59509_76ee49b.png', '9852_d5ffcdf.png', '9853_d5ffcdf.png', '9854_d5ffcdf.png', '9855_d5ffcdf.png']",399.0,199.0,,,,,,,,,,200.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.005137529224157333, 'start': 181, 'end': 188, 'answer': ' paint.'}","{'score': 0.13126970827579498, 'start': 49, 'end': 102, 'answer': ' missing).Height282.5 cmTotal width182 cmThickness5.7'}","{'score': 0.045571327209472656, 'start': 228, 'end': 256, 'answer': ' one glass panel is missing.'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.045571327209472656,,,,
+728,999DOP819,Quadruple door with glass panels x cm - Right,124.0,kg,pc,"
+Location:C5 Quadruple door with glass panels.Height319 cmWidth46 + 88.5 + 88.5 + 46 cmThickness6 cmGood used condition. There are some scratches and imperfections with chips and traces of red spray paint. Please note the glass panels from main doors are missing. Dusty, needs to be cleaned. Keys and handles are missing. Lock case and hinges are included in the price.
+",Doors,https://rotordc.com/shop/product/999dop819-quadruple-door-with-glass-panels-h-319-x-w-269-cm-right-59505?page=4&category=32,"['59505_83e7cf3.png', '9835_aa92f23.png', '9836_aa92f23.png', '9837_aa92f23.png', '9838_aa92f23.png']",349.0,349.0,,,,,,,,,2022-10-28,0.0,,2022-10-28,BE,rotordc,fr,1,0.0,"{'score': 0.003474785713478923, 'start': 84, 'end': 104, 'answer': ' cmThickness6 cmGood'}","{'score': 0.08710844814777374, 'start': 38, 'end': 97, 'answer': ' panels.Height319 cmWidth46 + 88.5 + 88.5 + 46 cmThickness6'}","{'score': 0.011843129061162472, 'start': 55, 'end': 97, 'answer': ' cmWidth46 + 88.5 + 88.5 + 46 cmThickness6'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.011843129061162472,,,,0.0
+729,999DOP818,Double door with textured glass panels x cm - Left,50.0,kg,pc,"
+Location:C3 Varnished wooden double door with textured glass panels.Height226 cmTotal width142 cmThickness3.5 cmGood used condition. There are some scratches and imperfections with chipped wood varnish. Dusty, needs to be cleaned. Keys are missing. Lock case, hinges and handles are included in the price.
+",Doors,https://rotordc.com/shop/product/999dop818-double-door-with-textured-glass-panels-h-226-x-w-142-cm-left-59504?page=4&category=32,"['59504_2bc61f2.png', '9831_b2e0b75.png', '9832_b2e0b75.png', '9833_b2e0b75.png', '9834_b2e0b75.png']",299.0,199.0,,,,,,,,,2022-12-26,100.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.33984196186065674, 'start': 12, 'end': 29, 'answer': '\xa0Varnished wooden'}","{'score': 0.1803138256072998, 'start': 61, 'end': 110, 'answer': ' panels.Height226 cmTotal width142 cmThickness3.5'}","{'score': 0.00013483749353326857, 'start': 249, 'end': 260, 'answer': '\xa0Lock case,'}",Architectural glass,Frameless glass door leaves,Pr_30_59_23_32,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,0.00013483749353326857,,,,59.0

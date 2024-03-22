@@ -1,0 +1,576 @@
+,Feature,Importance
+5,Price_Change,0.21662526
+534,third_level_Space heating and cooling products,0.050628945
+511,first_level_Other,0.045287658
+30,Category_Sanitary,0.044775333
+318,Belgium_Raw_Pendant luminaires,0.042298984
+196,material_emb_Reflective glass,0.041800477
+541,third_level_Wire structure and general products,0.039599735
+20,Category_Lighting,0.030258907
+521,third_level_Glass blocks and panels,0.030011706
+2,Latest_Price,0.02423041
+119,material_emb_Brass,0.02343605
+16,Category_Furniture,0.020669496
+227,material_emb_Ultrapure water,0.018326482
+106,material_emb_Architectural glass,0.016626384
+9,Height,0.016534204
+25,Category_Per Building,0.015744822
+187,material_emb_Pisé,0.015729157
+26,Category_Per building,0.015498002
+529,third_level_Power and lighting outlet products,0.01524236
+208,material_emb_Sitka spruce,0.014893799
+525,"third_level_Lighting columns, brackets and bollards",0.014855172
+126,material_emb_Coloured glass,0.014403148
+1,Initial_Price,0.014321447
+0,Weight,0.013550163
+160,material_emb_Hydraulic road binder bound mixtures,0.013020816
+183,material_emb_Opal glass,0.012822607
+519,"third_level_Floor plates, gratings and edgings",0.012262907
+528,third_level_Other,0.012125257
+524,third_level_Headwall and swale inlet products,0.011981168
+18,Category_Hardware,0.011660095
+531,third_level_Sanitary fittings and accessories,0.010884271
+214,material_emb_Stainless steel,0.010595872
+515,"first_level_Wall, Barriers, Pannels",0.010419665
+337,Belgium_Raw_Special lamps,0.009962368
+4,Stock_Now,0.009856645
+193,material_emb_Prismatic glass,0.009447179
+8,Width,0.008615299
+7,Length,0.007444075
+285,Belgium_Raw_Glass brise-soleil louvre blades,0.00743545
+190,material_emb_Porcelain,0.007163941
+13,Category_Droguerie,0.0062971567
+168,material_emb_Lignite,0.0060540596
+251,Belgium_Raw_Bathroom cabinets,0.005720826
+114,material_emb_Blinding aggregates,0.0050986395
+192,material_emb_Pozzolana,0.0031904166
+331,Belgium_Raw_Sinks,0.003175379
+32,Category_Technical,0.003127286
+137,material_emb_European larch,0.00248721
+24,Category_Objet Trouvé,0.0020898522
+514,first_level_Technical elements,0.0017134504
+392,Belgium_Code_Pr_20_76_51_82,0.0
+404,Belgium_Code_Pr_25_71_33_36,0.0
+373,Belgium_Raw_Wattmeters,0.0
+372,Belgium_Raw_Waste bins,0.0
+371,Belgium_Raw_Wall-hung urinals,0.0
+370,Belgium_Raw_WC pans,0.0
+401,Belgium_Code_Pr_20_85_90_03,0.0
+402,Belgium_Code_Pr_25_71_33_03,0.0
+369,Belgium_Raw_Vermicides ,0.0
+403,Belgium_Code_Pr_25_71_33_35,0.0
+368,Belgium_Raw_Ventilation grilles,0.0
+367,Belgium_Raw_Urinal dividers,0.0
+366,Belgium_Raw_Upholstered benches,0.0
+374,Belgium_Raw_Wheel lathes,0.0
+365,Belgium_Raw_Tubular fluorescent lamps,0.0
+364,Belgium_Raw_Trellises,0.0
+405,Belgium_Code_Pr_25_71_33_39,0.0
+363,Belgium_Raw_Toilet roll holders,0.0
+362,Belgium_Raw_Toilet paper dispensers,0.0
+361,Belgium_Raw_Suspended luminaires,0.0
+360,Belgium_Raw_Submerged panel heat exchangers,0.0
+359,Belgium_Raw_Steel spiles,0.0
+358,Belgium_Raw_Steel security cabinets,0.0
+357,Belgium_Raw_Steel plant containers,0.0
+400,Belgium_Code_Pr_20_85_62_15,0.0
+375,Belgium_Raw_Wood architraves,0.0
+391,Belgium_Code_Pr_20_76_51_21,0.0
+355,Belgium_Raw_Stainless steel welded circular tubes,0.0
+390,Belgium_Code_Pr_20_76_51_09,0.0
+393,Belgium_Code_Pr_20_76_52_86,0.0
+394,Belgium_Code_Pr_20_85_07_84,0.0
+389,Belgium_Code_Pr_20_76_08_83,0.0
+395,Belgium_Code_Pr_20_85_08_83,0.0
+388,Belgium_Code_Pr_20_76_08_03,0.0
+387,Belgium_Code_Pr_20_65_50_10,0.0
+386,Belgium_Code_Pr_20_65_34,0.0
+385,Belgium_Code_Pr_20_29_76_86,0.0
+384,Belgium_Code_Pr_20_29_63_63,0.0
+396,Belgium_Code_Pr_20_85_09_17,0.0
+376,Belgium_Raw_Wood skirtings,0.0
+383,Belgium_Code_Pr_20_29_63,0.0
+397,Belgium_Code_Pr_20_85_09_37,0.0
+398,Belgium_Code_Pr_20_85_11_60,0.0
+382,Belgium_Code_Pr_20_29_56_15,0.0
+381,Belgium_Code_Pr_20_29_14_83,0.0
+380,Belgium_Code_Pr_20_29_14_15,0.0
+379,Belgium_Code_Pr_20_29_08_85,0.0
+378,Belgium_Code_Pr_20_29_03_83,0.0
+377,Belgium_Code_Pr_15_31_26_31,0.0
+399,Belgium_Code_Pr_20_85_34_84,0.0
+356,Belgium_Raw_Steel lighting bollards,0.0
+348,Belgium_Raw_Stainless steel hook bolts,0.0
+354,Belgium_Raw_Stainless steel traditional sheets,0.0
+306,Belgium_Raw_Light-emitting diode (LED) lamps,0.0
+319,Belgium_Raw_Plastics plugs,0.0
+10,Category_Bricks,0.0
+317,Belgium_Raw_Parallel wire strand cables,0.0
+316,Belgium_Raw_Overmantel mirrors,0.0
+315,Belgium_Raw_Ottomans,0.0
+314,Belgium_Raw_Office tables,0.0
+313,Belgium_Raw_Office desks,0.0
+312,Belgium_Raw_Murals,0.0
+311,Belgium_Raw_Metal skirtings,0.0
+310,Belgium_Raw_Linseed oil putties,0.0
+309,Belgium_Raw_Lime renders,0.0
+308,Belgium_Raw_Lighting tracks,0.0
+307,Belgium_Raw_Lighting beacons,0.0
+305,Belgium_Raw_Light tables,0.0
+353,Belgium_Raw_Stainless steel structural beams,0.0
+304,Belgium_Raw_Light switches,0.0
+303,Belgium_Raw_Lantern lights,0.0
+302,Belgium_Raw_Lamps,0.0
+301,Belgium_Raw_LED light panels,0.0
+300,Belgium_Raw_Kitchen worktops,0.0
+299,Belgium_Raw_Icemakers,0.0
+298,Belgium_Raw_Hook and band hinges,0.0
+297,Belgium_Raw_Hollow box galvanized steel brackets,0.0
+296,Belgium_Raw_Hard wax oils,0.0
+295,Belgium_Raw_Handblown polished plate glass,0.0
+294,Belgium_Raw_Handblown plate glass,0.0
+293,Belgium_Raw_Handblown crown glass,0.0
+292,Belgium_Raw_Glazing beads,0.0
+320,Belgium_Raw_Plugs,0.0
+321,Belgium_Raw_Porcelain tiles,0.0
+322,Belgium_Raw_Power and lighting outlet products,0.0
+323,Belgium_Raw_Power over ethernet (POE) network switches,0.0
+352,Belgium_Raw_Stainless steel shelving and racking units,0.0
+351,Belgium_Raw_Stainless steel screws,0.0
+350,Belgium_Raw_Stainless steel rails,0.0
+349,Belgium_Raw_Stainless steel louvre panel units,0.0
+407,Belgium_Code_Pr_25_71_51_87,0.0
+347,Belgium_Raw_Stainless steel hinged bollards,0.0
+346,Belgium_Raw_Stainless steel fascias,0.0
+345,Belgium_Raw_Stainless steel edge strips and frames,0.0
+344,Belgium_Raw_Stainless steel clips,0.0
+343,Belgium_Raw_Stainless steel chemical anchor rods,0.0
+342,Belgium_Raw_Stainless steel cappings and copings,0.0
+341,Belgium_Raw_Stainless steel capping units,0.0
+340,Belgium_Raw_Stainless steel bars and rods for general purposes,0.0
+339,Belgium_Raw_Sprinklers,0.0
+338,Belgium_Raw_Spotlights,0.0
+336,Belgium_Raw_Solenoid latches and locks,0.0
+335,Belgium_Raw_Solar-powered illuminated bollards,0.0
+334,Belgium_Raw_Soap dispensers,0.0
+333,Belgium_Raw_Soap dishes,0.0
+332,Belgium_Raw_Slab urinals,0.0
+330,Belgium_Raw_Shower curtains,0.0
+329,Belgium_Raw_Sanitary accessories,0.0
+328,Belgium_Raw_Round pin socket outlets,0.0
+327,Belgium_Raw_Radiators,0.0
+326,Belgium_Raw_Radiator enamels,0.0
+325,Belgium_Raw_Pull handles,0.0
+324,Belgium_Raw_Projectors,0.0
+406,Belgium_Code_Pr_25_71_33_40,0.0
+413,Belgium_Code_Pr_30_36_59_64,0.0
+408,Belgium_Code_Pr_25_93_54_84,0.0
+487,Belgium_Code_Pr_65_72_97_72,0.0
+500,Belgium_Code_Pr_70_70_48_82,0.0
+499,Belgium_Code_Pr_70_70_48_62,0.0
+498,Belgium_Code_Pr_70_70_48_47,0.0
+497,Belgium_Code_Pr_70_70_48_45,0.0
+496,Belgium_Code_Pr_70_70_48_13,0.0
+495,Belgium_Code_Pr_70_70_46_80,0.0
+494,Belgium_Code_Pr_70_70_46_44,0.0
+493,Belgium_Code_Pr_70_70_46_30,0.0
+492,Belgium_Code_Pr_70_70_46_15,0.0
+491,Belgium_Code_Pr_70_70_46,0.0
+490,Belgium_Code_Pr_70_70,0.0
+489,Belgium_Code_Pr_70_60_36_73,0.0
+488,Belgium_Code_Pr_70_55_98_84,0.0
+486,Belgium_Code_Pr_65_72_97_46,0.0
+471,Belgium_Code_Pr_40_70_73_96,0.0
+485,Belgium_Code_Pr_65_72_97_26,0.0
+484,Belgium_Code_Pr_65_70_50_15,0.0
+483,Belgium_Code_Pr_65_70_15_13,0.0
+482,Belgium_Code_Pr_65_70_11_34,0.0
+481,Belgium_Code_Pr_65_70,0.0
+480,Belgium_Code_Pr_65_52_62_28,0.0
+479,Belgium_Code_Pr_65_52_20,0.0
+478,Belgium_Code_Pr_65_52_01_83,0.0
+477,Belgium_Code_Pr_60_60_08_83,0.0
+476,Belgium_Code_Pr_60_60_08_27,0.0
+475,Belgium_Code_Pr_45_63_64_90,0.0
+474,Belgium_Code_Pr_45_63_63_84,0.0
+473,Belgium_Code_Pr_45_31_03_96,0.0
+501,Belgium_Code_Pr_70_70_48_86,0.0
+502,Belgium_Code_Pr_70_75_01_47,0.0
+503,Belgium_Code_Pr_70_75_52_64,0.0
+504,Belgium_Code_Pr_70_75_72_80,0.0
+540,third_level_Walling units,0.0
+539,third_level_Unit covering and finish products,0.0
+538,third_level_Trim products,0.0
+537,third_level_Support and restraint products,0.0
+536,third_level_Structural units,0.0
+535,third_level_Structural roofing units,0.0
+3,Initial_Stock,0.0
+533,third_level_Shaft-lining products,0.0
+532,third_level_Sectional products,0.0
+530,third_level_Prefabricated buildings and structures,0.0
+527,"third_level_Non-rigid sheet, mat and strip covering and finish products",0.0
+526,third_level_Masonry walling units,0.0
+6,Quantity_Change,0.0
+523,third_level_Hardware products,0.0
+522,third_level_Handrails,0.0
+520,third_level_Formless structure and general products,0.0
+518,third_level_Fastener products,0.0
+517,third_level_Air and fume distribution products,0.0
+516,second_level_Other,0.0
+513,first_level_Structural elements,0.0
+512,"first_level_Roof, Slabs, Stairs",0.0
+510,Belgium_Code_Pr_80_77_48_79,0.0
+509,Belgium_Code_Pr_80_77_48_03,0.0
+508,Belgium_Code_Pr_80_77_48_02,0.0
+507,Belgium_Code_Pr_80_51_51_98,0.0
+506,Belgium_Code_Pr_75_30_27_81,0.0
+505,Belgium_Code_Pr_70_75_94_27,0.0
+472,Belgium_Code_Pr_45_30_80_18,0.0
+470,Belgium_Code_Pr_40_70_67,0.0
+409,Belgium_Code_Pr_30_31_68_47,0.0
+424,Belgium_Code_Pr_35_31_68_13,0.0
+437,Belgium_Code_Pr_40_20_76,0.0
+436,Belgium_Code_Pr_40_10_77_31,0.0
+435,Belgium_Code_Pr_35_93_96_63,0.0
+434,Belgium_Code_Pr_35_90_43_98,0.0
+433,Belgium_Code_Pr_35_90_43_87,0.0
+432,Belgium_Code_Pr_35_90_43_59,0.0
+431,Belgium_Code_Pr_35_90_43_04,0.0
+430,Belgium_Code_Pr_35_90_43_02,0.0
+429,Belgium_Code_Pr_35_90_28_83,0.0
+428,Belgium_Code_Pr_35_90_28_82,0.0
+427,Belgium_Code_Pr_35_90_07_33,0.0
+426,Belgium_Code_Pr_35_31_85_70,0.0
+425,Belgium_Code_Pr_35_31_68_36,0.0
+423,Belgium_Code_Pr_35_31_66_09,0.0
+469,Belgium_Code_Pr_40_70_23_40,0.0
+422,Belgium_Code_Pr_35_31_64_48,0.0
+421,Belgium_Code_Pr_30_59_94,0.0
+420,Belgium_Code_Pr_30_59_72_46,0.0
+419,Belgium_Code_Pr_30_59_72_25,0.0
+418,Belgium_Code_Pr_30_59_61_35,0.0
+417,Belgium_Code_Pr_30_59_61_32,0.0
+416,Belgium_Code_Pr_30_59_48_85,0.0
+415,Belgium_Code_Pr_30_59_48_34,0.0
+414,Belgium_Code_Pr_30_59_09_33,0.0
+290,Belgium_Raw_Glazed pavement light panels,0.0
+412,Belgium_Code_Pr_30_36_36_37,0.0
+411,Belgium_Code_Pr_30_36_36_11,0.0
+410,Belgium_Code_Pr_30_36_08_32,0.0
+438,Belgium_Code_Pr_40_20_76_82,0.0
+439,Belgium_Code_Pr_40_20_76_88,0.0
+440,Belgium_Code_Pr_40_20_93_74,0.0
+441,Belgium_Code_Pr_40_20_93_77,0.0
+468,Belgium_Code_Pr_40_70_23_36,0.0
+467,Belgium_Code_Pr_40_70_23_27,0.0
+466,Belgium_Code_Pr_40_70_22_90,0.0
+465,Belgium_Code_Pr_40_70_22_81,0.0
+464,Belgium_Code_Pr_40_50_21_60,0.0
+463,Belgium_Code_Pr_40_50_21_59,0.0
+462,Belgium_Code_Pr_40_50_21_49,0.0
+461,Belgium_Code_Pr_40_50_21_14,0.0
+460,Belgium_Code_Pr_40_50_12_93,0.0
+459,Belgium_Code_Pr_40_50_12_59,0.0
+458,Belgium_Code_Pr_40_50_07_96,0.0
+457,Belgium_Code_Pr_40_50_05_55,0.0
+456,Belgium_Code_Pr_40_50_05_33,0.0
+455,Belgium_Code_Pr_40_30_87_03,0.0
+454,Belgium_Code_Pr_40_30_78_85,0.0
+453,Belgium_Code_Pr_40_30_75_84,0.0
+452,Belgium_Code_Pr_40_30_71_31,0.0
+451,Belgium_Code_Pr_40_30_53_59,0.0
+450,Belgium_Code_Pr_40_30_53_30,0.0
+449,Belgium_Code_Pr_40_30_30_46,0.0
+448,Belgium_Code_Pr_40_30_29_05,0.0
+447,Belgium_Code_Pr_40_30_25_24,0.0
+446,Belgium_Code_Pr_40_30_20_78,0.0
+445,Belgium_Code_Pr_40_20_96_81,0.0
+444,Belgium_Code_Pr_40_20_96_15,0.0
+443,Belgium_Code_Pr_40_20_93_94,0.0
+442,Belgium_Code_Pr_40_20_93_82,0.0
+291,Belgium_Raw_Glazed structures,0.0
+283,Belgium_Raw_Garden ornaments,0.0
+289,Belgium_Raw_Glazed floorlight panels,0.0
+104,material_emb_Air-cooled steel slag,0.0
+118,material_emb_Borosilicate glass,0.0
+117,material_emb_Bone,0.0
+116,material_emb_Bonded surfacing decorative aggregates,0.0
+115,material_emb_Blinding coarse aggregates,0.0
+113,material_emb_Black poplar,0.0
+112,material_emb_Bituminous material,0.0
+111,"material_emb_Base, bed and fill aggregates",0.0
+110,material_emb_Balsam resin,0.0
+109,material_emb_Asphaltite,0.0
+108,material_emb_Asphalt,0.0
+107,material_emb_Ash,0.0
+19,Category_Insolite,0.0
+105,material_emb_Aluminium,0.0
+103,material_emb_Aggregates,0.0
+88,Collection_ECO-CUI DEB :,0.0
+102,material_emb_Aerosol,0.0
+101,material_emb_Adobe,0.0
+100,Language_fr,0.0
+99,Store_rotordc,0.0
+98,Country_BE,0.0
+97,Collection_SOUB : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+96,Collection_SCIERS : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+95,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+94,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+93,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+92,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+91,Collection_ECO-CUI MDC :,0.0
+90,Collection_ECO-CUI LCO : A coordonner avec Matériuum,0.0
+120,material_emb_Bronze,0.0
+121,material_emb_Cast iron,0.0
+122,material_emb_Ceramic,0.0
+123,material_emb_Chrome steel,0.0
+151,material_emb_Gneiss,0.0
+150,material_emb_Glare-reducing glass,0.0
+149,material_emb_Galvanized steel,0.0
+148,material_emb_Fuller's earth,0.0
+147,material_emb_French oak,0.0
+146,material_emb_Float glass,0.0
+145,material_emb_Fir,0.0
+144,material_emb_Filament,0.0
+143,material_emb_Figured glass,0.0
+142,material_emb_Fibre,0.0
+141,material_emb_Expanded slag aggregates,0.0
+140,material_emb_Expanded polystyrene (EPS),0.0
+139,material_emb_Expanded glass aggregates,0.0
+138,material_emb_European oak,0.0
+136,material_emb_Encaustic,0.0
+135,material_emb_Emulsion,0.0
+134,material_emb_Dutch elm,0.0
+133,material_emb_Dolomite,0.0
+132,material_emb_Dolerite,0.0
+131,material_emb_Dichromatic glass,0.0
+130,material_emb_Decorative aggregates,0.0
+129,material_emb_Daub,0.0
+128,material_emb_Copper,0.0
+127,material_emb_Compressed air,0.0
+17,Category_Garden,0.0
+125,material_emb_Coade stone,0.0
+124,material_emb_Clinker,0.0
+89,Collection_ECO-CUI HDS : A coordonner avec Matériuum,0.0
+87,Collection_Chêne : Retrait des éléments sur rendez-vous (à Renens) ou à Genève après confirmation de la commande par Matériuum.,0.0
+153,material_emb_Granite,0.0
+41,Material_Bois,0.0
+54,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible dès la semaine 23-24 (Juin 2023)",0.0
+53,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible du 05.06.2023 au 16.06.2023",0.0
+52,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible du 03 au 14 Avril 2023",0.0
+51,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+50,Material_Verre,0.0
+49,Material_Textile,0.0
+48,Material_Plexiglas,0.0
+47,Material_Plastique,0.0
+46,Material_Métal,0.0
+45,Material_Inox,0.0
+44,Material_Forex,0.0
+43,Material_Céramique,0.0
+42,Material_Composé,0.0
+40,Material_Autre,0.0
+86,Collection_CROIX D’OR : A discuter,0.0
+39,Material_Aluminium,0.0
+38,Material_Acier,0.0
+37,Condition_Usé,0.0
+36,Condition_Neuf,0.0
+35,Condition_Correct,0.0
+34,Category_Wood,0.0
+33,Category_Techniques,0.0
+31,Category_Sol et plafond,0.0
+21,Category_Maintenance,0.0
+29,Category_Sanitaires,0.0
+28,Category_Quincaillerie,0.0
+27,Category_Portes et fenêtres,0.0
+22,Category_Matière brute,0.0
+55,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible été 2024",0.0
+56,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposé",0.0
+57,"Technical_Mode d’assemblage : A poser sur support
+Préconisations de dépose : Déjà déposé",0.0
+58,"Technical_Mode d’assemblage : A posé sur support et vissé au mur
+Préconisations de dépose : Déjà déposé",0.0
+85,Collection_CHUV Lausanne : Retrait des éléments sur rendez-vous (Lausanne) après confirmation de la commande par Matériuum.,0.0
+84,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+83,Collection_:,0.0
+82,"Technical_Mode d’assemblage : boulonné au mur
+Préconisations de dépose : Peu complexe,
+S’assurer que l’alimentation en eau est coupée",0.0
+81,"Technical_Mode d’assemblage : Vissé à la trame du faux plafond
+Préconisations de dépose : À dévisser",0.0
+80,"Technical_Mode d’assemblage : Vissé à la structure du faux-plafond
+Préconisations de dépose :",0.0
+79,"Technical_Mode d’assemblage : Vissé dans le faux-plafond
+Préconisations de dépose :",0.0
+78,"Technical_Mode d’assemblage : Vissé au plafond
+Préconisations de dépose :",0.0
+77,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose : À dévisser",0.0
+76,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose : Couper alimentation",0.0
+75,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose :",0.0
+74,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose :",0.0
+73,"Technical_Mode d’assemblage : Suspendu au mur
+Préconisations de dépose :",0.0
+72,"Technical_Mode d’assemblage : Suspendu au faux-plafond
+Préconisations de dépose :",0.0
+71,"Technical_Mode d’assemblage : Suspendu
+Préconisations de dépose :",0.0
+70,"Technical_Mode d’assemblage : Sur cadre applique (à vérifier sur place)
+Préconisations de dépose : Dépose du cadre à vérifier sur place",0.0
+69,"Technical_Mode d’assemblage : Posé sur structure périphérique
+Préconisations de dépose : À soulever",0.0
+68,"Technical_Mode d’assemblage : Posé au sol
+Préconisations de dépose :",0.0
+67,"Technical_Mode d’assemblage : Joint solicone
+Préconisations de dépose : Facile",0.0
+66,"Technical_Mode d’assemblage : Fixer sur rail au plafond
+Préconisations de dépose :",0.0
+65,"Technical_Mode d’assemblage : Encastré dans plan de travail
+Préconisations de dépose :",0.0
+64,"Technical_Mode d’assemblage : Encastré
+Préconisations de dépose :",0.0
+63,"Technical_Mode d’assemblage : Collés sur plaque en bois
+Préconisations de dépose : En cas d’utilisation des éléments indépendamment, commencer par le miroir en bas à gauche (déjà légèrement abîmé)",0.0
+62,"Technical_Mode d’assemblage : Boulonné au mur avec joint
+Préconisations de dépose : A déboulonner",0.0
+61,"Technical_Mode d’assemblage : Boulonné au mur
+Préconisations de dépose : Couper l’arrivée d’eau",0.0
+60,"Technical_Mode d’assemblage : Boulonné au mur
+Préconisations de dépose :",0.0
+59,"Technical_Mode d’assemblage : Accroché avec collier de serrage
+Préconisations de dépose : Dévisser et couper le collier de serrage",0.0
+152,material_emb_Gold,0.0
+154,material_emb_Granule,0.0
+288,Belgium_Raw_Glassware,0.0
+241,material_emb_Wychert,0.0
+255,Belgium_Raw_Cabinet and countertop hinges,0.0
+254,Belgium_Raw_Brass sections,0.0
+253,Belgium_Raw_Bonding coats,0.0
+252,Belgium_Raw_Bathroom pods,0.0
+250,Belgium_Raw_Auditorium seating,0.0
+249,Belgium_Raw_Arrises,0.0
+248,Belgium_Raw_Antique glass,0.0
+247,Belgium_Raw_Aluminium trusses,0.0
+246,Belgium_Raw_Aluminium skirtings,0.0
+245,Belgium_Raw_Aluminium lighting columns,0.0
+244,Belgium_Raw_Aluminium lighting bollards,0.0
+243,Belgium_Raw_Aluminium alloy hinged bollards,0.0
+242,material_emb_Yellow pine,0.0
+240,material_emb_Wych elm,0.0
+225,material_emb_Tufa,0.0
+239,material_emb_Wrought iron,0.0
+238,material_emb_Wool,0.0
+237,material_emb_Wood,0.0
+236,material_emb_Wired glass,0.0
+235,material_emb_White pine,0.0
+234,material_emb_Weathering steel,0.0
+233,material_emb_Water,0.0
+232,material_emb_Walnut,0.0
+231,material_emb_Wallaba,0.0
+230,material_emb_Vermiculite aggregates,0.0
+229,material_emb_Urea formaldehyde resin,0.0
+228,material_emb_Underwater concrete,0.0
+12,Category_Cloisons,0.0
+256,Belgium_Raw_Cable glands,0.0
+257,"Belgium_Raw_Cables, conductors and fittings products",0.0
+258,Belgium_Raw_Cast and wrought iron brackets,0.0
+259,Belgium_Raw_Cast steel pile shoes,0.0
+287,Belgium_Raw_Glass panels,0.0
+286,Belgium_Raw_Glass louvre blades,0.0
+284,Belgium_Raw_Glass bottles,0.0
+23,Category_Mobilier,0.0
+282,Belgium_Raw_Framed glass mirrors,0.0
+281,Belgium_Raw_Fonts,0.0
+280,Belgium_Raw_Flush bolts,0.0
+279,Belgium_Raw_Flange adaptors,0.0
+278,Belgium_Raw_Fire equipment signs,0.0
+277,Belgium_Raw_Espresso machines,0.0
+276,Belgium_Raw_Electric doorbells,0.0
+275,Belgium_Raw_Electric boilers,0.0
+274,Belgium_Raw_Edison screw batten lampholders,0.0
+273,Belgium_Raw_Double glazed light pipe diffusers,0.0
+272,Belgium_Raw_Display plinths,0.0
+11,Category_Ceiling,0.0
+270,Belgium_Raw_Coupler connections,0.0
+269,Belgium_Raw_Copper nails,0.0
+268,Belgium_Raw_Container-grown cutting-raised roses,0.0
+267,Belgium_Raw_Connection cables,0.0
+266,Belgium_Raw_Compact fluorescent lamps,0.0
+265,Belgium_Raw_Cold-formed galvanized steel sections,0.0
+264,Belgium_Raw_Coffee tables,0.0
+263,Belgium_Raw_Coaxial cables,0.0
+262,Belgium_Raw_Chrome plating,0.0
+261,Belgium_Raw_Chandeliers,0.0
+260,Belgium_Raw_Ceramic sinks,0.0
+226,material_emb_Turpentine resin,0.0
+224,material_emb_Tin,0.0
+155,material_emb_Grass,0.0
+172,material_emb_Loose surfacing decorative aggregates,0.0
+186,material_emb_Petrol,0.0
+185,material_emb_Patterned glass,0.0
+184,material_emb_Paper,0.0
+182,material_emb_Oil,0.0
+181,material_emb_Oak,0.0
+180,material_emb_Non-hydraulic lime,0.0
+179,material_emb_Nickel steel,0.0
+178,material_emb_Net,0.0
+177,material_emb_Monofilament,0.0
+176,material_emb_Metal,0.0
+175,material_emb_Melamine formaldehyde resin,0.0
+174,material_emb_Marble,0.0
+173,material_emb_Mahogany,0.0
+171,material_emb_Liquid crystal polymer resin,0.0
+223,material_emb_Thermoplastic elastomer resin,0.0
+170,material_emb_Limestone,0.0
+169,material_emb_Lime,0.0
+167,material_emb_Leather,0.0
+166,material_emb_Lead glass,0.0
+165,material_emb_Lead,0.0
+164,material_emb_Larch,0.0
+163,material_emb_Lacquer resin,0.0
+162,material_emb_Kaolin,0.0
+161,material_emb_Japanese larch,0.0
+159,material_emb_Heat-absorbing glass,0.0
+158,material_emb_Halon,0.0
+157,material_emb_Grog,0.0
+156,material_emb_Gravel,0.0
+15,Category_Floors,0.0
+188,material_emb_Plate glass,0.0
+189,material_emb_Polycarbonate (PC),0.0
+191,material_emb_Powder,0.0
+222,material_emb_Terracotta,0.0
+221,material_emb_Terne-coated steel,0.0
+220,material_emb_Teak,0.0
+219,material_emb_Sycamore,0.0
+218,material_emb_Surface treatment fine aggregates,0.0
+217,material_emb_Structural glass,0.0
+216,material_emb_Steel-aluminium alloy,0.0
+215,material_emb_Steel,0.0
+213,material_emb_Spheroidal graphite iron,0.0
+212,material_emb_Special-class prescription concrete,0.0
+211,material_emb_Spandrel glass,0.0
+210,material_emb_Solution,0.0
+209,material_emb_Soap,0.0
+207,material_emb_Sintered pulverized fuel ash,0.0
+206,material_emb_Silver,0.0
+205,material_emb_Silt,0.0
+204,material_emb_Silicon carbide,0.0
+203,material_emb_Shell,0.0
+202,material_emb_Sheet glass,0.0
+201,material_emb_Sheet,0.0
+200,material_emb_Sandstone,0.0
+199,material_emb_Rubber,0.0
+198,material_emb_Roman concrete,0.0
+197,material_emb_Rolled glass,0.0
+14,Category_Electricités et luminaires,0.0
+195,material_emb_Recycled lightweight aggregates,0.0
+194,material_emb_Radiata pine,0.0
+271,Belgium_Raw_Culverts,0.0

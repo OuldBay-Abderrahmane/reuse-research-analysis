@@ -1,0 +1,29 @@
+,Code,report,features
+0,Wood panelled door leaves,"              precision    recall  f1-score   support
+
+           0       0.59      0.65      0.62        20
+           1       0.30      0.25      0.27        12
+
+    accuracy                           0.50        32
+   macro avg       0.45      0.45      0.45        32
+weighted avg       0.48      0.50      0.49        32
+","                                           Feature  Importance
+17             third_level_Glass blocks and panels    0.306700
+4                     Material_Architectural glass    0.240850
+0                                            Price    0.167128
+16                         third_level_Furnishings    0.113087
+10                                   Material_Wood    0.098187
+12                         first_level_Furnishings    0.074048
+15  third_level_Floor plates, gratings and edgings    0.000000
+14               second_level_Door, Windows, Gates    0.000000
+13                 first_level_Roof, Slabs, Stairs    0.000000
+11                  Code_Wood panelled door leaves    0.000000
+9                        Material_Structural glass    0.000000
+1                                           Length    0.000000
+8                            Material_Sitka spruce    0.000000
+7                                    Material_Pine    0.000000
+6                                     Material_Oak    0.000000
+5                        Material_Insulating glass    0.000000
+3                                           Height    0.000000
+2                                            Width    0.000000
+18   third_level_Sanitary fittings and accessories    0.000000"

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Safety cages,"              precision    recall  f1-score   support
+
+           0       0.76      0.73      0.75        30
+           1       0.69      0.72      0.71        25
+
+    accuracy                           0.73        55
+   macro avg       0.73      0.73      0.73        55
+weighted avg       0.73      0.73      0.73        55
+","                               Feature  Importance
+128         location_NEUILLY-SUR-SEINE    0.263064
+82             BIM_class_C.20.10.90.2e    0.132465
+8                                Width    0.115276
+136  location_PARIS-1ER-ARRONDISSEMENT    0.057225
+182         French_Raw_Metal skirtings    0.049546
+..                                 ...         ...
+89              BIM_class_D.50.30.05.3    0.000000
+90              BIM_class_D.50.30.05.5    0.000000
+91              BIM_class_E.10.90.07.4    0.000000
+92              BIM_class_E.10.90.90.2    0.000000
+231           third_level_Safety cages    0.000000
+
+[232 rows x 2 columns]"

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.65      0.73      0.69        15
+           1       0.80      0.73      0.76        22
+
+    accuracy                           0.73        37
+   macro avg       0.72      0.73      0.72        37
+weighted avg       0.74      0.73      0.73        37
+","                                   Feature  Importance
+5                             Price_Change    0.341618
+10                           Category_Door    0.117811
+117  Belgium_Raw_Wood panelled door leaves    0.086219
+59      material_emb_Decorative aggregates    0.085664
+14                      Category_Furniture    0.064133
+..                                     ...         ...
+60                  material_emb_Encaustic    0.000000
+61                 material_emb_Fibreglass    0.000000
+62      material_emb_Fine bedding concrete    0.000000
+63           material_emb_Galvanized steel    0.000000
+167                third_level_Furnishings    0.000000
+
+[168 rows x 2 columns]"

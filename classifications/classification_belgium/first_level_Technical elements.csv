@@ -1,0 +1,23 @@
+,Code,report,features
+0,Technical elements,"              precision    recall  f1-score   support
+
+           0       0.83      1.00      0.91        15
+           1       1.00      0.67      0.80         9
+
+    accuracy                           0.88        24
+   macro avg       0.92      0.83      0.85        24
+weighted avg       0.90      0.88      0.87        24
+","                                             Feature  Importance
+5                                       Price_Change    0.910848
+2                                       Latest_Price    0.033489
+1                                      Initial_Price    0.015538
+0                                             Weight    0.015256
+15                                 Category_Hardware    0.008727
+..                                               ...         ...
+72                material_emb_Decorative aggregates    0.000000
+73                            material_emb_Encaustic    0.000000
+74           material_emb_Expanded polystyrene (EPS)    0.000000
+75                                material_emb_Fibre    0.000000
+201  third_level_Wire structure and general products    0.000000
+
+[202 rows x 2 columns]"

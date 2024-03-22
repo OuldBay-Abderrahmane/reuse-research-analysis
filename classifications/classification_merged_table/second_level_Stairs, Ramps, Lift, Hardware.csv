@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Stairs, Ramps, Lift, Hardware","              precision    recall  f1-score   support
+
+           0       0.50      0.75      0.60        48
+           1       0.84      0.63      0.72        98
+
+    accuracy                           0.67       146
+   macro avg       0.67      0.69      0.66       146
+weighted avg       0.73      0.67      0.68       146
+","                                           Feature  Importance
+160  third_level_Sanitary fittings and accessories    0.215286
+148            first_level_Wall, Barriers, Pannels    0.112751
+1                                           Length    0.098388
+31                                  Material_Metal    0.085945
+0                                            Price    0.052232
+..                                             ...         ...
+70                          Code_Drafting machines    0.000000
+71                         Code_Ducted rail tracks    0.000000
+72                           Code_Electric boilers    0.000000
+73                    Code_Electric cooking ranges    0.000000
+84                   Code_Flexible stair coverings    0.000000
+
+[168 rows x 2 columns]"

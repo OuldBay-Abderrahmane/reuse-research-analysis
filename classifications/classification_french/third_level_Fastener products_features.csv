@@ -1,0 +1,84 @@
+,Feature,Importance
+44,location_MARSEILLE--2E--ARRONDISSEMENT,0.14047487
+52,location_PARIS-8E-ARRONDISSEMENT,0.13747431
+48,location_PARIS-10E-ARRONDISSEMENT,0.119458556
+56,location_RUNGIS,0.10035646
+33,location_ARGENTEUIL,0.08182929
+46,location_NANTES,0.0816001
+43,location_LYON--6E--ARRONDISSEMENT,0.076845676
+40,location_LA MADELEINE,0.07563128
+50,location_PARIS-15E-ARRONDISSEMENT,0.07087838
+55,location_PUTEAUX,0.042918354
+0,price_initial,0.018827053
+22,BIM_class_C.10.10.02.1c,0.010558348
+26,BIM_class_C.10.10.02.1g,0.008095383
+4,price,0.006708453
+24,BIM_class_C.10.10.02.1e,0.005859616
+12,material_state_verygood,0.005088688
+10,material_state_correct,0.004585147
+3,quantity_latest,0.004573805
+25,BIM_class_C.10.10.02.1f,0.0037817813
+41,location_LEVALLOIS-PERRET,0.0026409903
+23,BIM_class_C.10.10.02.1d,0.0018134541
+20,BIM_class_C.10.10.02.1a,0.0
+67,material_emb_Pisé,0.0
+54,location_PLOEREN,0.0
+5,quantity,0.0
+2,price_change,0.0
+57,location_VILLEURBANNE,0.0
+58,material_type_reconditioned,0.0
+59,material_type_used,0.0
+60,country_FR,0.0
+61,state_ Neuf,0.0
+62,state_ Très bon,0.0
+63,material_emb_Bonded surfacing decorative aggregates,0.0
+64,material_emb_Clinker,0.0
+65,material_emb_Copal resin,0.0
+66,material_emb_Lignite,0.0
+68,"French_Raw_Clips, clamps and couplers",0.0
+6,min_quantity,0.0
+69,French_Raw_Lacquers,0.0
+70,French_Raw_Plaster cornices,0.0
+71,French_Raw_Semi-tubular rivets,0.0
+72,French_Code_Pr_20_29_14,0.0
+73,French_Code_Pr_20_29_71_77,0.0
+74,French_Code_Pr_35_31_68_46,0.0
+75,French_Code_Pr_35_90_43_62,0.0
+76,first_level_Other,0.0
+77,first_level_Structural elements,0.0
+78,first_level_Technical elements,0.0
+79,"first_level_Wall, Barriers, Pannels",0.0
+80,"second_level_Blocks, Panels, Fences, Bricks",0.0
+81,second_level_Other,0.0
+53,location_PARIS-9E-ARRONDISSEMENT,0.0
+51,location_PARIS-1ER-ARRONDISSEMENT,0.0
+21,BIM_class_C.10.10.02.1b,0.0
+7,Length,0.0
+19,BIM_class_C.10.10.01.5e,0.0
+18,category_restractable_partitions,0.0
+17,category_ovens,0.0
+16,category_linoleum_pvc_vinyl,0.0
+27,BIM_class_C.10.10.02.9,0.0
+28,BIM_class_C.10.10.03.2a,0.0
+29,BIM_class_C.10.10.03.2g,0.0
+30,BIM_class_C.30.20.04.4,0.0
+31,BIM_class_D.20.10.09.1,0.0
+32,BIM_class_E.10.90.02.32,0.0
+15,category_fixed_partitions,0.0
+34,location_BORDEAUX,0.0
+35,location_CHAMPS-SUR-MARNE,0.0
+36,location_CHEVILLY-LARUE,0.0
+37,location_CHOLET,0.0
+38,location_CLERMONT-FERRAND,0.0
+39,location_CLICHY,0.0
+14,category_faucets,0.0
+1,price_latest,0.0
+42,location_LYON--3E--ARRONDISSEMENT,0.0
+13,category_demountable_partitions,0.0
+11,material_state_damaged,0.0
+45,location_NANTERRE,0.0
+9,Height,0.0
+47,location_ORLEANS,0.0
+8,Width,0.0
+49,location_PARIS-13E-ARRONDISSEMENT,0.0
+82,third_level_Fastener products,0.0

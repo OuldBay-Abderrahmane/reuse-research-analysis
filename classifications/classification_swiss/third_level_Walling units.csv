@@ -1,0 +1,23 @@
+,Code,report,features
+0,Walling units,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         4
+           1       0.85      1.00      0.92        22
+
+    accuracy                           0.85        26
+   macro avg       0.42      0.50      0.46        26
+weighted avg       0.72      0.85      0.78        26
+","                                 Feature  Importance
+7   Category_Gebäudehülle & Konstruktion    0.189247
+89                        Material_Mixed    0.153869
+46      Condition_used, cleaned & tested    0.111171
+0                              LastPrice    0.095068
+47         Subcategory_Apparate & Geräte    0.091537
+..                                   ...         ...
+33               Swiss_Raw_Vapour meters    0.000000
+32                 Swiss_Raw_Tilt meters    0.000000
+31                  Swiss_Raw_Sprinklers    0.000000
+30                  Swiss_Raw_Separators    0.000000
+96             third_level_Walling units    0.000000
+
+[97 rows x 2 columns]"

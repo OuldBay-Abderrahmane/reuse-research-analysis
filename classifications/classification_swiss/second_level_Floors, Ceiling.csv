@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floors, Ceiling","              precision    recall  f1-score   support
+
+           0       0.83      0.42      0.56        12
+           1       0.83      0.97      0.89        35
+
+    accuracy                           0.83        47
+   macro avg       0.83      0.69      0.73        47
+weighted avg       0.83      0.83      0.81        47
+","                           Feature  Importance
+35            Swiss_Raw_Heat pipes    0.244510
+88              Condition_like new    0.119868
+47   Swiss_Raw_Pedestal washbasins    0.087148
+131               Material_Ceramic    0.083555
+137                 Material_Mixed    0.074310
+..                             ...         ...
+45                 Swiss_Raw_Nails    0.000000
+44        Swiss_Raw_Meter cabinets    0.000000
+43       Swiss_Raw_Metal skirtings    0.000000
+42         Swiss_Raw_Medium boards    0.000000
+145   second_level_Floors, Ceiling    0.000000
+
+[146 rows x 2 columns]"

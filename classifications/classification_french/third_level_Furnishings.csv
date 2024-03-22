@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.64      0.78      0.70        18
+           1       0.93      0.86      0.89        58
+
+    accuracy                           0.84        76
+   macro avg       0.78      0.82      0.80        76
+weighted avg       0.86      0.84      0.85        76
+","                     Feature  Importance
+124   location_GENNEVILLIERS    0.137218
+146          location_RUNGIS    0.122418
+118        location_CHAVILLE    0.116096
+121          location_CHOLET    0.090630
+120  location_CHEVILLY-LARUE    0.060603
+..                       ...         ...
+102  BIM_class_E.20.20.10.1g    0.000000
+103  BIM_class_E.20.20.10.3c    0.000000
+104   BIM_class_E.20.20.90.3    0.000000
+106  BIM_class_G.20.40.03.1d    0.000000
+281  third_level_Furnishings    0.000000
+
+[282 rows x 2 columns]"

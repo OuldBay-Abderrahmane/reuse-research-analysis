@@ -1,0 +1,48 @@
+,Feature,Importance
+43,Material_gemischt,0.6973542
+10,Swiss_Raw_Window walls,0.12958592
+29,Subcategory_Wandfenster,0.043009717
+0,LastPrice,0.039932355
+14,Condition_like new,0.0361777
+3,Width,0.027335927
+2,Length,0.026604258
+36,Material_Kunststoff,0.0
+28,Subcategory_Sonstiges,0.0
+30,Subcategory_Zubehör,0.0
+31,Material_Aluminium,0.0
+32,Material_Aluminum,0.0
+33,Material_Compound,0.0
+34,Material_Glass,0.0
+35,Material_Holz,0.0
+38,Material_Mixed,0.0
+37,Material_Metal,0.0
+26,Subcategory_Innentüren,0.0
+39,Material_Plastic,0.0
+40,Material_Plexiglass,0.0
+41,Material_Steel,0.0
+42,Material_Wood,0.0
+44,Energy_Efficiency_A,0.0
+45,Energy_Efficiency_B,0.0
+27,Subcategory_Läden & Storen,0.0
+23,Subcategory_Dachfenster,0.0
+25,Subcategory_Innenfenster,0.0
+13,"Condition_gebraucht, gereinigt & geprüft",0.0
+4,Category_Ausbau,0.0
+5,Category_Gebäudehülle & Konstruktion,0.0
+6,Category_Gebäudetechnik & Sanitär,0.0
+7,Category_Sonstiges,0.0
+8,Swiss_Raw_Aluminium window walls,0.0
+9,Swiss_Raw_Steel window walls,0.0
+11,Swiss_Raw_Wood window walls,0.0
+12,Condition_cleaned & tested,0.0
+15,Condition_mixed,0.0
+24,Subcategory_Fenster,0.0
+16,Condition_neuwertig,0.0
+17,Condition_used,0.0
+18,Condition_used & cleaned,0.0
+19,"Condition_used, cleaned & tested",0.0
+20,Subcategory_Aussentüren,0.0
+21,Subcategory_Badewanne & Dusche,0.0
+22,Subcategory_Badezimmermöbel,0.0
+1,Quantity,0.0
+46,Energy_Efficiency_D,0.0

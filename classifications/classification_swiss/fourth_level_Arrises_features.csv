@@ -1,0 +1,66 @@
+,Feature,Importance
+56,Material_Metal,0.19321112
+17,Condition_used & cleaned,0.18266726
+18,"Condition_used, cleaned & tested",0.1634765
+5,Category_Baustoffe & Werkzeuge,0.11804198
+7,Category_Gebäudetechnik & Sanitär,0.08072281
+0,LastPrice,0.077026926
+1,Quantity,0.05482418
+2,Length,0.052207083
+3,Width,0.042777844
+4,Category_Ausbau,0.03504432
+63,Material_Wood,0.0
+49,Material_Ceramic,0.0
+39,Subcategory_WC-Anlagen,0.0
+40,Subcategory_WCs - Toiletten,0.0
+41,Subcategory_Wandfenster,0.0
+42,Subcategory_Waschküche & Trocknen,0.0
+43,Subcategory_Waschtisch & Lavabos,0.0
+44,Subcategory_Werkzeug,0.0
+45,Subcategory_Wände,0.0
+46,Subcategory_Zubehör,0.0
+47,Subcategory_Öfen & Cheminées,0.0
+48,Material_Aluminum,0.0
+51,Material_Concrete,0.0
+50,Material_Compound,0.0
+52,Material_Glas,0.0
+53,Material_Glass,0.0
+37,Subcategory_Umgebungsfläche,0.0
+54,Material_Keramik,0.0
+55,Material_Kunststoff,0.0
+57,Material_Metall,0.0
+58,Material_Mixed,0.0
+59,Material_Plastic,0.0
+60,Material_Stainless steel,0.0
+61,Material_Steel,0.0
+62,Material_Stone,0.0
+38,Subcategory_Verkleidung,0.0
+32,Subcategory_Oberlichter,0.0
+36,Subcategory_Treppen & Rampen,0.0
+35,Subcategory_Steinbeläge,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+8,Category_Sonstiges,0.0
+9,Category_Umgebung,0.0
+10,Swiss_Raw_Arrises,0.0
+11,Condition_cleaned & tested,0.0
+12,Condition_defective,0.0
+13,Condition_gebraucht,0.0
+14,Condition_gereinigt & geprüft,0.0
+15,Condition_like new,0.0
+16,Condition_used,0.0
+19,Subcategory_Apparate & Geräte,0.0
+20,Subcategory_Aussentüren,0.0
+21,Subcategory_Badezimmermöbel,0.0
+22,Subcategory_Baumaschinen,0.0
+23,Subcategory_Baustoffe,0.0
+24,Subcategory_Dachhaut,0.0
+25,Subcategory_Einbauküchen,0.0
+26,Subcategory_Einrichtungen,0.0
+27,Subcategory_Fertigteile & Geräte,0.0
+28,Subcategory_Geländer,0.0
+29,Subcategory_Innentüren,0.0
+30,Subcategory_Läden & Storen,0.0
+31,Subcategory_Möbel,0.0
+33,Subcategory_Sonstiges,0.0
+34,Subcategory_Spülen,0.0
+64,Material_gemischt,0.0

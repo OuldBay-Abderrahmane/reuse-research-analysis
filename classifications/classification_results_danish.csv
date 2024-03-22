@@ -34,10 +34,10 @@ weighted avg       1.00      1.00      1.00        13
    macro avg       0.46      0.50      0.48        28
 weighted avg       0.86      0.93      0.89        28
 ","                                         Feature  Importance
-0                                       Quantity    0.676619
-1                                      LastPrice    0.156335
-14              material_emb_Architectural glass    0.083756
-9   Subcategory_Fyldningsdøre med glas uden karm    0.083291
+1                                      LastPrice    0.550662
+9   Subcategory_Fyldningsdøre med glas uden karm    0.279737
+14              material_emb_Architectural glass    0.169601
+0                                       Quantity    0.000000
 12                          Subcategory_Ståldøre    0.000000
 20                                  Store_Genbyg    0.000000
 19                 material_emb_Structural glass    0.000000
@@ -65,11 +65,11 @@ weighted avg       0.86      0.93      0.89        28
    macro avg       0.99      0.67      0.74        86
 weighted avg       0.98      0.98      0.97        86
 ","                                       Feature  Importance
-0                                     Quantity    0.263531
-12                        Subcategory_Yderdøre    0.240119
-9           Subcategory_Fyldningsdøre med karm    0.192483
-1                                    LastPrice    0.170440
-11                 Subcategory_Indvendige døre    0.133428
+12                        Subcategory_Yderdøre    0.281521
+9           Subcategory_Fyldningsdøre med karm    0.258289
+0                                     Quantity    0.224604
+1                                    LastPrice    0.124826
+11                 Subcategory_Indvendige døre    0.110761
 3          Subcategory_BD30 / Brand og lyddøre    0.000000
 4                     Subcategory_Diverse Døre    0.000000
 5                      Subcategory_Dobbeltdøre    0.000000
@@ -92,13 +92,13 @@ weighted avg       0.98      0.98      0.97        86
    macro avg       0.99      0.83      0.89        96
 weighted avg       0.98      0.98      0.98        96
 ","                                         Feature  Importance
-1                                      LastPrice    0.463101
-0                                       Quantity    0.377112
-6            Subcategory_Fyldningsdøre uden karm    0.159787
+1                                      LastPrice    0.552871
+0                                       Quantity    0.447129
 2                    Category_Doors and  Windows    0.000000
 3                       Subcategory_Diverse Døre    0.000000
 4   Subcategory_Fyldningsdøre med glas uden karm    0.000000
 5             Subcategory_Fyldningsdøre med karm    0.000000
+6            Subcategory_Fyldningsdøre uden karm    0.000000
 7                    Subcategory_Indvendige døre    0.000000
 8                           Subcategory_Yderdøre    0.000000
 9                         material_emb_Encaustic    0.000000

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.62      0.64      0.63       116
+           1       0.82      0.81      0.81       236
+
+    accuracy                           0.75       352
+   macro avg       0.72      0.72      0.72       352
+weighted avg       0.75      0.75      0.75       352
+","                                               Feature  Importance
+181                                       Code_Bureaux    0.096287
+528                      third_level_Hardware products    0.044330
+67                                    Material_Lignite    0.037573
+339                   Code_Lighting distribution boxes    0.032693
+221                               Code_Digital cameras    0.028039
+..                                                 ...         ...
+242  Code_Electrical power products and wiring acce...    0.000000
+241                   Code_Electrical power components    0.000000
+240                Code_Electric storage water heaters    0.000000
+239                                Code_Electric ovens    0.000000
+274                                         Code_Fonts    0.000000
+
+[548 rows x 2 columns]"

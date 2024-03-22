@@ -1,0 +1,210 @@
+,Feature,Importance
+65,Code_Aluminium shutters,0.17251913
+96,Code_Door hinges,0.11748501
+182,Code_Window walls,0.07808395
+196,first_level_Other,0.046577152
+61,Code_Aluminium doorsets,0.045052264
+0,Price,0.039824408
+199,first_level_Technical elements,0.037995476
+200,"first_level_Wall, Barriers, Pannels",0.03781848
+48,Material_Sitka spruce,0.027814558
+203,"second_level_Door, Windows, Gates",0.023664808
+114,Code_Glass fins,0.022873145
+4,Material_Aluminium,0.02269923
+206,second_level_Other,0.0225506
+112,Code_Glass brise-soleil louvre blades,0.021593215
+162,Code_Sliding shutter doorsets,0.02132412
+204,"second_level_Floors, Ceiling",0.018780781
+10,Material_Coloured glass,0.01871239
+2,Width,0.017575257
+1,Length,0.016952839
+201,"second_level_Blocks, Panels, Fences, Bricks",0.016313566
+3,Height,0.015709082
+187,Code_Wood panelled door leaves,0.013152791
+205,second_level_Furnishings,0.012867689
+121,Code_Glassware,0.012231101
+133,Code_Lacquers,0.012058499
+197,"first_level_Roof, Slabs, Stairs",0.011940854
+184,Code_Wood door frames,0.0115558375
+5,Material_Architectural glass,0.011146289
+107,Code_Frameless glass door leaves,0.0110740345
+55,Material_Wood,0.010351174
+35,Material_Patterned glass,0.008988667
+194,first_level_Furnishings,0.007841258
+42,Material_Prismatic glass,0.0070359637
+9,Material_Ceramic,0.006096404
+43,Material_Reflective glass,0.0059924247
+202,"second_level_Covering, Finish",0.0055319383
+185,Code_Wood doorsets,0.0053397766
+144,Code_Pendant luminaires,0.004875815
+142,Code_Office desks,0.0
+117,Code_Glass louvre window units,0.0
+138,Code_Metal skirtings,0.0
+139,Code_Mirrors,0.0
+116,Code_Glass louvre blades,0.0
+140,Code_Murals,0.0
+141,Code_Natural stone quoins,0.0
+143,Code_Overmantel mirrors,0.0
+148,Code_Plywood framed panels,0.0
+136,Code_Lead-lined plywood boards,0.0
+115,Code_Glass infill gate leaves,0.0
+145,Code_Plastics sheet wall claddings,0.0
+146,Code_Plastics window films,0.0
+147,Code_Pleated blinds,0.0
+137,Code_Louvre doorsets,0.0
+135,Code_Lantern lights,0.0
+122,Code_Glazed enclosures,0.0
+150,Code_Porcelain tiles,0.0
+123,Code_Glazed floorlight panels,0.0
+124,Code_Glazed pavement light panels,0.0
+125,Code_Glazed structures,0.0
+126,Code_Glazing beads,0.0
+120,Code_Glass stair treads,0.0
+127,Code_Grommets,0.0
+128,Code_Handblown crown glass,0.0
+134,Code_Laminboard core plywoods,0.0
+129,Code_Handblown plate glass,0.0
+130,Code_Handblown polished plate glass,0.0
+131,Code_Hardwood framed panels,0.0
+119,Code_Glass panels,0.0
+132,Code_Icemakers,0.0
+118,Code_Glass noise barrier panels,0.0
+149,Code_Polyvinyl chloride (PVC) cove skirtings,0.0
+158,Code_Sectional overhead doorsets,0.0
+151,Code_Projection screens,0.0
+173,Code_Unframed glass mirrors,0.0
+175,Code_Vases,0.0
+176,Code_Vision panels,0.0
+177,Code_Water treatment products,0.0
+178,Code_Window casement fasteners,0.0
+179,Code_Window curtains,0.0
+180,Code_Window hinges,0.0
+181,Code_Window panels,0.0
+183,Code_Wood cover strips,0.0
+186,Code_Wood frames,0.0
+188,Code_Wood shutters,0.0
+189,Code_Wood skirtings,0.0
+190,Code_Wood subframes,0.0
+191,Code_Wood veneers,0.0
+192,Code_Wood window units,0.0
+193,Code_Wood window walls,0.0
+195,first_level_Openings,0.0
+198,first_level_Structural elements,0.0
+174,Code_Upholstered benches,0.0
+172,Code_Tubular fluorescent lamps,0.0
+152,Code_Projection window hinges,0.0
+171,Code_Thermochromic glass,0.0
+153,Code_Projectors,0.0
+154,Code_Refrigerated display cabinet doors,0.0
+155,Code_Rigid polyurethane frame roof window units,0.0
+156,Code_Rigid stair nosings,0.0
+157,Code_Scagliola,0.0
+159,Code_Shower curtains,0.0
+207,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+160,Code_Shower doors,0.0
+161,Code_Shower enclosures,0.0
+163,Code_Special lamps,0.0
+113,Code_Glass fibre fleeces,0.0
+165,Code_Sprigs,0.0
+166,Code_Stained glass sheets,0.0
+167,Code_Stainless steel door leaves,0.0
+168,Code_Stainless steel shelving and racking units,0.0
+169,Code_Steel window walls,0.0
+170,Code_Stone slabs,0.0
+164,Code_Spotlights,0.0
+104,Code_Framed glass mirrors,0.0
+111,Code_Glass bottles,0.0
+44,Material_Rolled glass,0.0
+32,Material_Mosaic glass,0.0
+33,Material_Oak,0.0
+34,Material_Opal glass,0.0
+36,Material_Pine,0.0
+37,Material_Pisé,0.0
+38,Material_Plate glass,0.0
+39,Material_Polycarbonate (PC),0.0
+40,Material_Polyvinyl chloride (PVC),0.0
+41,Material_Porcelain,0.0
+45,Material_Safety glass,0.0
+30,Material_Loose surfacing decorative aggregates,0.0
+46,Material_Sheet glass,0.0
+47,Material_Silt,0.0
+49,Material_Spandrel glass,0.0
+50,Material_Stainless steel,0.0
+51,Material_Stone,0.0
+52,Material_Structural glass,0.0
+53,Material_Teak,0.0
+54,Material_Wired glass,0.0
+56,Code_Acoustic batten cradles,0.0
+31,Material_Metal,0.0
+29,Material_Lignite,0.0
+58,Code_Aluminium brise-soleil louvre blades,0.0
+17,Material_Figured glass,0.0
+6,Material_Blown glass,0.0
+7,Material_Borosilicate glass,0.0
+8,Material_Brass,0.0
+11,Material_Crystal glass,0.0
+12,Material_Decorative aggregates,0.0
+13,Material_Dichromatic glass,0.0
+14,Material_Encaustic,0.0
+15,Material_Expansive concrete,0.0
+16,Material_Fibreglass,0.0
+18,Material_Fire clay,0.0
+28,Material_Insulating glass,0.0
+19,Material_Float glass,0.0
+20,Material_Galvanized steel,0.0
+21,Material_Glass,0.0
+22,Material_Glass wool,0.0
+23,Material_Granite,0.0
+24,Material_Granule,0.0
+25,Material_Green glass,0.0
+26,Material_Heat-absorbing glass,0.0
+27,Material_Heat-strengthened glass,0.0
+57,Code_Aluminium alloy hinged bollards,0.0
+59,Code_Aluminium door frames,0.0
+110,Code_Glass blocks,0.0
+97,Code_Door protection panels,0.0
+87,Code_Conveyor dishwashers,0.0
+88,Code_Corrugated wired glass sheets,0.0
+89,Code_Decorative facings,0.0
+90,Code_Decorative metal panels,0.0
+91,Code_Decorative timber panels,0.0
+92,Code_Decorator’s caulks,0.0
+93,Code_Display plinths,0.0
+94,Code_Door dampers,0.0
+95,Code_Door frames and leaves,0.0
+98,Code_Doorsets,0.0
+85,Code_Concealed hinges,0.0
+99,Code_Double glazed light pipe diffusers,0.0
+100,Code_Double window steam sight glasses,0.0
+101,Code_Electrochromic glass,0.0
+102,Code_Filing cabinets,0.0
+103,Code_Flexible glass wool mat insulation,0.0
+105,Code_Framed plastics mirrors,0.0
+106,Code_Framed rooflights,0.0
+108,Code_Glass barrier panels,0.0
+109,Code_Glass block wall panels,0.0
+86,Code_Concrete glazed stair landing panels,0.0
+84,Code_Composite glass sheets,0.0
+60,Code_Aluminium door leaves,0.0
+72,Code_Baryte bricks,0.0
+62,Code_Aluminium gates,0.0
+63,Code_Aluminium lighting bollards,0.0
+64,Code_Aluminium loft ladders,0.0
+66,Code_Aluminium skirtings,0.0
+67,Code_Aluminium window units,0.0
+68,Code_Aluminium window walls,0.0
+69,Code_Antique glass,0.0
+70,Code_Arrises,0.0
+71,Code_Balancing veneers,0.0
+73,Code_Boxed sash window hanging fittings,0.0
+83,Code_Composite door leaves,0.0
+74,Code_Bronze window units,0.0
+75,Code_Cabinet and countertop hinges,0.0
+76,Code_Ceiling light switches,0.0
+77,Code_Ceramic slates,0.0
+78,Code_Ceramic tiles,0.0
+79,Code_Chandeliers,0.0
+80,Code_Chute automatic fire doors,0.0
+81,Code_Clay tile ornamental fittings,0.0
+82,Code_Coffee tables,0.0
+208,third_level_Glass blocks and panels,0.0

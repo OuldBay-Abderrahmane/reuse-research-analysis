@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.71      0.71      0.71        96
+           1       0.81      0.81      0.81       151
+
+    accuracy                           0.77       247
+   macro avg       0.76      0.76      0.76       247
+weighted avg       0.77      0.77      0.77       247
+","                                             Feature  Importance
+151                                     Code_Bureaux    0.152543
+315                                   Code_Radiators    0.113636
+317                         Code_Recessed luminaires    0.054299
+47                                   Material_Gravel    0.054273
+73                                    Material_Paper    0.035331
+..                                               ...         ...
+164                              Code_Clamp brackets    0.000000
+163                                    Code_Circlips    0.000000
+162                              Code_Chrome plating    0.000000
+161                          Code_Chlorine catchpots    0.000000
+438  third_level_Wire structure and general products    0.000000
+
+[439 rows x 2 columns]"

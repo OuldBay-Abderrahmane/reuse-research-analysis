@@ -1,0 +1,17 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+662,999DOP857,Fire door in metal cm x cm - Left,65.0,kg,pc,"
+Location of door:D3Attributes:Material:Note:Fire door in metalblue finishGeneral conditionGood used conditions. Dusty, needs to be cleaned.Dimensions:Height237 cmWidth89 cmThickness6 cmWeight65 kgDoor swing directionLeftHardware:HandlesYesHingesYesLockcaseYesKeyNo
+",Doors,https://rotordc.com/shop/product/999dop857-fire-door-in-metal-h-237-cm-x-w-89-cm-left-59841?category=32,"['59841_cc74540.png', '10997_4173a93.png', '10998_4173a93.png', '10999_4173a93.png', '11000_4173a93.png', '11001_4173a93.png']",69.0,29.0,,,,,,,,,2022-12-26,40.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.2222633957862854, 'start': 57, 'end': 67, 'answer': ' metalblue'}","{'score': 0.27204516530036926, 'start': 131, 'end': 170, 'answer': ' cleaned.Dimensions:Height237 cmWidth89'}","{'score': 0.01613210327923298, 'start': 183, 'end': 201, 'answer': ' cmWeight65 kgDoor'}",Fire clay,Chute automatic fire doors,Pr_65_12_71_10,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,0.01613210327923298,,,,59.0
+815,999DOP516L,"Fire retardant door by Theuma , cm x cm - Left/Right",56.0,kg,pc,"
+Grey laminated door.
+
+Hinges and handles are not included.
+
+De Coene DF30, Benor certified (Rf 1/2h)
+Dimensions door: : 92 cm x 211,5 cm x 5 cm
+Door specifications available on the website of the manufacturer
+
+
+
+
+",Doors,https://rotordc.com/shop/product/fire-retardant-door-by-theuma-h-211-5-cm-x-92-cm-left-right-34842?page=9&category=32,"['34842_143c2df.png', '2612_92eaeaf.png', '2613_92eaeaf.png', '2614_92eaeaf.png', '2615_92eaeaf.png']",99.0,99.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 0.6840044856071472, 'start': 1, 'end': 5, 'answer': 'Grey'}","{'score': 0.9622270464897156, 'start': 120, 'end': 144, 'answer': ' 92 cm x 211,5 cm x 5 cm'}","{'score': 4.989894364371139e-07, 'start': 120, 'end': 123, 'answer': ' 92'}",Fire clay,Chute automatic fire doors,Pr_65_12_71_10,"Wall, Barriers, Pannels","Door, Windows, Gates",Sanitary fittings and accessories,4.989894364371139e-07,,,,

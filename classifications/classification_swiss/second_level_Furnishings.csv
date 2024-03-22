@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.69      0.64      0.67        14
+           1       0.89      0.91      0.90        44
+
+    accuracy                           0.84        58
+   macro avg       0.79      0.78      0.78        58
+weighted avg       0.84      0.84      0.84        58
+","                         Feature  Importance
+165            Material_gemischt    0.361534
+49   Swiss_Raw_Kitchenette units    0.086817
+156               Material_Mixed    0.084975
+111               Condition_used    0.063957
+51               Swiss_Raw_Lamps    0.053590
+..                           ...         ...
+61              Swiss_Raw_Murals    0.000000
+62   Swiss_Raw_Occasional tables    0.000000
+63        Swiss_Raw_Office desks    0.000000
+64    Swiss_Raw_Office equipment    0.000000
+170     second_level_Furnishings    0.000000
+
+[171 rows x 2 columns]"

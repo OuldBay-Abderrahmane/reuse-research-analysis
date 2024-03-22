@@ -1,0 +1,90 @@
+,Feature,Importance
+47,location_CHOLET,0.29090858
+46,location_CHEVILLY-LARUE,0.1982776
+12,material_state_verygood,0.19676277
+56,location_PARIS-9E-ARRONDISSEMENT,0.16685942
+77,French_Raw_Occasional tables,0.035720523
+37,BIM_class_E.20.20.10.3c,0.022296324
+10,material_state_correct,0.0219677
+0,price_initial,0.015034239
+55,location_PARIS-8E-ARRONDISSEMENT,0.01475947
+4,price,0.013482826
+3,quantity_latest,0.012204327
+68,material_emb_Decorative aggregates,0.01172623
+62,location_TOULOUSE,0.0
+61,location_SAINT-ETIENNE,0.0
+60,location_SAINT-BRIEUC,0.0
+59,location_RUNGIS,0.0
+58,location_PUTEAUX,0.0
+57,location_PLOEREN,0.0
+83,first_level_Technical elements,0.0
+64,material_type_used,0.0
+54,location_PARIS-6E-ARRONDISSEMENT,0.0
+53,location_PARIS-13E-ARRONDISSEMENT,0.0
+52,location_PARIS-10E-ARRONDISSEMENT,0.0
+51,location_ORLY,0.0
+50,location_MONTIGNY-LES-CORMEILLES,0.0
+49,location_MARSEILLE-13E--ARRONDISSEMENT,0.0
+87,second_level_Other,0.0
+63,material_type_reconditioned,0.0
+65,country_FR,0.0
+82,first_level_Other,0.0
+76,French_Raw_Display plinths,0.0
+84,"first_level_Wall, Barriers, Pannels",0.0
+81,first_level_Furnishings,0.0
+85,"second_level_Covering, Finish",0.0
+80,French_Code_Pr_40_50_21_58,0.0
+79,French_Code_Pr_40_30_25_24,0.0
+78,French_Code_Pr_35_90_43_04,0.0
+86,second_level_Furnishings,0.0
+75,French_Raw_Arrises,0.0
+66,state_ Bon,0.0
+74,material_emb_Sheet,0.0
+73,material_emb_Pisé,0.0
+72,material_emb_Lignite,0.0
+71,material_emb_Fir,0.0
+70,material_emb_Expanded slag aggregates,0.0
+48,location_GENNEVILLIERS,0.0
+67,state_ Bonne,0.0
+69,material_emb_European larch,0.0
+44,BIM_class_G.20.50.08,0.0
+45,location_ARGENTEUIL,0.0
+1,price_latest,0.0
+22,category_ovens,0.0
+21,category_other_special_roofing_system,0.0
+20,category_other_special_interior_furnishings,0.0
+19,category_other_illuminations_and_wires_connections,0.0
+18,category_other_furniture,0.0
+17,category_notice_board_chalk_board,0.0
+16,category_lift_and_rolling_doors,0.0
+15,category_industrial_door,0.0
+14,category_exterior_furnishings,0.0
+13,category_desc,0.0
+11,material_state_damaged,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,min_quantity,0.0
+5,quantity,0.0
+2,price_change,0.0
+23,category_plants,0.0
+24,category_windows,0.0
+25,category_wood_flooring,0.0
+35,BIM_class_E.20.20.10.3a,0.0
+43,BIM_class_G.20.40.03.3d,0.0
+42,BIM_class_G.20.40.03.3c,0.0
+41,BIM_class_G.20.40.03.3b,0.0
+40,BIM_class_E.20.20.90.4,0.0
+39,BIM_class_E.20.20.10.3g,0.0
+38,BIM_class_E.20.20.10.3f,0.0
+36,BIM_class_E.20.20.10.3b,0.0
+34,BIM_class_E.20.10.90.1,0.0
+26,BIM_class_B.10.20.90,0.0
+33,BIM_class_E.10.90.02.46,0.0
+32,BIM_class_D.50.20.90.2,0.0
+31,BIM_class_C.30.20.03.3,0.0
+30,BIM_class_C.10.30.03.2,0.0
+29,BIM_class_B.20.30.05.1a,0.0
+28,BIM_class_B.20.30.04.4d,0.0
+27,BIM_class_B.20.20.01.3f,0.0
+88,third_level_Sectional products,0.0

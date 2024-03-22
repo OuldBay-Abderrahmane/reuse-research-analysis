@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floor plates, gratings and edgings","              precision    recall  f1-score   support
+
+           0       0.92      0.75      0.83        16
+           1       0.92      0.98      0.95        50
+
+    accuracy                           0.92        66
+   macro avg       0.92      0.86      0.89        66
+weighted avg       0.92      0.92      0.92        66
+","                                            Feature  Importance
+86         Condition_gebraucht, gereinigt & geprüft    0.190784
+159                               Material_gemischt    0.164079
+144                                  Material_Metal    0.093941
+89                                  Condition_mixed    0.067917
+8                                Category_Sonstiges    0.057734
+..                                              ...         ...
+59                      Swiss_Raw_Occasional tables    0.000000
+60                                Swiss_Raw_Plaques    0.000000
+61                 Swiss_Raw_Plate (square) washers    0.000000
+62                         Swiss_Raw_Pleated blinds    0.000000
+163  third_level_Floor plates, gratings and edgings    0.000000
+
+[164 rows x 2 columns]"

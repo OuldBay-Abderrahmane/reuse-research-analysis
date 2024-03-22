@@ -1,0 +1,23 @@
+,Code,report,features
+0,Power and lighting outlet products,"              precision    recall  f1-score   support
+
+           0       0.71      0.71      0.71        24
+           1       0.71      0.71      0.71        24
+
+    accuracy                           0.71        48
+   macro avg       0.71      0.71      0.71        48
+weighted avg       0.71      0.71      0.71        48
+","                                            Feature  Importance
+102                      location_NEUILLY-SUR-SEINE    0.143693
+143                   material_emb_Reflective glass    0.123906
+104               location_PARIS-10E-ARRONDISSEMENT    0.058756
+203                               first_level_Other    0.058079
+14                     category_auxiliary_equipment    0.057189
+..                                              ...         ...
+98           location_MARSEILLE-13E--ARRONDISSEMENT    0.000000
+99                 location_MONTIGNY-LES-CORMEILLES    0.000000
+100                                  location_NANCY    0.000000
+101                                 location_NANTES    0.000000
+213  third_level_Power and lighting outlet products    0.000000
+
+[214 rows x 2 columns]"

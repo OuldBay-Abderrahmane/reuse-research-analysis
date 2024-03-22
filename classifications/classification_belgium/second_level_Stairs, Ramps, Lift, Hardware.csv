@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Stairs, Ramps, Lift, Hardware","              precision    recall  f1-score   support
+
+           0       0.60      0.60      0.60         5
+           1       0.50      0.50      0.50         4
+
+    accuracy                           0.56         9
+   macro avg       0.55      0.55      0.55         9
+weighted avg       0.56      0.56      0.56         9
+","                                               Feature  Importance
+11                                  Category_Furniture    0.349499
+0                                               Weight    0.243252
+98                                   first_level_Other    0.166649
+2                                         Latest_Price    0.121394
+1                                        Initial_Price    0.098521
+..                                                 ...         ...
+35                                         Language_fr    0.000000
+34                                       Store_rotordc    0.000000
+33                                          Country_BE    0.000000
+32   Collection_MACO : Retrait sur place du mardi a...    0.000000
+114               third_level_Treads and landing units    0.000000
+
+[115 rows x 2 columns]"

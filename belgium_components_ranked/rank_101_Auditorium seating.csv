@@ -1,0 +1,12 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+166,102FUR001,Auditorium seats from Boudewijn Building,25.0,kg,pc,"
+Auditorium seat in wood, red textile and lacquered steel. Needs to be bolted on the floor.
+
+Total Height: 82 cm ; Seat Height: 48
+Total Width: 53 cm  ; Seat Width: 41 cm
+Installation width: 60cm
+
+Very good condition but a bit dusty, needs to be cleaned.
+
+ 
+",Furniture,https://rotordc.com/shop/product/102fur001-auditorium-seats-from-boudewijn-building-51025?page=5&category=35,,29.0,29.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.45374351739883423, 'start': 25, 'end': 37, 'answer': ' red textile'}","{'score': 0.15646740794181824, 'start': 92, 'end': 130, 'answer': '\nTotal Height: 82 cm ;\xa0Seat Height: 48'}","{'score': 0.002060552127659321, 'start': 127, 'end': 130, 'answer': ' 48'}",Borosilicate glass,Auditorium seating,Pr_40_30_29_05,Other,Other,Other,0.002060552127659321,,,,146.0

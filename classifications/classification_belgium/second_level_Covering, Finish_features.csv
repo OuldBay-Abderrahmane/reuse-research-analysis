@@ -1,0 +1,125 @@
+,Feature,Importance
+0,Weight,0.46172753
+3,Initial_Stock,0.37118614
+1,Initial_Price,0.16708626
+108,third_level_Trim products,0.0
+81,Belgium_Code_Pr_20_29_23_65,0.0
+79,Belgium_Raw_Trellises,0.0
+78,Belgium_Raw_Sedge,0.0
+77,Belgium_Raw_Sealant backer rods,0.0
+76,Belgium_Raw_Scagliola,0.0
+75,Belgium_Raw_Plastics skirtings,0.0
+74,Belgium_Raw_Plastics dowel bar caps,0.0
+73,Belgium_Raw_Pendant luminaires,0.0
+72,Belgium_Raw_Lacquers,0.0
+71,Belgium_Raw_Fire dampers,0.0
+70,Belgium_Raw_Decorative laminated papers,0.0
+69,Belgium_Raw_Arrises,0.0
+68,material_emb_Sitka spruce,0.0
+67,material_emb_Silt,0.0
+66,material_emb_Sheet,0.0
+65,material_emb_Plastics,0.0
+64,material_emb_Pisé,0.0
+63,material_emb_Paper,0.0
+62,material_emb_Lignite,0.0
+61,material_emb_Gravel,0.0
+60,material_emb_Encaustic,0.0
+59,"material_emb_Base, bed and fill fine aggregates",0.0
+58,Language_fr,0.0
+57,Store_rotordc,0.0
+80,Belgium_Raw_Whiteboards,0.0
+82,Belgium_Code_Pr_25_71_44_77,0.0
+107,third_level_Support and restraint products,0.0
+56,Country_BE,0.0
+106,third_level_Sectional products,0.0
+105,third_level_Sanitary fittings and accessories,0.0
+104,third_level_Other,0.0
+103,"third_level_Non-rigid sheet, mat and strip covering and finish products",0.0
+102,third_level_Masonry walling units,0.0
+101,"third_level_Lighting columns, brackets and bollards",0.0
+100,third_level_Furnishings,0.0
+99,"third_level_Floor plates, gratings and edgings",0.0
+98,"second_level_Covering, Finish",0.0
+97,"first_level_Wall, Barriers, Pannels",0.0
+96,first_level_Technical elements,0.0
+95,"first_level_Roof, Slabs, Stairs",0.0
+94,first_level_Other,0.0
+93,first_level_Openings,0.0
+92,Belgium_Code_Pr_70_70_48_62,0.0
+91,Belgium_Code_Pr_65_65_24_30,0.0
+90,Belgium_Code_Pr_45_63_64_90,0.0
+89,Belgium_Code_Pr_45_31_63_76,0.0
+88,Belgium_Code_Pr_40_30_25_96,0.0
+87,Belgium_Code_Pr_35_90_43_63,0.0
+86,Belgium_Code_Pr_35_90_43_04,0.0
+85,Belgium_Code_Pr_35_57_22_21,0.0
+84,Belgium_Code_Pr_35_31_68_46,0.0
+83,Belgium_Code_Pr_35_31_64_76,0.0
+55,Collection_SOUB : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+54,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+27,Material_Inox,0.0
+25,Material_Bois,0.0
+24,Material_Aluminium,0.0
+23,Material_Acier,0.0
+22,Condition_Neuf,0.0
+21,Condition_Correct,0.0
+20,Category_Sol et plafond,0.0
+19,Category_Scénographie,0.0
+18,Category_Sanitaires,0.0
+17,Category_Quincaillerie,0.0
+16,Category_Portes et fenêtres,0.0
+15,Category_Mobilier,0.0
+14,Category_Matière brute,0.0
+13,Category_Insolite,0.0
+12,Category_Hardware,0.0
+11,Category_Furniture,0.0
+10,Category_Electricités et luminaires,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,Quantity_Change,0.0
+5,Price_Change,0.0
+4,Stock_Now,0.0
+2,Latest_Price,0.0
+26,Material_Divers,0.0
+28,Material_Métal,0.0
+53,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+29,Material_Papier,0.0
+52,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+51,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+50,Collection_ECO-CUI HDS : A coordonner avec Matériuum,0.0
+49,Collection_ECO-CUI ALL : A coordonner avec Matériuum,0.0
+48,Collection_Chêne : Retrait des éléments sur rendez-vous (à Renens) ou à Genève après confirmation de la commande par Matériuum.,0.0
+47,Collection_:,0.0
+46,"Technical_Mode d’assemblage : Vissé et connecté au réseau incendie
+Préconisations de dépose :",0.0
+45,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose : À dévisser",0.0
+44,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose : Disponible pour démontage en semaine 24-25 (Juin 2023)",0.0
+43,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose :",0.0
+42,"Technical_Mode d’assemblage : Suspendu aux rails du faux-plafond
+Préconisations de dépose : Les luminaires ne pouvant être démontés, ils sont
+considérés comme contenant des condensateurs
+PCB et des cartons amiantés par défaut.",0.0
+41,"Technical_Mode d’assemblage : Boulonné aux sorties d’eau
+Préconisations de dépose :",0.0
+40,"Technical_Mode d’assemblage : Boulonné
+Préconisations de dépose : À dévisser et à transporter individuellement",0.0
+39,"Technical_Mode d’assemblage :
+Préconisations de dépose : JOINTS DE VITRAGES AMIANTES",0.0
+38,"Technical_Mode d’assemblage :
+Préconisations de dépose : Facile",0.0
+37,"Technical_Mode d’assemblage :
+Préconisations de dépose : Dépose du cadre non garantie (test de démontage à faire)",0.0
+36,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible dès la semaine 26 (26 Juin 2023)",0.0
+35,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+34,Material_similaire,0.0
+33,Material_Verre,0.0
+32,Material_Textile,0.0
+31,Material_Plastique,0.0
+30,Material_Pierre,0.0
+109,third_level_Unit covering and finish products,0.0

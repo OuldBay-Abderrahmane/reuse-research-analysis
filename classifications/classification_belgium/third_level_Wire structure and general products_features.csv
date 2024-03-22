@@ -1,0 +1,81 @@
+,Feature,Importance
+71,first_level_Other,0.39184603
+1,Initial_Price,0.29380053
+2,Latest_Price,0.12154569
+73,first_level_Technical elements,0.09843826
+0,Weight,0.09436946
+74,"first_level_Wall, Barriers, Pannels",0.0
+48,Belgium_Raw_Metal skirtings,0.0
+54,Belgium_Raw_Steel spiles,0.0
+53,Belgium_Raw_Steel plant containers,0.0
+52,Belgium_Raw_Stainless steel hook bolts,0.0
+51,Belgium_Raw_Stainless steel chemical anchor rods,0.0
+50,Belgium_Raw_Round pin socket outlets,0.0
+49,Belgium_Raw_Parallel wire strand cables,0.0
+47,Belgium_Raw_Hollow box galvanized steel brackets,0.0
+56,Belgium_Code_Pr_20_29_08_85,0.0
+46,Belgium_Raw_Coupler connections,0.0
+45,Belgium_Raw_Coaxial cables,0.0
+44,"Belgium_Raw_Cables, conductors and fittings products",0.0
+43,Belgium_Raw_Cable glands,0.0
+42,Belgium_Raw_Aluminium-zinc coated retention grids,0.0
+41,Belgium_Raw_Aluminium trusses,0.0
+55,Belgium_Code_Pr_20_29_03_83,0.0
+57,Belgium_Code_Pr_20_29_14_15,0.0
+75,"second_level_Blocks, Panels, Fences, Bricks",0.0
+66,Belgium_Code_Pr_45_63_63_84,0.0
+72,first_level_Structural elements,0.0
+76,second_level_Other,0.0
+70,Belgium_Code_Pr_65_72_97_72,0.0
+69,Belgium_Code_Pr_65_70_15_13,0.0
+68,Belgium_Code_Pr_65_70_11_34,0.0
+67,Belgium_Code_Pr_65_70,0.0
+65,Belgium_Code_Pr_35_90_43_59,0.0
+58,Belgium_Code_Pr_20_76_08_03,0.0
+64,Belgium_Code_Pr_35_90_43_02,0.0
+63,Belgium_Code_Pr_20_85_90_03,0.0
+62,Belgium_Code_Pr_20_85_34_84,0.0
+61,Belgium_Code_Pr_20_85_32_01,0.0
+60,Belgium_Code_Pr_20_85_11_60,0.0
+40,Belgium_Raw_Aluminium skirtings,0.0
+59,Belgium_Code_Pr_20_85_09_37,0.0
+39,Belgium_Raw_Aluminium alloy hinged bollards,0.0
+38,material_emb_Wired glass,0.0
+19,"Technical_Mode d’assemblage : Posé sur structure périphérique
+Préconisations de dépose : À soulever",0.0
+17,Material_Métal,0.0
+16,Condition_Correct,0.0
+15,Category_Technical,0.0
+14,Category_Sol et plafond,0.0
+13,Category_Matière brute,0.0
+12,Category_Lighting,0.0
+11,Category_Hardware,0.0
+10,Category_Furniture,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,Quantity_Change,0.0
+5,Price_Change,0.0
+4,Stock_Now,0.0
+3,Initial_Stock,0.0
+18,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+20,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+37,material_emb_Weathering steel,0.0
+21,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+36,material_emb_Steel-aluminium alloy,0.0
+35,material_emb_Steel,0.0
+34,material_emb_Stainless steel,0.0
+33,material_emb_Monofilament,0.0
+32,material_emb_Metal,0.0
+31,material_emb_Medium-carbon steel,0.0
+30,material_emb_Hydraulic road binder bound mixtures,0.0
+29,material_emb_Gold,0.0
+28,material_emb_Fibre,0.0
+27,material_emb_Brass,0.0
+26,material_emb_Bonded surfacing decorative aggregates,0.0
+25,material_emb_Aluminium,0.0
+24,Language_fr,0.0
+23,Store_rotordc,0.0
+22,Country_BE,0.0
+77,third_level_Wire structure and general products,0.0

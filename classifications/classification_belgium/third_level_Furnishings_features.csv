@@ -1,0 +1,178 @@
+,Feature,Importance
+5,Price_Change,0.3416182
+10,Category_Door,0.117811166
+117,Belgium_Raw_Wood panelled door leaves,0.08621939
+59,material_emb_Decorative aggregates,0.085663624
+14,Category_Furniture,0.064132996
+1,Initial_Price,0.05205874
+11,Category_Doors,0.051377546
+79,material_emb_Wood,0.046906747
+166,second_level_Furnishings,0.04382516
+0,Weight,0.03485043
+72,material_emb_Sitka spruce,0.031448893
+2,Latest_Price,0.025681391
+159,first_level_Furnishings,0.01840576
+116,Belgium_Raw_Wood doorsets,0.0
+111,Belgium_Raw_Uncontrolled door closers,0.0
+112,Belgium_Raw_Upholstered benches,0.0
+113,Belgium_Raw_Wood architraves,0.0
+114,Belgium_Raw_Wood brise-soleil units,0.0
+91,Belgium_Raw_Easy chairs,0.0
+115,Belgium_Raw_Wood door frames,0.0
+94,Belgium_Raw_Furniture trolleys,0.0
+109,Belgium_Raw_Stacking chairs,0.0
+118,Belgium_Raw_Wood veneers,0.0
+119,Belgium_Raw_Wrought iron decorative panels,0.0
+120,Belgium_Code_Pr_20_65_50_46,0.0
+121,Belgium_Code_Pr_25_71_50_96,0.0
+122,Belgium_Code_Pr_25_71_94_98,0.0
+123,Belgium_Code_Pr_25_71_97_46,0.0
+110,Belgium_Raw_Tiered seating,0.0
+108,Belgium_Raw_Stacking benches,0.0
+95,Belgium_Raw_Galvanized coatings,0.0
+100,Belgium_Raw_Office desks,0.0
+93,Belgium_Raw_Folding tables,0.0
+96,Belgium_Raw_Kitchenette units,0.0
+92,Belgium_Raw_Filing cabinets,0.0
+97,Belgium_Raw_Laminboard core plywoods,0.0
+98,Belgium_Raw_Lounge chairs,0.0
+99,Belgium_Raw_Office chairs,0.0
+101,Belgium_Raw_Office tables,0.0
+107,Belgium_Raw_Sofas,0.0
+102,Belgium_Raw_Play chairs,0.0
+125,Belgium_Code_Pr_30_36_36_21,0.0
+103,Belgium_Raw_Reclining chairs,0.0
+104,Belgium_Raw_Reclining treatment armchairs,0.0
+105,Belgium_Raw_Sedge,0.0
+106,Belgium_Raw_Shelves,0.0
+124,Belgium_Code_Pr_30_36_36_11,0.0
+129,Belgium_Code_Pr_30_59_23_96,0.0
+126,Belgium_Code_Pr_30_36_59_92,0.0
+127,Belgium_Code_Pr_30_59_09_93,0.0
+148,Belgium_Code_Pr_40_50_12_83,0.0
+149,Belgium_Code_Pr_40_50_12_90,0.0
+150,Belgium_Code_Pr_40_50_12_93,0.0
+151,Belgium_Code_Pr_40_50_21_31,0.0
+152,Belgium_Code_Pr_40_50_21_59,0.0
+153,Belgium_Code_Pr_40_50_21_60,0.0
+154,Belgium_Code_Pr_40_50_51_71,0.0
+155,Belgium_Code_Pr_40_50_81_20,0.0
+156,Belgium_Code_Pr_40_50_90_33,0.0
+157,Belgium_Code_Pr_40_70_86_08,0.0
+158,Belgium_Code_Pr_45_31_63_76,0.0
+160,first_level_Openings,0.0
+161,"first_level_Roof, Slabs, Stairs",0.0
+162,"first_level_Wall, Barriers, Pannels",0.0
+163,"second_level_Covering, Finish",0.0
+164,"second_level_Door, Windows, Gates",0.0
+165,"second_level_Floors, Ceiling",0.0
+147,Belgium_Code_Pr_40_50_12_82,0.0
+146,Belgium_Code_Pr_40_50_12_81,0.0
+145,Belgium_Code_Pr_40_50_12_72,0.0
+135,Belgium_Code_Pr_40_30_20_03,0.0
+128,Belgium_Code_Pr_30_59_23,0.0
+89,Belgium_Raw_Door frames and leaves,0.0
+130,Belgium_Code_Pr_30_59_23_98,0.0
+131,Belgium_Code_Pr_30_59_24_97,0.0
+132,Belgium_Code_Pr_35_31_68_34,0.0
+133,Belgium_Code_Pr_35_90_43_04,0.0
+134,Belgium_Code_Pr_35_90_43_87,0.0
+136,Belgium_Code_Pr_40_30_78_17,0.0
+144,Belgium_Code_Pr_40_50_12_63,0.0
+137,Belgium_Code_Pr_40_30_78_78,0.0
+138,Belgium_Code_Pr_40_30_87_29,0.0
+139,Belgium_Code_Pr_40_50_12_05,0.0
+140,Belgium_Code_Pr_40_50_12_14,0.0
+141,Belgium_Code_Pr_40_50_12_26,0.0
+142,Belgium_Code_Pr_40_50_12_48,0.0
+143,Belgium_Code_Pr_40_50_12_57,0.0
+90,Belgium_Raw_Door hinges,0.0
+84,Belgium_Raw_Buoyancy-aided movable floors,0.0
+88,Belgium_Raw_Cushions,0.0
+34,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible été 2024",0.0
+27,Material_Bois,0.0
+28,Material_Céramique,0.0
+29,Material_Inox,0.0
+30,Material_Métal,0.0
+31,Material_Plastique,0.0
+32,Material_Verre,0.0
+33,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+35,"Technical_Mode d’assemblage : Encastré dans le mur
+Préconisations de dépose : Potentiellement complexe. Test à effectuer sur place pour le cadre",0.0
+25,Condition_correct,0.0
+36,"Technical_Mode d’assemblage : Fixé sur socle double ou simple
+Préconisations de dépose : Actuellement stockées avec socles démontés",0.0
+37,"Technical_Mode d’assemblage : Posé au sol. Vissé
+Préconisations de dépose :",0.0
+38,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose :",0.0
+39,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose : Facile",0.0
+40,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose : Rendu complexe par la retombée du plafonds",0.0
+41,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose : À dévisser",0.0
+42,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+26,Material_Aluminium,0.0
+24,Condition_Correct,0.0
+44,Collection_Chêne : Retrait des éléments sur rendez-vous (à Renens) ou à Genève après confirmation de la commande par Matériuum.,0.0
+13,Category_Floor,0.0
+3,Initial_Stock,0.0
+4,Stock_Now,0.0
+6,Quantity_Change,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+12,Category_Droguerie,0.0
+15,Category_Hardware,0.0
+23,Category_Wood,0.0
+16,Category_Mobilier,0.0
+17,Category_Portes et fenêtres,0.0
+18,Category_Quincaillerie,0.0
+19,Category_Sanitaires,0.0
+20,Category_Scénographie,0.0
+21,Category_Sol et plafond,0.0
+22,Category_Technical,0.0
+43,Collection_CHUV Lausanne : Retrait des éléments sur rendez-vous (Lausanne) après confirmation de la commande par Matériuum.,0.0
+45,Collection_ECO-CUI MDC :,0.0
+87,Belgium_Raw_Coat racks,0.0
+76,material_emb_Terracotta,0.0
+68,material_emb_Pisé,0.0
+69,material_emb_Porcelain,0.0
+70,material_emb_Sheet,0.0
+71,material_emb_Sheet glass,0.0
+73,material_emb_Stainless steel,0.0
+74,material_emb_Teak,0.0
+75,material_emb_Terne-coated steel,0.0
+77,material_emb_Titanium steel,0.0
+66,material_emb_Mahogany,0.0
+78,material_emb_Vinyl ester resin,0.0
+80,material_emb_Wychert,0.0
+81,Belgium_Raw_Acoustic screens,0.0
+82,Belgium_Raw_Arrises,0.0
+83,Belgium_Raw_Auditorium chairs,0.0
+85,Belgium_Raw_Cabinet and countertop hinges,0.0
+86,Belgium_Raw_Chaises longues,0.0
+67,material_emb_Oak,0.0
+65,material_emb_Loose surfacing decorative aggregates,0.0
+46,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+54,material_emb_American red oak,0.0
+47,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+48,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+49,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+50,Country_BE,0.0
+51,Store_rotordc,0.0
+52,Language_fr,0.0
+53,material_emb_Aluminium,0.0
+55,material_emb_Architectural glass,0.0
+64,material_emb_Leather,0.0
+56,material_emb_Bamboo,0.0
+57,material_emb_Ceramic,0.0
+58,material_emb_Coloured glass,0.0
+60,material_emb_Encaustic,0.0
+61,material_emb_Fibreglass,0.0
+62,material_emb_Fine bedding concrete,0.0
+63,material_emb_Galvanized steel,0.0
+167,third_level_Furnishings,0.0

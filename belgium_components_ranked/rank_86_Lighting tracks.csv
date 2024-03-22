@@ -1,0 +1,19 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+500,999lig056,tracks for lighting used,0.1,kg,m,"
+Dimensions: W 3,3 cm x H 3,4 cm
+
+Various lengths and colours available in our shop. Between 8 and 18€/ running meter.
+
+ 
+
+ 
+",Lighting,https://rotordc.com/shop/product/999lig056-erco-tracks-for-lighting-used-49080?page=6&category=39,,0.0,0.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 2.3973560018930584e-05, 'start': 84, 'end': 118, 'answer': ' Between 8 and 18€/ running meter.'}","{'score': 0.8969026803970337, 'start': 12, 'end': 32, 'answer': ' W 3,3 cm x H 3,4 cm'}","{'score': 0.0018443235894665122, 'start': 84, 'end': 118, 'answer': ' Between 8 and 18€/ running meter.'}",Asphalt,Lighting tracks,Pr_70_70_48_47,Other,"Stairs, Ramps, Lift, Hardware",Power and lighting outlet products,0.0018443235894665122,,,,146.0
+1109,1078361000,tracks for lighting new,1.0,kg,pc,"
+Sold per 1 meter, 2 meter, 3 meter or 4 meter.Backorders are possible, expected delay is two weeks.  
+",Lighting,https://rotordc.com/shop/product/erco-tracks-for-lighting-new-58561?page=11&category=39,"['58561_9141622.png', '7700_9ecdf7b.png', '7701_9ecdf7b.png', '7702_9ecdf7b.png', '7703_9ecdf7b.png']",67.51,67.0,,1.0,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.0007124613039195538, 'start': 9, 'end': 18, 'answer': ' 1 meter,'}","{'score': 0.8165403008460999, 'start': 9, 'end': 57, 'answer': ' 1 meter, 2 meter, 3 meter or 4 meter.Backorders'}","{'score': 0.7411952614784241, 'start': 9, 'end': 57, 'answer': ' 1 meter, 2 meter, 3 meter or 4 meter.Backorders'}",Asphalt,Lighting tracks,Pr_70_70_48_47,Other,Other,Power and lighting outlet products,0.7411952614784241,3.0,2.0,1.0,59.0
+1910,1078342000,tracks for lighting new,2.0,kg,pc,"
+Sold per 1 meter, 2 meter, 3 meter or 4 meter.Backorders are possible, expected delay is two weeks.  
+",Lighting,https://rotordc.com/shop/product/erco-tracks-for-lighting-new-58561?page=18&category=39,"['58561_42bf810.png', '7700_640d17b.png', '7701_9ecdf7b.png', '7702_9ecdf7b.png', '7703_9ecdf7b.png', '11635_60e633c.png']",133.83,133.0,,1.0,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 0.0007124613039195538, 'start': 9, 'end': 18, 'answer': ' 1 meter,'}","{'score': 0.8165403008460999, 'start': 9, 'end': 57, 'answer': ' 1 meter, 2 meter, 3 meter or 4 meter.Backorders'}","{'score': 0.7411952614784241, 'start': 9, 'end': 57, 'answer': ' 1 meter, 2 meter, 3 meter or 4 meter.Backorders'}",Asphalt,Lighting tracks,Pr_70_70_48_47,Other,Other,Power and lighting outlet products,0.7411952614784241,3.0,2.0,1.0,
+1920,999LIG056S,tracks for lighting used,0.1,kg,m,"
+Various lengths and colours available in our shop. Sold in running meter. Dimensions: W. 3,3 cm x H. 3,4 cm Two models : 3-phase (18€/m) or 1-phase track (8€/m) (Single or Triple) More info about the difference between 1-phase and 3-phase track lighting below: 
+",Lighting,https://rotordc.com/shop/product/erco-tracks-for-lighting-used-49080?page=19&category=39,"['49080_01d1287.png', '9235_a7009f9.png', '9236_a7009f9.png', '9237_a7009f9.png', '13693_01d1287.png']",8.0,8.0,,,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 0.04087791591882706, 'start': 140, 'end': 154, 'answer': ' 1-phase track'}","{'score': 0.899575412273407, 'start': 86, 'end': 108, 'answer': ' W. 3,3 cm x H. 3,4 cm'}","{'score': 0.19927622377872467, 'start': 59, 'end': 74, 'answer': ' running meter.'}",Asphalt,Lighting tracks,Pr_70_70_48_47,Other,"Stairs, Ramps, Lift, Hardware",Power and lighting outlet products,0.19927622377872467,,,,

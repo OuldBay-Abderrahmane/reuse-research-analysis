@@ -1,0 +1,43 @@
+,Code,report,features
+0,Shaft-lining products,"              precision    recall  f1-score   support
+
+           0       1.00      0.50      0.67         2
+           1       0.75      1.00      0.86         3
+
+    accuracy                           0.80         5
+   macro avg       0.88      0.75      0.76         5
+weighted avg       0.85      0.80      0.78         5
+","                                        Feature  Importance
+30                           second_level_Other    0.631598
+0                                         Price    0.186828
+8                                Material_Metal    0.181573
+31   second_level_Stairs, Ramps, Lift, Hardware    0.000000
+29  second_level_Blocks, Panels, Fences, Bricks    0.000000
+28          first_level_Wall, Barriers, Pannels    0.000000
+27               first_level_Technical elements    0.000000
+26              first_level_Structural elements    0.000000
+17                         Code_Display plinths    0.000000
+25                            first_level_Other    0.000000
+24                          Code_Stilling tubes    0.000000
+23                            Code_Steel spiles    0.000000
+22   Code_Stainless steel welded circular tubes    0.000000
+21                       Code_Process equipment    0.000000
+20                             Code_Metal sways    0.000000
+19                         Code_Metal skirtings    0.000000
+18                       Code_Drafting machines    0.000000
+16          Code_Cast and wrought iron brackets    0.000000
+1                                        Length    0.000000
+15                          Code_Brass sections    0.000000
+14                  Code_Black bitumen coatings    0.000000
+13                                Code_Bandings    0.000000
+12                        Material_Wrought iron    0.000000
+11                                 Material_Tin    0.000000
+10                               Material_Steel    0.000000
+9                         Material_Nickel steel    0.000000
+7                              Material_Lignite    0.000000
+6                               Material_Gravel    0.000000
+5                                Material_Brass    0.000000
+4                              Material_Bitumen    0.000000
+3                                        Height    0.000000
+2                                         Width    0.000000
+32            third_level_Shaft-lining products    0.000000"

@@ -1,0 +1,69 @@
+,Code,report,features
+0,Structural elements,"              precision    recall  f1-score   support
+
+           0       0.33      1.00      0.50         1
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.33         3
+   macro avg       0.17      0.50      0.25         3
+weighted avg       0.11      0.33      0.17         3
+","                                              Feature  Importance
+2                                        Latest_Price    0.939371
+0                                              Weight    0.060629
+44                        Belgium_Code_Pr_35_90_43_59    0.000000
+32                     Belgium_Raw_Aluminium doorsets    0.000000
+33                    Belgium_Raw_Aluminium handrails    0.000000
+34  Belgium_Raw_Aluminium-zinc coated retention grids    0.000000
+35  Belgium_Raw_Carbon steel framed vertical secti...    0.000000
+36  Belgium_Raw_Cold-formed galvanized steel sections    0.000000
+37                        Belgium_Raw_Metal skirtings    0.000000
+38                        Belgium_Code_Pr_20_76_08_03    0.000000
+39                        Belgium_Code_Pr_20_76_51_21    0.000000
+40                        Belgium_Code_Pr_20_85_32_01    0.000000
+41                        Belgium_Code_Pr_25_30_36_03    0.000000
+42                        Belgium_Code_Pr_25_71_50_15    0.000000
+43                        Belgium_Code_Pr_30_59_24_02    0.000000
+45                    first_level_Structural elements    0.000000
+30                    material_emb_Terne-coated steel    0.000000
+46        second_level_Blocks, Panels, Fences, Bricks    0.000000
+47                  second_level_Door, Windows, Gates    0.000000
+48                       second_level_Floors, Ceiling    0.000000
+49                                 second_level_Other    0.000000
+50         second_level_Stairs, Ramps, Lift, Hardware    0.000000
+51     third_level_Floor plates, gratings and edgings    0.000000
+52                              third_level_Handrails    0.000000
+53  third_level_Lighting columns, brackets and bol...    0.000000
+54  third_level_Non-rigid sheet, mat and strip cov...    0.000000
+55               third_level_Structural roofing units    0.000000
+56         third_level_Structure and general products    0.000000
+57         third_level_Support and restraint products    0.000000
+31        Belgium_Raw_Aluminium alloy hinged bollards    0.000000
+29           material_emb_Surface dressing aggregates    0.000000
+1                                       Initial_Price    0.000000
+28                      material_emb_Structural steel    0.000000
+3                                       Initial_Stock    0.000000
+4                                           Stock_Now    0.000000
+5                                        Price_Change    0.000000
+6                                     Quantity_Change    0.000000
+7                                              Length    0.000000
+8                                               Width    0.000000
+9                                              Height    0.000000
+10                                 Category_Furniture    0.000000
+11                                  Category_Hardware    0.000000
+12                             Category_Matière brute    0.000000
+13                              Category_Per building    0.000000
+14                                 Category_Technical    0.000000
+15                                  Condition_Correct    0.000000
+16                                     Material_Métal    0.000000
+17  Technical_Mode d’assemblage :\r\nPréconisation...    0.000000
+18  Collection_MACO : Retrait sur place du mardi a...    0.000000
+19                                         Country_BE    0.000000
+20                                      Store_rotordc    0.000000
+21                                        Language_fr    0.000000
+22                             material_emb_Aluminium    0.000000
+23                      material_emb_Galvanized steel    0.000000
+24  material_emb_Loose surfacing decorative aggreg...    0.000000
+25                                 material_emb_Metal    0.000000
+26                                  material_emb_Silt    0.000000
+27                 material_emb_Steel-aluminium alloy    0.000000
+58    third_level_Wire structure and general products    0.000000"

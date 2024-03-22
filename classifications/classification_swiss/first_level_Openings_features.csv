@@ -1,0 +1,43 @@
+,Feature,Importance
+0,LastPrice,1.0
+31,Material_Glass,0.0
+23,Subcategory_Einrichtungen,0.0
+24,Subcategory_Innentüren,0.0
+25,Subcategory_Leuchten & Lampen,0.0
+26,Subcategory_Sonstiges,0.0
+27,Subcategory_Wandfenster,0.0
+28,Subcategory_Werkzeug,0.0
+29,Subcategory_Wände,0.0
+30,Material_Compound,0.0
+32,Material_Holz,0.0
+1,Quantity,0.0
+33,Material_Metal,0.0
+34,Material_Mixed,0.0
+35,Material_Plastic,0.0
+36,Material_Steel,0.0
+37,Material_Wood,0.0
+38,Material_gemischt,0.0
+39,Energy_Efficiency_B,0.0
+40,Energy_Efficiency_G,0.0
+22,Subcategory_Baustoffe,0.0
+21,Subcategory_Aussentüren,0.0
+20,"Condition_used, cleaned & tested",0.0
+19,Condition_used & cleaned,0.0
+2,Length,0.0
+3,Width,0.0
+4,Category_Ausbau,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+7,Category_Gebäudetechnik & Sanitär,0.0
+8,Category_Sonstiges,0.0
+9,Swiss_Raw_Arrises,0.0
+10,Swiss_Raw_Door hinges,0.0
+11,Swiss_Raw_Doorsets,0.0
+12,Swiss_Raw_Gate hinges,0.0
+13,Swiss_Raw_Pendant luminaires,0.0
+14,Swiss_Raw_Window hinges,0.0
+15,Swiss_Raw_Window panels,0.0
+16,Swiss_Raw_Window walls,0.0
+17,Condition_like new,0.0
+18,Condition_used,0.0
+41,first_level_Openings,0.0

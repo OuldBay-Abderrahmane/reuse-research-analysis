@@ -1,0 +1,424 @@
+,Feature,Importance
+248,location_PARIS-15E-ARRONDISSEMENT,0.061572876
+65,category_storage_unit,0.05849069
+250,location_PARIS-1ER-ARRONDISSEMENT,0.05146888
+246,location_PARIS-13E-ARRONDISSEMENT,0.05036499
+227,location_LA MADELEINE,0.036287036
+258,location_RENNES,0.034044567
+255,location_PLOEREN,0.034031413
+259,location_RUNGIS,0.032094847
+410,first_level_Other,0.029839562
+257,location_PUTEAUX,0.029369976
+217,location_CHEVILLY-LARUE,0.027372783
+208,location_AUBAGNE,0.025857346
+212,location_CHAMPS-SUR-MARNE,0.025848934
+235,location_MARSEILLE--2E--ARRONDISSEMENT,0.024948778
+264,location_SAVIGNY-SUR-ORGE,0.024895612
+211,location_BRIANCON,0.020526478
+207,location_ARGENTEUIL,0.020219287
+236,location_MARSEILLE-13E--ARRONDISSEMENT,0.018280081
+188,BIM_class_E.20.20.05.3b,0.01826157
+224,location_GENNEVILLIERS,0.017562404
+240,location_NANTES,0.017365798
+249,location_PARIS-16E-ARRONDISSEMENT,0.017281318
+174,BIM_class_D.50.20.02.6,0.01605822
+263,location_SAINT-OUEN,0.015769744
+52,category_outdoor_sun_protection_device,0.015512858
+11,material_state_damaged,0.014497435
+350,French_Raw_Trellises,0.014327379
+267,location_VILLENEUVE-SAINT-GEORGES,0.0138239395
+331,French_Raw_Lacquers,0.013181724
+33,category_lavatories,0.011912881
+307,material_emb_Silt,0.010085665
+215,location_CHATILLON,0.0099684745
+254,location_PARIS-9E-ARRONDISSEMENT,0.009646542
+337,French_Raw_Pendant luminaires,0.0093772365
+413,first_level_Technical elements,0.008874361
+409,first_level_Openings,0.008440918
+408,first_level_Furnishings,0.0084197745
+420,second_level_Other,0.007960562
+343,French_Raw_Sedge,0.007669965
+231,location_LEVALLOIS-PERRET,0.0071619353
+178,BIM_class_D.50.20.02.9,0.007026639
+1,price_latest,0.0065884623
+0,price_initial,0.0065801227
+9,Height,0.0061855186
+35,category_lighting_general_equipment,0.00606097
+234,location_LYON--6E--ARRONDISSEMENT,0.0059290845
+293,material_emb_Encaustic,0.0058818078
+292,material_emb_Decorative aggregates,0.0056019644
+253,location_PARIS-8E-ARRONDISSEMENT,0.0054374933
+299,material_emb_Gravel,0.004502099
+10,material_state_correct,0.0044419207
+3,quantity_latest,0.0042724195
+8,Width,0.004135625
+414,"first_level_Wall, Barriers, Pannels",0.0038355824
+256,location_PONTCHARRA,0.0037957001
+171,BIM_class_D.50.20.02.3,0.0036290823
+308,material_emb_Sitka spruce,0.0033838542
+304,material_emb_Pisé,0.0033720809
+13,material_state_verygood,0.0028814266
+4,price,0.0026576607
+416,"second_level_Covering, Finish",0.0025120492
+345,French_Raw_Sprinklers,0.0024844743
+300,material_emb_Lignite,0.0024629305
+314,French_Raw_Arrises,0.0024116589
+415,"second_level_Blocks, Panels, Fences, Bricks",0.002257242
+71,category_windows,0.0021703779
+24,category_fire_doors,0.002081906
+168,BIM_class_D.50.20.02.13,0.0018394913
+418,"second_level_Floors, Ceiling",0.0017055303
+26,category_frame,0.001426107
+55,category_paved_surfaces,0.0013880571
+284,material_emb_Bonded surfacing decorative aggregates,0.0012704768
+271,material_type_reconditioned,0.0011153916
+286,material_emb_Ceramic,0.0
+12,material_state_new,0.0
+287,material_emb_Clinker,0.0
+288,material_emb_Coade stone,0.0
+289,material_emb_Coloured glass,0.0
+290,material_emb_Copper,0.0
+291,material_emb_Daub,0.0
+320,French_Raw_Copper brackets,0.0
+319,French_Raw_Container-grown shrubs,0.0
+294,material_emb_European larch,0.0
+295,material_emb_Fir,0.0
+296,material_emb_French oak,0.0
+297,material_emb_Granule,0.0
+298,material_emb_Graphite,0.0
+318,French_Raw_Column casings,0.0
+317,French_Raw_Circlips,0.0
+316,French_Raw_Bolsters,0.0
+315,French_Raw_Barometers,0.0
+313,material_emb_Zinc,0.0
+301,material_emb_Loose surfacing decorative aggregates,0.0
+302,material_emb_Mahogany,0.0
+303,material_emb_Metal,0.0
+312,material_emb_Wood,0.0
+311,material_emb_White poplar,0.0
+310,material_emb_Stone,0.0
+309,material_emb_Spruce,0.0
+305,material_emb_Reflective glass,0.0
+306,material_emb_Sheet,0.0
+43,category_other_layout,0.0
+277,state_ bon,0.0
+285,material_emb_Borosilicate glass,0.0
+23,category_faucets,0.0
+17,category_balcony_wall_handrail,0.0
+18,category_bath_and_toilet_accessories,0.0
+19,category_demountable_partitions,0.0
+20,category_desc,0.0
+252,location_PARIS-6E-ARRONDISSEMENT,0.0
+251,location_PARIS-2E-ARRONDISSEMENT,0.0
+21,category_domestic_water_systems_equipment,0.0
+22,category_exterior_claddings,0.0
+247,location_PARIS-14E-ARRONDISSEMENT,0.0
+260,location_SAINT-APPOLINARD,0.0
+245,location_PARIS-11E-ARRONDISSEMENT,0.0
+244,location_PARIS-10E-ARRONDISSEMENT,0.0
+243,location_ORLY,0.0
+242,location_ORLEANS,0.0
+241,location_NEUILLY-SUR-SEINE,0.0
+25,category_fixed_partitions,0.0
+239,location_NANTERRE,0.0
+238,location_NANCY,0.0
+16,category_autonomous_piece,0.0
+261,location_SAINT-ETIENNE,0.0
+283,material_emb_Blinding aggregates,0.0
+274,state_ Bon,0.0
+282,material_emb_Barytes aggregates,0.0
+281,material_emb_Asphaltite,0.0
+280,state_ très bon,0.0
+279,"state_ quasi neuve,",0.0
+278,state_ neuf,0.0
+322,French_Raw_Decorative facings,0.0
+276,state_ Très bon,0.0
+275,state_ Occasion,0.0
+273,country_FR,0.0
+262,location_SAINT-MALO,0.0
+272,material_type_used,0.0
+270,material_type_new,0.0
+269,location_VILLEURBANNE,0.0
+268,location_VILLERS-LE-LAC,0.0
+266,location_TOULOUSE,0.0
+265,location_STRASBOURG,0.0
+14,category_acoustic_panel,0.0
+15,category_air_handling_unit,0.0
+321,French_Raw_Copper plating,0.0
+329,French_Raw_Glazed half-height turnstiles,0.0
+323,French_Raw_Desks,0.0
+373,French_Code_Pr_30_36_36_63,0.0
+393,French_Code_Pr_45_63_63_94,0.0
+392,French_Code_Pr_45_31_63_76,0.0
+391,French_Code_Pr_45_30_80_20,0.0
+390,French_Code_Pr_45_28_30_42,0.0
+389,French_Code_Pr_40_50_81_09,0.0
+388,French_Code_Pr_40_50_21_58,0.0
+387,French_Code_Pr_40_50_21_21,0.0
+386,French_Code_Pr_40_50_13_86,0.0
+385,French_Code_Pr_40_50_05_55,0.0
+384,French_Code_Pr_40_30_25_96,0.0
+383,French_Code_Pr_35_93_96_85,0.0
+382,French_Code_Pr_35_90_43_98,0.0
+381,French_Code_Pr_35_90_43_87,0.0
+380,French_Code_Pr_35_90_43_04,0.0
+379,French_Code_Pr_35_31_85_48,0.0
+378,French_Code_Pr_35_31_68_99,0.0
+377,French_Code_Pr_35_31_68_46,0.0
+376,French_Code_Pr_35_31_68_19,0.0
+375,French_Code_Pr_30_59_34_34,0.0
+394,French_Code_Pr_45_63_64_90,0.0
+395,French_Code_Pr_60_45_22_30,0.0
+396,French_Code_Pr_65_80_47_31,0.0
+407,French_Code_Pr_80_77_28_70,0.0
+421,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+2,price_change,0.0
+419,second_level_Furnishings,0.0
+417,"second_level_Door, Windows, Gates",0.0
+412,first_level_Structural elements,0.0
+411,"first_level_Roof, Slabs, Stairs",0.0
+5,quantity,0.0
+6,min_quantity,0.0
+406,French_Code_Pr_75_50_52_06,0.0
+397,French_Code_Pr_70_50_80_94,0.0
+405,French_Code_Pr_70_70_48_71,0.0
+404,French_Code_Pr_70_70_48_62,0.0
+403,French_Code_Pr_70_70_48_35,0.0
+402,French_Code_Pr_70_70_48_24,0.0
+401,French_Code_Pr_70_70_46_30,0.0
+400,French_Code_Pr_70_70_46_24,0.0
+399,French_Code_Pr_70_55_98_84,0.0
+398,French_Code_Pr_70_55_51_74,0.0
+374,French_Code_Pr_30_59_09_91,0.0
+372,French_Code_Pr_30_36_33_72,0.0
+324,French_Raw_Double slips,0.0
+371,French_Code_Pr_25_71_94_98,0.0
+348,French_Raw_Stone slabs,0.0
+347,French_Raw_Stainless steel wire ropes,0.0
+346,French_Raw_Stainless steel balusters and newel posts,0.0
+344,French_Raw_Sprigs,0.0
+342,French_Raw_Roses,0.0
+341,French_Raw_Rigid pendants,0.0
+340,French_Raw_Recessed luminaires,0.0
+339,French_Raw_Rack cabinets,0.0
+338,French_Raw_Pillar hinges,0.0
+336,French_Raw_Occasional tables,0.0
+335,French_Raw_Murals,0.0
+334,French_Raw_Metal sways,0.0
+333,French_Raw_Luminous paints,0.0
+332,French_Raw_Lamprey plates,0.0
+330,French_Raw_Ground-recessed luminaires,0.0
+328,French_Raw_Floating decanters,0.0
+327,French_Raw_Fixed hoists,0.0
+326,French_Raw_Downlights,0.0
+325,French_Raw_Double-capped tubular LED lamps,0.0
+349,French_Raw_Sundials,0.0
+7,Length,0.0
+351,French_Raw_Tubular fluorescent lamps,0.0
+362,French_Code_Pr_20_29_56_82,0.0
+370,French_Code_Pr_25_71_94_23,0.0
+369,French_Code_Pr_25_71_14_16,0.0
+368,French_Code_Pr_20_96_97_81,0.0
+367,French_Code_Pr_20_85_46_96,0.0
+366,French_Code_Pr_20_85_09_20,0.0
+365,French_Code_Pr_20_76_71_24,0.0
+364,French_Code_Pr_20_76_06_83,0.0
+363,French_Code_Pr_20_29_87_52,0.0
+361,French_Code_Pr_20_29_14_13,0.0
+352,French_Raw_Vases,0.0
+360,French_Raw_Zinc plating,0.0
+359,French_Raw_Wood veneers,0.0
+358,French_Raw_Wood skirtings,0.0
+357,French_Raw_Wood lathings,0.0
+356,French_Raw_Wood brise-soleil louvre blades,0.0
+355,French_Raw_Wood architraves,0.0
+354,French_Raw_Whiteboards,0.0
+353,French_Raw_Vertical balers,0.0
+237,location_MONTIGNY-LES-CORMEILLES,0.0
+233,location_LYON--3E--ARRONDISSEMENT,0.0
+27,category_guardrail_barrier,0.0
+104,BIM_class_B.20.30.07.4,0.0
+113,BIM_class_C.10.20.01.1e,0.0
+112,BIM_class_C.10.20.01.1d,0.0
+111,BIM_class_C.10.10.90,0.0
+110,BIM_class_C.10.10.03.2f,0.0
+109,BIM_class_C.10.10.02.9,0.0
+108,BIM_class_C.10.10.02.1f,0.0
+107,BIM_class_C.10.10.01.5b,0.0
+106,BIM_class_C.10.10.01.1,0.0
+105,BIM_class_B.30.10.01.7b,0.0
+103,BIM_class_B.20.30.04.4a,0.0
+92,BIM_class_B.20.10.02.1j,0.0
+102,BIM_class_B.20.20.05.2e,0.0
+101,BIM_class_B.20.20.01.9,0.0
+100,BIM_class_B.20.20.01.5f,0.0
+99,BIM_class_B.20.20.01.3f,0.0
+98,BIM_class_B.20.20.01.3c,0.0
+97,BIM_class_B.20.20.01.3b,0.0
+96,BIM_class_B.20.20.01.2a,0.0
+95,BIM_class_B.20.10.06.b,0.0
+94,BIM_class_B.20.10.02.4,0.0
+114,BIM_class_C.10.20.01.2d,0.0
+115,BIM_class_C.10.20.01.3d,0.0
+116,BIM_class_C.10.20.03,0.0
+117,BIM_class_C.10.20.04.2b,0.0
+136,BIM_class_C.30.20.04.4,0.0
+135,BIM_class_C.30.20.03.5,0.0
+134,BIM_class_C.30.20.03.3,0.0
+133,BIM_class_C.30.20.03.2,0.0
+132,BIM_class_C.30.10.99,0.0
+131,BIM_class_C.30.10.90.4,0.0
+130,BIM_class_C.30.10.90.2,0.0
+129,BIM_class_C.30.10.06,0.0
+128,BIM_class_C.20.10.90.3b,0.0
+127,BIM_class_C.20.10.90.3a,0.0
+126,BIM_class_C.10.30.90.6,0.0
+125,BIM_class_C.10.30.05.2,0.0
+124,BIM_class_C.10.30.03.3,0.0
+123,BIM_class_C.10.30.03.2,0.0
+122,BIM_class_C.10.30.03.1,0.0
+121,BIM_class_C.10.30.02.5,0.0
+120,BIM_class_C.10.30.02.10,0.0
+119,BIM_class_C.10.20.04.2f,0.0
+118,BIM_class_C.10.20.04.2c,0.0
+93,BIM_class_B.20.10.02.3,0.0
+91,BIM_class_B.20.10.02.1d,0.0
+44,category_other_partition,0.0
+56,category_plants,0.0
+41,category_other_floor_finish,0.0
+64,category_slope_/_flat_roof,0.0
+63,category_sliding_and_folding_doors,0.0
+62,category_simple_solid_doors,0.0
+61,category_showers_baths,0.0
+60,category_seated,0.0
+59,category_restractable_partitions,0.0
+58,category_residential_equipment,0.0
+57,category_portal,0.0
+54,category_parking_equipment,0.0
+90,BIM_class_B.20.10.02.1b,0.0
+53,category_ovens,0.0
+42,category_other_furniture,0.0
+51,category_other_special_system_device,0.0
+50,category_other_special_roofing_system,0.0
+49,category_other_special_interior_furnishings,0.0
+48,category_other_special_fire_protection_system,0.0
+47,category_other_special_equipment,0.0
+46,category_other_services_and_electric_distribution,0.0
+45,category_other_production_of_heat,0.0
+66,category_terracotta_faience_natural_stone,0.0
+67,category_the_room_bar,0.0
+68,category_wall_interior_partition_bearing,0.0
+69,category_wall_panelling,0.0
+89,BIM_class_B.20.10.01.6,0.0
+88,BIM_class_B.20.10.01.5e,0.0
+87,BIM_class_B.20.10.01.5c,0.0
+86,BIM_class_B.20.10.01.4g,0.0
+85,BIM_class_B.20.10.01.4e,0.0
+84,BIM_class_B.20.10.01.4d,0.0
+83,BIM_class_B.20.10.01.3c,0.0
+82,BIM_class_B.20.10.01.3b,0.0
+81,BIM_class_B.20.10.01.3a,0.0
+80,BIM_class_B.10.20.90,0.0
+79,BIM_class_B.10.20.01.4a,0.0
+78,BIM_class_B.10.20.01.3c,0.0
+77,BIM_class_B.10.20.01.3a,0.0
+76,BIM_class_B.10.20.01.2a,0.0
+75,BIM_class_B.10.10.02.5a,0.0
+74,category_woodwork,0.0
+73,category_wood_flooring,0.0
+72,category_wires_connections,0.0
+70,category_welcome_desk,0.0
+137,BIM_class_C.30.20.05.1a,0.0
+138,BIM_class_C.30.20.05.1e,0.0
+139,BIM_class_C.30.20.90.2,0.0
+199,BIM_class_G.20.20.90,0.0
+36,category_linoleum_pvc_vinyl,0.0
+37,category_locker,0.0
+206,BIM_class_G.20.50.08,0.0
+205,BIM_class_G.20.40.99.7,0.0
+204,BIM_class_G.20.40.99.5a,0.0
+203,BIM_class_G.20.40.99.3,0.0
+202,BIM_class_G.20.30.04.4,0.0
+201,BIM_class_G.20.30.01.2b,0.0
+200,BIM_class_G.20.30.01.2a,0.0
+198,BIM_class_F.10.10.01,0.0
+140,BIM_class_C.30.30.01.1d,0.0
+197,BIM_class_E.20.20.90.4,0.0
+196,BIM_class_E.20.20.90.2,0.0
+195,BIM_class_E.20.20.10.3g,0.0
+194,BIM_class_E.20.20.10.3c,0.0
+193,BIM_class_E.20.20.09.1,0.0
+192,BIM_class_E.20.20.06.5g,0.0
+191,BIM_class_E.20.20.05.6b,0.0
+190,BIM_class_E.20.20.05.6a,0.0
+189,BIM_class_E.20.20.05.4a,0.0
+209,location_BORDEAUX,0.0
+210,location_BOULOGNE-BILLANCOURT,0.0
+34,category_lift_and_rolling_doors,0.0
+213,location_CHASSELAY,0.0
+232,location_LOIRE-SUR-RHONE,0.0
+28,category_gypsum_wallboard_ceiling_finishes,0.0
+230,location_LES SABLES-D'OLONNE,0.0
+229,location_LE BOURGET,0.0
+228,location_LANEUVEVILLE-DEVANT-NANCY,0.0
+29,category_handrail,0.0
+226,location_LA FRETTE-SUR-SEINE,0.0
+225,location_ISSY-LES-MOULINEAUX,0.0
+30,category_hot_water_boiler,0.0
+223,location_EZE,0.0
+222,location_EPERNAY,0.0
+221,location_CREST,0.0
+220,location_CRAS,0.0
+219,location_CORBEIL-ESSONNES,0.0
+218,location_CLERMONT-FERRAND,0.0
+31,category_identifying_devices,0.0
+216,location_CHELLES,0.0
+32,category_indoor_sun_protection_device,0.0
+214,location_CHATEAUROUX,0.0
+38,category_metal_construction_system,0.0
+187,BIM_class_E.20.20.05.2,0.0
+186,BIM_class_E.20.20.03.1,0.0
+161,BIM_class_D.30.20.90.8a,0.0
+159,BIM_class_D.30.20.01.6,0.0
+158,BIM_class_D.20.20.03,0.0
+157,BIM_class_D.20.10.09.2a,0.0
+156,BIM_class_D.20.10.06.3a,0.0
+155,BIM_class_D.20.10.06.1,0.0
+154,BIM_class_D.20.10.04.9b,0.0
+153,BIM_class_D.20.10.04.8e,0.0
+152,BIM_class_D.20.10.04.8b,0.0
+151,BIM_class_D.20.10.04.5b,0.0
+150,BIM_class_D.20.10.04.4b,0.0
+149,BIM_class_D.20.10.04.3e,0.0
+148,BIM_class_D.20.10.04.2g,0.0
+147,BIM_class_D.20.10.04.2e,0.0
+146,BIM_class_D.20.10.04.2b,0.0
+145,BIM_class_D.20.10.04.1b,0.0
+144,BIM_class_C.30.30.01.2,0.0
+143,BIM_class_C.30.30.01.1m,0.0
+142,BIM_class_C.30.30.01.1i,0.0
+141,BIM_class_C.30.30.01.1h,0.0
+160,BIM_class_D.30.20.90.7a,0.0
+162,BIM_class_D.30.40.08.3,0.0
+185,BIM_class_E.20.20.02.4,0.0
+163,BIM_class_D.30.50.06.1,0.0
+184,BIM_class_E.20.10.90.1,0.0
+183,BIM_class_E.10.90.90.2,0.0
+182,BIM_class_E.10.90.05.2,0.0
+181,BIM_class_E.10.90.02.46,0.0
+180,BIM_class_E.10.90.02.18,0.0
+179,BIM_class_D.50.90.07.3,0.0
+39,category_notice_board_chalk_board,0.0
+177,BIM_class_D.50.20.02.8d,0.0
+176,BIM_class_D.50.20.02.8a,0.0
+175,BIM_class_D.50.20.02.7,0.0
+40,category_other_built_in_accessory,0.0
+173,BIM_class_D.50.20.02.5,0.0
+172,BIM_class_D.50.20.02.4,0.0
+170,BIM_class_D.50.20.02.2,0.0
+169,BIM_class_D.50.20.02.15,0.0
+167,BIM_class_D.50.20.02.1,0.0
+166,BIM_class_D.50.20.01.5,0.0
+165,BIM_class_D.50.10.08.3,0.0
+164,BIM_class_D.40.90.90.1d,0.0
+422,"third_level_Lighting columns, brackets and bollards",0.0

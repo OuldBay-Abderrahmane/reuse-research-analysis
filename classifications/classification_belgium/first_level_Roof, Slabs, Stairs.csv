@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Roof, Slabs, Stairs","              precision    recall  f1-score   support
+
+           0       0.80      0.75      0.77        52
+           1       0.57      0.63      0.60        27
+
+    accuracy                           0.71        79
+   macro avg       0.68      0.69      0.68        79
+weighted avg       0.72      0.71      0.71        79
+","                                         Feature  Importance
+153                   Belgium_Raw_Terrazzo tiles    0.295981
+224  second_level_Blocks, Panels, Fences, Bricks    0.117291
+13                                 Category_Door    0.107522
+233                        third_level_Handrails    0.045475
+14                                Category_Doors    0.043415
+..                                           ...         ...
+91                  material_emb_Pozzolan cement    0.000000
+92                  material_emb_Prismatic glass    0.000000
+93                     material_emb_Radiata pine    0.000000
+94                 material_emb_Reflective glass    0.000000
+243                    third_level_Walling units    0.000000
+
+[244 rows x 2 columns]"

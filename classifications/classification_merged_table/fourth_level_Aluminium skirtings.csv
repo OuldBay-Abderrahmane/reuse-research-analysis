@@ -1,0 +1,33 @@
+,Code,report,features
+0,Aluminium skirtings,"              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00         3
+           1       1.00      1.00      1.00         5
+
+    accuracy                           1.00         8
+   macro avg       1.00      1.00      1.00         8
+weighted avg       1.00      1.00      1.00         8
+","                                              Feature  Importance
+16                                 second_level_Other    0.847091
+0                                               Price    0.120876
+10                    first_level_Structural elements    0.022866
+22    third_level_Wire structure and general products    0.009167
+4                                  Material_Aluminium    0.000000
+14                      second_level_Covering, Finish    0.000000
+21                          third_level_Walling units    0.000000
+20         third_level_Structure and general products    0.000000
+19      third_level_Sanitary fittings and accessories    0.000000
+18  third_level_Non-rigid sheet, mat and strip cov...    0.000000
+17                third_level_Glass blocks and panels    0.000000
+2                                               Width    0.000000
+15                           second_level_Furnishings    0.000000
+13        second_level_Blocks, Panels, Fences, Bricks    0.000000
+5                                      Material_Metal    0.000000
+12                first_level_Wall, Barriers, Pannels    0.000000
+1                                              Length    0.000000
+3                                              Height    0.000000
+9                     first_level_Roof, Slabs, Stairs    0.000000
+8                                   first_level_Other    0.000000
+7                             first_level_Furnishings    0.000000
+6                            Code_Aluminium skirtings    0.000000
+11                     first_level_Technical elements    0.000000"

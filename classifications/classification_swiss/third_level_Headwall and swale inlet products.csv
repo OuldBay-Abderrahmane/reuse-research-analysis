@@ -1,0 +1,23 @@
+,Code,report,features
+0,Headwall and swale inlet products,"              precision    recall  f1-score   support
+
+           0       0.88      0.91      0.89        23
+           1       0.93      0.90      0.92        30
+
+    accuracy                           0.91        53
+   macro avg       0.90      0.91      0.90        53
+weighted avg       0.91      0.91      0.91        53
+","                                          Feature  Importance
+61                               Material_Keramik    0.694129
+1                                        Quantity    0.091748
+34                             Condition_like new    0.077085
+40               Condition_used, cleaned & tested    0.034714
+51                         Subcategory_WC-Anlagen    0.034633
+..                                            ...         ...
+30                          Swiss_Raw_Water hoses    0.000000
+31                 Swiss_Raw_Water-sensing cables    0.000000
+32                     Condition_cleaned & tested    0.000000
+33       Condition_gebraucht, gereinigt & geprüft    0.000000
+72  third_level_Headwall and swale inlet products    0.000000
+
+[73 rows x 2 columns]"

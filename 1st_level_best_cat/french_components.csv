@@ -1,4 +1,4 @@
-,first_level,SoldAfterDays,CountEntity,Rank_SoldAfterDays,Rank_CountEntity,Score
+,first_level,sold_afterDays,CountEntity,Rank_sold_afterDays,Rank_CountEntity,Score
 0,Furnishings,141.5752688172043,558,2.0,5.0,7.0
 1,Technical elements,172.57330057330057,1221,4.0,3.0,7.0
 3,"Roof, Slabs, Stairs",169.94184397163122,705,3.0,4.0,7.0

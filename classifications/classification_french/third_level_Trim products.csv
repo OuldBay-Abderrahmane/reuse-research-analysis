@@ -1,0 +1,23 @@
+,Code,report,features
+0,Trim products,"              precision    recall  f1-score   support
+
+           0       0.80      0.62      0.70        13
+           1       0.76      0.89      0.82        18
+
+    accuracy                           0.77        31
+   macro avg       0.78      0.75      0.76        31
+weighted avg       0.78      0.77      0.77        31
+","                               Feature  Importance
+63                    location_AUBAGNE    0.146029
+66                  location_CHATILLON    0.137389
+17        category_electronically_heat    0.130109
+84    location_PARIS-9E-ARRONDISSEMENT    0.119710
+78   location_PARIS-10E-ARRONDISSEMENT    0.081171
+..                                 ...         ...
+44             BIM_class_D.30.50.02.3a    0.000000
+43             BIM_class_D.30.50.02.2b    0.000000
+42             BIM_class_D.30.50.02.2a    0.000000
+41              BIM_class_D.30.40.07.1    0.000000
+127          third_level_Trim products    0.000000
+
+[128 rows x 2 columns]"

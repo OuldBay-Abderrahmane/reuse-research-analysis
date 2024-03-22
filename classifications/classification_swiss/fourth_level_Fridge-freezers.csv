@@ -1,0 +1,22 @@
+,Code,report,features
+0,Fridge-freezers,"              precision    recall  f1-score   support
+
+           0       1.00      0.50      0.67         2
+           1       0.75      1.00      0.86         3
+
+    accuracy                           0.80         5
+   macro avg       0.88      0.75      0.76         5
+weighted avg       0.85      0.80      0.78         5
+","                                     Feature  Importance
+3                                      Width    0.724520
+2                                     Length    0.162931
+0                                  LastPrice    0.112549
+1                                   Quantity    0.000000
+4                            Category_Ausbau    0.000000
+5                  Swiss_Raw_Fridge-freezers    0.000000
+6   Condition_gebraucht, gereinigt & geprüft    0.000000
+7                            Condition_mixed    0.000000
+8           Condition_used, cleaned & tested    0.000000
+9              Subcategory_Apparate & Geräte    0.000000
+10                            Material_Mixed    0.000000
+11                         Material_gemischt    0.000000"

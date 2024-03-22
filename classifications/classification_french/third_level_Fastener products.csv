@@ -1,0 +1,23 @@
+,Code,report,features
+0,Fastener products,"              precision    recall  f1-score   support
+
+           0       0.79      0.96      0.87        28
+           1       0.89      0.53      0.67        15
+
+    accuracy                           0.81        43
+   macro avg       0.84      0.75      0.77        43
+weighted avg       0.83      0.81      0.80        43
+","                                   Feature  Importance
+44  location_MARSEILLE--2E--ARRONDISSEMENT    0.140475
+52        location_PARIS-8E-ARRONDISSEMENT    0.137474
+48       location_PARIS-10E-ARRONDISSEMENT    0.119459
+56                         location_RUNGIS    0.100356
+33                     location_ARGENTEUIL    0.081829
+..                                     ...         ...
+9                                   Height    0.000000
+47                        location_ORLEANS    0.000000
+8                                    Width    0.000000
+49       location_PARIS-13E-ARRONDISSEMENT    0.000000
+82           third_level_Fastener products    0.000000
+
+[83 rows x 2 columns]"

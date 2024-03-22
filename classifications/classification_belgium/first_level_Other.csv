@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.77      0.79      0.78       121
+           1       0.47      0.44      0.45        50
+
+    accuracy                           0.69       171
+   macro avg       0.62      0.62      0.62       171
+weighted avg       0.68      0.69      0.69       171
+","                                             Feature  Importance
+5                                       Price_Change    0.089199
+34                                Category_Technical    0.048361
+226                                material_emb_Wood    0.044289
+275     Belgium_Raw_Glass brise-soleil louvre blades    0.034679
+306                   Belgium_Raw_Pendant luminaires    0.034499
+..                                               ...         ...
+183                              material_emb_Powder    0.000000
+181                  material_emb_Polycarbonate (PC)    0.000000
+180                         material_emb_Plate glass    0.000000
+178                              material_emb_Petrol    0.000000
+517  third_level_Wire structure and general products    0.000000
+
+[518 rows x 2 columns]"

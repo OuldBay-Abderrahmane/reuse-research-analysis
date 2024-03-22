@@ -1,0 +1,45 @@
+,Feature,Importance
+3,Width,0.334012
+4,Category_Ausbau,0.28350618
+0,LastPrice,0.18240008
+25,"Condition_used, cleaned & tested",0.12586986
+6,Category_Gebäudetechnik & Sanitär,0.0742119
+42,Energy_Efficiency_A,0.0
+33,Material_Aluminum,0.0
+26,Subcategory_Apparate & Geräte,0.0
+27,Subcategory_Armaturen,0.0
+28,Subcategory_Kleinteile,0.0
+29,Subcategory_Sonstiges,0.0
+30,Subcategory_Tore,0.0
+31,Subcategory_Videoüberwachung,0.0
+32,Subcategory_Zubehör,0.0
+34,Material_Compound,0.0
+41,Material_Wood,0.0
+35,Material_Glass,0.0
+24,Condition_used & cleaned,0.0
+37,Material_Metall,0.0
+38,Material_Mixed,0.0
+39,Material_Plastic,0.0
+40,Material_Steel,0.0
+36,Material_Metal,0.0
+22,Condition_mixed,0.0
+23,Condition_used,0.0
+1,Quantity,0.0
+2,Length,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+7,Category_Sonstiges,0.0
+8,Swiss_Raw_Built-in microwave ovens,0.0
+9,Swiss_Raw_Chrome plating,0.0
+10,Swiss_Raw_Desks,0.0
+11,Swiss_Raw_Diplexers,0.0
+12,Swiss_Raw_Microwave ovens,0.0
+13,Swiss_Raw_Photographic equipment,0.0
+14,Swiss_Raw_Pliable conduit,0.0
+15,Swiss_Raw_Premises information boxes,0.0
+16,Swiss_Raw_Printers,0.0
+17,Swiss_Raw_Traction motors,0.0
+18,Swiss_Raw_Trap switches,0.0
+19,Condition_gebraucht,0.0
+20,"Condition_gebraucht, gereinigt & geprüft",0.0
+21,Condition_like new,0.0
+43,third_level_Hardware products,0.0

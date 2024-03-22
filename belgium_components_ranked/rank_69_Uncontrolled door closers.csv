@@ -1,0 +1,25 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+891,999HAR658AS,Door Closer by,2.5,kg,pc,"
+Condition: good working order. Can be used in both rotational directions by changing the placement of the arm.A quality : small scratches and minor signs of wearB quality: larger scratches, signs of wear or paint splatters possible.Large : Size of the block : 28 cm x 6,5 cm x 5,5 cmSmall : Size of the block : 28 cm x 6,5 cm x 4,5 cm
+",Hardware,https://rotordc.com/shop/product/door-closer-by-dorma-58547?category=37,"['58547_43a1737.png', '6147_7ea4233.png', '6148_7ea4233.png', '6149_7ea4233.png', '6150_7ea4233.png', '6151_7ea4233.png']",27.0,27.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 2.1255318642943166e-06, 'start': 281, 'end': 289, 'answer': ' cmSmall'}","{'score': 0.05736935883760452, 'start': 260, 'end': 289, 'answer': ' 28 cm x 6,5 cm x 5,5 cmSmall'}","{'score': 4.750903826788999e-05, 'start': 260, 'end': 289, 'answer': ' 28 cm x 6,5 cm x 5,5 cmSmall'}",Sitka spruce,Uncontrolled door closers,Pr_30_36_59_92,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings,4.750903826788999e-05,,,,
+934,999HAR656BL,Door Closer by,2.5,kg,pc,"
+Condition: good working order. Can be used in both rotational directions by changing the placement of the arm.A quality : small scratches and minor signs of wearB quality: larger scratches, signs of wear or paint splatters possible.Small : 24,5 cm x 6 cm x 5 cmLarge : 28 cm x 6,5 cm x 5 cm
+",Hardware,https://rotordc.com/shop/product/door-closer-by-dorma-58545?page=7&category=37,"['58545_546f78f.png', '6137_7ea4233.png', '6138_7ea4233.png', '6139_7ea4233.png', '6140_7ea4233.png', '6141_7ea4233.png']",19.0,19.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 1.9574347334128106e-06, 'start': 157, 'end': 172, 'answer': ' wearB quality:'}","{'score': 0.6613948345184326, 'start': 240, 'end': 267, 'answer': ' 24,5 cm x 6 cm x 5 cmLarge'}","{'score': 0.00028631521854549646, 'start': 240, 'end': 267, 'answer': ' 24,5 cm x 6 cm x 5 cmLarge'}",Sitka spruce,Uncontrolled door closers,Pr_30_36_59_92,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings,0.00028631521854549646,,,,59.0
+937,999HAR652A-1,Door Closer by,2.31,kg,pc,"
+Condition: good working order. Can be used in both rotational directions by changing the placement of the arm.
+
+A quality : small scratches and minor signs of wear
+B quality: larger scratches, signs of wear or paint splatters possible.
+
+Size of the block : 24,2 cm x 6 cm x 5,5 cm
+",Hardware,https://rotordc.com/shop/product/door-closer-by-bks-58446?page=8&category=37,"['58446_6f8d9e5.png', '6706_7ea4233.png', '6707_7ea4233.png', '6708_7ea4233.png']",27.0,27.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 8.708778295840602e-06, 'start': 164, 'end': 175, 'answer': '\nB quality:'}","{'score': 0.8277958631515503, 'start': 257, 'end': 281, 'answer': ' 24,2 cm x 6 cm x 5,5 cm'}","{'score': 6.569742367901199e-07, 'start': 257, 'end': 262, 'answer': ' 24,2'}",Sitka spruce,Uncontrolled door closers,Pr_30_36_59_92,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings,6.569742367901199e-07,,,,
+938,999HAR659B,Door Closer by,2.58,kg,pc,"
+Condition: good working order. Can be used in both rotational directions by changing the placement of the arm.
+
+A quality : small scratches and minor signs of wear
+B quality: larger scratches, signs of wear or paint splatters possible.
+
+Size of the block : 24 cm x 6 cm x 5 cm
+
+ 
+",Hardware,https://rotordc.com/shop/product/door-closer-by-dorma-58444?page=8&category=37,"['58444_7425e67.png', '6499_7ea4233.png', '6500_7ea4233.png', '6501_7ea4233.png', '6502_7ea4233.png']",19.0,19.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 1.0257401299895719e-05, 'start': 164, 'end': 175, 'answer': '\nB quality:'}","{'score': 0.7927569150924683, 'start': 257, 'end': 277, 'answer': ' 24 cm x 6 cm x 5 cm'}","{'score': 6.467313937719155e-07, 'start': 257, 'end': 260, 'answer': ' 24'}",Sitka spruce,Uncontrolled door closers,Pr_30_36_59_92,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings,6.467313937719155e-07,,,,

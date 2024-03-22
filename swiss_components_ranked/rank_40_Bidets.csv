@@ -1,0 +1,301 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+40,799,799,Kaminaufsatz / Kaminabdeckung,like new,"['D05.02', 'D05.05']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Öfen & Cheminées,"Kaminhaube aus Edelstahl. War montiert, Cheminee war aber nie in Gebrauch. Somit keine Russspuren.
+Masse: Flansch 290x300mm und Abdeckung 490x500mm (s. Zeichnung). Höhe 480mm, Regendeckel (Kreis) Durchmesser 400mm.",Metal,,,,,,,,,200.0,,,1970-01-01,200.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Watt, 8105",,useagain,80400,CH,de,20201006_120047_570x570.jpg,https://www.useagain.ch/de/kaminaufsatz-kaminabdeckung-80400,D05,,,,,"{'score': 0.6207221150398254, 'start': 14, 'end': 25, 'answer': ' Edelstahl.'}","{'score': 0.09313670545816422, 'start': 113, 'end': 123, 'answer': ' 290x300mm'}","{'score': 0.0020357498433440924, 'start': 113, 'end': 123, 'answer': ' 290x300mm'}",Encaustic,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+69,829,829,Kabelabzweigkasen Feuerfest,like new,"['D01.02', 'D01.08', 'D02.07', 'Sonstiges']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Zubehör,"3 kartons à 10 feuerfeste Verteildosen: firebox (OVP)JG 2008 - von OBO - Bettermann, Duroplast , Aminoplast Typ 131,5 ; total 30 stk-(einzeln Fr. 15.--/ stk - Preis/ karton: Fr. 100.--",Plastic,14.0,17.0,"7,5",,,,,,15.0,,,1970-01-01,15.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,78749,CH,de,20190802_103209_570x570.jpg,https://www.useagain.ch/de/kabelabzweigkasen-feuerfest-78749,D01,,,,,"{'score': 0.03247440233826637, 'start': 84, 'end': 94, 'answer': ' Duroplast'}","{'score': 9.861601029115263e-07, 'start': 39, 'end': 47, 'answer': ' firebox'}","{'score': 0.22926977276802063, 'start': 0, 'end': 9, 'answer': '3 kartons'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+81,841,841,Gusseisenofen mit Loch,,,,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Öfen & Cheminées,"Gusseisenofen mit Loch, Durchmesser 32 cm
+ohne Abluftrohr.",Metal,,,,,,,,2022-06-10,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,78904,CH,de,,https://www.useagain.ch/de/gusseisenofen-mit-loch-78904,,oven,,,,"{'score': 0.1785471886396408, 'start': 0, 'end': 13, 'answer': 'Gusseisenofen'}","{'score': 0.046925392001867294, 'start': 35, 'end': 41, 'answer': ' 32 cm'}","{'score': 7.68890167819336e-05, 'start': 35, 'end': 41, 'answer': ' 32 cm'}",Peat,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+83,843,843,Gusseisenofen mit Loch,,,,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Öfen & Cheminées,"Gusseisenofen mit Loch, Durchmesser 32 cm
+inklusive Zubehör
+Siehe Bild.
+Dichtung bei den Türen muss ersetzt werden.",Metal,,,,,,,,2022-06-10,250.0,,,1970-01-01,250.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,79319,CH,de,,https://www.useagain.ch/de/gusseisenofen-mit-loch-79319,,oven,,,,"{'score': 0.43905627727508545, 'start': 0, 'end': 13, 'answer': 'Gusseisenofen'}","{'score': 0.2445850521326065, 'start': 35, 'end': 41, 'answer': ' 32 cm'}","{'score': 0.0011360092321410775, 'start': 35, 'end': 41, 'answer': ' 32 cm'}",Peat,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+333,1125,1125,Bidet Laufen,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Material: Keramik
+Farbe: weiss
+Montageart: Wandmontage
+Lochabstand für Montage: 19cm
+Ablaufgarnitur mit Zugventil vorhanden (ohne Syphon)
+Achtung: nur für Wandarmatur geeignet",Ceramic,62.0,36.0,37,,,,,2023-02-02,90.0,,,1970-01-01,90.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Brügg, 2555",,useagain,77636,CH,de,unbenannt-3_%281%29_570x570.jpg,https://www.useagain.ch/de/bidet-laufen-77636,D09.05,bidet,,,,"{'score': 0.9760673642158508, 'start': 28, 'end': 36, 'answer': ' Keramik'}","{'score': 0.047551900148391724, 'start': 98, 'end': 103, 'answer': ' 19cm'}","{'score': 5.2177445468259975e-05, 'start': 165, 'end': 185, 'answer': ' nur für Wandarmatur'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+334,1126,1126,Bidet Laufen,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Material: Keramik
+Farbe: Beige
+Montageart: Wandmontage
+Lochabstand für Montage: 20cm
+Ablaufgarnitur mit Stöpsel vorhanden ohne Syphon
+Auslöser für Stöpsel befindet sich auf der Seite des Bidet
+Achtung: nur für Wandarmatur geeignet",Ceramic,60.0,37.0,37,,,,,2023-02-02,70.0,,,1970-01-01,70.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,77637,CH,de,unbenannt-1_%283%29_570x570.jpg,https://www.useagain.ch/de/bidet-laufen-77637,D09.05,bidet,,,,"{'score': 0.9460042119026184, 'start': 28, 'end': 36, 'answer': ' Keramik'}","{'score': 0.03495411574840546, 'start': 98, 'end': 103, 'answer': ' 20cm'}","{'score': 1.8803390048560686e-05, 'start': 220, 'end': 240, 'answer': ' nur für Wandarmatur'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+335,1127,1127,Bidet Laufen,used & cleaned,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Bidet
+Hersteller: Laufen
+Material: Keramik
+Farbe: Beige/Elfenbein
+Montageart: Wandmontage
+Lochabstand für Monntage: 21cm
+
+Armatur
+Hersteller: Similor
+Einhebelmischer mit Zugventil
+Ablaufgarnitur mit Stöpsel vorhanden (ohne Syphon)",Ceramic,60.0,35.0,"36,5",,,,,2023-02-02,140.0,,,1970-01-01,140.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,77638,CH,de,hauptbild_%281%29_570x570.jpg,https://www.useagain.ch/de/bidet-laufen-77638,D09.05,bidet,,,,"{'score': 0.9508686065673828, 'start': 34, 'end': 42, 'answer': ' Keramik'}","{'score': 0.01559155061841011, 'start': 115, 'end': 120, 'answer': ' 21cm'}","{'score': 4.588232968671946e-06, 'start': 115, 'end': 120, 'answer': ' 21cm'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+347,1140,1140,Bidet,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Stand-Bidet
+Hersteller: Laufen
+Hersteller Armatur: No Name
+Farbe: Weiss
+Mit Stöpsel
+Mit Ablaufgarnitur
+Höhe Armatur: 14 cm",Mixed,59.0,35.0,42,,,,,2023-02-02,140.0,,,1970-01-01,140.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,77626,CH,de,1_%28128%29_570x570.jpg,https://www.useagain.ch/de/bidet-77626,D09.05,bidet,,,,"{'score': 0.5344409346580505, 'start': 23, 'end': 30, 'answer': ' Laufen'}","{'score': 0.20868709683418274, 'start': 102, 'end': 122, 'answer': '\nHöhe Armatur: 14 cm'}","{'score': 2.1497286070371047e-05, 'start': 30, 'end': 50, 'answer': '\nHersteller Armatur:'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+357,1150,1150,Einbauküche,"used, cleaned & tested",['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Einbauküchen,"Einbauküche gemäss Bilder komplett zu verkaufen. Die Küche ist in guten Zustand wurde nur wenig benutzt. Die Elektrokomponenten sind alle von Miele.
+Die Küche muss en block übernommen und selber ausgebaut werden",,,,,,,mixed,,,500.0,,,1970-01-01,500.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Wettingen, 5430",,useagain,90075,CH,de,front2_570x570.jpg,https://www.useagain.ch/de/einbaukueche-90075,G05.02,kitchen,,,,"{'score': 2.7348010007699486e-06, 'start': 163, 'end': 172, 'answer': ' en block'}","{'score': 4.3831409129779786e-05, 'start': 0, 'end': 11, 'answer': 'Einbauküche'}","{'score': 0.008700910955667496, 'start': 25, 'end': 34, 'answer': ' komplett'}",Encaustic,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+469,1281,1281,Garderobenschrank,,"['J01.01', 'J02.01']",Building furnishings,,Ausbau,Möbel & Einrichtungen,Einrichtungen,"Farbe: Grün
+3 Abteile
+Wo Kratzer oder fehlende Farbe vorhanden sind, ist Rost vorhanden.
+Tiefe: 58 cm",Metal,,,,,,,,2022-06-22,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,83145,CH,de,,https://www.useagain.ch/de/garderobenschrank-83145,J,wardrobe,,,,"{'score': 0.00043860424193553627, 'start': 74, 'end': 79, 'answer': ' Rost'}","{'score': 0.00041707640048116446, 'start': 90, 'end': 104, 'answer': '\r\nTiefe: 58 cm'}","{'score': 0.010629733093082905, 'start': 11, 'end': 22, 'answer': '\r\n3 Abteile'}",Sitka spruce,Bidets,Pr_40_20_06_11,Furnishings,Furnishings,Furnishings
+491,1308,1308,Restöl aus Heizöltank,like new,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"1000 l Heizöl infolge Heizsystemwechsel abzugeben. Muss selber fachgerecht abgepumpt und transportiert werden, ca. 20 m Distanz zur Strasse. Abholung ab sofort möglich.",,,,,,,,,2022-07-01,1700.0,,,1970-01-01,1700.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Biberist, 4562",,useagain,90032,CH,de,img_20220607_0836118_570x570.jpg,https://www.useagain.ch/de/restoel-aus-heizoeltank-90032,D11,heating,,,,"{'score': 0.1861237734556198, 'start': 6, 'end': 13, 'answer': ' Heizöl'}","{'score': 1.659444023971446e-05, 'start': 110, 'end': 117, 'answer': ' ca. 20'}","{'score': 0.644730806350708, 'start': 0, 'end': 13, 'answer': '1000 l Heizöl'}",Lignite,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Space heating and cooling products
+611,1430,1430,Trennwand Pissoir,,['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,Produkt-Nr. 2615,Ceramic,,,,,,,,2022-10-18,30.0,,,1970-01-01,30.0,1970-01-01 00:00:00.000,0.0,1.0,177.0,"Zürich, 8050",,useagain,83077,CH,de,2615_570x570.jpg,https://www.useagain.ch/de/trennwand-pissoir-83077,D09.05,urinal,,,,"{'score': 0.0018629292026162148, 'start': 11, 'end': 16, 'answer': ' 2615'}","{'score': 0.00018158489547204226, 'start': 11, 'end': 16, 'answer': ' 2615'}","{'score': 0.6672182083129883, 'start': 11, 'end': 16, 'answer': ' 2615'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels",Furnishings,"Lighting columns, brackets and bollards"
+617,1436,1436,Dachziegel Ton gebraucht,used,"['F01.02', 'F01.03', 'F01.04']",Roof coverings,,Gebäudehülle & Konstruktion,Konstruktion & Dächer,Dachhaut,"1.	Standort
+UZH Y80
+Strickhofstrasse 40a
+8057 Zürich
+
+2.	Eigentümer
+Kanton Zürich
+
+3.	Bauteil
+Dachziegel Ton gebraucht
+Format zirka 400.0 / 250.0
+
+4.	Lagerausmass
+15 Paletten a zirka 420 Stück
+Dachfläche 257.0mÂ²
+Fläche pro Palette = zirka 17.0 mÂ²
+Fläche alle Paletten = zirka 257.0mÂ²
+
+5.	Abholung
+Nur ganze Paletten.
+
+Ablauf:
+1.	Kontaktaufnahme mit Bauleitung Steve Martig	078 910 84 00
+2.	Terminvereinbarung vor Ort	
+3.	Auflad und Abtransport nur von ganzer Palette möglich",Ceramic,,40.0,25,,,red,,,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Zürich, 8057",,useagain,90056,CH,de,,https://www.useagain.ch/de/dachziegel-ton-gebraucht-90056,F01,roof tiles,,,,"{'score': 0.747205376625061, 'start': 93, 'end': 108, 'answer': '\nDachziegel Ton'}","{'score': 0.13026991486549377, 'start': 125, 'end': 145, 'answer': ' zirka 400.0 / 250.0'}","{'score': 0.373501181602478, 'start': 162, 'end': 192, 'answer': '\n15 Paletten a zirka 420 Stück'}",Gravel,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Structural roofing units
+653,1473,1473,Dornbracht Badetuchhalter,used & cleaned,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"10x Dornbracht Badetuchhalter chrom Halter
+Dornbracht Badetuchhalter chrom - 83060780-00 | REUTER
+Neupreis: CHF 250.84
+https://www.reuter.com/de-ch/dornbracht-badetuchhalter-600-mm-chrom-a12242.php
+Es sind noch weitere Artikel der Marke Dornbracht von der Ausgabe MEM vorhanden (Handtuchhalter, Armaturen etc.)",Metal,,,,,,,,,119.0,,,1970-01-01,119.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Aadorf, 8355",,useagain,90288,CH,de,img_5502_570x570.jpg,https://www.useagain.ch/de/dornbracht-badetuchhalter-90288,,,,,,"{'score': 0.05966416746377945, 'start': 29, 'end': 35, 'answer': ' chrom'}","{'score': 0.9324392080307007, 'start': 118, 'end': 197, 'answer': '\nhttps://www.reuter.com/de-ch/dornbracht-badetuchhalter-600-mm-chrom-a12242.php'}","{'score': 0.7001413106918335, 'start': 0, 'end': 3, 'answer': '10x'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+740,1570,1570,Einbauwanne,,"['D08.05', 'D09.05', 'J01.02']",Building services,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"schwere (= gute Qualität) Einbaubadewanne von KALDEWEY, hat übl. Gebrauchsspuhren (leichte Kratzer am Boden) u 1 Kl Abplatzung oben am Rand ( -&gt; s letztes Foto) -&gt; wird ncoh mit Emaille Korrekturstift kaschiert, inkl. Ablauf- / Überlaufgarnitur",Metal,,,,,,,,,175.0,,,1970-01-01,175.0,1970-01-01 00:00:00.000,0.0,1.0,158.0,,,useagain,81022,CH,de,20210315_104348_570x570.jpg,https://www.useagain.ch/de/einbauwanne-kaldewey-81022,D,bathtub,,,,"{'score': 0.01247254479676485, 'start': 183, 'end': 191, 'answer': ' Emaille'}","{'score': 1.5031879229354672e-05, 'start': 25, 'end': 55, 'answer': ' Einbaubadewanne von KALDEWEY,'}","{'score': 1.944211589943734e-06, 'start': 217, 'end': 250, 'answer': ' inkl. Ablauf- / Überlaufgarnitur'}",Gravel,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+772,1602,1602,Tropfwasserrinne,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschküche & Trockner,"profitec, 140cm lang, 19cm breit, originalpreis 130.-",Metal,,,,,,,,,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Romanshorn, 8590",,useagain,80173,CH,de,2cf75836-0a99-42dd-a723-c196be39220a_570x570.jpeg,https://www.useagain.ch/de/tropfwasserrinne-80173,J01.02,,,,,"{'score': 0.005534316413104534, 'start': 0, 'end': 9, 'answer': 'profitec,'}","{'score': 0.30158892273902893, 'start': 9, 'end': 33, 'answer': ' 140cm lang, 19cm breit,'}","{'score': 0.03219367191195488, 'start': 9, 'end': 15, 'answer': ' 140cm'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+773,1603,1603,Raumsparbadewanne,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"rel gut erhaltene Badewanne Kunststoff von Duscholux B: 50 bzw 75cm, L: 165 cm, H: 40 cm (innen), inkl. Füsse, Überlaufgarnitur
+Bitte beachten Sie, dass dieses Bauteil extern gelagert ist und wir mind. 1 Tag vorher Info benötigen, um es in den Laden an der Arbergstrasse 11 holen zu können",Plastic,50.0,165.0,40,,,,,,175.0,,,1970-01-01,175.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,80140,CH,de,img-20200605-wa0001_570x570.jpg,https://www.useagain.ch/de/raumsparbadewanne-80140,J01.02,bathtub,,,,"{'score': 0.991621732711792, 'start': 27, 'end': 38, 'answer': ' Kunststoff'}","{'score': 0.3214835226535797, 'start': 52, 'end': 79, 'answer': ' B: 50 bzw 75cm, L: 165 cm,'}","{'score': 0.04699226841330528, 'start': 52, 'end': 68, 'answer': ' B: 50 bzw 75cm,'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+996,1838,1838,Aufsatzbecken,like new,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Breite: 600 mm, Ausladung 370 mm, Höhe 150 mm, ohne Hahnloch, mit Überlauf; nie gebraucht; Neupreis CHF 579.00",Ceramic,37.0,60.0,15,,,,,,250.0,,,1970-01-01,250.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,81986,CH,de,lavabo-%28002%29_570x570.png,https://www.useagain.ch/de/aufsatzbecken-saphir-verso-zero-81986,J01.02,,,,,"{'score': 1.8293044377060141e-06, 'start': 75, 'end': 90, 'answer': ' nie gebraucht;'}","{'score': 0.24172614514827728, 'start': 0, 'end': 15, 'answer': 'Breite: 600 mm,'}","{'score': 0.00117042928468436, 'start': 75, 'end': 90, 'answer': ' nie gebraucht;'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+999,1841,1841,Doppelwaschtisch m Unterbauten,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"kompletter Doppelwaschtisch (keram. Waschbecken) Armaturen: Dornbracht mit Unterbauten u Seitl. Möbeln,
+(Spiegel ist separat auch erhältlich 137 /119 X 108/88cm Fr. 225.--
+ebenfallas auch separat erhätlich: runde Einbauwanne D: 160cm,(140 innen) inkl. Armatur Ddronbracht fr. 475.--",Mixed,55.0,150.0,,,,,,,475.0,,,1970-01-01,475.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,82109,CH,de,125a_570x570.jpg,https://www.useagain.ch/de/doppelwaschtisch-m-unterbauten-jg-2002-82109,J01.02,sink,,,,"{'score': 0.10370973497629166, 'start': 27, 'end': 35, 'answer': ' (keram.'}","{'score': 0.004455850925296545, 'start': 140, 'end': 160, 'answer': ' 137 /119 X 108/88cm'}","{'score': 0.00018095233826898038, 'start': 164, 'end': 171, 'answer': ' 225.--'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Floors, Ceiling",Walling units
+1109,1958,1958,Einbauküche,used & cleaned,['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Einbauküchen,"Einbaujahr 2015
+
+Die Küche muss zwischen 15. und 29. Oktober 2022 demontiert und abgeholt werden.
+
+Einbaumöbel innen hell mit Kunstharz beschichtet
+
+Fronten mit Kunstharz belegt
+
+Abdeckung in Granit / Preisklasse 2
+
+Auszüge in Unterbauten
+
+Inbegriffene Apparate:
+- Dampfabzug V-ZUG DF N6
+- Einbaukühlschrank V-ZUG Perfect 60i
+- Einbauspülbecken FRANKE ARX 160
+- Mischbatterie KUGLER Swisstap 6009/KWC AVA
+- Glaskeramikkochfeld V-ZUG GK 45 TES.1F
+(Ohne Backofen, Steamer und Geschirrspüler.)",,,,,,,,,,3000.0,,,1970-01-01,3000.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Aarberg, 3270",,useagain,90455,CH,de,,https://www.useagain.ch/de/einbaukueche-90455,G05.02,kitchen,,,,"{'score': 0.6900462508201599, 'start': 129, 'end': 139, 'answer': ' Kunstharz'}","{'score': 5.672088221331251e-08, 'start': 462, 'end': 508, 'answer': '\r\n(Ohne Backofen, Steamer und Geschirrspüler.)'}","{'score': 2.4978855890367413e-06, 'start': 220, 'end': 222, 'answer': ' 2'}",Encaustic,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+1162,2011,2011,Duschecke v,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badewanne & Dusche,"1 Duschecke von Duscholux mit Kunstglas mit Tropfen, linke Seite: fix, rechte Seite 3tlg.Schiebetüre (ev wechselbar)
+weitere Faltwände und Schiebetüren an Lager--&gt; bitte fragen Siedanach: 052 238 27 00 oder info@bauteilladen.ch",Mixed,5.0,90.0,160,,,,,,120.0,,,1970-01-01,120.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,66592,CH,de,20.08.2014-017_570x570.jpg,https://www.useagain.ch/de/duschecke-v-duscholux-66592,J01.02,shower,,,,"{'score': 4.6215525799198076e-05, 'start': 29, 'end': 52, 'answer': ' Kunstglas mit Tropfen,'}","{'score': 0.0002516628592275083, 'start': 52, 'end': 83, 'answer': ' linke Seite: fix, rechte Seite'}","{'score': 4.0236296626972035e-05, 'start': 83, 'end': 100, 'answer': ' 3tlg.Schiebetüre'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+1255,2106,2106,Doppelchromstahlbecken,"used, cleaned & tested",['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Spülen,"gute alte Qualität; Doppelbecken aus CNS ; als fertige Küchenabdeckung , Rand: hinten u links (ca 3/4); rechts: offen für Abdeckplatte; noch mit grossem Armaturenloch NR 6742",Chrome steel,60.0,184.0,,,,,,2022-06-01,225.0,,,1970-01-01,225.0,1970-01-01 00:00:00.000,0.0,1.0,173.0,,,useagain,76859,CH,de,20161122_111635_570x570.jpg,https://www.useagain.ch/de/doppelchromstahlbecken-76859,G05.02,,,,,"{'score': 0.07428190112113953, 'start': 36, 'end': 40, 'answer': ' CNS'}","{'score': 0.00011265732609899715, 'start': 93, 'end': 103, 'answer': ' (ca 3/4);'}","{'score': 0.024863077327609062, 'start': 93, 'end': 103, 'answer': ' (ca 3/4);'}",Silt,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+1298,2149,2149,Duschgleitstange,"used, cleaned & tested",['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Hersteller: KWC
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111661",Mixed,,,,,,mixed,,2022-10-06,69.0,,,1970-01-01,35.0,2023-09-25 00:00:00.000,-34.0,1.0,173.0,"Münchenstein, 4142",,useagain,90791,CH,de,111661_570x570.jpg,https://www.useagain.ch/de/duschgleitstange-kwc-90791,,shower,,,,"{'score': 0.0002636416757013649, 'start': 15, 'end': 63, 'answer': '\nGarantie: ohne Garantie\nMängel: Gebrauchsspuren'}","{'score': 1.2146258086431772e-05, 'start': 72, 'end': 91, 'answer': ' occasion/gebraucht'}","{'score': 0.0006075897836126387, 'start': 92, 'end': 111, 'answer': '\nArtikel Nr: 111661'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+1323,2174,2174,Brunnen,"used, cleaned & tested","['I06.01', 'I06.02', 'I06.03', 'I06.04']",External furnishings,,Umgebung,Garten & Aussenbereich,Fertigteile & Geräte,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 104408",Mixed,,,,,,mixed,,2022-10-26,150.0,,,1970-01-01,150.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91201,CH,de,104408_1_570x570.jpg,https://www.useagain.ch/de/brunnen-91201,I06,,,,,"{'score': 0.0024607335217297077, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 3.563610516721383e-05, 'start': 11, 'end': 25, 'answer': ' keine Angaben'}","{'score': 0.014439864084124565, 'start': 114, 'end': 121, 'answer': ' 104408'}",Basalt,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels",Other,Walling units
+1645,2496,2496,Einbauwanne,,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Bad & Dusche,"Einbau badewanne Stahl emailliert, Rondastar Extra (6-Eckig), (NP: 2443.--),inkl. 2 Haltegriffe und Ablaufgarnitur; L: innen: 155cm ( oben); von KALDEWEY, ca 10-jährig, super Zustand; wäre auch ideal zum diagonal in Ecke einzubauen; viele weitere Wannen, Lavabos und Waschtische an lager --&gt; bitte fragen Sie danach: 052 238 27 00 oder info@bauteilladen.ch
+
+Nr intern: 639 HP 62095",Metal,,,,,,,,2022-06-24,175.0,,,1970-01-01,175.0,1970-01-01 00:00:00.000,0.0,1.0,29.0,,,useagain,62095,CH,de,26092011008a_570x570.jpg,https://www.useagain.ch/de/einbauwanne-62095,,bathtub,,,,"{'score': 0.8376497626304626, 'start': 16, 'end': 34, 'answer': ' Stahl emailliert,'}","{'score': 0.30814144015312195, 'start': 115, 'end': 131, 'answer': ' L: innen: 155cm'}","{'score': 0.0016048674006015062, 'start': 66, 'end': 115, 'answer': ' 2443.--),inkl. 2 Haltegriffe und Ablaufgarnitur;'}",Gravel,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+1699,2550,2550,Bidet hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Montage: Unterbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109953",,,,,,,,,2022-10-18,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91016,CH,de,109953_1_570x570.jpg,https://www.useagain.ch/de/bidet-haengend-91016,D09.05,bidet,,,,"{'score': 0.0013789574149996042, 'start': 25, 'end': 35, 'answer': '\nGarantie:'}","{'score': 0.023074042052030563, 'start': 82, 'end': 91, 'answer': ' Unterbau'}","{'score': 0.0012728023575618863, 'start': 120, 'end': 139, 'answer': '\nArtikel Nr: 109953'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1706,2557,2557,Bidet hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Montage: Unterbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109437",Ceramic,,,,,,white,,2022-10-18,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91013,CH,de,109437_1_570x570.jpg,https://www.useagain.ch/de/bidet-haengend-91013,D09.05,bidet,,,,"{'score': 0.0014053921913728118, 'start': 25, 'end': 35, 'answer': '\nGarantie:'}","{'score': 0.022168951109051704, 'start': 82, 'end': 91, 'answer': ' Unterbau'}","{'score': 0.0010008233366534114, 'start': 120, 'end': 139, 'answer': '\nArtikel Nr: 109437'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1709,2560,2560,Bidet hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 20 cm 
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 91680",Ceramic,,,,,,white,,2022-10-19,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91041,CH,de,91680_1_570x570.jpg,https://www.useagain.ch/de/bidet-haengend-91041,D09.05,bidet,,,,"{'score': 0.9877014756202698, 'start': 103, 'end': 111, 'answer': ' Keramik'}","{'score': 0.3721778094768524, 'start': 62, 'end': 68, 'answer': ' 20 cm'}","{'score': 2.6469755539437756e-05, 'start': 62, 'end': 68, 'answer': ' 20 cm'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1710,2561,2561,Bidet hängend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 18 cm 
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 91683",Ceramic,,,,,,white,,2022-10-19,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91042,CH,de,91683_1_570x570.jpg,https://www.useagain.ch/de/bidet-haengend-91042,D09.05,bidet,,,,"{'score': 0.9876890778541565, 'start': 103, 'end': 111, 'answer': ' Keramik'}","{'score': 0.3781808912754059, 'start': 62, 'end': 68, 'answer': ' 18 cm'}","{'score': 1.7629421563469805e-05, 'start': 62, 'end': 68, 'answer': ' 18 cm'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+1718,2569,2569,Bidet stehend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 18 cm 
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108718",Ceramic,,,,,,white,,2022-10-18,50.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91009,CH,de,108718_1_570x570.jpg,https://www.useagain.ch/de/bidet-stehend-91009,D09.05,bidet,,,,"{'score': 0.0022052228450775146, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 0.43751978874206543, 'start': 62, 'end': 68, 'answer': ' 18 cm'}","{'score': 0.002741563133895397, 'start': 134, 'end': 141, 'answer': ' 108718'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+1726,2577,2577,Bidet Laufen,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Laufen
+Garantie: ohne Garantie
+Masse: B: 35.5/ 34 cm, T:62 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Montage: Stehend
+Zustand: occasion/gebraucht
+
+Artikelnr:  111491",Ceramic,62.0,35.0,,,,,,2022-09-30,59.0,,,1970-01-01,59.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,90667,CH,de,111491_570x570.jpg,https://www.useagain.ch/de/bidet-laufen-90667,D09.05,bidet,,,,"{'score': 0.9787359237670898, 'start': 107, 'end': 115, 'answer': ' Keramik'}","{'score': 0.8408945202827454, 'start': 49, 'end': 73, 'answer': ' B: 35.5/ 34 cm, T:62 cm'}","{'score': 0.033158592879772186, 'start': 49, 'end': 73, 'answer': ' B: 35.5/ 34 cm, T:62 cm'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+1734,2585,2585,Bidet stehend,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Mängel: Gebrauchsspuren
+Montage: Stehend
+Zustand: occasion/gebraucht
+
+Artikel Nr: 106911",Mixed,,,,,,mixed,,2022-10-18,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91001,CH,de,106911_1_570x570.jpg,https://www.useagain.ch/de/bidet-stehend-91001,D09.05,bidet,,,,"{'score': 0.0012654378078877926, 'start': 25, 'end': 49, 'answer': '\nGarantie: ohne Garantie'}","{'score': 0.0010923155350610614, 'start': 73, 'end': 90, 'answer': '\nMontage: Stehend'}","{'score': 0.0010047915857285261, 'start': 119, 'end': 138, 'answer': '\nArtikel Nr: 106911'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Sanitary fittings and accessories
+1774,2625,2625,Armaturen Badewanne,"used, cleaned & tested",['D08.05'],"Water: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,Armaturen,"Hersteller: KWC
+Garantie: ohne Garantie
+Masse: H: 20 cm, B: 18 cm, T: 18 cm
+Mängel: Gebrauchsspuren
+Montage: Einbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111912",Mixed,18.0,18.0,20,,,mixed,,2022-10-07,69.0,,,1970-01-01,45.0,1970-01-01 00:00:00.000,-24.0,1.0,179.0,"Münchenstein, 4142",,useagain,90821,CH,de,111912_570x570.jpg,https://www.useagain.ch/de/armaturen-badewanne-kwc-90821,D08.05,WC,,,,"{'score': 3.58658071490936e-05, 'start': 15, 'end': 25, 'answer': '\nGarantie:'}","{'score': 0.9024196267127991, 'start': 46, 'end': 75, 'answer': ' H: 20 cm, B: 18 cm, T: 18 cm'}","{'score': 0.16564032435417175, 'start': 46, 'end': 75, 'answer': ' H: 20 cm, B: 18 cm, T: 18 cm'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Headwall and swale inlet products
+1783,2634,2634,Armaturen Badewanne,"used, cleaned & tested",['D08.05'],"Water: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,Armaturen,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 17 cm, B: 18 cm, T: 23 cm
+Mängel: Gebrauchsspuren
+Montage: Einbau
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111913",Mixed,23.0,18.0,17,,,mixed,,2022-10-07,79.0,,,1970-01-01,45.0,2023-09-25 00:00:00.000,-34.0,1.0,173.0,"Münchenstein, 4142",,useagain,90820,CH,de,111913_570x570.jpg,https://www.useagain.ch/de/armaturen-badewanne-90820,D08.05,bathtub,,,,"{'score': 0.0010807496728375554, 'start': 25, 'end': 35, 'answer': '\nGarantie:'}","{'score': 0.898026168346405, 'start': 56, 'end': 85, 'answer': ' H: 17 cm, B: 18 cm, T: 23 cm'}","{'score': 0.21627971529960632, 'start': 56, 'end': 85, 'answer': ' H: 17 cm, B: 18 cm, T: 23 cm'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Headwall and swale inlet products
+1808,2659,2659,Trenntüre,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Trenntüre,Band: rechts; Rahmenaussenmasse: H:213.5cm; B: 98cm
+bitte beachten Sie, dass dieses Bauteil extern im unbedienten Lager steht -&gt; bitte unbedingt 1 Tag vor Abholung/ Besichtigung mit uns Kontakt aufnehmen",Wood,,82.0,203,,,,,,380.0,,,1970-01-01,380.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,78919,CH,de,20190121_115638_570x570.jpg,https://www.useagain.ch/de/trenntuere-78919,G01.05,interior doors,,,,"{'score': 2.254819992231205e-05, 'start': 23, 'end': 42, 'answer': ' Rahmenaussenmasse:'}","{'score': 0.35424238443374634, 'start': 42, 'end': 61, 'answer': ' H:213.5cm; B: 98cm'}","{'score': 1.8664480876395828e-06, 'start': 23, 'end': 61, 'answer': ' Rahmenaussenmasse: H:213.5cm; B: 98cm'}",Encaustic,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Door, Windows, Gates",Handrails
+1873,2724,2724,Bidet,"used, cleaned & tested",['D09.05'],"Wastewater: control fittings, appliances",,Gebäudetechnik & Sanitär,Sanitär,WCs - Toiletten,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Masse: H: 27,5 cm, B: 36,5 cm, T: 62 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111477",Ceramic,62.0,36.0,"27,5",,,mixed,,2022-10-24,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91154,CH,de,111477_570x570.jpg,https://www.useagain.ch/de/bidet-91154,D09.05,bidet,,,,"{'score': 0.8755792379379272, 'start': 133, 'end': 141, 'answer': ' Keramik'}","{'score': 0.02428692951798439, 'start': 69, 'end': 99, 'answer': ' 27,5 cm, B: 36,5 cm, T: 62 cm'}","{'score': 0.009787900373339653, 'start': 69, 'end': 99, 'answer': ' 27,5 cm, B: 36,5 cm, T: 62 cm'}",Pisé,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Headwall and swale inlet products
+2416,3597,3597,Hebeschiebetüre / Schiebetüre,like new,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Hebeschiebetüre weiss
+Hersteller: 4B
+Kunststoffrahmen
+2 Gläser, 3-fach verglast (Glas Trösch)
+Wärmeschutz 0,7W, 32dB
+Rahmenlicht: 2744 x 1943 mm
+Rahmenmass: 2870 x 2054 mm
+Rahmen aussen: 2870 x 2114 mm
+Feldmass: 2744 x 1943 mm
+
+Die Türe ist neuwertig, konnte wegen einem Planungsfehler nicht verbaut werden
+Neupreis: 6500.-",Mixed,19.0,287.0,"211,4",,,white,,2022-12-22,2200.0,,,1970-01-01,2200.0,1970-01-01 00:00:00.000,0.0,1.0,71.0,"Brügg, 2555",,useagain,91558,CH,de,_dsc9752_570x570.jpg,https://www.useagain.ch/de/hebeschiebetuere-schiebetuere-91558,E03.02,extrerior doors,,,,"{'score': 0.28239598870277405, 'start': 36, 'end': 53, 'answer': '\nKunststoffrahmen'}","{'score': 0.14174456894397736, 'start': 129, 'end': 171, 'answer': ' 2744 x 1943 mm\nRahmenmass: 2870 x 2054 mm'}","{'score': 0.0014660393353551626, 'start': 53, 'end': 63, 'answer': '\n2 Gläser,'}",Silt,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Door, Windows, Gates","Lighting columns, brackets and bollards"
+2440,3622,3622,Waschbecken Laufen,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Garantie: ohne Garantie
+Hersteller: Laufen
+Masse: H: 22.5cm B: 61cm T: 64 cm
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112560",,,,,,,,,2023-02-08,60.0,,,1970-01-01,50.0,1970-01-01 00:00:00.000,0.0,1.0,96.0,"Münchenstein, 4142",,useagain,91884,CH,de,112560_570x570.jpg,https://www.useagain.ch/de/waschbecken-laufen-91884,J01.02,sink,,,,"{'score': 0.013087206520140171, 'start': 35, 'end': 42, 'answer': ' Laufen'}","{'score': 0.3627786338329315, 'start': 49, 'end': 76, 'answer': ' H: 22.5cm B: 61cm T: 64 cm'}","{'score': 0.0004085044492967427, 'start': 49, 'end': 76, 'answer': ' H: 22.5cm B: 61cm T: 64 cm'}",Silt,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Covering, Finish",Treads and landing units
+2553,3736,3736,Kaminrohre mit Bogen,used & cleaned,"['D05.04', 'D06.04', 'D10.01', 'D10.02', 'D10.03', 'D10.04', 'D10.05', 'Sonstiges']",Gas installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Zubehör,"Garantie: ohne Garantie
+Masse: H: 88cm T: 12cm
+Mängel: keine Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111957",,,12.0,88,,,,,2023-02-07,15.0,,,1970-01-01,15.0,1970-01-01 00:00:00.000,0.0,1.0,96.0,"Münchenstein, 4142",,useagain,91875,CH,de,111957_570x570.jpg,https://www.useagain.ch/de/kaminrohre-mit-bogen-91875,D10,,,,,"{'score': 1.6633470295346342e-05, 'start': 0, 'end': 9, 'answer': 'Garantie:'}","{'score': 0.7657306790351868, 'start': 30, 'end': 46, 'answer': ' H: 88cm T: 12cm'}","{'score': 0.23781181871891022, 'start': 30, 'end': 46, 'answer': ' H: 88cm T: 12cm'}",Gravel,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+2665,3849,3849,Einbauküche,used & cleaned,['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Einbauküchen,Möbel und Apperaten,Mixed,,,,,,mixed,,2023-02-22,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,58.0,"Hilterfingen, 3652",,useagain,91989,CH,de,f3_570x570.jpg,https://www.useagain.ch/de/einbaukueche-91989,G05.02,kitchen,,,,"{'score': 0.026573706418275833, 'start': 0, 'end': 19, 'answer': 'Möbel und Apperaten'}","{'score': 0.0085267573595047, 'start': 0, 'end': 19, 'answer': 'Möbel und Apperaten'}","{'score': 0.0003524004714563489, 'start': 0, 'end': 19, 'answer': 'Möbel und Apperaten'}",Encaustic,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+2850,4034,4034,Wasserenthärter,"used, cleaned & tested","['D08.01', 'D08.02', 'D08.03', 'D08.04', 'D08.06']",Water installations,,Gebäudetechnik & Sanitär,Wasseranlagen,Anlage Frischwasser,Produkt-Nr. 2964,,50.0,30.0,112,,,,,2023-03-03,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,13.0,"Zürich, 8050",,useagain,92133,CH,de,2964_5_570x570.jpg,https://www.useagain.ch/de/wasserenthaerter-92133,D08,,,,,"{'score': 0.04873641952872276, 'start': 0, 'end': 16, 'answer': 'Produkt-Nr. 2964'}","{'score': 0.00018410914344713092, 'start': 0, 'end': 16, 'answer': 'Produkt-Nr. 2964'}","{'score': 0.5233268737792969, 'start': 11, 'end': 16, 'answer': ' 2964'}",Water,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Headwall and swale inlet products
+2927,4125,4125,Einbauherd,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Hersteller: Electrolux
+Modell: L1-3E.3
+Jahrgang: 2008
+Bauform: Einbaugerät / EU-Norm
+Farbe: Weiss
+Backofenfunktionen: konventionell (Ober- und Unterhitze, Umluft und Grill)
+1x Backblech, 1x Gitterrost
+Anschluss: 400V / Muss durch einen Fachmann installiert werden 
+Bedienungsanleitung nur als pdf",Mixed,57.0,55.0,76,,,white,,2023-03-16,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.002,0.0,1.0,45.0,"Brügg, 2555",,useagain,92228,CH,de,_dsc0336_570x570.jpg,https://www.useagain.ch/de/einbauherd-92228,H03.05,stove,,,,"{'score': 0.009372035972774029, 'start': 91, 'end': 97, 'answer': ' Weiss'}","{'score': 0.1614658385515213, 'start': 172, 'end': 200, 'answer': '\n1x Backblech, 1x Gitterrost'}","{'score': 0.8975212574005127, 'start': 172, 'end': 200, 'answer': '\n1x Backblech, 1x Gitterrost'}",Encaustic,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+2940,4138,4138,Dampfgarer,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Hersteller: Miele
+Modell: DG 4060
+Jahrgang: 2006
+Farbe: Schwarz / Weiss
+Bauform: Einbau / EU-Norm
+Funktion: Dampfgaren
+2 x Edelstahlblech
+Anschluss: 230V mit Stecker und Kabel
+Bedienungsanleitung dabei",Mixed,42.0,59.0,"45,4",,,,,2023-03-20,240.0,,,1970-01-01,240.0,2023-09-25 00:00:00.000,0.0,1.0,45.0,"Brügg, 2555",,useagain,92259,CH,de,_dsc0363_570x570.jpg,https://www.useagain.ch/de/dampfgarer-92259,H03.05,,,,,"{'score': 0.9054809212684631, 'start': 122, 'end': 137, 'answer': ' Edelstahlblech'}","{'score': 0.14325787127017975, 'start': 118, 'end': 137, 'answer': '\n2 x Edelstahlblech'}","{'score': 0.1722564548254013, 'start': 118, 'end': 137, 'answer': '\n2 x Edelstahlblech'}",Silt,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+3020,4218,4218,Duschgleitstange,used & cleaned,['Sonstiges'],,,Gebäudetechnik & Sanitär,Sanitär,Zubehör,"Similor Duschgleitstange mit Rosa Akzenten
+
+Lochabstand 110cm",Metal,,4.0,"114,5",,,,,2023-03-14,30.0,,,1970-01-01,30.0,2023-09-25 00:00:00.000,0.0,1.0,45.0,"Münchenstein, 4142",,useagain,92210,CH,de,112096_570x570.jpg,https://www.useagain.ch/de/duschgleitstange-92210,,shower,,,,"{'score': 0.2867964208126068, 'start': 28, 'end': 33, 'answer': ' Rosa'}","{'score': 0.5370901823043823, 'start': 55, 'end': 61, 'answer': ' 110cm'}","{'score': 0.1643451303243637, 'start': 55, 'end': 61, 'answer': ' 110cm'}",Sitka spruce,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+3076,4277,4277,Wasserenthärter,"used, cleaned & tested","['D08.01', 'D08.02', 'D08.03', 'D08.04', 'D08.06']",Water installations,,Gebäudetechnik & Sanitär,Wasseranlagen,Anlage Frischwasser,Produkt-Nr. 2964,,50.0,30.0,112,,,,,2023-03-03,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Zürich, 8050",,useagain,92133,CH,de,2964_5_570x570.jpg,https://www.useagain.ch/de/wasserenthaerter-swatec-92133,D08,,,,,"{'score': 0.04873641952872276, 'start': 0, 'end': 16, 'answer': 'Produkt-Nr. 2964'}","{'score': 0.00018410914344713092, 'start': 0, 'end': 16, 'answer': 'Produkt-Nr. 2964'}","{'score': 0.5233268737792969, 'start': 11, 'end': 16, 'answer': ' 2964'}",Water,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Headwall and swale inlet products
+3272,4482,4482,Luminaire pour locaux humides,used,,,Electricités et luminaires,Gebäudetechnik & Sanitär,Elektro & Leuchten,Elektrogerät,"Soudé au meubles voisins. Possibilité de les utiliser séparément mais prévoir de rajoutés des pieds
+Disponible en Juin 2024",Plastic,0.0,128.0,10,,2.25kg,,,,15.0,0.0,1.0,1970-01-01,15.0,1970-01-01 00:00:00.000,,1.0,0.0,,MACO,materiuum,2304-6266,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/04/2304-6266-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2304-6266-b-600x450.jpg']",https://materiuum.ch/produit/luminaire-pour-locaux-humides/,,moisture-resistant lighting,,,,"{'score': 0.024128122255206108, 'start': 0, 'end': 25, 'answer': 'Soudé au meubles voisins.'}","{'score': 1.92843763215933e-05, 'start': 93, 'end': 99, 'answer': ' pieds'}","{'score': 3.933042899006978e-05, 'start': 99, 'end': 123, 'answer': '\nDisponible en Juin 2024'}",Lignite,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Floors, Ceiling",Sanitary fittings and accessories
+3368,4590,4591,Krananlage,gebraucht,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'H01.01', 'H01.02', 'H01.03', 'H01.04', 'H01.05', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",,,Sonstiges,Spezifische Anlagen,Produktionsanlage,Funktionszustand unbekannt,,1.0,,,,,,,,1500.0,,,1970-01-01,1500.0,2023-09-25 00:00:00.000,,0.0,4.0,"Basel, 4056",,,91696,,,image_%2813%29_570x570.jpg,https://www.useagain.ch/de/krananlage-91696,,,,,,"{'score': 0.045799169689416885, 'start': 16, 'end': 26, 'answer': ' unbekannt'}","{'score': 3.0984172099124407e-06, 'start': 0, 'end': 26, 'answer': 'Funktionszustand unbekannt'}","{'score': 0.000854621350299567, 'start': 16, 'end': 26, 'answer': ' unbekannt'}",Gravel,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+3558,4801,4802,Krananlage,used,"['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'H01.01', 'H01.02', 'H01.03', 'H01.04', 'H01.05', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Spezifische Anlagen,Produktionsanlage,Funktionszustand unbekannt,,1.0,,,,,,,,,,,,,2023-09-25 00:00:00.000,,0.0,,"Basel, 4056",,useagain,91696,CH,de,image_%2813%29_570x570.jpg,https://www.useagain.ch/de/krananlage-91696,D11,,1500.0,,,"{'score': 0.045799169689416885, 'start': 16, 'end': 26, 'answer': ' unbekannt'}","{'score': 3.0984172099124407e-06, 'start': 0, 'end': 26, 'answer': 'Funktionszustand unbekannt'}","{'score': 0.000854621350299567, 'start': 16, 'end': 26, 'answer': ' unbekannt'}",Gravel,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+3738,4994,4995,Einbauwaschtisch Starck,like new,['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Unterbaubecken / Einbauwaschtisch 49 x 36,5 cm
+Hersteller: Duravit
+Modell / Serie: Starck 3
+Material: Keramik
+Farbe: weiss
+mit Überlauf
+Ohne Hahnlochbohrung
+Ohne Ablaufventil
+Mit Befestigungsset, Schablone und Anleitung",Keramik,36.0,49.0,,,,white,,2023-06-29,,,,,80.0,2023-09-25 00:00:00.000,,0.0,,"Brügg, 2555",,useagain,92834,CH,de,1_%28448%29_570x570.jpg,https://www.useagain.ch/de/einbauwaschtisch-starck-3-92834,J01.02,sink,80.0,,,"{'score': 0.984248697757721, 'start': 101, 'end': 109, 'answer': ' Keramik'}","{'score': 0.6397061347961426, 'start': 33, 'end': 46, 'answer': ' 49 x 36,5 cm'}","{'score': 0.04342344403266907, 'start': 33, 'end': 46, 'answer': ' 49 x 36,5 cm'}",Lignite,Bidets,Pr_40_20_06_11,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories
+3834,5229,5230,Einbauküche,used,['G05.02'],Fitted kitchens,Mobilier,Ausbau,Küchen & Gastronomie,Einbauküchen,"Angeboten wird eine HERZOG- Einbauküche mit allen Küchengeräten.
+
+Die Küche ist aus dem Jahr 1992 und für das alter in sehr gutem Zustand.
+
+Komplettausbau erfolgt durch den Käufer. Ausbau kann ungefähr im Oktober 2023 ausgeführt werden. Besichtigung in 8197 Rafz ist möglich. Preis und Details zum Ausbau können vereinbart werden. 
+
+Ausführung: ""Herzog Natura Form""
+Echtholz massiv, Esche
+3-Schicht verleimt
+Kanten gefast
+Arbeitsplatte: Granit Samarcanda Brasil 30mm
+
+Holz- und Kombiherd:
+TIBA Sarina (Typ 610)
+
+Geschirrspüler:
+Electrolux GA60GLICSP (aus 2021)
+
+Kühlschrank:
+V-Zug Perfect ECO FN 51056105195 (aus 2016)
+
+Galskeramik Kochfeld:
+Electrolux GK 65PF (aus 2012)
+
+Backofen:
+Electrolux EB7L4X..",Holz,,,,,,,,,,,,,500.0,2023-09-25 00:00:00.000,,0.0,,"Rafz, 8197",,useagain,92966,CH,de,bild2_%281%29_570x570.jpg,https://www.useagain.ch/de/herzog-einbaukueche-92966,G05.02,kitchen,500.0,,,"{'score': 0.20623981952667236, 'start': 365, 'end': 388, 'answer': '\nEchtholz massiv, Esche'}","{'score': 1.331741896137828e-05, 'start': 461, 'end': 466, 'answer': ' 30mm'}","{'score': 8.43442364839575e-08, 'start': 595, 'end': 607, 'answer': ' 51056105195'}",Encaustic,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+3836,5231,5232,Einbauküche,used,['G05.02'],Fitted kitchens,Mobilier,Ausbau,Küchen & Gastronomie,Einbauküchen,"Marke: Bulthaup, Jahrgang 2000
+Fronten: Alu.
+Arbeitsfläche: Tessinergneiss, Typ Cresciano.
+Küchengeräte: Miele, Siemens.
+Das Glas-Hängebord gehört nicht zum Angebot und wird nicht verkauft.",Aluminium,,,,,,gray,,,,,,,1000.0,2023-09-25 00:00:00.000,,0.0,,"Fällanden, 8117",,useagain,92899,CH,de,img_2314_570x570.jpg,https://www.useagain.ch/de/einbaukueche-92899,G05.02,kitchen,1000.0,,,"{'score': 0.7058718800544739, 'start': 59, 'end': 75, 'answer': ' Tessinergneiss,'}","{'score': 2.8428681275727286e-07, 'start': 124, 'end': 139, 'answer': ' Glas-Hängebord'}","{'score': 2.9277563839968934e-07, 'start': 25, 'end': 30, 'answer': ' 2000'}",Encaustic,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures
+4215,5664,13,Schiebetürschrank,used,"['G05.01', 'J01.01', 'J01.02']",Furniture,Mobilier,Ausbau,Möbel & Einrichtungen,Möbel,"- Schiebetürschrank Marke Lista mit zwei Tablaren 
+- Insgesamt 10 Stück vorhanden 
+- Masse:	L 160cm / B 40cm / H 110cm 
+- Abholung nach Vereinbarung im November 2023",,160.0,40.0,110,,,gray,,,,,,,,,,0.0,,"St. Gallen, 9001",,useagain,93418,CH,de,schiebetrschrank_570x570.jpg,https://www.useagain.ch/de/schiebetuerschrank-93418,J01,cabinet,250.0,,,"{'score': 7.494734018109739e-05, 'start': 25, 'end': 31, 'answer': ' Lista'}","{'score': 0.8058460354804993, 'start': 91, 'end': 118, 'answer': '\tL 160cm / B 40cm / H 110cm'}","{'score': 0.5353009104728699, 'start': 62, 'end': 71, 'answer': ' 10 Stück'}",Gravel,Bidets,Pr_40_20_06_11,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Sanitary fittings and accessories

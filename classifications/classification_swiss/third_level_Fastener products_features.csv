@@ -1,0 +1,34 @@
+,Feature,Importance
+0,LastPrice,0.35829487
+3,Width,0.3455153
+2,Length,0.27753487
+15,"Condition_used, cleaned & tested",0.010106232
+16,Subcategory_Apparate & Geräte,0.0056362404
+6,Category_Gebäudetechnik & Sanitär,0.002912426
+5,Category_Baustoffe & Werkzeuge,0.0
+31,Energy_Efficiency_C,0.0
+30,Energy_Efficiency_A,0.0
+29,Material_Plastic,0.0
+28,Material_Mixed,0.0
+27,Material_Metal,0.0
+26,Material_Compound,0.0
+25,Material_Chrome steel,0.0
+24,Material_Aluminum,0.0
+23,Subcategory_Zubehör,0.0
+22,Subcategory_Waschküche & Trockner,0.0
+21,Subcategory_Spülen,0.0
+20,Subcategory_Sonstiges,0.0
+19,Subcategory_Laminat,0.0
+18,Subcategory_Heizkörper,0.0
+17,Subcategory_Elektrogerät,0.0
+1,Quantity,0.0
+4,Category_Ausbau,0.0
+14,Condition_used & cleaned,0.0
+13,Condition_used,0.0
+12,Condition_mixed,0.0
+11,Condition_like new,0.0
+10,Swiss_Raw_Washers,0.0
+9,Swiss_Raw_Dishwashers,0.0
+8,Swiss_Raw_Dish and utensil washers,0.0
+7,Category_Sonstiges,0.0
+32,third_level_Fastener products,0.0

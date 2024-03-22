@@ -1,0 +1,23 @@
+,Code,report,features
+0,Glass blocks and panels,"              precision    recall  f1-score   support
+
+           0       0.64      0.56      0.60        64
+           1       0.78      0.83      0.80       118
+
+    accuracy                           0.74       182
+   macro avg       0.71      0.70      0.70       182
+weighted avg       0.73      0.74      0.73       182
+","                                 Feature  Importance
+65               Code_Aluminium shutters    0.172519
+96                      Code_Door hinges    0.117485
+182                    Code_Window walls    0.078084
+196                    first_level_Other    0.046577
+61               Code_Aluminium doorsets    0.045052
+..                                   ...         ...
+79                      Code_Chandeliers    0.000000
+80       Code_Chute automatic fire doors    0.000000
+81    Code_Clay tile ornamental fittings    0.000000
+82                    Code_Coffee tables    0.000000
+208  third_level_Glass blocks and panels    0.000000
+
+[209 rows x 2 columns]"

@@ -1,0 +1,70 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+372,1169,1169,Massivholztüre,mixed,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Massivholztüre mit Glaseinsatz (ohne Rahmen)
+H: 209.5 cm B: 114 cm T: 4.5 cm
+
+Artikelnr. 111497",Wood,,,,,,,,2022-07-26,279.0,,,1970-01-01,279.0,1970-01-01 00:00:00.000,0.0,1.0,103.0,"Münchenstein, 4142",,useagain,83074,CH,de,111497_570x570.jpg,https://www.useagain.ch/de/massivholztuere-83074,E03.02,extrerior doors,,,,"{'score': 0.6945034861564636, 'start': 0, 'end': 14, 'answer': 'Massivholztüre'}","{'score': 0.43135347962379456, 'start': 44, 'end': 76, 'answer': '\nH: 209.5 cm B: 114 cm T: 4.5 cm'}","{'score': 0.00011677556904032826, 'start': 88, 'end': 95, 'answer': ' 111497'}",Granule,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+380,1183,1183,Massivholzimmertüre antik,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"schöne alte Zimmertüre Massiholz gestemmt, Band. links; mit altem Kastenschloss inkl. Türbänder u 1 Bartschlüssel, hatte unten etwas Wurm - ist aber tot
+
+intern Nr 9230, HP 78883, ID 16596",Wood,,86.0,196,,,,,2022-09-01,155.0,,,1970-01-01,155.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,78883,CH,de,20190328_165758_570x570.jpg,https://www.useagain.ch/de/massivholzimmertuere-antik-78883,G01.05,room door,,,,"{'score': 0.8306179046630859, 'start': 22, 'end': 32, 'answer': ' Massiholz'}","{'score': 0.0003776269149966538, 'start': 22, 'end': 32, 'answer': ' Massiholz'}","{'score': 0.0009233044111169875, 'start': 97, 'end': 114, 'answer': ' 1 Bartschlüssel,'}",Architectural glass,Wood doorsets,Pr_30_59_24_97,"Wall, Barriers, Pannels","Door, Windows, Gates",Furnishings
+445,1256,1256,Dekorative Türe im Landhausstil,used & cleaned,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Dekorative Türe im Landhausstil mit Originalbeschlägen, ca 60 Jahre alt",,,,,,,,,,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Richterswil, 8805",,useagain,90192,CH,de,,https://www.useagain.ch/de/dekorative-tuere-im-landhausstil-90192,G01.05,interior doors,,,,"{'score': 0.0020037186332046986, 'start': 55, 'end': 61, 'answer': ' ca 60'}","{'score': 0.03211109712719917, 'start': 55, 'end': 71, 'answer': ' ca 60 Jahre alt'}","{'score': 0.3073261082172394, 'start': 55, 'end': 71, 'answer': ' ca 60 Jahre alt'}",Architectural glass,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+729,1557,1557,Holztüre ohne Rahmen,used & cleaned,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Material: Holz
+Farbe: grün lackiert
+Türanschlag: links
+Kastenschloss mit Drückergarnitur (ohne Schlüssel)
+Inkl. Türbänder
+Gebrauchspuren vorhanden
+Masse Türblatt gemessen ohne Bänder: B 96cm x H 204cm x T 5cm",Wood,5.0,96.0,204,,,,,2023-02-02,150.0,,,1970-01-01,150.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,79005,CH,de,1_%28112%29_570x570.jpg,https://www.useagain.ch/de/holztuere-ohne-rahmen-79005,E03.02,extrerior doors,,,,"{'score': 0.9931856989860535, 'start': 9, 'end': 14, 'answer': ' Holz'}","{'score': 0.7555563449859619, 'start': 183, 'end': 208, 'answer': ' B 96cm x H 204cm x T 5cm'}","{'score': 0.00027867095195688307, 'start': 170, 'end': 183, 'answer': ' ohne Bänder:'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1478,2329,2329,Holztür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Material: Holz
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 108509",Wood,,,,,,mixed,,2022-10-24,59.0,,,1970-01-01,59.0,2023-09-25 00:00:00.000,0.0,1.0,158.0,"Münchenstein, 4142",,useagain,91172,CH,de,108509_570x570.jpg,https://www.useagain.ch/de/holztuer-91172,G01.05,interior doors,,,,"{'score': 0.9882596731185913, 'start': 59, 'end': 64, 'answer': ' Holz'}","{'score': 0.34434688091278076, 'start': 59, 'end': 64, 'answer': ' Holz'}","{'score': 0.002400575904175639, 'start': 129, 'end': 136, 'answer': ' 108509'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1792,2643,2643,Holztür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 204 cm B: 70 cm T: 1.5 cm
+Mängel: Gebrauchsspuren
+Material: Holz
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111295",Mixed,,,,,,mixed,,2022-10-06,179.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,90779,CH,de,111295_570x570.jpg,https://www.useagain.ch/de/holztuer-90779,G01.05,interior doors,,,,"{'score': 0.9855948090553284, 'start': 119, 'end': 124, 'answer': ' Holz'}","{'score': 0.6043174266815186, 'start': 56, 'end': 85, 'answer': ' H: 204 cm B: 70 cm T: 1.5 cm'}","{'score': 0.12960059940814972, 'start': 56, 'end': 85, 'answer': ' H: 204 cm B: 70 cm T: 1.5 cm'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+1793,2644,2644,Holztür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 200 cm, B: 82,5 cm, T: 4,5 cm
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111655",Mixed,4.0,82.0,200,,,mixed,,2022-10-06,169.0,,,1970-01-01,50.0,2023-09-25 00:00:00.000,-119.0,1.0,173.0,"Münchenstein, 4142",,useagain,90788,CH,de,111655_570x570.jpg,https://www.useagain.ch/de/holztuer-90788,G01.05,interior doors,,,,"{'score': 0.0010887489188462496, 'start': 25, 'end': 35, 'answer': '\nGarantie:'}","{'score': 0.7886071801185608, 'start': 56, 'end': 89, 'answer': ' H: 200 cm, B: 82,5 cm, T: 4,5 cm'}","{'score': 0.21247968077659607, 'start': 56, 'end': 89, 'answer': ' H: 200 cm, B: 82,5 cm, T: 4,5 cm'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2256,3114,3114,Schiebetüre aus Massivholz,,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Schiebetüre 1: Höhe 201 cm, Beite 94 cm, Dicke 4 cm, Führungsschiene/Schiebetürbeschlag 170 cm
+
+ // Schiebetüre 2: Höhe 201 cm, Beite 84 cm, Dicke 4 cm, Führungsschiene/Schiebetürbeschlag 170 cm
+
+// Massivholz, gebraucht, guter Zustand. Je 100 Fr., Preis verhandelbar.",Wood,,,,,,,,,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,26.0,"Langnau, 3550",,useagain,91584,CH,de,threema-20221229-170828378_570x570.jpg,https://www.useagain.ch/de/schiebetuere-aus-massivholz-91584,G01.05,interior doors,,,,"{'score': 0.9040104150772095, 'start': 198, 'end': 210, 'answer': ' Massivholz,'}","{'score': 0.4285755753517151, 'start': 14, 'end': 40, 'answer': ' Höhe 201 cm, Beite 94 cm,'}","{'score': 0.05308927223086357, 'start': 236, 'end': 248, 'answer': ' Je 100 Fr.,'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+2641,3825,3825,Holztüre,"used, cleaned & tested",['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Einbaumass: H: 207cm B: 81cm
+
+Garantie: ohne Garantie
+Mängel: ohne Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112047",Wood,3.0,84.0,208,,,white,,2023-03-06,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.002,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,92151,CH,de,112047_570x570.jpg,https://www.useagain.ch/de/holztuere-92151,E03.02,extrerior doors,,,,"{'score': 5.526307722902857e-05, 'start': 0, 'end': 11, 'answer': 'Einbaumass:'}","{'score': 0.5218733549118042, 'start': 11, 'end': 28, 'answer': ' H: 207cm B: 81cm'}","{'score': 0.01280282810330391, 'start': 0, 'end': 11, 'answer': 'Einbaumass:'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Safety cages
+2803,3987,3987,Holztür,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,Produkte-Nr. 2813,Wood,,93.0,206,,,white,,2023-02-24,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,,"Zürich, 8050",,useagain,92048,CH,de,2813_2_570x570.jpg,https://www.useagain.ch/de/holztuer-92048,G01.05,interior doors,,,,"{'score': 0.000941477541346103, 'start': 12, 'end': 17, 'answer': ' 2813'}","{'score': 0.00023547599266748875, 'start': 12, 'end': 17, 'answer': ' 2813'}","{'score': 0.5065180063247681, 'start': 12, 'end': 17, 'answer': ' 2813'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels
+3151,4356,4356,Portes en bois laqué,used,,,Revêtements muraux,Ausbau,Boden - & Wandbeläge,Holzbeläge,"Va avec objet nÂ°2302-5821
+Possibilité de récupérer l'ensemble",Compound,0.0,209.0,99,,25kg,,,,125.0,0.0,4.0,1970-01-01,125.0,1970-01-01 00:00:00.000,,1.0,0.0,,CROIX D'OR,materiuum,2302-5823,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/04/2302-5823-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5823-b-600x800.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5823-c-600x800.jpg']",https://materiuum.ch/produit/337-17/,,door,,,,"{'score': 0.013055259361863136, 'start': 13, 'end': 26, 'answer': ' nÂ°2302-5821'}","{'score': 0.00037652062019333243, 'start': 13, 'end': 26, 'answer': ' nÂ°2302-5821'}","{'score': 0.00442443648353219, 'start': 13, 'end': 26, 'answer': ' nÂ°2302-5821'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Safety cages
+3261,4471,4471,Brandschutztüre Holz mit Rahmen,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Produkte-Nr. 2997
+
+Holzart: Esche und Eiche
+
+Türe hat einige Gebrauchsspuren",Wood,6.0,103.0,203,,,,,2023-04-26,100.0,,,1970-01-01,100.0,1970-01-01 00:00:00.000,0.0,1.0,,"Zürich, 8050",,useagain,92432,CH,de,2997-4_570x570.jpg,https://www.useagain.ch/de/brandschutztuere-holz-mit-rahmen-92432,G01.05,interior doors,,,,"{'score': 0.8352917432785034, 'start': 27, 'end': 43, 'answer': ' Esche und Eiche'}","{'score': 0.4676072895526886, 'start': 27, 'end': 43, 'answer': ' Esche und Eiche'}","{'score': 0.16285018622875214, 'start': 12, 'end': 17, 'answer': ' 2997'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Safety cages
+3396,4624,4625,Schöne alte Holzinnentüre,gebraucht,['G01.05'],,,Ausbau,Türen & Tore,Innentüren,"Da wir die Zwischenwand auf dem Foto rausnehmen, verkaufen wir diese alte Holztüre inkl. Holzrahmen falls gewünscht. Die Türe ist in gutem Zustand.
+Muss in Winterthur abgeholt werden.",Wood,,,,,,weiss,,,200.0,,,1970-01-01,200.0,1970-01-01 00:00:00.000,,0.0,4.0,"Winterthur , 8406",,,92693,,,img_20230611_192524_570x570.jpg,https://www.useagain.ch/de/schoene-alte-holzinnentuere-92693,,,,,,"{'score': 0.7607670426368713, 'start': 73, 'end': 82, 'answer': ' Holztüre'}","{'score': 3.7760764826089144e-05, 'start': 88, 'end': 99, 'answer': ' Holzrahmen'}","{'score': 0.0004962022067047656, 'start': 88, 'end': 99, 'answer': ' Holzrahmen'}",Architectural glass,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+3614,4863,4864,Schöne alte Holzinnentüre,used,['G01.05'],Internal pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Innentüren,"Da wir die Zwischenwand auf dem Foto rausnehmen, verkaufen wir diese alte Holztüre inkl. Holzrahmen falls gewünscht. Die Türe ist in gutem Zustand.
+Muss in Winterthur abgeholt werden.",Holz,,,,,,white,,,,,,,,,,0.0,,"Winterthur , 8406",,useagain,92693,CH,de,img_20230611_192524_570x570.jpg,https://www.useagain.ch/de/schoene-alte-holzinnentuere-92693,G01.05,interior doors,200.0,,,"{'score': 0.7607670426368713, 'start': 73, 'end': 82, 'answer': ' Holztüre'}","{'score': 3.7760764826089144e-05, 'start': 88, 'end': 99, 'answer': ' Holzrahmen'}","{'score': 0.0004962022067047656, 'start': 88, 'end': 99, 'answer': ' Holzrahmen'}",Architectural glass,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Furnishings
+3998,5402,5403,Schiebetüre aus Holz,"used, cleaned & tested",['G01.05'],Internal pedestrian doors,Portes et fenêtres,Ausbau,Türen & Tore,Innentüren,"Nach dem Umbau unserer Küche verkaufen wir unsere sehr schöne und gut erhaltene Holzschiebetüre.
+Sie hat folgende Eigenschaften:
+	• Länge: 850 mm
+	• Höhe: 2015 mm (ohne Gleitschiene)
+	• Dicker: 40 mm
+	• Farbe: Buche hell
+	• Versenkbarer Türgriff stirnseitig
+	• Gleitschiene inklusive",Holz,85.0,,"201,5","3,8",,,,,,,,,,,,0.0,,"Turgi, 5300",,useagain,93231,CH,de,20230601_215759_570x570.jpg,https://www.useagain.ch/de/schiebetuere-aus-holz-93231,G01.05,interior doors,100.0,,,"{'score': 0.35259810090065, 'start': 79, 'end': 96, 'answer': ' Holzschiebetüre.'}","{'score': 0.39143484830856323, 'start': 131, 'end': 145, 'answer': ' Länge: 850 mm'}","{'score': 0.00015292868192773312, 'start': 131, 'end': 145, 'answer': ' Länge: 850 mm'}",Wood,Wood doorsets,Pr_30_59_24_97,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels

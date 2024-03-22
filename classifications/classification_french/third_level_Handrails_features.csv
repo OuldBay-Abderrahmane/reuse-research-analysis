@@ -1,0 +1,138 @@
+,Feature,Importance
+93,material_emb_Pisé,0.19356154
+73,location_PARIS-9E-ARRONDISSEMENT,0.16189724
+71,location_PARIS-1ER-ARRONDISSEMENT,0.15708579
+63,location_LYON--6E--ARRONDISSEMENT,0.11658366
+130,"first_level_Wall, Barriers, Pannels",0.09824694
+13,material_state_verygood,0.06059637
+4,price,0.04343595
+19,category_handrail,0.04016245
+107,French_Raw_Stair trims,0.02708439
+3,quantity_latest,0.015857244
+0,price_initial,0.014421342
+10,material_state_correct,0.01288577
+62,location_LEVALLOIS-PERRET,0.01085999
+39,BIM_class_C.20.10.90.3a,0.009212081
+90,material_emb_Gravel,0.008198929
+128,"first_level_Roof, Slabs, Stairs",0.008022574
+20,category_lighting_general_equipment,0.0059217066
+106,French_Raw_Rail pads,0.0049718875
+135,"second_level_Stairs, Ramps, Lift, Hardware",0.004256204
+94,material_emb_Sitka spruce,0.003619042
+129,first_level_Technical elements,0.002050173
+11,material_state_damaged,0.0010687151
+97,French_Raw_Arrises,0.0
+98,French_Raw_Belt conveyors,0.0
+96,material_emb_Wood,0.0
+89,material_emb_Granite,0.0
+95,material_emb_Stone,0.0
+134,second_level_Other,0.0
+92,material_emb_Metal,0.0
+91,material_emb_Lodgepole pine,0.0
+85,material_emb_Air-entrained concrete,0.0
+88,material_emb_Expansive concrete,0.0
+87,material_emb_Asphalt,0.0
+86,material_emb_Architectural glass,0.0
+100,French_Raw_Cycle ramps,0.0
+84,country_FR,0.0
+83,material_type_used,0.0
+82,material_type_reconditioned,0.0
+81,material_type_new,0.0
+80,location_VILLENEUVE-SAINT-GEORGES,0.0
+79,location_SAMES,0.0
+78,location_SAINT-OUEN,0.0
+77,location_SAINT-ETIENNE,0.0
+76,location_RENNES,0.0
+99,French_Raw_Ceiling track hoists,0.0
+131,"second_level_Blocks, Panels, Fences, Bricks",0.0
+101,French_Raw_Ducted rail tracks,0.0
+102,French_Raw_Elevator bolts,0.0
+132,"second_level_Door, Windows, Gates",0.0
+127,first_level_Other,0.0
+126,French_Code_Pr_65_80_96_07,0.0
+125,French_Code_Pr_65_80_47_12,0.0
+124,French_Code_Pr_65_80_42_83,0.0
+133,"second_level_Floors, Ceiling",0.0
+123,French_Code_Pr_65_80_28_21,0.0
+122,French_Code_Pr_65_67_94_25,0.0
+121,French_Code_Pr_40_50_83_20,0.0
+120,French_Code_Pr_35_90_43_98,0.0
+119,French_Code_Pr_35_90_43_04,0.0
+118,French_Code_Pr_35_90_31_84,0.0
+117,French_Code_Pr_30_59_34_41,0.0
+116,French_Code_Pr_30_59_34,0.0
+115,French_Code_Pr_25_30_90_84,0.0
+114,French_Code_Pr_20_85_74_71,0.0
+113,French_Code_Pr_20_29_70_70,0.0
+112,French_Code_Pr_20_29_08_26,0.0
+111,French_Raw_Wood skirtings,0.0
+110,French_Raw_Wood post and rail stiles,0.0
+109,French_Raw_Stone stair treads,0.0
+108,French_Raw_Step lifts,0.0
+75,location_PUTEAUX,0.0
+105,French_Raw_Rail clips,0.0
+103,French_Raw_Escalators,0.0
+104,French_Raw_Gates and turnstiles,0.0
+68,location_PARIS-10E-ARRONDISSEMENT,0.0
+74,location_PLOEREN,0.0
+23,category_simple_solid_doors,0.0
+36,BIM_class_C.20.10.01.2d,0.0
+35,BIM_class_C.20.10.01.2c,0.0
+34,BIM_class_C.20.10.01.2a,0.0
+33,BIM_class_C.20.10.01.1,0.0
+32,BIM_class_C.10.20.04.2c,0.0
+31,BIM_class_C.10.20.01.1e,0.0
+30,BIM_class_C.10.10.02.9,0.0
+29,BIM_class_B.10.10.01.1,0.0
+28,category_terracotta_faience_natural_stone,0.0
+27,category_suspension_system,0.0
+26,category_sub_flooring_cones,0.0
+25,category_sports_fields,0.0
+24,category_sliding_and_folding_doors,0.0
+22,category_parking_equipment,0.0
+72,location_PARIS-8E-ARRONDISSEMENT,0.0
+21,category_ovens,0.0
+18,category_exterior_building_stair,0.0
+17,category_escalators,0.0
+16,category_elevators,0.0
+15,category_demountable_partitions,0.0
+14,category_cable_path,0.0
+12,material_state_new,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,min_quantity,0.0
+5,quantity,0.0
+2,price_change,0.0
+37,BIM_class_C.20.10.01.3a,0.0
+38,BIM_class_C.20.10.90.2a,0.0
+40,BIM_class_C.20.10.90.3b,0.0
+41,BIM_class_C.20.10.90.3c,0.0
+70,location_PARIS-15E-ARRONDISSEMENT,0.0
+69,location_PARIS-13E-ARRONDISSEMENT,0.0
+1,price_latest,0.0
+67,location_ORLEANS,0.0
+66,location_MONTIGNY-LES-CORMEILLES,0.0
+65,location_MARSEILLE-13E--ARRONDISSEMENT,0.0
+64,location_MARSEILLE--2E--ARRONDISSEMENT,0.0
+61,location_LES SABLES-D'OLONNE,0.0
+60,location_LA MADELEINE,0.0
+59,location_EPERNAY,0.0
+58,location_CHEVILLY-LARUE,0.0
+57,location_CHATILLON,0.0
+56,location_CHATEAUROUX,0.0
+55,location_AUBAGNE,0.0
+54,location_ARGENTEUIL,0.0
+53,BIM_class_G.20.20.90,0.0
+52,BIM_class_E.10.90.07.4,0.0
+51,BIM_class_E.10.90.02.18,0.0
+50,BIM_class_D.50.20.02.14,0.0
+49,BIM_class_D.50.10.07.a,0.0
+48,BIM_class_D.10.30.01,0.0
+47,BIM_class_D.10.10.02.3,0.0
+46,BIM_class_D.10.10.02.2,0.0
+45,BIM_class_C.30.30.05.1,0.0
+44,BIM_class_C.30.20.05.1e,0.0
+43,BIM_class_C.20.10.90.4e,0.0
+42,BIM_class_C.20.10.90.4b,0.0
+136,third_level_Handrails,0.0

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.70      0.58      0.64        24
+           1       0.87      0.92      0.89        72
+
+    accuracy                           0.83        96
+   macro avg       0.78      0.75      0.76        96
+weighted avg       0.83      0.83      0.83        96
+","                             Feature  Importance
+80          Code_Meeting room tables    0.156603
+83                Code_Office chairs    0.083565
+72           Code_Garden furnishings    0.081876
+90             Code_Reclining chairs    0.075440
+126  first_level_Roof, Slabs, Stairs    0.069382
+..                               ...         ...
+44            Code_Conference tables    0.000000
+43                     Code_Commodes    0.000000
+42                   Code_Coat racks    0.000000
+41   Code_Classroom desks and tables    0.000000
+135          third_level_Furnishings    0.000000
+
+[136 rows x 2 columns]"

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.79      0.92      0.85        37
+           1       0.86      0.67      0.75        27
+
+    accuracy                           0.81        64
+   macro avg       0.82      0.79      0.80        64
+weighted avg       0.82      0.81      0.81        64
+","                                Feature  Importance
+30                        Category_Wood    0.151738
+5                          Price_Change    0.106668
+4                             Stock_Now    0.083030
+166           Belgium_Raw_Office chairs    0.048542
+76   material_emb_Decorative aggregates    0.037874
+..                                  ...         ...
+111         material_emb_Spandrel glass    0.000000
+112        material_emb_Stainless steel    0.000000
+113                  material_emb_Steel    0.000000
+114  material_emb_Steel-aluminium alloy    0.000000
+287           third_level_Walling units    0.000000
+
+[288 rows x 2 columns]"

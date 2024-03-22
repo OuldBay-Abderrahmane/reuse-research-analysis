@@ -1,0 +1,23 @@
+,Code,report,features
+0,Sectional products,"              precision    recall  f1-score   support
+
+           0       0.67      1.00      0.80         2
+           1       1.00      0.94      0.97        16
+
+    accuracy                           0.94        18
+   macro avg       0.83      0.97      0.88        18
+weighted avg       0.96      0.94      0.95        18
+","                             Feature  Importance
+47                   location_CHOLET    0.290909
+46           location_CHEVILLY-LARUE    0.198278
+12           material_state_verygood    0.196763
+56  location_PARIS-9E-ARRONDISSEMENT    0.166859
+77      French_Raw_Occasional tables    0.035721
+..                               ...         ...
+30            BIM_class_C.10.30.03.2    0.000000
+29           BIM_class_B.20.30.05.1a    0.000000
+28           BIM_class_B.20.30.04.4d    0.000000
+27           BIM_class_B.20.20.01.3f    0.000000
+88    third_level_Sectional products    0.000000
+
+[89 rows x 2 columns]"

@@ -1,0 +1,53 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+1099,999LIG753,Oval outdoor ceiling or wall light in bakelite Transparent,0.56,kg,pc,"
+Ceiling or wall outdoor light newly manufactured.
+
+Base in bakelite, transparent lampshade in glass surrounded by a thin metal structure.
+
+60 Watts max.
+Temperature between -45° and +80°
+Power supply: 230 Volt, 50 Hz
+Diameter : 17 cm H * 12,5 W
+Depth : 12,5 cm
+NEMA : IP54
+
+ 
+",Lighting,https://rotordc.com/shop/product/999lig753-oval-outdoor-ceiling-or-wall-light-in-bakelite-ip54-transparent-45761?page=10&category=39,"['45761_85dde65.png', '7479_80917f9.png', '7480_80917f9.png']",18.88,18.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.9041696190834045, 'start': 59, 'end': 69, 'answer': ' bakelite,'}","{'score': 0.46667391061782837, 'start': 228, 'end': 245, 'answer': ' 17 cm H * 12,5 W'}","{'score': 0.10664773732423782, 'start': 139, 'end': 148, 'answer': '\n60 Watts'}",Reflective glass,Framed rooflights,Pr_30_59_72_31,"Roof, Slabs, Stairs","Floors, Ceiling",Glass blocks and panels,0.10664773732423782,,,,59.0
+1871,206LIG548,"Ceiling light in Alabaster by , Spain",8.0,kg,pc,"
+Ceiling light in Alabaster stone by LEDS-C4 (Ref. 15-0415-50-55), hand-carved, Spain. 
+
+
+
+Height
+
+
+30 cm
+
+
+
+
+Length
+
+
+60 cm
+
+
+
+
+Width
+
+
+60 cm 
+
+
+
+
+Socket
+
+
+3 x E27
+
+
+
+ New. From overstock. Dusty, needs to be cleaned. Fittings and cable are original. May have small scratches and imperfections. 
+",Lighting,https://rotordc.com/shop/product/206lig548-ceiling-light-in-alabaster-by-leds-c4-spain-60318?page=8&category=39,"['60318_acf4383.png', '12876_7c3058b.png', '12877_7c3058b.png', '12878_7c3058b.png']",299.0,299.0,,,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 0.7818788290023804, 'start': 17, 'end': 33, 'answer': ' Alabaster stone'}","{'score': 0.23687958717346191, 'start': 90, 'end': 124, 'answer': '\nHeight\n\n\n30 cm\n\n\n\n\nLength\n\n\n60 cm'}","{'score': 0.3296269476413727, 'start': 178, 'end': 189, 'answer': ' overstock.'}",Architectural glass,Framed rooflights,Pr_30_59_72_31,"Roof, Slabs, Stairs","Floors, Ceiling","Lighting columns, brackets and bollards",0.3296269476413727,,,,

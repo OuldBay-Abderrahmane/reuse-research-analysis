@@ -1,0 +1,57 @@
+,Code,report,features
+0,Window walls,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         2
+           1       0.91      0.95      0.93        21
+
+    accuracy                           0.87        23
+   macro avg       0.45      0.48      0.47        23
+weighted avg       0.83      0.87      0.85        23
+","                                     Feature  Importance
+43                         Material_gemischt    0.697354
+10                    Swiss_Raw_Window walls    0.129586
+29                   Subcategory_Wandfenster    0.043010
+0                                  LastPrice    0.039932
+14                        Condition_like new    0.036178
+3                                      Width    0.027336
+2                                     Length    0.026604
+36                       Material_Kunststoff    0.000000
+28                     Subcategory_Sonstiges    0.000000
+30                       Subcategory_Zubehör    0.000000
+31                        Material_Aluminium    0.000000
+32                         Material_Aluminum    0.000000
+33                         Material_Compound    0.000000
+34                            Material_Glass    0.000000
+35                             Material_Holz    0.000000
+38                            Material_Mixed    0.000000
+37                            Material_Metal    0.000000
+26                    Subcategory_Innentüren    0.000000
+39                          Material_Plastic    0.000000
+40                       Material_Plexiglass    0.000000
+41                            Material_Steel    0.000000
+42                             Material_Wood    0.000000
+44                       Energy_Efficiency_A    0.000000
+45                       Energy_Efficiency_B    0.000000
+27                Subcategory_Läden & Storen    0.000000
+23                   Subcategory_Dachfenster    0.000000
+25                  Subcategory_Innenfenster    0.000000
+13  Condition_gebraucht, gereinigt & geprüft    0.000000
+4                            Category_Ausbau    0.000000
+5       Category_Gebäudehülle & Konstruktion    0.000000
+6          Category_Gebäudetechnik & Sanitär    0.000000
+7                         Category_Sonstiges    0.000000
+8           Swiss_Raw_Aluminium window walls    0.000000
+9               Swiss_Raw_Steel window walls    0.000000
+11               Swiss_Raw_Wood window walls    0.000000
+12                Condition_cleaned & tested    0.000000
+15                           Condition_mixed    0.000000
+24                       Subcategory_Fenster    0.000000
+16                       Condition_neuwertig    0.000000
+17                            Condition_used    0.000000
+18                  Condition_used & cleaned    0.000000
+19          Condition_used, cleaned & tested    0.000000
+20                   Subcategory_Aussentüren    0.000000
+21            Subcategory_Badewanne & Dusche    0.000000
+22               Subcategory_Badezimmermöbel    0.000000
+1                                   Quantity    0.000000
+46                       Energy_Efficiency_D    0.000000"

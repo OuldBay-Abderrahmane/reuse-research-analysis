@@ -1,0 +1,23 @@
+,Code,report,features
+0,Headwall and swale inlet products,"              precision    recall  f1-score   support
+
+           0       0.88      0.64      0.74        11
+           1       0.75      0.92      0.83        13
+
+    accuracy                           0.79        24
+   macro avg       0.81      0.78      0.78        24
+weighted avg       0.81      0.79      0.79        24
+","                                           Feature  Importance
+71                                location_AUBAGNE    0.121295
+115                              material_emb_Daub    0.119345
+125                             material_emb_Water    0.111986
+36                         BIM_class_B.20.20.01.2a    0.094741
+162                  second_level_Covering, Finish    0.093978
+..                                             ...         ...
+60                            BIM_class_D.20.10.08    0.000000
+61                         BIM_class_D.20.10.09.2d    0.000000
+62                            BIM_class_D.20.10.90    0.000000
+63                          BIM_class_D.30.10.04.2    0.000000
+165  third_level_Headwall and swale inlet products    0.000000
+
+[166 rows x 2 columns]"

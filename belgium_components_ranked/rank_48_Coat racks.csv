@@ -1,0 +1,58 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+147,901HAR009,Coat rack in chromed steel by Tubax ca .,10.0,kg,pc,"
+Dimensions : H. 175 cm x W. 60 cmCondition: good with light traces of use, possible little spots of rust. A bit dusty.
+",Furniture,https://rotordc.com/shop/product/901har009-coat-rack-in-chromed-steel-by-tubax-ca-1970-58591?page=4&category=35,,89.0,89.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.0006303070695139468, 'start': 106, 'end': 119, 'answer': ' A bit dusty.'}","{'score': 0.8233011364936829, 'start': 13, 'end': 44, 'answer': ' H. 175 cm x W. 60 cmCondition:'}","{'score': 0.0005792256561107934, 'start': 13, 'end': 44, 'answer': ' H. 175 cm x W. 60 cmCondition:'}",Terne-coated steel,Coat racks,Pr_40_30_78_17,"Roof, Slabs, Stairs","Stairs, Ramps, Lift, Hardware",Sanitary fittings and accessories,0.0005792256561107934,,,,
+157,901HAR161,Coat rack by Tubax with ring,13.8,kg,pc,"
+Generally good condition. Might be a bit dusty, occasionally there are traces from small stickers, a few scratches. Small chips in the paint on the bottom part.
+",Furniture,https://rotordc.com/shop/product/901har161-coat-rack-by-tubax-with-ring-55921?page=4&category=35,,89.0,89.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 6.2878834796720184e-06, 'start': 135, 'end': 141, 'answer': ' paint'}","{'score': 7.144921454482756e-08, 'start': 1, 'end': 26, 'answer': 'Generally good condition.'}","{'score': 8.177510579798764e-08, 'start': 1, 'end': 26, 'answer': 'Generally good condition.'}",Sitka spruce,Coat racks,Pr_40_30_78_17,Furnishings,Furnishings,Sanitary fittings and accessories,8.177510579798764e-08,,,,146.0
+160,999FUR675,White rotating coat rack in steel,10.0,kg,pc,"
+White rotating coat rack in steel.
+
+Dimensions : H. 180 x W. 51 cm
+
+Good used condition. May have some scratches and little imperfections. A bit dusty, needs to be cleaned.
+",Furniture,https://rotordc.com/shop/product/999fur675-white-rotating-coat-rack-in-steel-55774?page=5&category=35,,79.0,79.0,,,,,,,,,2022-08-06,0.0,,2022-08-02,BE,rotordc,fr,1,4.0,"{'score': 4.157052899245173e-05, 'start': 1, 'end': 6, 'answer': 'White'}","{'score': 0.7702383399009705, 'start': 49, 'end': 67, 'answer': ' H. 180 x W. 51 cm'}","{'score': 6.29920577921439e-07, 'start': 49, 'end': 67, 'answer': ' H. 180 x W. 51 cm'}",Weathering steel,Coat racks,Pr_40_30_78_17,"Roof, Slabs, Stairs","Stairs, Ramps, Lift, Hardware","Lighting columns, brackets and bollards",6.29920577921439e-07,,,,4.0
+168,071FUR008,Large coat stand,6.0,kg,pc,"
+ 
+
+Dimensios: 170cm high, diameter 60 cm
+",Furniture,https://rotordc.com/shop/product/071fur008-large-coat-stand-35219?page=5&category=35,,99.0,99.0,,,,,,,,,2022-08-06,0.0,,2022-08-02,BE,rotordc,fr,1,4.0,"{'score': 0.0019208260346204042, 'start': 4, 'end': 14, 'answer': 'Dimensios:'}","{'score': 0.6525864005088806, 'start': 14, 'end': 41, 'answer': ' 170cm high, diameter 60 cm'}","{'score': 6.444945029215887e-05, 'start': 14, 'end': 41, 'answer': ' 170cm high, diameter 60 cm'}",Weathering steel,Coat racks,Pr_40_30_78_17,Other,"Stairs, Ramps, Lift, Hardware",Other,6.444945029215887e-05,,,,4.0
+169,901HAR160,Coat rack by Tubax ca .,12.6,kg,pc,"
+H. 191 cmDiam. 63 cmGood condition. Might be a bit dusty, occasionally there are traces from small stickers, a few scratches or plastic feet slightly damaged. Small chips in the paint on the bottom part.
+",Furniture,https://rotordc.com/shop/product/901har160-coat-rack-by-tubax-ca-1965-34581?page=5&category=35,,89.0,89.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 2.1279818156472174e-06, 'start': 128, 'end': 136, 'answer': ' plastic'}","{'score': 0.004384821280837059, 'start': 15, 'end': 25, 'answer': ' 63 cmGood'}","{'score': 2.520963334973203e-06, 'start': 15, 'end': 18, 'answer': ' 63'}",Sitka spruce,Coat racks,Pr_40_30_78_17,Furnishings,Furnishings,Sanitary fittings and accessories,2.520963334973203e-06,,,,
+870,901HAR065,Coat rack in chromed steel,5.0,kg,pc,"
+Coat rack in chromed steel.Height194 cmDiameter70 cmGood used condition. May have some scratches and small imperfections. A bit dusty, needs to be cleaned.
+",Furniture,https://rotordc.com/shop/product/901har065-coat-rack-in-chromed-steel-34584?category=35,"['34584_804773d.png', '9979_d510894.png', '9980_d510894.png', '9981_d510894.png']",79.0,79.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.45809200406074524, 'start': 13, 'end': 37, 'answer': ' chromed steel.Height194'}","{'score': 0.344601571559906, 'start': 21, 'end': 57, 'answer': ' steel.Height194 cmDiameter70 cmGood'}","{'score': 0.003842086996883154, 'start': 1, 'end': 10, 'answer': 'Coat rack'}",Weathering steel,Coat racks,Pr_40_30_78_17,"Roof, Slabs, Stairs","Stairs, Ramps, Lift, Hardware",Safety cages,0.003842086996883154,,,,59.0
+881,999HAR313,Coat rack in wood by Arthur Halbique,0.1,kg,pc,"
+Wall mounted coat rack made from salvaged offcuts of beech, meranti and HDF.Designed by Arthur Halbique and fabricated in the workshop of Gilbard (Anderlecht).Height10 cmLength50 cmWidth13 cmThickness and wood types can vary slightly from piece to piece. Suitable for indoor use. Mounting screws are not included.
+",Furniture,https://rotordc.com/shop/product/999har313-coat-rack-in-wood-by-arthur-halbique-59459?page=2&category=35,"['59459_143c2df.png', '9652_e91fbf9.png', '9653_e91fbf9.png', '9654_e91fbf9.png', '9655_e91fbf9.png']",75.0,75.0,,,,,,,,,2022-12-26,0.0,,2022-10-28,BE,rotordc,fr,1,59.0,"{'score': 0.5515404343605042, 'start': 53, 'end': 85, 'answer': ' beech, meranti and HDF.Designed'}","{'score': 0.29783982038497925, 'start': 146, 'end': 189, 'answer': ' (Anderlecht).Height10 cmLength50 cmWidth13'}","{'score': 0.0006622697110287845, 'start': 168, 'end': 189, 'answer': ' cmLength50 cmWidth13'}",Wood,Coat racks,Pr_40_30_78_17,Furnishings,Furnishings,Furnishings,0.0006622697110287845,,,,59.0
+1682,999FUR1087,Two-sided coat rack on wheels,30.0,kg,pc,"
+Two-sided coat rack on wheels, in black lacquered steel. 
+
+
+
+Height
+
+
+172 cm
+
+
+
+
+Length
+
+
+162 cm
+
+
+
+
+Width
+
+
+51 cm 
+
+
+
+ Small scratches. Dusty, needs to be cleaned. Glides are missing. One coat hanger is missing. 
+",Furniture,https://rotordc.com/shop/product/999fur1087-two-sided-coat-rack-on-wheels-60511?page=4&category=35,"['60511_eb95eb0.png', '13556_4eb0230.png', '13557_4eb0230.png', '13558_4eb0230.png', '13559_4eb0230.png', '13560_4eb0230.png']",99.0,99.0,,,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 0.16961877048015594, 'start': 34, 'end': 57, 'answer': ' black lacquered steel.'}","{'score': 0.32543617486953735, 'start': 61, 'end': 97, 'answer': '\nHeight\n\n\n172 cm\n\n\n\n\nLength\n\n\n162 cm'}","{'score': 0.001993614248931408, 'start': 1, 'end': 20, 'answer': 'Two-sided coat rack'}",Sitka spruce,Coat racks,Pr_40_30_78_17,"Roof, Slabs, Stairs","Stairs, Ramps, Lift, Hardware",Handrails,0.001993614248931408,,,,

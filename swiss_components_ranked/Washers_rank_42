@@ -1,0 +1,99 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+874,1707,1707,Wäschetrockner Merker,mixed,['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Merker Vento 600a
+
+Energieeffizienz: E
+Spannung: 1x400 V
+Baujahr: 2002
+Zuladung: 6 Kg
+Geeinet für: Einfamilienhaus
+Mängel: Flusensieb fehlt
+
+Artikelnr: 110883",,,,,,,,,2022-07-26,269.0,,,1970-01-01,269.0,1970-01-01 00:00:00.000,0.0,1.0,106.0,"Münchenstein, 4142",,useagain,82857,CH,de,111404_%281%29_570x570.jpg,https://www.useagain.ch/de/waeschetrockner-merker-82857,H03.05,clothes dryer,,,,"{'score': 0.0037574039306491613, 'start': 0, 'end': 17, 'answer': 'Merker Vento 600a'}","{'score': 0.000294210301944986, 'start': 0, 'end': 17, 'answer': 'Merker Vento 600a'}","{'score': 0.5800895094871521, 'start': 80, 'end': 85, 'answer': ' 6 Kg'}",Sitka spruce,Washers,Pr_20_29_60_96,Other,Other,Fastener products
+959,1793,1793,Waschtisch mit Armatur,,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Lavabo mit Einhebelmischer
+
+Hersteller: Laufen
+Material: Keramik
+Farbe: weiss
+Montageart: Wandmontage
+Lochabstand für Wandmontage: 28cm
+Ablauf mit Stöpsel
+ohne Handtuchhaltervorrichtung
+
+Armatur:
+Einhebelmischer mit Zugventil",Ceramic,,,,,,,,2023-02-02,120.0,,,1970-01-01,120.0,1970-01-01 00:00:00.000,0.0,1.0,184.0,"Brügg, 2555",,useagain,83164,CH,de,_dsc7959_570x570.jpg,https://www.useagain.ch/de/waschtisch-mit-armatur-83164,J01.02,sink,,,,"{'score': 0.9835095405578613, 'start': 56, 'end': 64, 'answer': ' Keramik'}","{'score': 0.23522944748401642, 'start': 130, 'end': 135, 'answer': ' 28cm'}","{'score': 7.99444387666881e-06, 'start': 130, 'end': 135, 'answer': ' 28cm'}",Sitka spruce,Washers,Pr_20_29_60_96,Technical elements,"Stairs, Ramps, Lift, Hardware",Sanitary fittings and accessories
+991,1833,1833,Waschtisch Laufen,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Keramik Laufen AG
+Farbe: weiss
+Material: Keramik
+Montageart: Wandmontage
+Lochabstand für Wandmontage: 18.0cm
+ohne Armatur und Ablaufgarnitur!",Ceramic,24.0,39.0,"13,5",,,,,2023-02-02,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.002,0.0,1.0,265.0,"Brügg, 2555",,useagain,81838,CH,de,1_%2894%29_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-81838,J01.02,sink,,,,"{'score': 0.7263566255569458, 'start': 52, 'end': 60, 'answer': ' Keramik'}","{'score': 0.0829685851931572, 'start': 113, 'end': 120, 'answer': ' 18.0cm'}","{'score': 6.981739716138691e-05, 'start': 11, 'end': 26, 'answer': ' Keramik Laufen'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+997,1839,1839,Waschtisch Laufen,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Laufen
+Modell: Gallery
+Farbe: weiss
+Mit Armaturenloch
+Lochabstand für Montage: 28 cm",Ceramic,52.0,102.0,25,,,,,2023-02-02,200.0,,,1970-01-01,200.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,82024,CH,de,1_%2887%29_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-82024,J01.02,sink,,,,"{'score': 0.09645882993936539, 'start': 41, 'end': 47, 'answer': ' weiss'}","{'score': 0.31447669863700867, 'start': 90, 'end': 96, 'answer': ' 28 cm'}","{'score': 0.00018676367471925914, 'start': 47, 'end': 65, 'answer': '\nMit Armaturenloch'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+1112,1961,1961,Waschtisch mit Armatur,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Badezimmermöbel,"Waschtisch beige, doppetürig
+Fällt bei Badumbau an der Lenk i.S. an
+Übergabe könnte je nach Situation in Bern/Köniz erfolgen.",,,,,,,,,2022-09-03,0.0,,,1970-01-01,0.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Lenk, 3775",,useagain,90457,CH,de,,https://www.useagain.ch/de/waschtisch-mit-armatur-90457,J01.02,sink,,,,"{'score': 0.0030362792313098907, 'start': 17, 'end': 28, 'answer': ' doppetürig'}","{'score': 0.003959779627621174, 'start': 0, 'end': 28, 'answer': 'Waschtisch beige, doppetürig'}","{'score': 0.014456634409725666, 'start': 17, 'end': 28, 'answer': ' doppetürig'}",Sitka spruce,Washers,Pr_20_29_60_96,Technical elements,"Stairs, Ramps, Lift, Hardware",Sanitary fittings and accessories
+1164,2013,2013,Kenwood Super Waschmaschine,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschküche & Trockner,4 Kg Kenwood (Einbau) - Waschmaschine; vom Feb 1995,Metal,57.0,55.0,"81,5",,,,,,225.0,,,1970-01-01,225.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,64129,CH,de,07.05.2014-001_%281%29_570x570.jpg,https://www.useagain.ch/de/kenwood-super-55-waschmaschine-64129,J01.02,washing machine,,,,"{'score': 3.870400178129785e-05, 'start': 0, 'end': 21, 'answer': '4 Kg Kenwood (Einbau)'}","{'score': 0.000642493600025773, 'start': 0, 'end': 4, 'answer': '4 Kg'}","{'score': 0.6127465963363647, 'start': 0, 'end': 4, 'answer': '4 Kg'}",Sitka spruce,Washers,Pr_20_29_60_96,Other,Other,Sanitary fittings and accessories
+1188,2037,2037,Waschtisch mit Armatur,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"gut erhaltener Waschtisch von ALIA mit Einhandmischer;(Marke:?); hat keine Abplatazungen, Lochabstand für Montage: 28cm",Mixed,47.0,60.0,,,,,,,115.0,,,1970-01-01,115.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,81792,CH,de,20210722_154230_570x570.jpg,https://www.useagain.ch/de/waschtisch-mit-armatur-81792,J01.02,sink,,,,"{'score': 9.283525287173688e-06, 'start': 38, 'end': 64, 'answer': ' Einhandmischer;(Marke:?);'}","{'score': 0.0016925360541790724, 'start': 114, 'end': 119, 'answer': ' 28cm'}","{'score': 1.4363683931151172e-06, 'start': 38, 'end': 64, 'answer': ' Einhandmischer;(Marke:?);'}",Sitka spruce,Washers,Pr_20_29_60_96,Technical elements,"Stairs, Ramps, Lift, Hardware",Sanitary fittings and accessories
+1189,2038,2038,Waschtisch Laufen mit Einhandmischer,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"gut erhaltner Waschtisch /Waschbecken /Lavabo von Laufen ( hat 1 Abplatzung im Becken  -&gt;s letztes Foto), inkl. KWC Nuovo Domo Einhandmischer; Lochabstand der Montageschrauben: 28cm",Mixed,50.0,62.0,,,,,,,200.0,,,1970-01-01,200.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,,,useagain,79738,CH,de,20200424_172805_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-mit-kwc-einhandmischer-79738,J01.02,sink,,,,"{'score': 2.4607693376310635e-06, 'start': 58, 'end': 62, 'answer': ' hat'}","{'score': 0.0029991548508405685, 'start': 179, 'end': 184, 'answer': ' 28cm'}","{'score': 1.2432887160684913e-05, 'start': 108, 'end': 145, 'answer': ' inkl. KWC Nuovo Domo Einhandmischer;'}",Sitka spruce,Washers,Pr_20_29_60_96,Other,Other,Sanitary fittings and accessories
+1192,2041,2041,Waschtisch v Laufen,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Lavabo von LAUFEN, Montageabstand: 28 cm, mit Wiphebel, keine Abplatzungen, Verchromung vom Ablauf ist nicht mehr so schön",Ceramic,51.0,60.0,,,,,,,75.0,,,1970-01-01,75.0,2023-09-25 00:00:00.000,0.0,1.0,173.0,"Winterthur, 8405",,useagain,78487,CH,de,20190604_110409_570x570.jpg,https://www.useagain.ch/de/waschtisch-v-laufen-78487,J01.02,sink,,,,"{'score': 0.0002403431135462597, 'start': 75, 'end': 87, 'answer': ' Verchromung'}","{'score': 0.367887407541275, 'start': 34, 'end': 41, 'answer': ' 28 cm,'}","{'score': 0.0002512942592147738, 'start': 0, 'end': 41, 'answer': 'Lavabo von LAUFEN, Montageabstand: 28 cm,'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Floors, Ceiling",Sanitary fittings and accessories
+1503,2354,2354,Waschtisch Laufen,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Keramic Made in Germany
+Garantie: ohne Garantie
+Lochabstand: 25 cm 
+Masse: H: 15 cm B: 54 cm  T: 45 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110998",,,,,,,,,2022-10-21,50.0,,,1970-01-01,50.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91093,CH,de,110998_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-91093,J01.02,sink,,,,"{'score': 0.9119886159896851, 'start': 148, 'end': 156, 'answer': ' Keramik'}","{'score': 0.4382394254207611, 'start': 86, 'end': 114, 'answer': ' H: 15 cm B: 54 cm  T: 45 cm'}","{'score': 1.8745022316579707e-05, 'start': 11, 'end': 35, 'answer': ' Keramic Made in Germany'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+1522,2373,2373,Waschtisch Laufen,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Lochabstand: 28 cm 
+Masse: H: 4 cm B: 51/50 cm T: 46 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Spezifikation: mit Armatur Loch
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110854",,,,,,,,,2022-10-21,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,92.0,"Münchenstein, 4142",,useagain,91087,CH,de,110854_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-91087,J01.02,sink,,,,"{'score': 0.9869359135627747, 'start': 139, 'end': 147, 'answer': ' Keramik'}","{'score': 0.09524122625589371, 'start': 76, 'end': 105, 'answer': ' H: 4 cm B: 51/50 cm T: 46 cm'}","{'score': 0.00018803466809913516, 'start': 62, 'end': 68, 'answer': ' 28 cm'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+1572,2423,2423,Waschtisch Laufen,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Laufen
+Garantie: ohne Garantie
+Lochabstand: 24,5 cm 
+Masse: H: 15 cm B: 36/40 cm T: 31 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 110856",,,,,,,,,2022-10-21,20.0,,,1970-01-01,20.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,91089,CH,de,110856_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-91089,J01.02,sink,,,,"{'score': 0.9801198244094849, 'start': 135, 'end': 143, 'answer': ' Keramik'}","{'score': 0.23434248566627502, 'start': 71, 'end': 101, 'answer': ' H: 15 cm B: 36/40 cm T: 31 cm'}","{'score': 9.815421435632743e-06, 'start': 172, 'end': 191, 'answer': '\nArtikel Nr: 110856'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Covering, Finish",Sanitary fittings and accessories
+2119,2975,2975,Waschtisch Laufen mit Einhandmischer,used & cleaned,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"sehr gut erhaltener Waschtisch / Lavabo von Laufen B: 53cm, T: 43cm (Lochaabstand für Montage: 28cm)
+ mit KWC Einhandmischer ""nuovo Domo""
+intern: Nr 2562; ID 18967; HP: 91487",,,,,,,,,2022-12-09,225.0,,,1970-01-01,225.0,1970-01-01 00:00:00.000,0.0,1.0,5.0,,,useagain,91487,CH,de,20221130_105736_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-mit-kwc-einhandmischer-91487,J01.02,sink,,,,"{'score': 1.969306595128728e-06, 'start': 0, 'end': 50, 'answer': 'sehr gut erhaltener Waschtisch / Lavabo von Laufen'}","{'score': 0.7999440431594849, 'start': 50, 'end': 67, 'answer': ' B: 53cm, T: 43cm'}","{'score': 0.0001679880660958588, 'start': 50, 'end': 67, 'answer': ' B: 53cm, T: 43cm'}",Sitka spruce,Washers,Pr_20_29_60_96,Other,Other,Sanitary fittings and accessories
+2501,3684,3684,Wäschetrockner / Raumluft-Wäschetrockner,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschküche & Trockner,"Hersteller: Sibir
+Modell: ESCOlino 120
+Baujahr: 2019
+Für den Einsatz im Mehrfamilienhaus-Trockenraum
+Geeignet für 15 bis 25 kg Wäsche zum Trocknen an 60 bis 100 m Leine
+Wandmontage
+Anschluss: 230V",Mixed,34.0,64.0,"80,9",,,,,2023-02-02,900.0,,,1970-01-01,900.0,1970-01-01 00:00:00.002,0.0,1.0,90.0,"Brügg, 2555",,useagain,91821,CH,de,1_%28331%29_570x570.jpg,https://www.useagain.ch/de/waeschetrockner-raumluft-waeschetrockner-91821,J01.02,clothes dryer,,,,"{'score': 0.34985384345054626, 'start': 25, 'end': 38, 'answer': ' ESCOlino 120'}","{'score': 0.02707652375102043, 'start': 149, 'end': 162, 'answer': ' 60 bis 100 m'}","{'score': 0.7858589291572571, 'start': 113, 'end': 126, 'answer': ' 15 bis 25 kg'}",Sitka spruce,Washers,Pr_20_29_60_96,"Roof, Slabs, Stairs","Floors, Ceiling",Sanitary fittings and accessories
+3301,4512,4512,Waschmaschine Beko,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschküche & Trockner,"Baujahr: 2010
+Energieeffizienz: C
+Spannung: 230V
+Zuladung: 5kg
+Garantie: 6 Monate
+Zustand: occasion/gebraucht
+
+Artikelnummer: 112060",Mixed,47.0,60.0,"83,5",,,white,C,2023-05-03,139.0,,,1970-01-01,139.0,1970-01-01 00:00:00.000,0.0,1.0,0.0,"Münchenstein, 4142",,useagain,92466,CH,de,112060_570x570.jpg,https://www.useagain.ch/de/waschmaschine-beko-92466,J01.02,washing machine,,,,"{'score': 0.018266586586833, 'start': 125, 'end': 132, 'answer': ' 112060'}","{'score': 0.08848121762275696, 'start': 58, 'end': 62, 'answer': ' 5kg'}","{'score': 0.9632788300514221, 'start': 58, 'end': 62, 'answer': ' 5kg'}",Sitka spruce,Washers,Pr_20_29_60_96,Other,Other,Other
+3737,4993,4994,Waschmaschine Kg,"used, cleaned & tested",['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Waschküche & Trockner,"Waschmaschine freistehend
+Hersteller: AEG / Electrolux
+Modell: LP2271F
+Baujahr: 2015
+Frontlader
+Türbandung links
+Füllmenge: 7 Kg
+Betriebsarten entnehmen Sie bitte der Bedienungsanleitung
+230 V",gemischt,64.0,60.0,85,,,white,,2023-06-30,,,,,,,,0.0,,"Brügg, 2555",,useagain,92841,CH,de,1_%28450%29_570x570.jpg,https://www.useagain.ch/de/waschmaschine-aeg-7kg-92841,J01.02,washing machine,200.0,,,"{'score': 3.028384583103616e-07, 'start': 95, 'end': 106, 'answer': '\nTürbandung'}","{'score': 0.0006476461421698332, 'start': 13, 'end': 25, 'answer': ' freistehend'}","{'score': 0.8108518719673157, 'start': 123, 'end': 128, 'answer': ' 7 Kg'}",Sitka spruce,Washers,Pr_20_29_60_96,Other,Other,Sanitary fittings and accessories
+4174,5578,5579,Waschtisch Laufen inkl . Armatur,used,['J01.02'],Use-specific furniture,Sanitaires,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Der Waschtisch ist in einem guten Zustand, der Dreck auf den Fotos stammt von der Lagerung im Keller. Die Keramik weist keine Schäden auf. 
+
+Bei Fragen bin ich gerne erreichbar.",gemischt,53.0,60.0,13,,,white,,2023-08-22,,,,,0.0,2023-09-25 00:00:00.000,,0.0,,"Wilen, 8832",,useagain,93165,CH,de,img_5050_570x570.jpg,https://www.useagain.ch/de/waschtisch-laufen-inkl.-armatur-93165,J01.02,sink,0.0,,,"{'score': 0.7526082396507263, 'start': 105, 'end': 113, 'answer': ' Keramik'}","{'score': 5.114846771903103e-06, 'start': 3, 'end': 14, 'answer': ' Waschtisch'}","{'score': 3.402794845897006e-07, 'start': 3, 'end': 14, 'answer': ' Waschtisch'}",Sitka spruce,Washers,Pr_20_29_60_96,"Wall, Barriers, Pannels","Stairs, Ramps, Lift, Hardware",Sanitary fittings and accessories

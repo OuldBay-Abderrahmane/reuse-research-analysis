@@ -1,0 +1,134 @@
+,Feature,Importance
+55,Code_Bureaux,0.3258948
+12,Material_Dolerite,0.13161272
+42,Material_White poplar,0.09909667
+91,Code_Projectors,0.05317504
+89,Code_Pot bearings,0.05010934
+3,Height,0.038303103
+86,Code_Occupancy detectors,0.03293096
+0,Price,0.025735263
+16,Material_Film,0.020960279
+52,Code_Bin stores,0.020857703
+35,Material_Soap,0.020675804
+2,Width,0.020291738
+1,Length,0.019935207
+128,"second_level_Covering, Finish",0.017515482
+126,"first_level_Wall, Barriers, Pannels",0.017392736
+98,Code_Sedge,0.016481899
+28,Material_Pisé,0.012557727
+17,Material_Fir,0.012320458
+33,Material_Silt,0.011913297
+72,Code_Flower pouches,0.009429208
+48,Code_Arrises,0.00919622
+122,first_level_Other,0.00918346
+130,second_level_Other,0.007210772
+60,Code_Digital cameras,0.0060390495
+14,Material_Encaustic,0.0058676978
+125,first_level_Technical elements,0.0053134207
+93,Code_Rainwater weirs,0.0
+94,Code_Roses,0.0
+92,Code_Pull handles,0.0
+95,Code_Sand,0.0
+96,Code_Scagliola,0.0
+84,Code_Murals,0.0
+90,Code_Printers,0.0
+88,Code_Pin kerbs,0.0
+87,Code_Ottomans,0.0
+85,Code_Musical instruments,0.0
+83,Code_Load cells,0.0
+82,Code_Lime renders,0.0
+81,Code_Letter boxes,0.0
+80,Code_Joist seals,0.0
+79,Code_Intercom remote handsets,0.0
+78,Code_Icemakers,0.0
+77,Code_Healthcare hand rinse basins,0.0
+97,Code_Scuttles,0.0
+105,Code_Tee hinges,0.0
+99,Code_Sinks,0.0
+114,Code_Urinal dividers,0.0
+131,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+129,"second_level_Door, Windows, Gates",0.0
+127,"second_level_Blocks, Panels, Fences, Bricks",0.0
+124,first_level_Structural elements,0.0
+123,"first_level_Roof, Slabs, Stairs",0.0
+121,first_level_Openings,0.0
+120,Code_Wood architraves,0.0
+119,Code_Washers,0.0
+118,Code_WC pans,0.0
+117,Code_Vertical extended spindles,0.0
+116,Code_Vermicides ,0.0
+115,Code_Urinal flush pipes,0.0
+113,Code_Urinal cisterns,0.0
+100,Code_Slab urinals,0.0
+112,Code_Upholstered benches,0.0
+111,Code_Turpentine resins,0.0
+110,Code_Tundishes,0.0
+109,Code_Trellises,0.0
+108,Code_Trees,0.0
+107,Code_Tennis nets,0.0
+106,Code_Televisions,0.0
+75,Code_Girder clamps,0.0
+104,Code_Surveillance camera brackets,0.0
+103,Code_Sprinklers,0.0
+102,Code_Spotlights,0.0
+101,Code_Sports netting,0.0
+76,Code_Gypsum,0.0
+66,Code_Duvets,0.0
+74,Code_Garden awnings,0.0
+21,Material_Hydraulic road binder bound mixtures,0.0
+36,Material_Teak,0.0
+34,Material_Sitka spruce,0.0
+32,Material_Reflective glass,0.0
+31,Material_Pozzolana,0.0
+30,Material_Potable water,0.0
+29,Material_Porcelain,0.0
+27,Material_Paper,0.0
+26,Material_Oyster shells,0.0
+25,Material_Membrane,0.0
+24,Material_Mahogany,0.0
+23,Material_Lime,0.0
+22,Material_Lignite,0.0
+20,Material_Grey poplar,0.0
+73,Code_Fonts,0.0
+19,Material_Grass,0.0
+18,Material_Gneiss,0.0
+15,Material_European larch,0.0
+13,Material_Emulsion,0.0
+11,Material_Decorative aggregates,0.0
+10,Material_Daub,0.0
+9,Material_Coade stone,0.0
+8,Material_Clinker,0.0
+7,Material_Chrome steel,0.0
+6,Material_Borosilicate glass,0.0
+5,Material_Basalt,0.0
+4,Material_Asphalt,0.0
+37,Material_Tufa,0.0
+38,Material_Urea formaldehyde resin,0.0
+39,Material_Vermiculite aggregates,0.0
+40,Material_Water,0.0
+71,Code_Fishplates,0.0
+70,Code_Exercise bikes,0.0
+69,Code_Espresso machines,0.0
+68,Code_Emergency stop buttons,0.0
+67,Code_Emergency call radio-based equipment,0.0
+65,Code_Duct banks,0.0
+64,Code_Double disc pumps,0.0
+63,Code_Door hinges,0.0
+62,Code_Display plinths,0.0
+61,Code_Dish and utensil washers,0.0
+59,Code_Diffuser drums,0.0
+58,Code_Coat racks,0.0
+57,Code_Circlips,0.0
+56,Code_Chrome plating,0.0
+54,Code_Bolsters,0.0
+53,Code_Bogie presses,0.0
+51,Code_Basketball hoops,0.0
+50,Code_Bare-root budded roses,0.0
+49,Code_Auditorium seating,0.0
+47,Code_Acrylic resins,0.0
+46,Code_Acoustic duct linings,0.0
+45,Code_Acoustic batten cradles,0.0
+44,Code_Abat-voix,0.0
+43,Material_Wychert,0.0
+41,Material_Weathering steel,0.0
+132,third_level_Other,0.0

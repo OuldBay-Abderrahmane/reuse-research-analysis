@@ -1,0 +1,98 @@
+,Feature,Importance
+7,Category_Gebäudehülle & Konstruktion,0.18924658
+89,Material_Mixed,0.15386882
+46,"Condition_used, cleaned & tested",0.111171424
+0,LastPrice,0.095068365
+47,Subcategory_Apparate & Geräte,0.0915367
+45,Condition_used & cleaned,0.090581186
+79,Material_Ceramic,0.06585709
+70,Subcategory_WCs - Toiletten,0.056425687
+8,Category_Gebäudetechnik & Sanitär,0.051951986
+3,Width,0.04435001
+2,Length,0.0408273
+4,Category_Ausbau,0.0091149155
+65,Subcategory_Spülen,0.0
+66,Subcategory_Steinbeläge,0.0
+68,Subcategory_Tore,0.0
+67,Subcategory_Stromerzeugung,0.0
+63,Subcategory_Möbel,0.0
+69,Subcategory_WC-Anlagen,0.0
+64,Subcategory_Sonstiges,0.0
+58,Subcategory_Gartenmöbel,0.0
+62,Subcategory_Läden & Storen,0.0
+61,Subcategory_Leuchten & Lampen,0.0
+60,Subcategory_Keramikbeläge,0.0
+59,Subcategory_Innentüren,0.0
+72,Subcategory_Waschküche & Trockner,0.0
+57,Subcategory_Fertigteile & Geräte,0.0
+56,Subcategory_Fassade,0.0
+55,Subcategory_F01.03	Bedachung geneigtes Dach,0.0
+71,Subcategory_Waschküche & Trocknen,0.0
+76,Subcategory_Zubehör,0.0
+73,Subcategory_Waschtisch & Lavabos,0.0
+74,Subcategory_Werkzeug,0.0
+95,Material_gemischt,0.0
+94,Material_Wood,0.0
+93,Material_Stone,0.0
+92,Material_Steel,0.0
+91,Material_Stahl,0.0
+90,Material_Plastic,0.0
+88,Material_Metall,0.0
+87,Material_Metal,0.0
+86,Material_Kunststein,0.0
+85,Material_Keramik,0.0
+84,Material_Hardwood,0.0
+83,Material_Glass,0.0
+82,Material_Glas,0.0
+81,Material_Concrete,0.0
+80,Material_Chrome steel,0.0
+78,Material_Beton,0.0
+77,Material_Aluminum,0.0
+53,Subcategory_Einrichtungen,0.0
+75,Subcategory_Wände,0.0
+54,Subcategory_Elektrogerät,0.0
+48,Subcategory_Badewanne & Dusche,0.0
+52,Subcategory_Einbauküchen,0.0
+51,Subcategory_Deckenkonstruktion,0.0
+25,Swiss_Raw_Natural stone quoins,0.0
+24,Swiss_Raw_Murals,0.0
+23,Swiss_Raw_Meter cabinets,0.0
+22,Swiss_Raw_Magnetic boards,0.0
+21,Swiss_Raw_Lacquers,0.0
+20,Swiss_Raw_Grommets,0.0
+19,Swiss_Raw_Gas meters,0.0
+18,Swiss_Raw_Duvets,0.0
+17,Swiss_Raw_Dimensioned stones,0.0
+16,Swiss_Raw_Culverts,0.0
+15,Swiss_Raw_Concrete bollards,0.0
+14,Swiss_Raw_Concealed hinges,0.0
+13,Swiss_Raw_Bidets,0.0
+12,Swiss_Raw_Bidet wastes,0.0
+11,Swiss_Raw_Arrises,0.0
+10,Category_Umgebung,0.0
+9,Category_Sonstiges,0.0
+6,Category_F Bedachung Gebäude,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+26,Swiss_Raw_Nave lecterns,0.0
+27,Swiss_Raw_Office desks,0.0
+28,Swiss_Raw_Pendant luminaires,0.0
+39,Condition_gebraucht,0.0
+50,Subcategory_Baustoffe,0.0
+49,Subcategory_Badezimmermöbel,0.0
+1,Quantity,0.0
+44,Condition_used,0.0
+43,Condition_mixed,0.0
+42,Condition_like new,0.0
+41,"Condition_gebraucht, gereinigt & geprüft",0.0
+40,Condition_gebraucht & gereinigt,0.0
+38,Condition_defective,0.0
+29,Swiss_Raw_Plaques,0.0
+37,Condition_cleaned & tested,0.0
+36,Swiss_Raw_Wall-hung washbasins,0.0
+35,Swiss_Raw_Wall hangings,0.0
+34,Swiss_Raw_Vault doors,0.0
+33,Swiss_Raw_Vapour meters,0.0
+32,Swiss_Raw_Tilt meters,0.0
+31,Swiss_Raw_Sprinklers,0.0
+30,Swiss_Raw_Separators,0.0
+96,third_level_Walling units,0.0

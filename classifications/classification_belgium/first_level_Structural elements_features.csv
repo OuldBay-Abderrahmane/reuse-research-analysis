@@ -1,0 +1,61 @@
+,Feature,Importance
+2,Latest_Price,0.93937147
+0,Weight,0.060628552
+44,Belgium_Code_Pr_35_90_43_59,0.0
+32,Belgium_Raw_Aluminium doorsets,0.0
+33,Belgium_Raw_Aluminium handrails,0.0
+34,Belgium_Raw_Aluminium-zinc coated retention grids,0.0
+35,Belgium_Raw_Carbon steel framed vertical section panels,0.0
+36,Belgium_Raw_Cold-formed galvanized steel sections,0.0
+37,Belgium_Raw_Metal skirtings,0.0
+38,Belgium_Code_Pr_20_76_08_03,0.0
+39,Belgium_Code_Pr_20_76_51_21,0.0
+40,Belgium_Code_Pr_20_85_32_01,0.0
+41,Belgium_Code_Pr_25_30_36_03,0.0
+42,Belgium_Code_Pr_25_71_50_15,0.0
+43,Belgium_Code_Pr_30_59_24_02,0.0
+45,first_level_Structural elements,0.0
+30,material_emb_Terne-coated steel,0.0
+46,"second_level_Blocks, Panels, Fences, Bricks",0.0
+47,"second_level_Door, Windows, Gates",0.0
+48,"second_level_Floors, Ceiling",0.0
+49,second_level_Other,0.0
+50,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+51,"third_level_Floor plates, gratings and edgings",0.0
+52,third_level_Handrails,0.0
+53,"third_level_Lighting columns, brackets and bollards",0.0
+54,"third_level_Non-rigid sheet, mat and strip covering and finish products",0.0
+55,third_level_Structural roofing units,0.0
+56,third_level_Structure and general products,0.0
+57,third_level_Support and restraint products,0.0
+31,Belgium_Raw_Aluminium alloy hinged bollards,0.0
+29,material_emb_Surface dressing aggregates,0.0
+1,Initial_Price,0.0
+28,material_emb_Structural steel,0.0
+3,Initial_Stock,0.0
+4,Stock_Now,0.0
+5,Price_Change,0.0
+6,Quantity_Change,0.0
+7,Length,0.0
+8,Width,0.0
+9,Height,0.0
+10,Category_Furniture,0.0
+11,Category_Hardware,0.0
+12,Category_Matière brute,0.0
+13,Category_Per building,0.0
+14,Category_Technical,0.0
+15,Condition_Correct,0.0
+16,Material_Métal,0.0
+17,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+18,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+19,Country_BE,0.0
+20,Store_rotordc,0.0
+21,Language_fr,0.0
+22,material_emb_Aluminium,0.0
+23,material_emb_Galvanized steel,0.0
+24,material_emb_Loose surfacing decorative aggregates,0.0
+25,material_emb_Metal,0.0
+26,material_emb_Silt,0.0
+27,material_emb_Steel-aluminium alloy,0.0
+58,third_level_Wire structure and general products,0.0

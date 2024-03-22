@@ -1,0 +1,23 @@
+,Code,report,features
+0,Furnishings,"              precision    recall  f1-score   support
+
+           0       0.59      0.74      0.66        27
+           1       0.91      0.84      0.87        85
+
+    accuracy                           0.81       112
+   macro avg       0.75      0.79      0.76       112
+weighted avg       0.83      0.81      0.82       112
+","                                            Feature  Importance
+150                                 location_CHOLET    0.115247
+149                         location_CHEVILLY-LARUE    0.073747
+161          location_MARSEILLE--2E--ARRONDISSEMENT    0.069420
+179                                 location_RUNGIS    0.066925
+154                          location_GENNEVILLIERS    0.062515
+..                                              ...         ...
+141                         location_BOURG-LA-REINE    0.000000
+140                                location_AUBAGNE    0.000000
+139                             location_ARGENTEUIL    0.000000
+138                          BIM_class_G.20.40.99.3    0.000000
+363  third_level_Space heating and cooling products    0.000000
+
+[364 rows x 2 columns]"

@@ -1,0 +1,80 @@
+,Feature,Importance
+0,LastPrice,0.41482145
+3,Width,0.2772668
+39,"Condition_used, cleaned & tested",0.16069193
+5,Category_Gebäudehülle & Konstruktion,0.0869042
+2,Length,0.060315646
+51,Subcategory_Innenfenster,0.0
+58,Subcategory_Treppen & Rampen,0.0
+57,Subcategory_Tore,0.0
+56,Subcategory_Stromerzeugung,0.0
+55,Subcategory_Mauern,0.0
+54,Subcategory_Läden & Storen,0.0
+53,Subcategory_Laminat,0.0
+52,Subcategory_Innentüren,0.0
+50,Subcategory_Geländer,0.0
+60,Subcategory_Verkleidung,0.0
+49,Subcategory_Fenster,0.0
+48,Subcategory_Elektrogerät,0.0
+47,Subcategory_Deckenkonstruktion,0.0
+46,Subcategory_Dachkonstruktion,0.0
+45,Subcategory_Dachhaut,0.0
+44,Subcategory_Dachfenster,0.0
+59,Subcategory_Umgebungsfläche,0.0
+61,Subcategory_Wandfenster,0.0
+42,Subcategory_Aussentüren,0.0
+62,Subcategory_Waschtisch & Lavabos,0.0
+77,Energy_Efficiency_B,0.0
+76,Energy_Efficiency_A,0.0
+75,Material_gemischt,0.0
+74,Material_Wood,0.0
+73,Material_Stone,0.0
+72,Material_Plastic,0.0
+71,Material_Mixed,0.0
+70,Material_Metall,0.0
+69,Material_Metal,0.0
+68,Material_Holz,0.0
+67,Material_Glass,0.0
+66,Material_Glas,0.0
+65,Material_Ceramic,0.0
+64,Material_Aluminum,0.0
+63,Subcategory_Zubehör,0.0
+43,Subcategory_Badezimmermöbel,0.0
+41,Subcategory_Armaturen,0.0
+4,Category_Ausbau,0.0
+22,Swiss_Raw_Roofing and cladding units,0.0
+20,Swiss_Raw_Rainwater storage butts,0.0
+19,Swiss_Raw_Prefabricated balconies,0.0
+18,Swiss_Raw_Plastics windsock masts,0.0
+17,Swiss_Raw_Garden taps,0.0
+16,Swiss_Raw_Garden furnishings,0.0
+15,Swiss_Raw_Garden awnings,0.0
+14,Swiss_Raw_Garage door holders,0.0
+13,Swiss_Raw_Frameless glass door leaves,0.0
+12,Swiss_Raw_Floor cover strips,0.0
+11,Swiss_Raw_Flexible stair coverings,0.0
+10,Swiss_Raw_Copper slates,0.0
+9,Swiss_Raw_Coffered ceiling infill units,0.0
+8,Swiss_Raw_Bidets,0.0
+7,Category_Umgebung,0.0
+6,Category_Gebäudetechnik & Sanitär,0.0
+21,Swiss_Raw_Roof anchors for solar modules,0.0
+23,Swiss_Raw_Roofing clamping plates,0.0
+40,Subcategory_Apparate & Geräte,0.0
+24,Swiss_Raw_Roofing corner plates,0.0
+1,Quantity,0.0
+38,Condition_used & cleaned,0.0
+37,Condition_used,0.0
+36,Condition_neuwertig,0.0
+35,Condition_like new,0.0
+34,Condition_gebraucht,0.0
+33,Condition_cleaned & tested,0.0
+32,Swiss_Raw_Wood window walls,0.0
+31,Swiss_Raw_Wood frame roof window units,0.0
+30,Swiss_Raw_Window walls,0.0
+29,Swiss_Raw_Window hinges,0.0
+28,Swiss_Raw_Weatherproof equipment enclosures,0.0
+27,Swiss_Raw_Veneers and facings,0.0
+26,Swiss_Raw_Steel spiles,0.0
+25,Swiss_Raw_Roofing swags,0.0
+78,third_level_Structural roofing units,0.0

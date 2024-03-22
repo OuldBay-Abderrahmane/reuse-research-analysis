@@ -1,0 +1,44 @@
+,Feature,Importance
+16,"Condition_used, cleaned & tested",0.39033088
+2,Length,0.30868635
+0,LastPrice,0.30098274
+32,Subcategory_Zubehör,0.0
+25,Subcategory_Möbel,0.0
+26,Subcategory_Sonstiges,0.0
+27,Subcategory_Treppen & Rampen,0.0
+28,Subcategory_WC-Anlagen,0.0
+29,Subcategory_WCs - Toiletten,0.0
+30,Subcategory_Waschtisch & Lavabos,0.0
+31,Subcategory_Wärmeerzeugung,0.0
+33,Material_Aluminum,0.0
+23,Subcategory_Holzbeläge,0.0
+34,Material_Ceramic,0.0
+35,Material_Glass,0.0
+36,Material_Keramik,0.0
+37,Material_Mixed,0.0
+38,Material_Stahl,0.0
+39,Material_Stainless steel,0.0
+40,Material_Stone,0.0
+41,Material_Wood,0.0
+24,Subcategory_Leuchten & Lampen,0.0
+21,Subcategory_Dachfenster,0.0
+22,Subcategory_Fertigteile & Geräte,0.0
+1,Quantity,0.0
+3,Width,0.0
+4,Category_Ausbau,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+7,Category_Gebäudetechnik & Sanitär,0.0
+8,Category_Sonstiges,0.0
+9,Category_Umgebung,0.0
+10,Swiss_Raw_Sedge,0.0
+11,Condition_gebraucht & gereinigt,0.0
+12,Condition_like new,0.0
+13,Condition_mixed,0.0
+14,Condition_used,0.0
+15,Condition_used & cleaned,0.0
+17,Subcategory_Apparate & Geräte,0.0
+18,Subcategory_Armaturen,0.0
+19,Subcategory_Badewanne & Dusche,0.0
+20,Subcategory_Baustoffe,0.0
+42,Energy_Efficiency_C,0.0

@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Non-rigid sheet, mat and strip covering and finish products","              precision    recall  f1-score   support
+
+           0       0.67      0.67      0.67         3
+           1       0.50      0.50      0.50         2
+
+    accuracy                           0.60         5
+   macro avg       0.58      0.58      0.58         5
+weighted avg       0.60      0.60      0.60         5
+","                                              Feature  Importance
+0                                              Weight    0.622510
+2                                        Latest_Price    0.149301
+57                       second_level_Floors, Ceiling    0.071812
+33                                  material_emb_Wood    0.063614
+16                                      Category_Wood    0.047029
+..                                                ...         ...
+25    material_emb_Base, bed and fill fine aggregates    0.000000
+26        material_emb_Cement-bound granular mixtures    0.000000
+27  material_emb_Long fibre-reinforced plastics resin    0.000000
+28  material_emb_Loose surfacing decorative aggreg...    0.000000
+60  third_level_Non-rigid sheet, mat and strip cov...    0.000000
+
+[61 rows x 2 columns]"

@@ -1,0 +1,19 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+272,103HAR397,Black lacquered pressed steel cabinet handle,0.02,kg,pc,"
+Small: length 20 mm, diameter 20 mm
+
+Medium: length 30 mm, diameter 30 mm
+
+large: length 35 mm, diameter 40mm
+
+Screw for fixing cabinet handle is included in the price.
+",Hardware,https://rotordc.com/shop/product/black-lacquered-pressed-steel-cabinet-handle-58513?page=6&category=37,,9.0,9.0,,,,,,,,,2022-08-06,0.0,,2022-08-02,BE,rotordc,fr,1,4.0,"{'score': 8.408028975281923e-07, 'start': 75, 'end': 110, 'answer': '\nlarge: length 35 mm, diameter 40mm'}","{'score': 0.2666473686695099, 'start': 7, 'end': 36, 'answer': ' length 20 mm, diameter 20 mm'}","{'score': 0.032128944993019104, 'start': 7, 'end': 36, 'answer': ' length 20 mm, diameter 20 mm'}",Stainless steel,Stainless steel hinged bollards,Pr_20_76_08_83,Other,Other,Sanitary fittings and accessories,0.032128944993019104,,,,4.0
+936,103HAR397M,Black lacquered pressed steel cabinet handle,0.02,kg,pc,"
+Small: length 20 mm, diameter 20 mm
+
+Medium: length 30 mm, diameter 30 mm
+
+large: length 35 mm, diameter 40mm
+
+Screw for fixing cabinet handle is included in the price.
+",Hardware,https://rotordc.com/shop/product/black-lacquered-pressed-steel-cabinet-handle-58513?page=7&category=37,['58513_143c2df.png'],7.0,7.0,,,,,,,,,,0.0,,2022-10-28,BE,rotordc,fr,0,,"{'score': 8.408028975281923e-07, 'start': 75, 'end': 110, 'answer': '\nlarge: length 35 mm, diameter 40mm'}","{'score': 0.2666473686695099, 'start': 7, 'end': 36, 'answer': ' length 20 mm, diameter 20 mm'}","{'score': 0.032128944993019104, 'start': 7, 'end': 36, 'answer': ' length 20 mm, diameter 20 mm'}",Stainless steel,Stainless steel hinged bollards,Pr_20_76_08_83,Other,Other,Sanitary fittings and accessories,0.032128944993019104,,,,

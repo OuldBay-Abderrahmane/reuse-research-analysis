@@ -1,0 +1,35 @@
+,Code,report,features
+0,Sinks,"              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00         3
+
+    accuracy                           1.00         3
+   macro avg       1.00      1.00      1.00         3
+weighted avg       1.00      1.00      1.00         3
+","                                          Feature  Importance
+0                                          Weight     0.89557
+10                          Category_Per building     0.10443
+14                                    Language_fr     0.00000
+24  third_level_Headwall and swale inlet products     0.00000
+23                             second_level_Other     0.00000
+22                   second_level_Floors, Ceiling     0.00000
+21                              first_level_Other     0.00000
+20                    Belgium_Code_Pr_40_20_96_81     0.00000
+19                              Belgium_Raw_Sinks     0.00000
+18                             material_emb_Water     0.00000
+17                   material_emb_Ultrapure water     0.00000
+16                      material_emb_Sitka spruce     0.00000
+15                         material_emb_Porcelain     0.00000
+13                                  Store_rotordc     0.00000
+1                                   Initial_Price     0.00000
+12                                     Country_BE     0.00000
+11                              Category_Sanitary     0.00000
+9                                          Height     0.00000
+8                                           Width     0.00000
+7                                          Length     0.00000
+6                                 Quantity_Change     0.00000
+5                                    Price_Change     0.00000
+4                                       Stock_Now     0.00000
+3                                   Initial_Stock     0.00000
+2                                    Latest_Price     0.00000
+25                              third_level_Other     0.00000"

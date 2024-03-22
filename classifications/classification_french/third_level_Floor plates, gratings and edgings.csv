@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floor plates, gratings and edgings","              precision    recall  f1-score   support
+
+           0       0.76      0.74      0.75        43
+           1       0.68      0.70      0.69        33
+
+    accuracy                           0.72        76
+   macro avg       0.72      0.72      0.72        76
+weighted avg       0.72      0.72      0.72        76
+","                                            Feature  Importance
+59                            category_storage_unit    0.106800
+216                      location_NEUILLY-SUR-SEINE    0.089961
+227                                location_PLOEREN    0.059865
+263                               material_emb_Grog    0.058905
+123                         BIM_class_C.30.20.04.3h    0.051057
+..                                              ...         ...
+141                         BIM_class_D.20.10.02.1a    0.000000
+140                          BIM_class_C.30.30.01.2    0.000000
+139                         BIM_class_C.30.30.01.1m    0.000000
+138                         BIM_class_C.30.30.01.1l    0.000000
+395  third_level_Floor plates, gratings and edgings    0.000000
+
+[396 rows x 2 columns]"

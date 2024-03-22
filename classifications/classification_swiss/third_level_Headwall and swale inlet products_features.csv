@@ -1,0 +1,74 @@
+,Feature,Importance
+61,Material_Keramik,0.69412947
+1,Quantity,0.09174762
+34,Condition_like new,0.07708479
+40,"Condition_used, cleaned & tested",0.03471432
+51,Subcategory_WC-Anlagen,0.034633458
+39,Condition_used & cleaned,0.019506654
+0,LastPrice,0.018577479
+3,Width,0.0111169815
+2,Length,0.008338626
+38,Condition_used,0.005610397
+55,Subcategory_Waschtisch & Lavabos,0.0022940054
+58,Material_Ceramic,0.0022461961
+65,Material_Mixed,0.0
+49,Subcategory_Spülen,0.0
+71,Energy_Efficiency_C,0.0
+70,Energy_Efficiency_A,0.0
+41,Subcategory_Anlage Frischwasser,0.0
+69,Material_gemischt,0.0
+42,Subcategory_Apparate & Geräte,0.0
+43,Subcategory_Armaturen,0.0
+44,Subcategory_Badewanne & Dusche,0.0
+45,Subcategory_Badezimmermöbel,0.0
+46,Subcategory_Baustoffe,0.0
+47,Subcategory_Dachhaut,0.0
+48,Subcategory_Sonstiges,0.0
+68,Material_Steel,0.0
+50,Subcategory_Treppen & Rampen,0.0
+64,Material_Metall,0.0
+52,Subcategory_WCs - Toiletten,0.0
+53,Subcategory_Waschküche & Trocknen,0.0
+54,Subcategory_Waschküche & Trockner,0.0
+67,Material_Stainless steel,0.0
+57,Material_Aluminum,0.0
+59,Material_Chrome steel,0.0
+60,Material_Glass,0.0
+66,Material_Plastic,0.0
+62,Material_Kunststoff,0.0
+63,Material_Metal,0.0
+56,Subcategory_Zubehör,0.0
+36,Condition_neuwertig,0.0
+37,Condition_new,0.0
+18,Swiss_Raw_Rainwater weirs,0.0
+4,Category_Ausbau,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+7,Category_Gebäudetechnik & Sanitär,0.0
+8,Category_Sonstiges,0.0
+9,Category_Umgebung,0.0
+10,Swiss_Raw_Arrises,0.0
+11,Swiss_Raw_Bath panels,0.0
+12,Swiss_Raw_Bathroom cabinets,0.0
+13,Swiss_Raw_Baths,0.0
+14,Swiss_Raw_Bidets,0.0
+15,Swiss_Raw_Chlorine catchpots,0.0
+16,Swiss_Raw_Healthcare hand rinse basins,0.0
+17,Swiss_Raw_Pedestal washbasins,0.0
+19,Swiss_Raw_Sedge,0.0
+35,Condition_mixed,0.0
+20,Swiss_Raw_Shower heads,0.0
+21,Swiss_Raw_Sink taps,0.0
+22,Swiss_Raw_Slab urinals,0.0
+23,Swiss_Raw_Solvents,0.0
+24,Swiss_Raw_Sprigs,0.0
+25,Swiss_Raw_Swimming pool fittings,0.0
+26,Swiss_Raw_Wall-hung washbasins,0.0
+27,Swiss_Raw_Wash troughs,0.0
+28,Swiss_Raw_Washbasin spouts,0.0
+29,Swiss_Raw_Water conditioners,0.0
+30,Swiss_Raw_Water hoses,0.0
+31,Swiss_Raw_Water-sensing cables,0.0
+32,Condition_cleaned & tested,0.0
+33,"Condition_gebraucht, gereinigt & geprüft",0.0
+72,third_level_Headwall and swale inlet products,0.0

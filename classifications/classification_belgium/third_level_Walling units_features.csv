@@ -1,0 +1,113 @@
+,Feature,Importance
+97,"first_level_Wall, Barriers, Pannels",0.3703831
+2,Latest_Price,0.24438857
+0,Weight,0.15101051
+1,Initial_Price,0.10683201
+102,second_level_Other,0.10588243
+98,"second_level_Blocks, Panels, Fences, Bricks",0.021503331
+101,second_level_Furnishings,0.0
+64,material_emb_Sheet,0.0
+73,Belgium_Raw_Murals,0.0
+72,Belgium_Raw_Culverts,0.0
+71,Belgium_Raw_Ceramic tile borders,0.0
+70,Belgium_Raw_Ceiling light switches,0.0
+69,Belgium_Raw_Arrises,0.0
+68,Belgium_Raw_Aluminium skirtings,0.0
+67,material_emb_Wychert,0.0
+66,material_emb_Wallaba,0.0
+65,material_emb_Terracotta,0.0
+62,material_emb_Pozzolan cement,0.0
+63,material_emb_Rubble concrete,0.0
+75,Belgium_Raw_Office desks,0.0
+61,material_emb_Porcelain,0.0
+60,material_emb_Pisé,0.0
+59,material_emb_Oak,0.0
+58,material_emb_Masonry cement,0.0
+57,material_emb_Loose surfacing decorative aggregates,0.0
+56,material_emb_Lightweight insulating concrete,0.0
+55,material_emb_Insulating concrete,0.0
+54,material_emb_Gravel,0.0
+74,Belgium_Raw_Natural stone wall and floor slabs,0.0
+77,Belgium_Raw_Terrazzo tile skirtings,0.0
+76,Belgium_Raw_Refractory bricks,0.0
+88,Belgium_Code_Pr_40_20_93_74,0.0
+99,"second_level_Door, Windows, Gates",0.0
+96,"first_level_Roof, Slabs, Stairs",0.0
+95,first_level_Other,0.0
+94,first_level_Furnishings,0.0
+93,Belgium_Code_Pr_65_72_97_16,0.0
+92,Belgium_Code_Pr_65_52_20,0.0
+91,Belgium_Code_Pr_40_50_21_59,0.0
+90,Belgium_Code_Pr_40_50_05_55,0.0
+89,Belgium_Code_Pr_40_20_93_82,0.0
+87,Belgium_Code_Pr_35_93_96_89,0.0
+100,"second_level_Floors, Ceiling",0.0
+86,Belgium_Code_Pr_35_93_96_56,0.0
+85,Belgium_Code_Pr_35_93_96_13,0.0
+84,Belgium_Code_Pr_35_93_96,0.0
+83,Belgium_Code_Pr_35_90_43_04,0.0
+82,Belgium_Code_Pr_35_90_43_02,0.0
+81,Belgium_Code_Pr_20_93_52_73,0.0
+80,Belgium_Raw_Wall-hung urinals,0.0
+53,material_emb_Granule,0.0
+78,Belgium_Raw_Urinal dividers,0.0
+79,Belgium_Raw_Wall and floor tile units,0.0
+52,material_emb_Granite-powder cement,0.0
+51,material_emb_Expansive concrete,0.0
+14,Category_Furniture,0.0
+24,Condition_Correct,0.0
+23,Category_Wall Cladding,0.0
+22,Category_Technical,0.0
+21,Category_Sanitary,0.0
+20,Category_Sanitaires,0.0
+19,Category_Portes et fenêtres,0.0
+18,Category_Mobilier,0.0
+17,Category_Lighting,0.0
+16,Category_Hardware,0.0
+15,Category_Garden,0.0
+13,Category_Floors,0.0
+50,material_emb_Expanded glass aggregates,0.0
+12,Category_Electricités et luminaires,0.0
+11,Category_Bricks,0.0
+10,Category_Brick,0.0
+9,Height,0.0
+8,Width,0.0
+7,Length,0.0
+6,Quantity_Change,0.0
+5,Price_Change,0.0
+4,Stock_Now,0.0
+3,Initial_Stock,0.0
+25,Condition_Usé,0.0
+26,Material_Bois,0.0
+27,Material_Céramique,0.0
+28,Material_Plastique,0.0
+49,material_emb_Decorative aggregates,0.0
+48,material_emb_Coloured glass,0.0
+47,material_emb_Ceramic,0.0
+46,material_emb_Architectural glass,0.0
+45,material_emb_Aluminium,0.0
+44,Language_fr,0.0
+43,Store_rotordc,0.0
+42,Country_BE,0.0
+41,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+40,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+39,Collection_ECO-CUI LCO : A coordonner avec Matériuum,0.0
+38,Collection_CHUV Lausanne : Retrait des éléments sur rendez-vous (Lausanne) après confirmation de la commande par Matériuum.,0.0
+37,"Technical_Mode d’assemblage : Vissée au mur
+Préconisations de dépose :",0.0
+36,"Technical_Mode d’assemblage : Vissé au mur par 4 attaches
+Préconisations de dépose :",0.0
+35,"Technical_Mode d’assemblage : Vissé au mur
+Préconisations de dépose :",0.0
+34,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose :",0.0
+33,"Technical_Mode d’assemblage : Sur gonds
+Préconisations de dépose : À dégonder",0.0
+32,"Technical_Mode d’assemblage : Cadre-faux-cadre.
+Préconisations de dépose : Cadre potentiellement pas récupérable",0.0
+31,"Technical_Mode d’assemblage : Boulonnée au mur
+Préconisations de dépose :",0.0
+30,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+29,Material_Verre,0.0
+103,third_level_Walling units,0.0

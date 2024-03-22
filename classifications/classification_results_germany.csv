@@ -1,18 +1,18 @@
 ,Code,report,features
 0,Pr_30_36_36_21,"              precision    recall  f1-score   support
 
-         0.0       0.92      0.97      0.94        58
-         1.0       0.91      0.81      0.86        26
+         0.0       0.92      0.98      0.95        58
+         1.0       0.95      0.81      0.88        26
 
-    accuracy                           0.92        84
-   macro avg       0.92      0.89      0.90        84
-weighted avg       0.92      0.92      0.92        84
+    accuracy                           0.93        84
+   macro avg       0.94      0.90      0.91        84
+weighted avg       0.93      0.93      0.93        84
 ","                             Feature  Importance
-49           Location_D-28217 Bremen    0.810020
-3    Subcategory_Wohnungseingangstür    0.113773
-64       Location_D-40213 Düsseldorf    0.038430
-178                     Location_gut    0.016099
-2             Subcategory_Außentüren    0.012239
+49           Location_D-28217 Bremen    0.825743
+3    Subcategory_Wohnungseingangstür    0.136101
+178                     Location_gut    0.015075
+2             Subcategory_Außentüren    0.010755
+4            Subcategory_Zimmertüren    0.006633
 ..                               ...         ...
 82          Location_D-50678 Cologne    0.000000
 83          Location_D-50968 Cologne    0.000000
@@ -30,11 +30,11 @@ weighted avg       0.92      0.92      0.92        84
    macro avg       0.65      0.68      0.66       104
 weighted avg       0.94      0.93      0.94       104
 ","                                Feature  Importance
-54              Location_D-14055 Berlin    0.716528
-241                  Location_neuwertig    0.053479
-90          Location_D-40213 Düsseldorf    0.044419
-4                       Category_Rohbau    0.040027
-230                  Location_Gebraucht    0.035332
+54              Location_D-14055 Berlin    0.657548
+1         Category_Garten & Freianlagen    0.082280
+2        Category_Haustechnik & Sanitär    0.060322
+90          Location_D-40213 Düsseldorf    0.059122
+241                  Location_neuwertig    0.058084
 ..                                  ...         ...
 130       Location_D-63263 Neu-Isenburg    0.000000
 129           Location_D-61476 Kronberg    0.000000
@@ -52,10 +52,10 @@ weighted avg       0.94      0.93      0.94       104
    macro avg       0.42      0.45      0.43        13
 weighted avg       0.71      0.77      0.74        13
 ","                                      Feature  Importance
-35                 Location_D-93326 Abensberg    0.684652
-39                            Hersteller_Roto    0.218057
-0                            LastPriceNumeric    0.073066
-40                           Hersteller_Velux    0.024226
+35                 Location_D-93326 Abensberg    0.588190
+39                            Hersteller_Roto    0.245634
+0                            LastPriceNumeric    0.109302
+40                           Hersteller_Velux    0.056875
 31                 Location_D-77654 Offenburg    0.000000
 24                  Location_D-70736 Fellbach    0.000000
 25                 Location_D-72186 Empfingen    0.000000
@@ -103,28 +103,28 @@ weighted avg       0.71      0.77      0.74        13
     accuracy                           0.87       125
    macro avg       0.93      0.74      0.79       125
 weighted avg       0.89      0.87      0.85       125
-","                       Feature  Importance
-1                Category_Dach    0.664624
-72     Location_D-28217 Bremen    0.153481
-3         Category_Innenausbau    0.060670
-288               Location_Neu    0.037153
-356       Hersteller_Internorm    0.022734
-..                         ...         ...
-145   Location_D-53424 Remagen    0.000000
-144  Location_D-53332 Bornheim    0.000000
-143      Location_D-53111 Bonn    0.000000
-142     Location_D-52351 Düren    0.000000
-439          material_emb_Silt    0.000000
+","                        Feature  Importance
+1                 Category_Dach    0.684013
+72      Location_D-28217 Bremen    0.155540
+3          Category_Innenausbau    0.050291
+288                Location_Neu    0.041542
+2              Category_Fenster    0.026467
+..                          ...         ...
+144   Location_D-53332 Bornheim    0.000000
+143       Location_D-53111 Bonn    0.000000
+142      Location_D-52351 Düren    0.000000
+141  Location_D-52152 Simmerath    0.000000
+439           material_emb_Silt    0.000000
 
 [440 rows x 2 columns]"
 4,Pr_45_63_64_90,"              precision    recall  f1-score   support
 
          0.0       0.00      0.00      0.00         1
-         1.0       0.94      1.00      0.97        16
+         1.0       0.94      0.94      0.94        16
 
-    accuracy                           0.94        17
-   macro avg       0.47      0.50      0.48        17
-weighted avg       0.89      0.94      0.91        17
+    accuracy                           0.88        17
+   macro avg       0.47      0.47      0.47        17
+weighted avg       0.88      0.88      0.88        17
 ","                      Feature  Importance
 0            LastPriceNumeric         1.0
 53               Location_Neu         0.0
@@ -230,18 +230,18 @@ weighted avg       1.00      1.00      1.00         8
 36                               material_emb_Ceramic         0.0"
 8,Pr_45_31_63_76,"              precision    recall  f1-score   support
 
-         0.0       0.93      0.96      0.94        52
-         1.0       0.91      0.83      0.87        24
+         0.0       0.92      0.94      0.93        52
+         1.0       0.87      0.83      0.85        24
 
-    accuracy                           0.92        76
-   macro avg       0.92      0.90      0.91        76
-weighted avg       0.92      0.92      0.92        76
+    accuracy                           0.91        76
+   macro avg       0.90      0.89      0.89        76
+weighted avg       0.91      0.91      0.91        76
 ","                            Feature  Importance
-61          Location_D-28217 Bremen    0.853902
-3           Category_Türen & Zargen    0.133645
-0                  LastPriceNumeric    0.007803
-1    Category_Haustechnik & Sanitär    0.003095
-2                   Category_Rohbau    0.001555
+61          Location_D-28217 Bremen    0.857332
+3           Category_Türen & Zargen    0.129715
+0                  LastPriceNumeric    0.008217
+1    Category_Haustechnik & Sanitär    0.003188
+2                   Category_Rohbau    0.001547
 ..                              ...         ...
 85         Location_D-48477 Hörstel    0.000000
 86         Location_D-50181 Bedburg    0.000000
@@ -259,8 +259,8 @@ weighted avg       0.92      0.92      0.92        76
    macro avg       0.83      0.96      0.88        29
 weighted avg       0.95      0.93      0.94        29
 ","                                              Feature  Importance
-16                            Location_D-28217 Bremen    0.982222
-0                                    LastPriceNumeric    0.017778
+16                            Location_D-28217 Bremen    0.979666
+0                                    LastPriceNumeric    0.020334
 43                 Hersteller_Berker Artikelnr.: 5031    0.000000
 32                         Location_D-70199 Stuttgart    0.000000
 33                           Location_D-71686 Remseck    0.000000
@@ -326,8 +326,8 @@ weighted avg       0.95      0.93      0.94        29
    macro avg       0.97      0.96      0.97        33
 weighted avg       0.97      0.97      0.97        33
 ","                                Feature  Importance
-15              Location_D-28217 Bremen    0.974168
-0                      LastPriceNumeric    0.025832
+15              Location_D-28217 Bremen    0.973244
+0                      LastPriceNumeric    0.026756
 68          Location_D-87561 Oberstdorf    0.000000
 78   Hersteller_Conmetall Meister GmbH     0.000000
 77                   Hersteller_Buderus    0.000000
@@ -362,18 +362,18 @@ weighted avg       1.00      1.00      1.00        16
 [64 rows x 2 columns]"
 12,Pr_20_29_56_82,"              precision    recall  f1-score   support
 
-         0.0       0.89      0.73      0.80        22
-         1.0       0.25      0.50      0.33         4
+         0.0       0.89      0.77      0.83        22
+         1.0       0.29      0.50      0.36         4
 
-    accuracy                           0.69        26
-   macro avg       0.57      0.61      0.57        26
-weighted avg       0.79      0.69      0.73        26
+    accuracy                           0.73        26
+   macro avg       0.59      0.64      0.60        26
+weighted avg       0.80      0.73      0.76        26
 ","                         Feature  Importance
-3         Subcategory_Aussenputz    0.419323
-4    Subcategory_Fassadendämmung    0.203644
-0               LastPriceNumeric    0.178984
-94                  Location_Neu    0.103645
-1               Category_Fassade    0.094404
+3         Subcategory_Aussenputz    0.537025
+4    Subcategory_Fassadendämmung    0.224312
+0               LastPriceNumeric    0.161920
+1               Category_Fassade    0.076742
+124            material_emb_Pisé    0.000000
 ..                           ...         ...
 38   Location_D-63486 Bruchköbel    0.000000
 37   Location_D-61479 Glashütten    0.000000
@@ -413,16 +413,16 @@ weighted avg       0.97      0.90      0.93        21
    macro avg       0.91      0.60      0.62        24
 weighted avg       0.86      0.83      0.79        24
 ","                       Feature  Importance
-0             LastPriceNumeric    0.532714
-1             Category_Fassade    0.467286
-123        German_Raw_Lacquers    0.000000
-92        Hersteller_Fermacell    0.000000
-90             Hersteller_EJOT    0.000000
+0             LastPriceNumeric     0.85578
+1             Category_Fassade     0.14422
+123        German_Raw_Lacquers     0.00000
+92        Hersteller_Fermacell     0.00000
+90             Hersteller_EJOT     0.00000
 ..                         ...         ...
-36   Location_D-47053 Duisburg    0.000000
-35    Location_D-46399 Bocholt    0.000000
-34      Location_D-45127 Essen    0.000000
-33     Location_D-44787 Bochum    0.000000
-124       material_emb_Lignite    0.000000
+36   Location_D-47053 Duisburg     0.00000
+35    Location_D-46399 Bocholt     0.00000
+34      Location_D-45127 Essen     0.00000
+33     Location_D-44787 Bochum     0.00000
+124       material_emb_Lignite     0.00000
 
 [125 rows x 2 columns]"

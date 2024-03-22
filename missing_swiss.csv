@@ -11,9 +11,9 @@ Category_1,Category_1,0.6364922206506365
 Subcategory,Subcategory,3.4653465346534653
 Description,Description,0.0
 Material,Material,26.63837812352664
-Length,Length,42.36209335219236
-Width,Width,37.43517208863744
-Height,Height,39.297501178689295
+Length,Length,44.93163602074493
+Width,Width,40.452616690240454
+Height,Height,41.937765205091935
 Diameter,Diameter,98.34983498349835
 Weight,Weight,92.14992927864215
 Color,Color,67.7039132484677
@@ -21,7 +21,7 @@ Energy_Efficiency,Energy_Efficiency,96.84111268269685
 Availability,Availability,20.76850542197077
 FirstPrice,FirstPrice,17.138142385667138
 PriceOnDemand,PriceOnDemand,93.16360207449317
-Quantity,Quantity,81.94247996228194
+Quantity,Quantity,93.16360207449317
 Saved,Saved,17.138142385667138
 LastPrice,LastPrice,5.775577557755776
 LastUpOn,LastUpOn,2.758132956152758
@@ -50,4 +50,3 @@ Swiss_Code,Swiss_Code,44.17727487034418
 first_level,first_level,0.0
 second_level,second_level,0.0
 third_level,third_level,0.0
-quantity_score,quantity_score,0.0

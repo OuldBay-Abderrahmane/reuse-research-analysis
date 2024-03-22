@@ -1,0 +1,165 @@
+,Feature,Importance
+86,"Condition_gebraucht, gereinigt & geprüft",0.19078389
+159,Material_gemischt,0.16407898
+144,Material_Metal,0.09394056
+89,Condition_mixed,0.06791704
+8,Category_Sonstiges,0.057733618
+158,Material_Wood,0.054230627
+122,Subcategory_Spülen,0.04792762
+134,Material_Ceramic,0.04463567
+120,Subcategory_Möbel,0.040221028
+146,Material_Mixed,0.03764923
+1,Quantity,0.0325551
+0,LastPrice,0.031442642
+3,Width,0.019696286
+93,Condition_used & cleaned,0.018935263
+7,Category_Gebäudetechnik & Sanitär,0.018482115
+2,Length,0.013692338
+94,"Condition_used, cleaned & tested",0.013268432
+4,Category_Ausbau,0.013040797
+87,Condition_like new,0.012418619
+48,Swiss_Raw_Kitchenette units,0.0096626
+103,Subcategory_Einbauküchen,0.00814778
+95,Subcategory_Apparate & Geräte,0.00486171
+92,Condition_used,0.004678042
+150,Material_Plastic,0.0
+105,Subcategory_Elastische Beläge,0.0
+106,Subcategory_Fassade,0.0
+107,Subcategory_Fertigteile & Geräte,0.0
+108,Subcategory_Gartenmöbel,0.0
+109,Subcategory_Gastroküche & Gastroartikel,0.0
+111,Subcategory_Heizkörper,0.0
+110,Subcategory_Geländer,0.0
+112,Subcategory_Holzbeläge,0.0
+113,Subcategory_Innentüren,0.0
+114,Subcategory_Keramikbeläge,0.0
+115,Subcategory_Kleinteile,0.0
+104,Subcategory_Einrichtungen,0.0
+101,Subcategory_Dachfenster,0.0
+102,Subcategory_Dämmung,0.0
+117,Subcategory_Laminat,0.0
+100,Subcategory_Baustoffe,0.0
+99,Subcategory_Baumaschinen,0.0
+98,Subcategory_Aussentüren,0.0
+97,Subcategory_Aufzüge,0.0
+96,Subcategory_Armaturen,0.0
+157,Material_Textile,0.0
+160,Energy_Efficiency_A,0.0
+91,Condition_new,0.0
+90,Condition_neuwertig,0.0
+161,Energy_Efficiency_C,0.0
+162,Energy_Efficiency_D,0.0
+88,Condition_mangelhaft,0.0
+116,Subcategory_Küchenmöbel,0.0
+118,Subcategory_Läden & Storen,0.0
+149,Material_Other,0.0
+119,Subcategory_Mauern,0.0
+148,Material_Naturstein,0.0
+147,Material_Natural stone,0.0
+151,Material_Plexiglass,0.0
+145,Material_Metall,0.0
+152,Material_Stahl,0.0
+143,Material_Marble,0.0
+142,Material_Kunststoff,0.0
+141,Material_Kunststein,0.0
+140,Material_Keramik,0.0
+139,Material_Holz,0.0
+138,Material_Granit,0.0
+137,Material_Glass,0.0
+136,Material_Concrete,0.0
+135,Material_Compound,0.0
+153,Material_Stainless steel,0.0
+133,Material_Carpet,0.0
+132,Material_Aluminum,0.0
+131,Subcategory_Öfen & Cheminées,0.0
+130,Subcategory_Zubehör,0.0
+129,Subcategory_Waschtisch & Lavabos,0.0
+128,Subcategory_Waschküche & Trocknen,0.0
+154,Material_Steel,0.0
+126,Subcategory_WC-Anlagen,0.0
+125,Subcategory_Umgebungsfläche,0.0
+124,Subcategory_Treppen & Rampen,0.0
+123,Subcategory_Steinbeläge,0.0
+155,Material_Stone,0.0
+121,Subcategory_Sonstiges,0.0
+156,Material_Tarpaulin,0.0
+127,Subcategory_WCs - Toiletten,0.0
+82,Condition_cleaned & tested,0.0
+85,Condition_gebraucht & gereinigt,0.0
+34,Swiss_Raw_Fishwashers,0.0
+27,Swiss_Raw_Domestic cooking equipment,0.0
+28,Swiss_Raw_Domestic dishwashers,0.0
+29,Swiss_Raw_Door dampers,0.0
+30,Swiss_Raw_Door frames and leaves,0.0
+31,Swiss_Raw_Dovecotes,0.0
+32,Swiss_Raw_Drainage pumps,0.0
+33,Swiss_Raw_Fermenters,0.0
+35,Swiss_Raw_Flip-top tables,0.0
+25,Swiss_Raw_Dish and utensil washers,0.0
+36,Swiss_Raw_Floor edging strips,0.0
+37,"Swiss_Raw_Floor plates, gratings and edgings",0.0
+38,Swiss_Raw_Flue liners,0.0
+39,Swiss_Raw_Food preparation tables,0.0
+40,Swiss_Raw_Garden awnings,0.0
+41,Swiss_Raw_Garden furnishings,0.0
+42,Swiss_Raw_Gold plating,0.0
+26,Swiss_Raw_Dishwashers,0.0
+24,Swiss_Raw_Dining tables,0.0
+84,Condition_gebraucht,0.0
+14,Swiss_Raw_Commercial gas bratt pans,0.0
+5,Category_Baustoffe & Werkzeuge,0.0
+6,Category_Gebäudehülle & Konstruktion,0.0
+9,Category_Umgebung,0.0
+10,Swiss_Raw_Aluminium brise-soleil louvre blades,0.0
+11,Swiss_Raw_Arrises,0.0
+12,Swiss_Raw_Ceramic slates,0.0
+13,Swiss_Raw_Commercial cooking equipment,0.0
+15,Swiss_Raw_Commercial gas cooking ranges,0.0
+23,Swiss_Raw_Desks,0.0
+16,Swiss_Raw_Concealed hinges,0.0
+17,Swiss_Raw_Conference tables,0.0
+18,Swiss_Raw_Copper slates,0.0
+19,Swiss_Raw_Cupboards,0.0
+20,Swiss_Raw_Cutlery,0.0
+21,Swiss_Raw_Decorative stone finishing battens,0.0
+22,Swiss_Raw_Decorator’s caulks,0.0
+43,Swiss_Raw_Grommets,0.0
+44,Swiss_Raw_Kitchen canopies,0.0
+45,Swiss_Raw_Kitchen scales,0.0
+74,Swiss_Raw_Stone tiles,0.0
+67,Swiss_Raw_Silver plating,0.0
+68,Swiss_Raw_Soffit grilles,0.0
+69,Swiss_Raw_Soleplates,0.0
+70,Swiss_Raw_Sprigs,0.0
+71,Swiss_Raw_Steel spiles,0.0
+72,Swiss_Raw_Stone plant containers,0.0
+73,Swiss_Raw_Stone slabs,0.0
+75,Swiss_Raw_Tee hinges,0.0
+46,Swiss_Raw_Kitchen splashbacks,0.0
+76,Swiss_Raw_Terrazzo tile skirtings,0.0
+77,Swiss_Raw_Trellises,0.0
+78,Swiss_Raw_Wood brise-soleil louvre blades,0.0
+79,Swiss_Raw_Wood cover strips,0.0
+80,Swiss_Raw_Wood skirtings,0.0
+81,Swiss_Raw_Wood window walls,0.0
+83,Condition_defective,0.0
+66,Swiss_Raw_Sedge,0.0
+65,Swiss_Raw_Scagliola,0.0
+64,Swiss_Raw_Rock dowels,0.0
+63,Swiss_Raw_Quarry tile sit-on skirtings,0.0
+47,Swiss_Raw_Kitchen worktops,0.0
+49,Swiss_Raw_Lacquers,0.0
+50,Swiss_Raw_Marble dust,0.0
+51,Swiss_Raw_Metal newel posts,0.0
+52,Swiss_Raw_Metal skirtings,0.0
+53,Swiss_Raw_Meter cabinets,0.0
+54,Swiss_Raw_Mosaic tiles,0.0
+55,Swiss_Raw_Murals,0.0
+56,Swiss_Raw_Nails,0.0
+57,Swiss_Raw_Natural stone quoins,0.0
+58,Swiss_Raw_Natural stone slates,0.0
+59,Swiss_Raw_Occasional tables,0.0
+60,Swiss_Raw_Plaques,0.0
+61,Swiss_Raw_Plate (square) washers,0.0
+62,Swiss_Raw_Pleated blinds,0.0
+163,"third_level_Floor plates, gratings and edgings",0.0

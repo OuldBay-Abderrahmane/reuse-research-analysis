@@ -1,7 +1,8 @@
-,first_level,SoldAfterDays,CountEntity,Rank_SoldAfterDays,Rank_CountEntity,Score
-2,"Roof, Slabs, Stairs",45.19417475728155,103,3.0,1.0,4.0
-1,Other,65.55172413793103,58,5.0,2.0,7.0
-4,Technical elements,43.5,2,2.0,5.0,7.0
-5,Structural elements,0.0,1,1.0,6.0,7.0
-3,Furnishings,64.7,20,4.0,4.0,8.0
-0,"Wall, Barriers, Pannels",72.17073170731707,41,6.0,3.0,9.0
+,first_level,Sold_AfterDays,CountEntity,Rank_Sold_AfterDays,Rank_CountEntity,Score
+1,Other,39.579505300353354,283,5.0,1.0,6.0
+0,"Wall, Barriers, Pannels",30.69298245614035,114,3.0,4.0,7.0
+2,"Roof, Slabs, Stairs",39.18181818181818,132,4.0,3.0,7.0
+4,Technical elements,20.21875,32,2.0,5.0,7.0
+6,Openings,0.0,6,1.0,6.0,7.0
+3,Furnishings,50.58571428571429,140,7.0,2.0,9.0
+5,Structural elements,49.333333333333336,6,6.0,6.0,12.0

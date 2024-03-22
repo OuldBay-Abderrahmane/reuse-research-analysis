@@ -1,0 +1,128 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+72,832,832,Tischfüsse,"used, cleaned & tested","['J02.03', 'Sonstiges']",Movable equipment,,Ausbau,Möbel & Einrichtungen,Zubehör,Produkte-Nr. 2551,Mixed,,,74,,,,,2023-01-13,10.0,,,1970-01-01,10.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,"Zürich, 8050",,useagain,82789,CH,de,2551_570x570.jpg,https://www.useagain.ch/de/tischfuesse-82789,J02.03,table feet,,,,"{'score': 0.0015218856278806925, 'start': 12, 'end': 17, 'answer': ' 2551'}","{'score': 8.381051156902686e-05, 'start': 12, 'end': 17, 'answer': ' 2551'}","{'score': 0.5171881318092346, 'start': 12, 'end': 17, 'answer': ' 2551'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+147,912,912,Scherentreppe Alu,used & cleaned,"['C01.04', 'C04.02', 'C04.06', 'D12.04', 'I02.04']","Suspended structural slabs, roof structure",,Ausbau,Geländer & Treppen,Treppen & Rampen,"Zu verkaufen
+Estrichtreppe Marke Â«AGROÂ», feuerhemmend. Gute, stabile Ausführung. Wenig gebraucht, in gutem Zustand. Kastengrösse: 150x80x22 cm, 12 Tritte. Die Treppe war in einer Raumhöhe von 240cm eingebaut.
+Muss in Staad/SG abgeholt werden.",Metal,150.0,80.0,22,,,,,,300.0,,,1970-01-01,300.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Staad, 9422",,useagain,79085,CH,de,img_6817_570x570.jpg,https://www.useagain.ch/de/scherentreppe-alu-79085,C04,stairs,,,,"{'score': 0.7769994735717773, 'start': 42, 'end': 56, 'answer': ' feuerhemmend.'}","{'score': 0.6567187309265137, 'start': 131, 'end': 145, 'answer': ' 150x80x22 cm,'}","{'score': 0.2619624435901642, 'start': 145, 'end': 156, 'answer': ' 12 Tritte.'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels",Other,Sectional products
+212,985,985,Deckenleuchte Prandina,"used, cleaned & tested","['D01.05', 'J01.03']",Electrical installations,,Gebäudetechnik & Sanitär,Elektro & Leuchten,Leuchten & Lampen,"Name: Equilibre Halo C3
+Design: Luc Ramael
+Jahrgang: 2006
+Mit Montageanleitung
+Neupreis: 1300.--",Mixed,,,,68,,,,2023-02-01,300.0,,,1970-01-01,300.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,72251,CH,de,lampe_570x570.png,https://www.useagain.ch/de/deckenleuchte-prandina-72251,D01,ceiling light,,,,"{'score': 0.16777801513671875, 'start': 5, 'end': 23, 'answer': ' Equilibre Halo C3'}","{'score': 0.000455022876849398, 'start': 5, 'end': 23, 'answer': ' Equilibre Halo C3'}","{'score': 6.803390715504065e-05, 'start': 88, 'end': 96, 'answer': ' 1300.--'}",Sitka spruce,Scagliola,Pr_35_31_64_76,Furnishings,Furnishings,"Lighting columns, brackets and bollards"
+497,1314,1314,Lavabo Sbordoni,like new,['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Modell: 70 Neoclassica
+Lochabstand: 29cm",Ceramic,57.0,69.0,32,,,,,2023-02-01,110.0,,,1970-01-01,110.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Brügg, 2555",,useagain,72463,CH,de,lavabo1_570x570.png,https://www.useagain.ch/de/lavabo-sbordoni-72463,J01.02,sink,,,,"{'score': 0.4371788203716278, 'start': 10, 'end': 22, 'answer': ' Neoclassica'}","{'score': 0.05565781518816948, 'start': 22, 'end': 40, 'answer': '\nLochabstand: 29cm'}","{'score': 0.16973701119422913, 'start': 7, 'end': 10, 'answer': ' 70'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels",Other,"Floor plates, gratings and edgings"
+559,1376,1376,elektr . Gelenkarmmarkise mitd Aludächli,used & cleaned,['E03.04'],"Sunshading, weather protection",,Gebäudehülle & Konstruktion,Fenster,Läden & Storen,"breite Gelenkarmmarkise /bzw Sonnenstore elektreisch; Stoffbreite: 488cm, mind 1 Stelle ist Naht offen (s Foto Nr 3)",Mixed,300.0,500.0,,,,,,2022-10-28,488.0,,,1970-01-01,488.0,1970-01-01 00:00:00.000,0.0,1.0,271.0,,,useagain,78732,CH,de,20190626_100155_570x570.jpg,https://www.useagain.ch/de/elektr.-gelenkarmmarkise-mitd-aludaechli-78732,E03.04,,,,,"{'score': 0.23448511958122253, 'start': 53, 'end': 66, 'answer': ' Stoffbreite:'}","{'score': 0.0009679296636022627, 'start': 66, 'end': 73, 'answer': ' 488cm,'}","{'score': 0.0001473336888011545, 'start': 66, 'end': 73, 'answer': ' 488cm,'}",Lignite,Scagliola,Pr_35_31_64_76,Technical elements,"Covering, Finish",Trim products
+560,1377,1377,elektr . Gelenkarmmarkise mitd Aludächli,used & cleaned,['E03.04'],"Sunshading, weather protection",,Gebäudehülle & Konstruktion,Fenster,Läden & Storen,"breite Gelenkarmmarkise /bzw Sonnenstore elektreisch; Stoffbreite: 488cm, mind 1 Stelle ist Naht offen (s Foto Nr 3)",Mixed,300.0,500.0,,,,,,2022-10-28,488.0,,,1970-01-01,488.0,1970-01-01 00:00:00.000,0.0,1.0,265.0,,,useagain,78732,CH,de,20190626_100155_570x570.jpg,https://www.useagain.ch/de/elektr.-gelenkarmmarkise-mitd-aludaechli-78732,E03.04,,,,,"{'score': 0.23448511958122253, 'start': 53, 'end': 66, 'answer': ' Stoffbreite:'}","{'score': 0.0009679296636022627, 'start': 66, 'end': 73, 'answer': ' 488cm,'}","{'score': 0.0001473336888011545, 'start': 66, 'end': 73, 'answer': ' 488cm,'}",Lignite,Scagliola,Pr_35_31_64_76,Technical elements,"Covering, Finish",Trim products
+935,1768,1768,Rasenkantenstein,used & cleaned,"['I03.02', 'I03.07', 'I04.01', 'I04.03']",Green spaces,,Umgebung,Garten & Aussenbereich,Umgebungsfläche,"Rasenkantenstein aus Beton
+
+Artikelnr: 111357",Stone,8.0,25.0,100,,,,,2022-07-26,6.0,,,1970-01-01,6.0,1970-01-01 00:00:00.000,0.0,1.0,207.0,"Münchenstein, 4142",,useagain,82849,CH,de,6024912187_570x570.jpg,https://www.useagain.ch/de/rasenkantenstein-82849,I03,,,,,"{'score': 0.9610570073127747, 'start': 20, 'end': 26, 'answer': ' Beton'}","{'score': 0.001123766298405826, 'start': 0, 'end': 26, 'answer': 'Rasenkantenstein aus Beton'}","{'score': 0.002192152664065361, 'start': 0, 'end': 26, 'answer': 'Rasenkantenstein aus Beton'}",Granule,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+1212,2061,2061,Backofen Miele,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Baujahr: 2017
+Garantie: 6 Monate
+Masse: H: 60 cm, B: 60 cm, T: 57 cm
+Hersteller: Miele
+Montage: Einbau
+Spannung: 400 V
+Zustand: occasion/gebraucht
+Muss von einem Fachmann installiert werden
+
+Artikel Nr: 111540",Mixed,57.0,60.0,60,,,mixed,,2022-10-03,229.0,,,1970-01-01,229.0,1970-01-01 00:00:00.000,0.0,1.0,179.0,"Münchenstein, 4142",,useagain,90709,CH,de,111540_570x570.jpg,https://www.useagain.ch/de/backofen-miele-h2260-60e-eu60-90709,H03.05,oven,,,,"{'score': 2.2105998596089194e-06, 'start': 146, 'end': 189, 'answer': '\nMuss von einem Fachmann installiert werden'}","{'score': 0.8938894271850586, 'start': 39, 'end': 68, 'answer': ' H: 60 cm, B: 60 cm, T: 57 cm'}","{'score': 0.0009067525388672948, 'start': 39, 'end': 68, 'answer': ' H: 60 cm, B: 60 cm, T: 57 cm'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish",Other
+1277,2128,2128,Dunstabzug Miele,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Baujahr:  2019
+Hersteller: Miele
+Garantie: 6 Monate Garantie
+Masse: H: 87,5 cm B: 80 cm T: 50 cm
+Mängel: Gebrauchsspuren
+Montage: Einbau
+Spannung: 230 V
+Zustand: occasion/gebraucht
+
+Artikel Nr: 109091",Mixed,50.0,87.0,80,,,mixed,,2022-10-18,398.0,,,1970-01-01,398.0,1970-01-01 00:00:00.000,0.0,1.0,179.0,"Münchenstein, 4142",,useagain,90968,CH,de,109091_1_570x570.jpg,https://www.useagain.ch/de/dunstabzug-miele-da-220-edst-ch-90968,H03.05,cooker hood,,,,"{'score': 3.170906438754173e-06, 'start': 193, 'end': 200, 'answer': ' 109091'}","{'score': 0.7493923902511597, 'start': 67, 'end': 96, 'answer': ' H: 87,5 cm B: 80 cm T: 50 cm'}","{'score': 0.0012514800764620304, 'start': 60, 'end': 75, 'answer': '\nMasse: H: 87,5'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels",Other,Other
+1286,2137,2137,Waschtisch Agrovit,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: Agrovit
+Garantie: ohne Garantie
+Lochabstand: 30.5 cm 
+Masse: H: 21 cm, B: 37.5/48 cm, T: 32.5 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111839",Ceramic,32.0,48.0,21,,,white,,2022-10-21,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.002,0.0,1.0,173.0,"Münchenstein, 4142",,useagain,91105,CH,de,111839_570x570.jpg,https://www.useagain.ch/de/waschtisch-agrovit-91105,J01.02,sink,,,,"{'score': 0.9862045645713806, 'start': 142, 'end': 150, 'answer': ' Keramik'}","{'score': 0.1001378670334816, 'start': 75, 'end': 108, 'answer': ' 21 cm, B: 37.5/48 cm, T: 32.5 cm'}","{'score': 3.1061324989423156e-05, 'start': 85, 'end': 108, 'answer': ' 37.5/48 cm, T: 32.5 cm'}",Granule,Scagliola,Pr_35_31_64_76,Other,Other,Trim products
+1477,2328,2328,Backofen Miele,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Hersteller: Miele
+Garantie: ohne Garantie
+Masse: H: 76 cm, B: 55 cm, T: 57 cm
+Mängel: Gebrauchsspuren
+Material: Kunststoff
+Spannung: 3x400V
+Zustand: occasion/gebraucht
+
+Artikelnr:  111299",Mixed,57.0,55.0,76,,,,,2022-10-03,129.0,,,1970-01-01,129.0,1970-01-01 00:00:00.000,0.0,1.0,158.0,"Münchenstein, 4142",,useagain,90710,CH,de,111299_570x570.jpg,https://www.useagain.ch/de/backofen-miele-ch55-h306-2e-55-90710,H03.05,oven,,,,"{'score': 0.9937844276428223, 'start': 111, 'end': 122, 'answer': ' Kunststoff'}","{'score': 0.9024122953414917, 'start': 48, 'end': 77, 'answer': ' H: 76 cm, B: 55 cm, T: 57 cm'}","{'score': 0.09975479543209076, 'start': 48, 'end': 77, 'answer': ' H: 76 cm, B: 55 cm, T: 57 cm'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish",Other
+1961,2812,2812,diaqua Seifenschale rauch,"used, cleaned & tested","['D05.06', 'D06.06', 'D07.06', 'D11.01', 'D11.02', 'D11.03', 'D11.04', 'D11.05', 'G05.07', 'I02.06', 'I03.08', 'I03.09', 'Sonstiges']",Special utility installations,,Sonstiges,Sonstiges,Sonstiges,"Hersteller: diaqua
+Garantie: ohne Garantie
+Masse: H: 4,5 cm, B: 2,4 cm, T: 10,5 cm
+Mängel: Gebrauchsspuren
+Zustand: occasion/gebraucht
+
+Artikel Nr: 112356",Mixed,10.0,2.0,"4,5",,,,,2022-10-27,3.0,,,1970-01-01,1.0,1970-01-01 00:00:00.000,-2.0,1.0,173.0,"Münchenstein, 4142",,useagain,91215,CH,de,112356_570x570.jpg,https://www.useagain.ch/de/diaqua-seifenschale-rauch-91215,D11,,,,,"{'score': 0.017796091735363007, 'start': 11, 'end': 18, 'answer': ' diaqua'}","{'score': 0.8904677629470825, 'start': 49, 'end': 82, 'answer': ' H: 4,5 cm, B: 2,4 cm, T: 10,5 cm'}","{'score': 0.04518113657832146, 'start': 49, 'end': 82, 'answer': ' H: 4,5 cm, B: 2,4 cm, T: 10,5 cm'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels",Other,"Lighting columns, brackets and bollards"
+2023,2877,2877,Mosaikfliesen,like new,"['G02.02', 'G03.02']",Building fit-out,,Ausbau,Boden - & Wandbeläge,Keramikbeläge,"Hersteller: E. Winkelmanns
+Garantie: ohne Garantie
+Masse: B: 5cm, T: 5cm
+Mängel: Keine 
+Material: Keramik
+Zustand: Neu
+
+Artikelnr:  112416",Ceramic,5.0,5.0,,,,blue,,2022-11-28,40.0,,,1970-01-01,40.0,1970-01-01 00:00:00.000,0.0,1.0,115.0,"Münchenstein, 4142",,useagain,91394,CH,de,112416_570x570.jpg,https://www.useagain.ch/de/mosaikfliesen-91394,G,mosaic tiles,,,,"{'score': 0.987842321395874, 'start': 97, 'end': 105, 'answer': ' Keramik'}","{'score': 0.8876935839653015, 'start': 57, 'end': 72, 'answer': ' B: 5cm, T: 5cm'}","{'score': 0.2264208346605301, 'start': 57, 'end': 72, 'answer': ' B: 5cm, T: 5cm'}",Granule,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+2097,2953,2953,Küche von Forster / Küche einzeilig,"used, cleaned & tested",['G05.02'],Fitted kitchens,,Ausbau,Küchen & Gastronomie,Einbauküchen,"Hersteller: Forster
+Produktionsjahr: 2004
+Farbe: Grau
+Abdeckung und Spritzschutz: Chromstahl
+Zustand: gut, ein paar kleine Dellen, sind aber nicht gut sichtbar
+Hochschrank separat platzierbar
+
+Geräte
+Geschirrspüler: V-Zug, GS 60S-Vi, Jahrgang 2004
+Kühlschrank: Forster, Jahrgang 2004
+Kombi-Backofen: V-Zug, CSS60c, Jahrgang 2014
+Induktionskochfeld flächenbündig: V-Zug, GK45TIF, Jahrgang 2004
+Ohne Dampfabzug",,,,,,,,,2022-12-07,2100.0,,,1970-01-01,2100.0,1970-01-01 00:00:00.000,0.0,1.0,9.0,"Brügg, 2555",,useagain,91466,CH,de,1_%28298%29_570x570.jpg,https://www.useagain.ch/de/kueche-von-forster-kueche-einzeilig-91466,G05.02,kitchen,,,,"{'score': 0.07071462273597717, 'start': 81, 'end': 92, 'answer': ' Chromstahl'}","{'score': 4.7060466386028565e-06, 'start': 247, 'end': 260, 'answer': '\nKühlschrank:'}","{'score': 3.0945099638302054e-07, 'start': 247, 'end': 283, 'answer': '\nKühlschrank: Forster, Jahrgang 2004'}",Lignite,Scagliola,Pr_35_31_64_76,"Roof, Slabs, Stairs","Covering, Finish","Floor plates, gratings and edgings"
+2106,2962,2962,Kompaktbackofen Miele,"used, cleaned & tested",['H03.05'],"Catering kitchens: control fittings, appliances",,Ausbau,Küchen & Gastronomie,Apparate & Geräte,"Einbaubackofen
+Hersteller: Miele
+Modell: H 5081-60 BP
+Jahrgang: 2012
+Ausführung: Edelstahl/schwarz
+Montageart: Einbau/EU-Norm
+Betriebsarten: Ober-/Unterhitze, Umluftgrill, Heissluft, Heissluft PLUS usw.
+mit 1x Gitterrost, 2x Backblech
+Anschluss:400V, muss von einem Fachmann installiert werden
+Bedienungsanleitung dabei",Mixed,57.0,59.0,"45,6",,,mixed,,2022-12-07,690.0,,,1970-01-01,690.0,1970-01-01 00:00:00.000,0.0,1.0,190.0,"Brügg, 2555",,useagain,91464,CH,de,_dsc9634_570x570.jpg,https://www.useagain.ch/de/kompaktbackofen-miele-91464,H03.05,oven,,,,"{'score': 0.7665314078330994, 'start': 80, 'end': 98, 'answer': ' Edelstahl/schwarz'}","{'score': 0.008741269819438457, 'start': 40, 'end': 53, 'answer': ' H 5081-60 BP'}","{'score': 0.34806057810783386, 'start': 206, 'end': 234, 'answer': ' 1x Gitterrost, 2x Backblech'}",Sitka spruce,Scagliola,Pr_35_31_64_76,Technical elements,"Covering, Finish",Sanitary fittings and accessories
+2211,3069,3069,Kachelofen freistehend,defective,"['D05.02', 'D05.05']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Öfen & Cheminées,Kleiner Kachelofen gratis abzugeben. Kacheln braun glasiert. Mit Warmhaltefach und Feuerraum. Ofenrohr-Anschluss oben. Die Schamottierung des Feuerraums ist mangelhaft und muss erneuert werden.,Mixed,,,,,,mixed,,,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,107.0,"Latsch GR, 7484",,useagain,91590,CH,de,img_4496_570x570.jpg,https://www.useagain.ch/de/kachelofen-freistehend-91590,D05,oven,,,,"{'score': 0.5243403315544128, 'start': 44, 'end': 50, 'answer': ' braun'}","{'score': 6.902394034113968e-06, 'start': 93, 'end': 118, 'answer': ' Ofenrohr-Anschluss oben.'}","{'score': 1.093490845960332e-05, 'start': 0, 'end': 36, 'answer': 'Kleiner Kachelofen gratis abzugeben.'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+2240,3098,3098,Châssis Scrigno pour porte coulissante x x mm,like new,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Châssis Scrigno pour porte coulissante neuf dans son emballage d'origine.
+
+Dimensions: L1200 x H2100 x Ep.125 mm",Metal,,,,,,gray,A,2023-01-13,500.0,,,1970-01-01,500.0,2023-09-25 00:00:00.000,0.0,1.0,107.0,"Perly, 1258",,useagain,91626,CH,de,chassisportecoulissante3_570x570.jpg,https://www.useagain.ch/de/chassis-scrigno-pour-porte-coulissante-1200-x-2100-x-125-mm-91626,G01.05,,,,,"{'score': 0.0004166825965512544, 'start': 7, 'end': 15, 'answer': ' Scrigno'}","{'score': 0.9250776767730713, 'start': 86, 'end': 112, 'answer': ' L1200 x H2100 x Ep.125 mm'}","{'score': 0.0003996852901764214, 'start': 38, 'end': 73, 'answer': "" neuf dans son emballage d'origine.""}",Sitka spruce,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+2438,3620,3620,Gusseisenofen,"used, cleaned & tested","['D05.01', 'D05.05']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Heizkörper,"Farbe: grau
+Garantie: ohne Garantie
+Einbaumass: H: 76cm B: 48cm T: 48cm
+Material: Metall
+Mängel: keine Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111974",,,,,,,,,2023-02-03,199.0,,,1970-01-01,199.0,1970-01-01 00:00:00.000,0.0,1.0,2.0,"Münchenstein, 4142",,useagain,91841,CH,de,111974_570x570.jpg,https://www.useagain.ch/de/gusseisenofen-91841,D05,oven,,,,"{'score': 0.9855861663818359, 'start': 81, 'end': 88, 'answer': ' Metall'}","{'score': 0.6004701256752014, 'start': 47, 'end': 71, 'answer': ' H: 76cm B: 48cm T: 48cm'}","{'score': 0.0007563864346593618, 'start': 35, 'end': 47, 'answer': '\nEinbaumass:'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+2528,3711,3711,Türzargen,"used, cleaned & tested","['G01.03', 'Sonstiges']",Shaft fronts,,Ausbau,Türen & Tore,Zubehör,"Farbe: grau
+Garantie: ohne Garantie
+Einbaumass: H: 214cm B: 80cm T: 15cm
+Material: Metall
+Mängel: keine Mängel
+Zustand: occasion/gebraucht
+
+Artikel Nr: 111994",Metal,15.0,80.0,214,,,gray,,2023-02-02,100.0,,,1970-01-01,100.0,2023-09-25 00:00:00.000,0.0,1.0,90.0,"Münchenstein, 4142",,useagain,91829,CH,de,111994_570x570.jpg,https://www.useagain.ch/de/tuerzargen-91829,G01.03,door frame,,,,"{'score': 0.9837995767593384, 'start': 82, 'end': 89, 'answer': ' Metall'}","{'score': 0.4997188150882721, 'start': 47, 'end': 72, 'answer': ' H: 214cm B: 80cm T: 15cm'}","{'score': 0.0006185121019370854, 'start': 35, 'end': 47, 'answer': '\nEinbaumass:'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish",Safety cages
+2741,3925,3925,Auflegelavabo,"used, cleaned & tested",['J01.02'],Use-specific furniture,,Gebäudetechnik & Sanitär,Sanitär,Waschtisch & Lavabos,"Hersteller: keine Angaben
+Garantie: ohne Garantie
+Masse: H: 18.5 cm ² 49.5 cm
+Mängel: Gebrauchsspuren
+Material: Keramik
+Zustand: occasion/gebraucht
+
+Artikel Nr: 91707",Ceramic,,49.0,"18,5",,,red,,2022-10-24,30.0,,,1970-01-01,30.0,1970-01-01 00:00:00.000,0.0,1.0,58.0,"Münchenstein, 4142",,useagain,91110,CH,de,91707_1_570x570.jpg,https://www.useagain.ch/de/auflegelavabo-91110,J01.02,sink,,,,"{'score': 0.9836535453796387, 'start': 111, 'end': 119, 'answer': ' Keramik'}","{'score': 0.7919757962226868, 'start': 56, 'end': 77, 'answer': ' H: 18.5 cm ² 49.5 cm'}","{'score': 0.14936970174312592, 'start': 67, 'end': 77, 'answer': ' ² 49.5 cm'}",Pisé,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+3070,4271,4271,Altholz Schopf zum Abtragen,used,['E02.04'],Facade systems,,Gebäudehülle & Konstruktion,Konstruktion & Dächer,Fassade,"Abgegeben wird Holzbau inkl. Dachstuhl und Eindeckung zum selbt abtragen.
+Nur gesamthaft abzugeben (inkl. Altholz Fassaden Bretter, Balken, Dachziegel, Pfosten, usw.)",Wood,700.0,500.0,650,,,,,,500.0,,,1970-01-01,500.0,2023-09-25 00:00:00.000,0.0,1.0,33.0,"Oetwil a.d.L., 8955",,useagain,92348,CH,de,img_4088_570x570.jpg,https://www.useagain.ch/de/altholz-schopf-zum-abtragen-92348,E02.04,,,,,"{'score': 0.2982780635356903, 'start': 105, 'end': 113, 'answer': ' Altholz'}","{'score': 0.0011149318888783455, 'start': 22, 'end': 73, 'answer': ' inkl. Dachstuhl und Eindeckung zum selbt abtragen.'}","{'score': 0.04767090082168579, 'start': 77, 'end': 88, 'answer': ' gesamthaft'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+3127,4330,4330,Schwedenofen,used & cleaned,"['D05.02', 'D05.05']",Heating installations,,Gebäudetechnik & Sanitär,"Heizung, Klima & Lüftung",Öfen & Cheminées,Schwedenofen,,62.0,53.0,67,,,mixed,,,375.0,,,1970-01-01,375.0,2023-09-25 00:00:00.000,0.0,1.0,15.0,"Gstaad, 3780",,useagain,92367,CH,de,img_6859_570x570.jpg,https://www.useagain.ch/de/schwedenofen-92367,D05,oven,,,,"{'score': 0.1300472617149353, 'start': 0, 'end': 12, 'answer': 'Schwedenofen'}","{'score': 0.038131386041641235, 'start': 0, 'end': 12, 'answer': 'Schwedenofen'}","{'score': 0.0021442945580929518, 'start': 0, 'end': 12, 'answer': 'Schwedenofen'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Floor plates, gratings and edgings"
+3250,4460,4460,Biberschwanzziegel abgerundet,used,"['F01.02', 'F01.03', 'F01.04']",Roof coverings,,Gebäudehülle & Konstruktion,Konstruktion & Dächer,Dachhaut,"geeignet für eine Dachfläche von ca. 21 mÂ² 
+aus Ton",,38.0,17.0,2,,,red,,2023-04-27,0.0,,,1970-01-01,0.0,2023-09-25 00:00:00.000,0.0,1.0,9.0,"Münchenstein, 4142",,useagain,92434,CH,de,108882_570x570.jpg,https://www.useagain.ch/de/biberschwanzziegel-abgerundet-92434,F01,roof tiles,,,,"{'score': 0.9392502307891846, 'start': 48, 'end': 52, 'answer': ' Ton'}","{'score': 0.003531367052346468, 'start': 0, 'end': 52, 'answer': 'geeignet für eine Dachfläche von ca. 21 mÂ² \naus Ton'}","{'score': 0.0025230597238987684, 'start': 0, 'end': 43, 'answer': 'geeignet für eine Dachfläche von ca. 21 mÂ²'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Covering, Finish","Lighting columns, brackets and bollards"
+3511,4745,4746,Podest Gitterroste Stahlgeländer,gebraucht,['Sonstiges'],,,Ausbau,Geländer & Treppen,Zubehör,Achtung: Zeitpunkt der Demontage wird vorgegeben und kann auch nach dem definierten Verfügbarkeitsdatum sein.,Steel,860.0,163.0,,,,,,,350.0,,,1970-01-01,350.0,2023-09-25 00:00:00.000,,0.0,4.0,"Basel, 4056",,,91726,,,image_%2842%29_570x570.jpg,https://www.useagain.ch/de/podest-gitterroste-stahlgelaender-91726,,grid,,,,"{'score': 2.2677383526570338e-08, 'start': 71, 'end': 103, 'answer': ' definierten Verfügbarkeitsdatum'}","{'score': 4.435784362044615e-08, 'start': 0, 'end': 32, 'answer': 'Achtung: Zeitpunkt der Demontage'}","{'score': 3.3792076692407136e-07, 'start': 71, 'end': 103, 'answer': ' definierten Verfügbarkeitsdatum'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+3796,5053,5054,Podest Gitterroste Stahlgeländer,used,['Sonstiges'],,Portes et fenêtres,Ausbau,Geländer & Treppen,Zubehör,Achtung: Zeitpunkt der Demontage wird vorgegeben und kann auch nach dem definierten Verfügbarkeitsdatum sein.,Stahl,860.0,163.0,,,,,,,,,,,,2023-09-25 00:00:00.000,,0.0,,"Basel, 4056",,useagain,91726,CH,de,image_%2842%29_570x570.jpg,https://www.useagain.ch/de/podest-gitterroste-stahlgelaender-91726,,,350.0,,,"{'score': 2.2677383526570338e-08, 'start': 71, 'end': 103, 'answer': ' definierten Verfügbarkeitsdatum'}","{'score': 4.435784362044615e-08, 'start': 0, 'end': 32, 'answer': 'Achtung: Zeitpunkt der Demontage'}","{'score': 3.3792076692407136e-07, 'start': 71, 'end': 103, 'answer': ' definierten Verfügbarkeitsdatum'}",Lignite,Scagliola,Pr_35_31_64_76,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"

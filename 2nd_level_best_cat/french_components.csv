@@ -1,8 +1,31 @@
-,second_level,SoldAfterDays,CountEntity,Rank_SoldAfterDays,Rank_CountEntity,Score
-0,Furnishings,136.4715719063545,598,1.0,5.0,6.0
-1,Other,182.24287716020552,2141,5.0,1.0,6.0
-2,"Stairs, Ramps, Lift, Hardware",173.38544891640868,646,2.0,4.0,6.0
-5,"Covering, Finish",177.02830188679246,1060,4.0,2.0,6.0
-3,"Blocks, Panels, Fences, Bricks",199.34758620689655,725,7.0,3.0,10.0
-4,"Floors, Ceiling",176.4122621564482,473,3.0,7.0,10.0
-6,"Door, Windows, Gates",183.29224652087476,503,6.0,6.0,12.0
+,third_level,sold_afterDays,CountEntity,Rank_sold_afterDays,Rank_CountEntity,Score
+4,Glass blocks and panels,150.41531322505801,431,4.0,4.0,8.0
+9,Furnishings,144.56578947368422,380,3.0,5.0,8.0
+2,Sanitary fittings and accessories,180.20337197049525,949,13.0,1.0,14.0
+1,Other,182.0137420718816,946,14.0,2.0,16.0
+5,Space heating and cooling products,175.11206896551724,348,11.0,7.0,18.0
+7,Fastener products,161.56132075471697,212,8.0,10.0,18.0
+0,Sectional products,106.6046511627907,86,1.0,19.0,20.0
+10,Safety cages,177.16176470588235,272,12.0,8.0,20.0
+6,"Lighting columns, brackets and bollards",186.57481481481483,675,18.0,3.0,21.0
+25,Hardware products,155.2549019607843,102,6.0,15.0,21.0
+11,Headwall and swale inlet products,173.5,118,9.0,12.0,21.0
+3,Handrails,158.43564356435644,101,7.0,16.0,23.0
+14,Power and lighting outlet products,183.16033755274262,237,16.0,9.0,25.0
+13,"Floor plates, gratings and edgings",197.82894736842104,380,22.0,5.0,27.0
+15,Trim products,183.98709677419356,155,17.0,11.0,28.0
+23,Shaft-lining products,138.85714285714286,14,2.0,26.0,28.0
+20,Treads and landing units,174.01111111111112,90,10.0,18.0,28.0
+8,Support and restraint products,186.58620689655172,116,19.0,14.0,33.0
+30,Structural units,152.11111111111111,9,5.0,30.0,35.0
+26,Unit covering and finish products,182.42372881355934,59,15.0,21.0,36.0
+18,Structural roofing units,194.66326530612244,98,21.0,17.0,38.0
+16,Walling units,220.57264957264957,117,26.0,13.0,39.0
+17,Wire structure and general products,199.46428571428572,84,23.0,20.0,43.0
+28,Formless structure and general products,193.08333333333334,24,20.0,25.0,45.0
+12,Air and fume distribution products,216.59375,32,25.0,23.0,48.0
+27,Prefabricated buildings and structures,203.16,25,24.0,24.0,48.0
+19,Masonry walling units,242.9787234042553,47,28.0,22.0,50.0
+29,Openings and opening component products,226.08333333333334,12,27.0,27.0,54.0
+22,"Non-rigid sheet, mat and strip covering and finish products",251.33333333333334,12,29.0,27.0,56.0
+24,Structure and general products,269.09090909090907,11,30.0,29.0,59.0

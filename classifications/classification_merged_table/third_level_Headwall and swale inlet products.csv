@@ -1,0 +1,66 @@
+,Code,report,features
+0,Headwall and swale inlet products,"              precision    recall  f1-score   support
+
+           0       0.62      0.62      0.62         8
+           1       0.90      0.90      0.90        31
+
+    accuracy                           0.85        39
+   macro avg       0.76      0.76      0.76        39
+weighted avg       0.85      0.85      0.85        39
+","                                          Feature  Importance
+51                  second_level_Covering, Finish    0.513223
+52                   second_level_Floors, Ceiling    0.089236
+49            first_level_Wall, Barriers, Pannels    0.062652
+10                                  Material_Silt    0.047680
+0                                           Price    0.043269
+31                                     Code_Sinks    0.032314
+1                                          Length    0.027939
+50    second_level_Blocks, Panels, Fences, Bricks    0.025845
+2                                           Width    0.021097
+3                                          Height    0.019341
+46                              first_level_Other    0.018070
+43                           Code_Water strainers    0.015224
+17                         Code_Bathroom cabinets    0.015087
+11                          Material_Sitka spruce    0.014177
+8                              Material_Porcelain    0.013875
+13                       Material_Ultrapure water    0.010087
+28                                     Code_Sedge    0.009204
+20                                    Code_Bidets    0.009078
+54                             second_level_Other    0.008547
+9                          Material_Potable water    0.004055
+16                               Code_Bath panels    0.000000
+39                        Code_Water conditioners    0.000000
+40                              Code_Water flumes    0.000000
+41                               Code_Water hoses    0.000000
+42                    Code_Water storage products    0.000000
+12                                  Material_Soap    0.000000
+44                      Code_Water-sensing cables    0.000000
+45                        first_level_Furnishings    0.000000
+47                first_level_Roof, Slabs, Stairs    0.000000
+37                              Code_Wash troughs    0.000000
+48                 first_level_Technical elements    0.000000
+7                                   Material_Pisé    0.000000
+6                                Material_Lignite    0.000000
+5                            Material_Float glass    0.000000
+4                                Material_Ceramic    0.000000
+53                       second_level_Furnishings    0.000000
+38                          Code_Washbasin spouts    0.000000
+36                      Code_Wall-hung washbasins    0.000000
+18                             Code_Bathroom pods    0.000000
+35                           Code_Urinal dividers    0.000000
+19                                     Code_Baths    0.000000
+21                             Code_Ceramic sinks    0.000000
+22                                 Code_Fountains    0.000000
+23                                  Code_Grommets    0.000000
+24              Code_Healthcare hand rinse basins    0.000000
+25                                 Code_Icemakers    0.000000
+26                       Code_Pedestal washbasins    0.000000
+27                           Code_Rainwater weirs    0.000000
+15                                   Code_Arrises    0.000000
+29                              Code_Shower heads    0.000000
+30                                 Code_Sink taps    0.000000
+14                                 Material_Water    0.000000
+32                              Code_Slab urinals    0.000000
+33                                    Code_Sprigs    0.000000
+34                    Code_Swimming pool fittings    0.000000
+55  third_level_Headwall and swale inlet products    0.000000"

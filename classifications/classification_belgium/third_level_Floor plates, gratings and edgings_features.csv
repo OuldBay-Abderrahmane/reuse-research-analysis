@@ -1,0 +1,220 @@
+,Feature,Importance
+112,Belgium_Raw_Ceramic tiles,0.21379615
+5,Price_Change,0.14361426
+14,Category_Floor,0.1294492
+150,Belgium_Raw_Wood panelled door leaves,0.09307405
+105,material_emb_Terracotta,0.07672631
+97,material_emb_Sitka spruce,0.0727918
+85,material_emb_Marble,0.049951535
+9,Height,0.029248308
+12,Category_Doors,0.026302623
+130,Belgium_Raw_Quarry tiles,0.024692344
+92,material_emb_Porcelain,0.017065894
+206,second_level_Other,0.015631568
+0,Weight,0.01294665
+7,Length,0.011742188
+204,"second_level_Floors, Ceiling",0.010551256
+8,Width,0.010039758
+195,first_level_Furnishings,0.009945019
+2,Latest_Price,0.0064473436
+4,Stock_Now,0.0058970787
+197,"first_level_Roof, Slabs, Stairs",0.005663101
+15,Category_Floors,0.004731294
+196,first_level_Other,0.0045661638
+201,"second_level_Blocks, Panels, Fences, Bricks",0.004469768
+1,Initial_Price,0.003942909
+200,"first_level_Wall, Barriers, Pannels",0.003302299
+205,second_level_Furnishings,0.0028924486
+17,Category_Hardware,0.0026375125
+108,Belgium_Raw_Cabinet and countertop hinges,0.0023666567
+203,"second_level_Door, Windows, Gates",0.0021596556
+16,Category_Furniture,0.0017962941
+71,material_emb_Ceramic,0.0015585338
+137,Belgium_Raw_Stainless steel edge strips and frames,0.0
+138,Belgium_Raw_Stainless steel louvre panel units,0.0
+139,Belgium_Raw_Stainless steel shelving and racking units,0.0
+140,Belgium_Raw_Steel security cabinets,0.0
+141,Belgium_Raw_Stone slabs,0.0
+145,Belgium_Raw_Terrazzo tiles,0.0
+142,Belgium_Raw_Stone tiles,0.0
+143,Belgium_Raw_Terrazzo mix ,0.0
+144,Belgium_Raw_Terrazzo tile skirtings,0.0
+146,Belgium_Raw_Trellises,0.0
+147,Belgium_Raw_Wall and floor tile units,0.0
+148,Belgium_Raw_Wood brise-soleil louvre blades,0.0
+149,Belgium_Raw_Wood oils,0.0
+151,Belgium_Code_Pr_20_29_56_15,0.0
+135,Belgium_Raw_Stainless steel door frames,0.0
+136,Belgium_Raw_Stainless steel door leaves,0.0
+123,Belgium_Raw_Kitchen worktops,0.0
+134,Belgium_Raw_Stainless steel bars and rods for general purposes,0.0
+153,Belgium_Code_Pr_20_76_51_09,0.0
+116,Belgium_Raw_Copper plating,0.0
+117,Belgium_Raw_Decorative metal tiles,0.0
+118,Belgium_Raw_Desks,0.0
+119,Belgium_Raw_Door frames and leaves,0.0
+120,Belgium_Raw_Door lever handle sets,0.0
+121,Belgium_Raw_Flat-needled carpet tiles,0.0
+122,Belgium_Raw_Flip-top tables,0.0
+124,Belgium_Raw_Larinier tiles,0.0
+133,Belgium_Raw_Single axis door hinges,0.0
+125,Belgium_Raw_Linseed oil putties,0.0
+126,Belgium_Raw_Metal skirtings,0.0
+127,Belgium_Raw_Metal tiles,0.0
+128,Belgium_Raw_Particleboards,0.0
+129,Belgium_Raw_Porcelain tiles,0.0
+131,Belgium_Raw_Scagliola,0.0
+132,Belgium_Raw_Sedge,0.0
+152,Belgium_Code_Pr_20_31_53_86,0.0
+163,Belgium_Code_Pr_30_59_23,0.0
+154,Belgium_Code_Pr_20_76_51_82,0.0
+188,Belgium_Code_Pr_40_50_21_15,0.0
+179,Belgium_Code_Pr_35_93_96_72,0.0
+180,Belgium_Code_Pr_35_93_96_85,0.0
+181,Belgium_Code_Pr_35_93_96_86,0.0
+182,Belgium_Code_Pr_35_93_96_89,0.0
+183,Belgium_Code_Pr_35_93_96_90,0.0
+184,Belgium_Code_Pr_40_30_30_46,0.0
+185,Belgium_Code_Pr_40_30_75_84,0.0
+186,Belgium_Code_Pr_40_30_78_85,0.0
+187,Belgium_Code_Pr_40_50_21_14,0.0
+189,Belgium_Code_Pr_40_50_21_21,0.0
+155,Belgium_Code_Pr_25_71_97_60,0.0
+190,Belgium_Code_Pr_40_50_21_29,0.0
+191,Belgium_Code_Pr_45_28_30_46,0.0
+192,Belgium_Code_Pr_45_31_63_76,0.0
+193,Belgium_Code_Pr_45_63_64_90,0.0
+194,Belgium_Code_Pr_65_52_01_83,0.0
+198,first_level_Structural elements,0.0
+199,first_level_Technical elements,0.0
+202,"second_level_Covering, Finish",0.0
+207,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+178,Belgium_Code_Pr_35_93_96_63,0.0
+177,Belgium_Code_Pr_35_93_96_19,0.0
+176,Belgium_Code_Pr_35_93_96_16,0.0
+175,Belgium_Code_Pr_35_93_96_14,0.0
+156,Belgium_Code_Pr_25_93_72_24,0.0
+157,Belgium_Code_Pr_25_93_72_52,0.0
+158,Belgium_Code_Pr_30_31_68_47,0.0
+159,Belgium_Code_Pr_30_36_36_11,0.0
+160,Belgium_Code_Pr_30_36_36_79,0.0
+161,Belgium_Code_Pr_30_36_59_25,0.0
+162,Belgium_Code_Pr_30_59_09_91,0.0
+114,Belgium_Raw_Conference tables,0.0
+164,Belgium_Code_Pr_30_59_23_84,0.0
+165,Belgium_Code_Pr_30_59_23_85,0.0
+166,Belgium_Code_Pr_30_59_23_98,0.0
+167,Belgium_Code_Pr_30_59_48_85,0.0
+168,Belgium_Code_Pr_35_31_64_76,0.0
+169,Belgium_Code_Pr_35_31_68_19,0.0
+170,Belgium_Code_Pr_35_31_95_97,0.0
+171,Belgium_Code_Pr_35_57_11_29,0.0
+172,Belgium_Code_Pr_35_90_43_59,0.0
+173,Belgium_Code_Pr_35_93_96,0.0
+174,Belgium_Code_Pr_35_93_96_13,0.0
+115,Belgium_Raw_Copper nails,0.0
+104,material_emb_Terne-coated steel,0.0
+113,Belgium_Raw_Coffee tables,0.0
+46,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposées",0.0
+37,Material_Inox,0.0
+38,Material_Pierre,0.0
+39,Material_Plastique,0.0
+40,Material_Plexiglas,0.0
+41,Material_Textile,0.0
+42,Material_Verre,0.0
+43,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+44,"Technical_Mode d’assemblage :
+Préconisations de dépose : Disponible été 2024",0.0
+45,"Technical_Mode d’assemblage :
+Préconisations de dépose : Déjà déposé",0.0
+47,"Technical_Mode d’assemblage :
+Préconisations de dépose : À dégonder",0.0
+35,Material_Bois,0.0
+48,"Technical_Mode d’assemblage : Ajustable avec des vis
+Préconisations de dépose : Démontable en deux parties",0.0
+49,"Technical_Mode d’assemblage : Cadre pris dans cloison en bois, difficilement récupérable.
+Préconisations de dépose : Récupérer simplement panneaux",0.0
+50,"Technical_Mode d’assemblage : Cadre-faux-cadre en bois pris dans maçonnerie
+Préconisations de dépose : Cadre difficilement récupérable",0.0
+51,"Technical_Mode d’assemblage : Sur gonds
+Préconisations de dépose : Stocker les portes droites, si possible enlever les poignées pour éviter de briser les verres",0.0
+52,"Technical_Mode d’assemblage : Vissé
+Préconisations de dépose : Facile",0.0
+53,Collection_:,0.0
+54,Collection_Beaumont : Démontage prévu en printemps 2023,0.0
+55,Collection_CHUV Lausanne : Retrait des éléments sur rendez-vous (Lausanne) après confirmation de la commande par Matériuum.,0.0
+56,Collection_Chêne : Retrait des éléments sur rendez-vous (à Renens) ou à Genève après confirmation de la commande par Matériuum.,0.0
+36,Material_Composé,0.0
+34,Material_Acier,0.0
+111,Belgium_Raw_Ceramic tile round edges,0.0
+22,Category_Objet Trouvé,0.0
+3,Initial_Stock,0.0
+6,Quantity_Change,0.0
+10,Category_Ceiling,0.0
+11,Category_Door,0.0
+13,Category_Droguerie,0.0
+18,Category_Insolite,0.0
+19,Category_Lighting,0.0
+20,Category_Matière brute,0.0
+21,Category_Mobilier,0.0
+23,Category_Per Building,0.0
+33,Condition_Usé,0.0
+24,Category_Per building,0.0
+25,Category_Portes et fenêtres,0.0
+26,Category_Quincaillerie,0.0
+27,Category_Sanitaires,0.0
+28,Category_Sanitary,0.0
+29,Category_Sol et plafond,0.0
+30,Category_Wall Cladding,0.0
+31,Category_Wood,0.0
+32,Condition_Correct,0.0
+57,Collection_ECO-CUI MDC :,0.0
+58,Collection_MACO : Retrait sur place du mardi au vendredi de 14h à 17h.,0.0
+59,Collection_MAD : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+96,material_emb_Sheet glass,0.0
+86,material_emb_Mastic resin,0.0
+87,material_emb_Metal,0.0
+88,material_emb_Nickel steel,0.0
+89,material_emb_Pine,0.0
+90,material_emb_Pisé,0.0
+91,material_emb_Plate glass,0.0
+93,material_emb_Pozzolan cement,0.0
+94,material_emb_Recycled rubber granules,0.0
+95,material_emb_Sandstone,0.0
+98,material_emb_Slate,0.0
+60,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+99,material_emb_Spandrel glass,0.0
+100,material_emb_Stainless steel,0.0
+101,material_emb_Structural steel,0.0
+102,material_emb_Surface dressing aggregates,0.0
+103,material_emb_Surface treatment fine aggregates,0.0
+106,material_emb_Wood,0.0
+107,Belgium_Raw_Brass sections,0.0
+109,Belgium_Raw_Ceramic tile borders,0.0
+110,Belgium_Raw_Ceramic tile cove skirtings,0.0
+84,material_emb_Mahogany,0.0
+83,material_emb_Loose surfacing decorative aggregates,0.0
+82,material_emb_Limestone,0.0
+81,material_emb_Lacquer resin,0.0
+61,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+62,Country_BE,0.0
+63,Store_rotordc,0.0
+64,Language_fr,0.0
+65,material_emb_Air-cooled steel slag,0.0
+66,material_emb_Aluminium,0.0
+67,material_emb_Architectural glass,0.0
+68,material_emb_Borosilicate glass,0.0
+69,material_emb_Brass,0.0
+70,material_emb_Bronze,0.0
+72,material_emb_Copper,0.0
+73,material_emb_Decorative aggregates,0.0
+74,material_emb_Expanded slate aggregates,0.0
+75,material_emb_Galvanized steel,0.0
+76,material_emb_Granite,0.0
+77,material_emb_Granite-powder cement,0.0
+78,material_emb_Granule,0.0
+79,material_emb_Gravel,0.0
+80,material_emb_Insulating glass,0.0
+208,"third_level_Floor plates, gratings and edgings",0.0

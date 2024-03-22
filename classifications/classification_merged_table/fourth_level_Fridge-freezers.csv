@@ -1,0 +1,25 @@
+,Code,report,features
+0,Fridge-freezers,"              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00         1
+           1       0.75      1.00      0.86         3
+
+    accuracy                           0.75         4
+   macro avg       0.38      0.50      0.43         4
+weighted avg       0.56      0.75      0.64         4
+","                                           Feature  Importance
+1                                           Length    0.352370
+3                                           Height    0.338632
+2                                            Width    0.308998
+0                                            Price    0.000000
+4                   Material_Air-cooled steel slag    0.000000
+5                        Material_Insulating glass    0.000000
+6                                 Material_Lignite    0.000000
+7                     Material_Slag bound mixtures    0.000000
+8           Material_Thermoplastic elastomer resin    0.000000
+9                                 Material_Wychert    0.000000
+10                            Code_Fridge-freezers    0.000000
+11                               first_level_Other    0.000000
+12               second_level_Door, Windows, Gates    0.000000
+13                              second_level_Other    0.000000
+14  third_level_Space heating and cooling products    0.000000"

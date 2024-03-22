@@ -1,0 +1,11 @@
+,Unnamed: 0.1,Unnamed: 0,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,SoldAfterDays
+3,3,3,942CLA03702,Batches of yellow bricks,1300.0,kg,batch,"
+Batches of yellow bricks from an overstock. Colour may slightly vary from a brick to another.
+
+Dimensions: 215 mm x 100 mm x 45 mm
+
+Model 1: +/- 750 pc
+Model 2: +/- 400 pc.
+
+Price = 0,17 € / brick (sold only per batch)
+",Bricks,https://rotordc.com/shop/product/batches-of-yellow-bricks-58379?category=28,,68.0,68.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.6975538730621338, 'start': 11, 'end': 18, 'answer': ' yellow'}","{'score': 0.958884060382843, 'start': 107, 'end': 131, 'answer': ' 215 mm x 100 mm x 45 mm'}","{'score': 0.38286179304122925, 'start': 145, 'end': 152, 'answer': ' 750 pc'}",Rubble concrete,Engineering bricks,Pr_20_93_52_27,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Prefabricated buildings and structures,146.0

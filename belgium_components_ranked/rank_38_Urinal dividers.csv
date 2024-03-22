@@ -1,0 +1,26 @@
+,Unnamed: 0.1,Unnamed: 0,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,SoldAfterDays
+538,538,538,148SAN004,Urinal divider 'Geberit ',3.0,kg,pc,"
+Geberit wall mounted privacy screen for urinals. Made of break-proof plastic with easy-to-clean surface. New price is around 300€.
+
+Condition: as new, needs cleaning, minor scratches.
+",Per building,https://rotordc.com/shop/product/148san004-urinal-divider-geberit-49062?category=43,,49.0,49.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.6940371990203857, 'start': 69, 'end': 77, 'answer': ' plastic'}","{'score': 2.814791741911904e-06, 'start': 8, 'end': 36, 'answer': ' wall mounted privacy screen'}","{'score': 1.55314428411657e-05, 'start': 125, 'end': 131, 'answer': ' 300€.'}",Gneiss,Urinal dividers,Pr_40_20_93_74,Other,Other,Other,
+564,564,564,032san001,Urinal divider in porcelain,5.0,kg,pc,"
+Porcelain urinal divider from the end of the 1960s
+80cm * 10cm * 40cm.
+
+Metal attachment included.
+Mint condition.
+
+ 
+",Per building,https://rotordc.com/shop/product/032san001-urinal-divider-in-porcelain-36180?page=6&category=43,,124.0,124.0,,,,,,,,,2022-10-28,0.0,,2022-08-02,BE,rotordc,fr,1,87.0,"{'score': 0.8909942507743835, 'start': 1, 'end': 10, 'answer': 'Porcelain'}","{'score': 0.45989617705345154, 'start': 51, 'end': 71, 'answer': '\n80cm * 10cm * 40cm.'}","{'score': 0.15817497670650482, 'start': 51, 'end': 71, 'answer': '\n80cm * 10cm * 40cm.'}",Porcelain,Urinal dividers,Pr_40_20_93_74,"Wall, Barriers, Pannels",Other,Headwall and swale inlet products,87.0
+578,578,578,195SAN006,Urinal dividers by 'Duravit ' in ceramic,10.0,kg,pc,"
+Height: 70 cm Depth: 40 cmThickness at the wall side: 8 cm In good used condition, dusty, needs to be cleaned. Silicone traces at the back. 
+",Sanitary,https://rotordc.com/shop/product/195san006-urinal-dividers-by-duravit-in-ceramic-59092?category=45,,69.0,69.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.014497709460556507, 'start': 111, 'end': 120, 'answer': ' Silicone'}","{'score': 0.2829916179180145, 'start': 1, 'end': 14, 'answer': 'Height: 70 cm'}","{'score': 1.4334554180095438e-05, 'start': 1, 'end': 36, 'answer': 'Height: 70 cm Depth: 40 cmThickness'}",Ceramic,Urinal dividers,Pr_40_20_93_74,"Wall, Barriers, Pannels",Other,Walling units,
+604,604,604,080SAN007,Urinal divider in resin,5.4,kg,pc,"
+75cm x 9 cm x 45 cm.
+
+Metal attachment included.
+Mint condition.
+
+ 
+",Sanitary,https://rotordc.com/shop/product/080san007-urinal-divider-in-resin-36181?page=3&category=45,,29.0,29.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 1.8281956727150828e-05, 'start': 1, 'end': 5, 'answer': '75cm'}","{'score': 0.5318195223808289, 'start': 1, 'end': 21, 'answer': '75cm x 9 cm x 45 cm.'}","{'score': 0.023060884326696396, 'start': 1, 'end': 5, 'answer': '75cm'}",Urea formaldehyde resin,Urinal dividers,Pr_40_20_93_74,Other,Other,Sanitary fittings and accessories,

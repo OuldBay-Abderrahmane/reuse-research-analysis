@@ -1,0 +1,21 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+418,197LIG005,Wall light by Kalmar ca .,1.3,kg,pc,"
+Wall light by J. T. Kalmar in chromed brass with opalin glass diffuser (ca. 1960).Dimensions:Width: 45 cmHeight: 25 cmDepth: 19.5 cmSocket: E27, max. 100W (x2)Good used condition. There are small scratches and traces of glue on the base. Dusty, needs to be cleaned. Bulb is not included in the price. 
+",Lighting,https://rotordc.com/shop/product/197lig005-wall-light-by-j-t-kalmar-ca-1960-59275?page=2&category=39,,139.0,139.0,,,,,,,,,,0.0,,2022-08-02,BE,rotordc,fr,0,,"{'score': 0.7992677688598633, 'start': 30, 'end': 44, 'answer': ' chromed brass'}","{'score': 0.32365021109580994, 'start': 76, 'end': 113, 'answer': ' 1960).Dimensions:Width: 45 cmHeight:'}","{'score': 0.31877756118774414, 'start': 150, 'end': 164, 'answer': ' 100W (x2)Good'}",Coloured glass,Lantern lights,Pr_30_59_72_46,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards",0.31877756118774414,,,,
+419,197LIG004,Pair of wall lights by Kalmar ca .,2.26,kg,pc,"
+Wall light by J. T. Kalmar in chromed brass (ca. 1960).Dimensions:Width: 18 cmHeight: 55 cmDepth: 13 cmSocket: E14, max. 100WGood used condition. May have small scratches or imperfections. A bit dusty, needs to be cleaned. Bulb is not included in the price. 
+",Lighting,https://rotordc.com/shop/product/197lig004-pair-of-wall-lights-by-j-t-kalmar-ca-1960-59274?page=2&category=39,,249.0,249.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.9704480171203613, 'start': 30, 'end': 44, 'answer': ' chromed brass'}","{'score': 0.33399784564971924, 'start': 49, 'end': 86, 'answer': ' 1960).Dimensions:Width: 18 cmHeight:'}","{'score': 0.36919263005256653, 'start': 121, 'end': 130, 'answer': ' 100WGood'}",Coloured glass,Lantern lights,Pr_30_59_72_46,Other,"Floors, Ceiling","Lighting columns, brackets and bollards",0.36919263005256653,,,,146.0
+460,122LIG123,Hanging light 'Kersten ',0.75,kg,pc,"
+Glass hanging light with 1,2 m fabric cable and brass fittings.
+Default cable colour: champagne. 1 metallic ceiling cap included.
+
+Socket: E27
+
+We advise this type of short E27 bulb.
+",Lighting,https://rotordc.com/shop/product/122lig123-hanging-light-kersten-54434?page=4&category=39,,64.0,64.0,,,,,,,,,2022-08-06,0.0,,2022-08-02,BE,rotordc,fr,1,4.0,"{'score': 0.9245597124099731, 'start': 31, 'end': 38, 'answer': ' fabric'}","{'score': 0.024244656786322594, 'start': 25, 'end': 31, 'answer': ' 1,2 m'}","{'score': 0.4029442369937897, 'start': 25, 'end': 31, 'answer': ' 1,2 m'}",Reflective glass,Lantern lights,Pr_30_59_72_46,Other,Other,Power and lighting outlet products,0.4029442369937897,,,,4.0
+1493,122LIG006,Glass pendant light 'Lantern Fumé ',0.72,kg,pc,"
+Hanging light in opaline glass. While the glass is vintage, the fitting and electric system are entirely renewed. Metallic E27 socket, metal ceiling cap included (black or white).
+
+Diameter:   20 cm.
+Length cable: 1,2m. Custom cable colours and lengths are possible on request.
+",Per Building,https://rotordc.com/shop/product/122lig006-glass-pendant-light-lantern-fume-54618?category=43,"['54618_3740a5c.png', '4802_ab47246.png']",85.0,85.0,,,,,,,,,,0.0,,2023-06-20,BE,rotordc,fr,0,,"{'score': 0.4413631558418274, 'start': 17, 'end': 32, 'answer': ' opaline glass.'}","{'score': 0.5452979207038879, 'start': 193, 'end': 200, 'answer': '\xa020 cm.'}","{'score': 0.0014066670555621386, 'start': 214, 'end': 220, 'answer': ' 1,2m.'}",Coloured glass,Lantern lights,Pr_30_59_72_46,Other,Other,Glass blocks and panels,0.0014066670555621386,,,,

@@ -1,0 +1,10 @@
+,ID,Title,Weight,Weight_Units,Product_Units,Description,Category,URL,Imagefile,Initial_Price,Latest_Price,Initial_Stock,Stock_Now,Condition,Dates_Available,Material,Dimensions,Technical,Collection,Last_Up_On,Price_Change,Quantity_Change,Date,Country,Store,Language,Sold,Sold_After,material,dim,quantity_n,material_emb,Belgium_Raw,Belgium_Code,first_level,second_level,third_level,quantity_score,Length,Width,Height,SoldAfterDays
+478,999LIG569,Wall light in glass by Glashutte Limburg ca .,1.4,kg,pc,"
+Wall light in glass by Glashutte Limburg
+
+Socket : E27
+Height : 14cm
+Diameter : 29cm
+
+Bulb is not included in the price.
+",Lighting,https://rotordc.com/shop/product/999lig569-wall-light-in-glass-by-glashutte-limburg-ca-1980-36259?page=5&category=39,,69.0,69.0,,,,,,,,,2022-12-26,0.0,,2022-08-02,BE,rotordc,fr,1,146.0,"{'score': 0.8488253355026245, 'start': 14, 'end': 20, 'answer': ' glass'}","{'score': 0.7047817707061768, 'start': 80, 'end': 85, 'answer': ' 29cm'}","{'score': 0.21218706667423248, 'start': 86, 'end': 107, 'answer': '\nBulb is not included'}",Prismatic glass,Glazed structures,Pr_20_65_34,"Wall, Barriers, Pannels",Other,Glass blocks and panels,0.21218706667423248,,,,146.0

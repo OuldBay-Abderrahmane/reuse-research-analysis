@@ -1,0 +1,99 @@
+,Unnamed: 0.1,Unnamed: 0,Title,Condition,eBKP_H,eBKP_H_EN,MateriuumCategory,Category,Category_1,Subcategory,Description,Material,Length,Width,Height,Diameter,Weight,Color,Energy_Efficiency,Availability,FirstPrice,PriceOnDemand,Quantity,Saved,LastPrice,LastUpOn,PriceChange,Sold,SoldAfter,Location,Provider,Store,ID,Country,Language,Imagefile,URL,eBKP_H_Generalized,ElementType,Price,Stock,Dimensions,material,dim,quantity_n,material_emb,Swiss_Raw,Swiss_Code,first_level,second_level,third_level
+181,951,951,Holz Handlauf,used & cleaned,"['E02.06', 'E03.05']",External wall cladding to buildings,,Ausbau,Geländer & Treppen,Geländer,Holz Handlauf mit Omegaprofil inkl. Montagekonsolen,Mixed,,350.0,,,,,,,175.0,,,1970-01-01,175.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,,,useagain,78162,CH,de,20190311_153515-kopie_570x570.jpg,https://www.useagain.ch/de/holz-handlauf-78162,E,,,,,"{'score': 0.9874334931373596, 'start': 0, 'end': 4, 'answer': 'Holz'}","{'score': 0.0017919472884386778, 'start': 0, 'end': 51, 'answer': 'Holz Handlauf mit Omegaprofil inkl. Montagekonsolen'}","{'score': 0.00013513618614524603, 'start': 0, 'end': 51, 'answer': 'Holz Handlauf mit Omegaprofil inkl. Montagekonsolen'}",Wood,Wood skirtings,Pr_35_90_43_98,Furnishings,Furnishings,Handrails
+324,1115,1115,Holzresten,used & cleaned,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,"Holzresten aus einer Zimmermannswerkstatt
+
+GRATIS (was übrig bleibt, werfen wir weg)
+
+Abzuholen bis am 19.3.2022",Wood,,,,,,,,,1.0,,,1970-01-01,1.0,2023-09-25 00:00:00.000,0.0,1.0,265.0,"Hettlingen, 8442",,useagain,82899,CH,de,whatsapp-image-2022-03-09-at-21.20.24_570x570.jpeg,https://www.useagain.ch/de/holzresten-82899,E02,,,,,"{'score': 0.31606143712997437, 'start': 0, 'end': 10, 'answer': 'Holzresten'}","{'score': 1.2212804278988187e-07, 'start': 0, 'end': 10, 'answer': 'Holzresten'}","{'score': 0.023428212851285934, 'start': 0, 'end': 10, 'answer': 'Holzresten'}",Wood,Wood skirtings,Pr_35_90_43_98,Furnishings,Furnishings,Furnishings
+383,1191,1191,Massivholztür,,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Farbe: Holzfarbe und Weiss
+Tiefe: 5.8 cm
+Mit Drückergarnitur, ohne Schlüssel.",Metal,,,,,,,,2022-06-21,500.0,,,1970-01-01,500.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,82670,CH,de,,https://www.useagain.ch/de/massivholztuer-82670,G01.05,interior doors,,,,"{'score': 0.01730610989034176, 'start': 6, 'end': 16, 'answer': ' Holzfarbe'}","{'score': 0.17240287363529205, 'start': 26, 'end': 41, 'answer': '\r\nTiefe: 5.8 cm'}","{'score': 2.936383680207655e-05, 'start': 34, 'end': 41, 'answer': ' 5.8 cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+384,1192,1192,Massivholztür,,['E03.02'],External pedestrian doors,,Ausbau,Türen & Tore,Aussentüren,"Schöne Massivholztür, isoliert mit Gitterverglasung.
+Ohne Drückergarnitur, ohne Schloss.
+Durch einen Schlag wurde das Holz zersplittert. Siehe Bild.
+Türblatt starke: 5 cm",Glass,,,,,,,,2022-06-15,800.0,,,1970-01-01,800.0,1970-01-01 00:00:00.000,0.0,1.0,18.0,"Zug, 6300",,useagain,82654,CH,de,,https://www.useagain.ch/de/massivholztuer-82654,E03.02,extrerior doors,,,,"{'score': 0.9224119186401367, 'start': 6, 'end': 21, 'answer': ' Massivholztür,'}","{'score': 0.46173205971717834, 'start': 168, 'end': 173, 'answer': ' 5 cm'}","{'score': 0.00692667905241251, 'start': 168, 'end': 173, 'answer': ' 5 cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Glass blocks and panels
+1413,2264,2264,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band links 
+-ohne Schloss
+-mit Edelstahlbeschläge
+
+Türblattaussenmass: 104,5cm x 202cm
+Türblattfalzmass: 102cm x 201cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90468,CH,de,img_20220824_1044543_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90468,G01.05,door leaf,,,,"{'score': 0.33675268292427063, 'start': 44, 'end': 62, 'answer': '\nHolztürblatt grau'}","{'score': 0.4609932005405426, 'start': 146, 'end': 162, 'answer': ' 104,5cm x 202cm'}","{'score': 0.003743106499314308, 'start': 126, 'end': 162, 'answer': '\nTürblattaussenmass: 104,5cm x 202cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1414,2265,2265,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band links 
+-mit Schloss
+-mit Edelstahlbeschläge
+
+Türblattaussenmass: 104,5cm x 202cm
+Türblattfalzmass: 102cm x 201cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,160.0,,,1970-01-01,160.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90469,CH,de,img_20220824_1044543_%281%29_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90469,G01.05,door leaf,,,,"{'score': 0.32062119245529175, 'start': 44, 'end': 62, 'answer': '\nHolztürblatt grau'}","{'score': 0.44793424010276794, 'start': 145, 'end': 161, 'answer': ' 104,5cm x 202cm'}","{'score': 0.002718099392950535, 'start': 125, 'end': 161, 'answer': '\nTürblattaussenmass: 104,5cm x 202cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1415,2266,2266,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band links 
+-mit Schloss, ohne Falle
+-mit Edelstahlbeschläge
+
+Türblattaussenmass: 104,5cm x 202cm
+Türblattfalzmass: 102cm x 201cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,155.0,,,1970-01-01,155.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90470,CH,de,img_20220824_1044543_%282%29_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90470,G01.05,door leaf,,,,"{'score': 0.31204503774642944, 'start': 44, 'end': 57, 'answer': '\nHolztürblatt'}","{'score': 0.46736931800842285, 'start': 157, 'end': 173, 'answer': ' 104,5cm x 202cm'}","{'score': 0.0016645170981064439, 'start': 137, 'end': 173, 'answer': '\nTürblattaussenmass: 104,5cm x 202cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1416,2267,2267,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band rechts
+-mit Schloss
+-mit Edelstahlbeschläge
+
+Türblattaussenmass: 104,5cm x 202cm
+Türblattfalzmass: 102cm x 201cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,160.0,,,1970-01-01,160.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90471,CH,de,img_20220824_1050541_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90471,G01.05,door leaf,,,,"{'score': 0.30179959535598755, 'start': 44, 'end': 62, 'answer': '\nHolztürblatt grau'}","{'score': 0.4400867819786072, 'start': 145, 'end': 161, 'answer': ' 104,5cm x 202cm'}","{'score': 0.002887300681322813, 'start': 125, 'end': 161, 'answer': '\nTürblattaussenmass: 104,5cm x 202cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1417,2268,2268,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band links 
+-mit Schloss
+-mit Edelstahlbeschläge
+
+Türblattaussenmass: 89cm x 206,5cm
+Türblattfalzmass: 86cm x 205cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90472,CH,de,img_20220824_1044543_%283%29_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90472,G01.05,door leaf,,,,"{'score': 0.32388854026794434, 'start': 44, 'end': 62, 'answer': '\nHolztürblatt grau'}","{'score': 0.5474403500556946, 'start': 125, 'end': 160, 'answer': '\nTürblattaussenmass: 89cm x 206,5cm'}","{'score': 0.0008901976980268955, 'start': 125, 'end': 160, 'answer': '\nTürblattaussenmass: 89cm x 206,5cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1514,2365,2365,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band rechts
+-mit Schloss
+-mit Edelstahlbeschläge
+
+Türblattaussenmass: 90cm x 202cm
+Türblattfalzmass: 87cm x 201cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,150.0,,,1970-01-01,150.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90473,CH,de,img_20220824_1050541_%281%29_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90473,G01.05,door leaf,,,,"{'score': 0.30290931463241577, 'start': 44, 'end': 62, 'answer': '\nHolztürblatt grau'}","{'score': 0.42385128140449524, 'start': 125, 'end': 158, 'answer': '\nTürblattaussenmass: 90cm x 202cm'}","{'score': 0.0013200331013649702, 'start': 125, 'end': 158, 'answer': '\nTürblattaussenmass: 90cm x 202cm'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+1525,2376,2376,Holztürblatt grau,used,['G01.05'],Internal pedestrian doors,,Ausbau,Türen & Tore,Innentüren,"Wird am 24.01.2023 demontiert und übergeben
+
+Holztürblatt grau ohne Rahmen
+-Band links 
+-mit Schloss
+-mit Edelstahlbeschläge
+-mit Türschliesser
+
+Türblattaussenmass: 97cm x 200cm
+Türblattfalzmass: 94cm x 198cm
+Stärke: 4cm (1,5cm/2,5cm)",Wood,,,,,,,,,160.0,,,1970-01-01,160.0,1970-01-01 00:00:00.000,0.0,1.0,70.0,"Neuchâtel, 2000",,useagain,90476,CH,de,img_20220824_1126002_%282%29_570x570.jpg,https://www.useagain.ch/de/holztuerblatt-grau-90476,G01.05,door leaf,,,,"{'score': 0.3881356716156006, 'start': 44, 'end': 62, 'answer': '\nHolztürblatt grau'}","{'score': 0.47723859548568726, 'start': 144, 'end': 177, 'answer': '\nTürblattaussenmass: 97cm x 200cm'}","{'score': 0.00014179588470142335, 'start': 144, 'end': 164, 'answer': '\nTürblattaussenmass:'}",Granule,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Floor plates, gratings and edgings"
+2246,3104,3104,gerade Innentreppe aus Massivholz,used,"['C01.04', 'C04.02', 'C04.06', 'D12.04', 'I02.04']","Suspended structural slabs, roof structure",,Ausbau,Geländer & Treppen,Treppen & Rampen,"gut erhaltene  gerade Holztreppe Masiv, aufgesattelt, Fichte od Föhre?, B: (aussen120cm), Laufbreite: 108cm, T: 24cm (Tritt); H: 12 Tritte + Austritt= 13 x 20cm = 260cm;  Grundmass: 250cm, sichtbar geschraubt;
+muss bis 6.3.23 in Kloten selber demontiert werden ;
+( Demontage durch uns + Fr. 350.--)/ Abholen ab Baustelle
+intern:  Nr:n.e.; ID:18794; HP 91600",Wood,250.0,120.0,260,,,,,2023-01-09,450.0,,,1970-01-01,450.0,1970-01-01 00:00:00.000,0.0,1.0,49.0,"Kloten, 8302",,useagain,91600,CH,de,img-20221219-wa0039_570x570.jpg,https://www.useagain.ch/de/gerade-innentreppe-aus-massivholz-91600,C04,stairs,,,,"{'score': 0.43507805466651917, 'start': 53, 'end': 71, 'answer': ' Fichte od Föhre?,'}","{'score': 0.006689326837658882, 'start': 170, 'end': 188, 'answer': ' Grundmass: 250cm,'}","{'score': 3.9673202991252765e-05, 'start': 286, 'end': 299, 'answer': ' Fr. 350.--)/'}",Wood,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks",Furnishings
+2296,3154,3154,jähriges Holzgeländer,used,"['E02.06', 'E03.05']",External wall cladding to buildings,,Ausbau,Geländer & Treppen,Geländer,"Ich möchte gerne diese Holzgeländer an Interessierte verkaufen. Ich wünschte mir, dass es an einem anderen Ort eingebaut werden könnte, und schön zur Geltung kommt.
+Interessierte könne sich melden, und das Geländer vor Ort anschauen.",Wood,,,,,,,,,200.0,,,1970-01-01,200.0,2023-09-25 00:00:00.000,0.0,1.0,106.0,"Zürich, 8047",,useagain,91749,CH,de,holzgelnder1_570x570.jpg,https://www.useagain.ch/de/100jaehriges-holzgelaender-91749,E,,,,,"{'score': 0.6939378976821899, 'start': 22, 'end': 35, 'answer': ' Holzgeländer'}","{'score': 6.053394463378936e-05, 'start': 22, 'end': 35, 'answer': ' Holzgeländer'}","{'score': 4.054016244481318e-06, 'start': 22, 'end': 35, 'answer': ' Holzgeländer'}",Spruce,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs","Blocks, Panels, Fences, Bricks","Lighting columns, brackets and bollards"
+2301,3199,3199,Barrière en bois massif,used,['Sonstiges'],,Mobilier,Ausbau,Möbel & Einrichtungen,,lot de chaises confortables et empilables,Metal,0.0,400.0,9,,6kg,,,,220.0,0.0,1.0,1970-01-01,220.0,1970-01-01 00:00:00.000,91.7,1.0,21.0,,MAD,materiuum,2209-5040,CH,fr,"['https://materiuum.ch/wp-content/uploads/2022/11/2209-5040-a-1-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2022/11/2209-5040-b-2.jpg', 'https://materiuum.ch/wp-content/uploads/2022/11/2209-5040-c-2.jpg']",https://materiuum.ch/produit/380384-17/,,gate,,,,"{'score': 4.2742074583657086e-05, 'start': 0, 'end': 41, 'answer': 'lot de chaises confortables et empilables'}","{'score': 0.0003118875902146101, 'start': 0, 'end': 41, 'answer': 'lot de chaises confortables et empilables'}","{'score': 0.25162455439567566, 'start': 0, 'end': 41, 'answer': 'lot de chaises confortables et empilables'}",Wood,Wood skirtings,Pr_35_90_43_98,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+2867,4058,4058,Garde corps en bois,used,['Sonstiges'],,Cloisons,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Werkzeug,"Dimension base 62,5/62,5cm
+Hauteur min113cm
+Hauteur max 170cm
+Reglable",Wood,0.0,728.0,15.5,,,,,,0.0,1.0,1.0,1970-01-01,0.0,1970-01-01 00:00:00.000,100.0,1.0,0.0,,ECO-CUI DEB,materiuum,2202-3362,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/02/2202-3362-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2202-3362-b.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2202-3362-c-600x800.jpg']",https://materiuum.ch/produit/380-254/,,guardrail,,,,"{'score': 0.24701428413391113, 'start': 61, 'end': 70, 'answer': '\nReglable'}","{'score': 0.5161938071250916, 'start': 14, 'end': 26, 'answer': ' 62,5/62,5cm'}","{'score': 0.0004710617649834603, 'start': 14, 'end': 26, 'answer': ' 62,5/62,5cm'}",Wood,Wood skirtings,Pr_35_90_43_98,Furnishings,"Blocks, Panels, Fences, Bricks",Safety cages
+2874,4065,4065,Barrière en bois massif,used,,,Mobilier,Ausbau,Möbel & Einrichtungen,Einrichtungen,Barrière en bois massif avec ouvrant de 160 cm. Ouverture de l'ouvrant grâce à un rail métallique vissé au sol. Loquet de fermeture de l'ouvrant. Possibilité de retirer le panneau noir de l'ouvrant pour n'avoir que les barreaux verticaux.,Wood,0.0,400.0,9,,,,,,220.0,0.0,1.0,1970-01-01,220.0,1970-01-01 00:00:00.000,91.7,1.0,0.0,,MAD,materiuum,2209-5040,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/01/2209-5040-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2209-5040-b.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2209-5040-c.jpg']",https://materiuum.ch/produit/380-250/,,gate,,,,"{'score': 0.8955461382865906, 'start': 11, 'end': 23, 'answer': ' bois massif'}","{'score': 0.004898196551948786, 'start': 39, 'end': 47, 'answer': ' 160 cm.'}","{'score': 0.0020896182395517826, 'start': 39, 'end': 47, 'answer': ' 160 cm.'}",Wood,Wood skirtings,Pr_35_90_43_98,"Wall, Barriers, Pannels","Blocks, Panels, Fences, Bricks",Masonry walling units
+3150,4355,4355,Colle à bois,used,"['E01.01', 'E01.02', 'E01.03', 'E02.01', 'E02.02', 'E02.03', 'E02.04', 'E02.05', 'F01.01', 'J03.01', 'J03.02', 'Sonstiges']",External wall cladding above ground,Quincaillerie,Baustoffe & Werkzeuge,Baustoffe & Werkzeuge,Baustoffe,Bidon de 30kg,Other,0.0,38.0,38,,30kg,,,,100.0,0.0,17.0,1970-01-01,100.0,2023-09-25 00:00:00.000,,0.0,,,MACO,materiuum,2302-5932,CH,fr,['https://materiuum.ch/wp-content/uploads/2023/04/2302-5932-a-600x800.jpg'],https://materiuum.ch/produit/332-3/,E02,wood glue,,,,"{'score': 0.07371044903993607, 'start': 8, 'end': 13, 'answer': ' 30kg'}","{'score': 0.05321478843688965, 'start': 0, 'end': 13, 'answer': 'Bidon de 30kg'}","{'score': 0.4917202591896057, 'start': 0, 'end': 13, 'answer': 'Bidon de 30kg'}",Spruce,Wood skirtings,Pr_35_90_43_98,"Roof, Slabs, Stairs",Furnishings,Furnishings
+3175,4383,4383,Parement en bois,used,['Sonstiges'],,Revêtements muraux,Ausbau,Boden - & Wandbeläge,,Panneaux de bois avec miroirs et baguettes aluminium,Glass,0.0,225.0,57.5,,.2kg,,,,65.0,0.0,6.0,1970-01-01,65.0,1970-01-01 00:00:00.002,,1.0,0.0,,CROIX D'OR,materiuum,2302-5781,CH,fr,"['https://materiuum.ch/wp-content/uploads/2023/04/2302-5781-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5781-b-600x800.jpg']",https://materiuum.ch/produit/337365/,,cladding,,,,"{'score': 0.6464563608169556, 'start': 0, 'end': 16, 'answer': 'Panneaux de bois'}","{'score': 0.0009115865104831755, 'start': 0, 'end': 52, 'answer': 'Panneaux de bois avec miroirs et baguettes aluminium'}","{'score': 0.00012721313396468759, 'start': 0, 'end': 52, 'answer': 'Panneaux de bois avec miroirs et baguettes aluminium'}",Wood,Wood skirtings,Pr_35_90_43_98,Furnishings,Furnishings,Furnishings

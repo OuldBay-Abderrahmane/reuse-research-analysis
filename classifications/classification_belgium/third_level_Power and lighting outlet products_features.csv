@@ -1,0 +1,121 @@
+,Feature,Importance
+5,Price_Change,0.383101
+4,Stock_Now,0.20802839
+51,material_emb_Reflective glass,0.10312534
+8,Width,0.078243114
+0,Weight,0.06135496
+114,second_level_Other,0.053261586
+1,Initial_Price,0.052103437
+2,Latest_Price,0.038154185
+108,first_level_Other,0.022628075
+64,Belgium_Raw_Ceiling light switches,0.0
+75,Belgium_Raw_Lighting beacons,0.0
+85,Belgium_Code_Pr_20_29_63,0.0
+84,Belgium_Raw_Wattmeters,0.0
+83,Belgium_Raw_Tubular fluorescent lamps,0.0
+82,Belgium_Raw_Special lamps,0.0
+81,Belgium_Raw_Power over ethernet (POE) network switches,0.0
+80,Belgium_Raw_Power and lighting outlet products,0.0
+79,Belgium_Raw_Plugs,0.0
+78,Belgium_Raw_Plastics plugs,0.0
+77,Belgium_Raw_Pendant luminaires,0.0
+76,Belgium_Raw_Lighting tracks,0.0
+73,Belgium_Raw_Light switches,0.0
+74,Belgium_Raw_Light-emitting diode (LED) lamps,0.0
+72,Belgium_Raw_Lantern lights,0.0
+71,Belgium_Raw_Lamps,0.0
+87,Belgium_Code_Pr_30_59_61_35,0.0
+70,Belgium_Raw_LED light panels,0.0
+69,Belgium_Raw_Glazed pavement light panels,0.0
+68,Belgium_Raw_Electric boilers,0.0
+67,Belgium_Raw_Edison screw batten lampholders,0.0
+66,Belgium_Raw_Connection cables,0.0
+65,Belgium_Raw_Compact fluorescent lamps,0.0
+86,Belgium_Code_Pr_20_29_63_63,0.0
+91,Belgium_Code_Pr_65_72_97_16,0.0
+88,Belgium_Code_Pr_30_59_72_46,0.0
+102,Belgium_Code_Pr_70_70_48_62,0.0
+115,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+113,second_level_Furnishings,0.0
+112,"second_level_Floors, Ceiling",0.0
+111,"second_level_Blocks, Panels, Fences, Bricks",0.0
+110,"first_level_Wall, Barriers, Pannels",0.0
+109,first_level_Technical elements,0.0
+107,first_level_Furnishings,0.0
+106,Belgium_Code_Pr_80_77_48_03,0.0
+105,Belgium_Code_Pr_80_51_51_98,0.0
+104,Belgium_Code_Pr_70_75_52_64,0.0
+103,Belgium_Code_Pr_70_75_01_47,0.0
+101,Belgium_Code_Pr_70_70_48_47,0.0
+89,Belgium_Code_Pr_60_60_08_27,0.0
+100,Belgium_Code_Pr_70_70_48_45,0.0
+99,Belgium_Code_Pr_70_70_46_80,0.0
+98,Belgium_Code_Pr_70_70_46_44,0.0
+97,Belgium_Code_Pr_70_70_46_30,0.0
+96,Belgium_Code_Pr_70_70_46_15,0.0
+95,Belgium_Code_Pr_70_70_46,0.0
+94,Belgium_Code_Pr_70_70,0.0
+93,Belgium_Code_Pr_65_72_97_46,0.0
+92,Belgium_Code_Pr_65_72_97_26,0.0
+62,material_emb_Wych elm,0.0
+90,Belgium_Code_Pr_65_70_50_15,0.0
+63,Belgium_Raw_Aluminium lighting columns,0.0
+58,material_emb_Sycamore,0.0
+61,material_emb_Wired glass,0.0
+18,"Technical_Mode d’assemblage : Fixée au plafond
+Préconisations de dépose : Disponible du 03 au 14 Avril 2023",0.0
+29,material_emb_Black poplar,0.0
+28,"material_emb_Base, bed and fill aggregates",0.0
+27,material_emb_Asphalt,0.0
+26,material_emb_Aluminium,0.0
+25,Language_fr,0.0
+24,Store_rotordc,0.0
+23,Country_BE,0.0
+22,Collection_SAULES : Sur place ou à discuter en fonction des objets,0.0
+21,Collection_Pointe à Pitre : Retrait des éléments sur rendez-vous après confirmation de la commande par Matériuum.,0.0
+20,Collection_ECO-CUI DEB :,0.0
+19,"Technical_Mode d’assemblage : Vissé au plafond
+Préconisations de dépose :",0.0
+17,"Technical_Mode d’assemblage :
+Préconisations de dépose :",0.0
+31,material_emb_Brass,0.0
+16,Material_Verre,0.0
+15,Material_Métal,0.0
+14,Material_Acier,0.0
+13,Condition_Correct,0.0
+12,Category_Technical,0.0
+11,Category_Lighting,0.0
+10,Category_Electricités et luminaires,0.0
+9,Height,0.0
+7,Length,0.0
+6,Quantity_Change,0.0
+3,Initial_Stock,0.0
+30,material_emb_Blinding aggregates,0.0
+32,material_emb_Ceramic,0.0
+60,material_emb_Weathering steel,0.0
+46,material_emb_Lead glass,0.0
+59,material_emb_Thermoplastic elastomer resin,0.0
+57,material_emb_Structural glass,0.0
+56,material_emb_Sitka spruce,0.0
+55,material_emb_Silver,0.0
+54,material_emb_Silt,0.0
+53,material_emb_Sheet glass,0.0
+52,material_emb_Rubber,0.0
+50,material_emb_Petrol,0.0
+49,material_emb_Opal glass,0.0
+48,material_emb_Non-hydraulic lime,0.0
+47,material_emb_Net,0.0
+45,material_emb_Lead,0.0
+33,material_emb_Chrome steel,0.0
+44,material_emb_Hydraulic road binder bound mixtures,0.0
+43,material_emb_Halon,0.0
+42,material_emb_Glare-reducing glass,0.0
+41,material_emb_Fir,0.0
+40,material_emb_Filament,0.0
+39,material_emb_Fibreglass,0.0
+38,material_emb_Fibre,0.0
+37,material_emb_European larch,0.0
+36,material_emb_Daub,0.0
+35,material_emb_Copper,0.0
+34,material_emb_Coloured glass,0.0
+116,third_level_Power and lighting outlet products,0.0

@@ -1,0 +1,101 @@
+,Feature,Importance
+1,Length,0.15757972
+75,"second_level_Blocks, Panels, Fences, Bricks",0.15261425
+22,Material_Plate glass,0.13655114
+0,Price,0.09845914
+83,"third_level_Floor plates, gratings and edgings",0.07581506
+35,Code_Aluminium skirtings,0.069561236
+76,"second_level_Covering, Finish",0.06595903
+99,third_level_Wire structure and general products,0.060549986
+19,Material_Metal,0.05061863
+3,Height,0.037982546
+80,second_level_Other,0.034393568
+5,Material_Aluminium,0.0339197
+2,Width,0.025996048
+8,Material_Copper,0.0
+67,Code_Steel spiles,0.0
+74,first_level_Structural elements,0.0
+73,Code_Zinc plating,0.0
+72,Code_Wood subframes,0.0
+71,Code_Weir plates,0.0
+70,Code_Thermochromic glass,0.0
+69,Code_Suspension rigs,0.0
+68,Code_Structural wood composites,0.0
+65,Code_Sectional products,0.0
+66,Code_Stainless steel tanks,0.0
+64,Code_Plastics sleeving,0.0
+63,Code_Plastics skirtings,0.0
+62,Code_Plastics linings,0.0
+61,Code_Plaster cornices,0.0
+60,Code_Plaques,0.0
+59,Code_Occasional tables,0.0
+58,Code_Modular mezzanines,0.0
+57,Code_Metal-framed structures,0.0
+4,Material_Aggregates,0.0
+78,"second_level_Floors, Ceiling",0.0
+77,"second_level_Door, Windows, Gates",0.0
+90,third_level_Prefabricated buildings and structures,0.0
+98,third_level_Walling units,0.0
+97,third_level_Unit covering and finish products,0.0
+96,third_level_Support and restraint products,0.0
+95,third_level_Structure and general products,0.0
+94,third_level_Structural roofing units,0.0
+93,third_level_Shaft-lining products,0.0
+92,third_level_Sectional products,0.0
+91,third_level_Sanitary fittings and accessories,0.0
+89,third_level_Other,0.0
+55,Code_Metal bollards,0.0
+88,"third_level_Non-rigid sheet, mat and strip covering and finish products",0.0
+87,third_level_Masonry walling units,0.0
+86,"third_level_Lighting columns, brackets and bollards",0.0
+85,third_level_Handrails,0.0
+84,third_level_Glass blocks and panels,0.0
+82,third_level_Fastener products,0.0
+81,"second_level_Stairs, Ramps, Lift, Hardware",0.0
+79,second_level_Furnishings,0.0
+56,Code_Metal skirtings,0.0
+54,Code_Load cells,0.0
+9,Material_Decorative aggregates,0.0
+53,Code_Laminboard core plywoods,0.0
+29,Material_Wood,0.0
+28,Material_Structural steel,0.0
+27,Material_Steel-aluminium alloy,0.0
+26,Material_Steel,0.0
+25,Material_Sitka spruce,0.0
+24,Material_Resin,0.0
+23,Material_Pre-blended concrete,0.0
+7,Material_Clinker,0.0
+21,Material_Plastics,0.0
+20,Material_Patterned glass,0.0
+18,Material_Membrane,0.0
+17,Material_Loose surfacing decorative aggregates,0.0
+16,Material_Lignite,0.0
+15,Material_Heat-strengthened glass,0.0
+14,Material_Granule,0.0
+13,Material_Galvanized steel,0.0
+12,Material_Encaustic,0.0
+11,Material_Dichromatic glass,0.0
+10,Material_Designed concretes,0.0
+30,Material_Zinc,0.0
+31,Code_Aluminium alloy hinged bollards,0.0
+32,Code_Aluminium doorsets,0.0
+43,Code_Concrete-framed modules,0.0
+52,Code_Lacquers,0.0
+51,Code_Hollow box galvanized steel brackets,0.0
+49,Code_Glazed structures,0.0
+48,Code_Glassware,0.0
+47,Code_Fibre-reinforced resin composite mineral boards,0.0
+46,Code_Desks,0.0
+45,Code_Copper brackets,0.0
+44,Code_Conical couplers,0.0
+42,Code_Concrete access cover seatings,0.0
+33,Code_Aluminium handrails,0.0
+41,Code_Composite glass sheets,0.0
+40,Code_Cold-formed galvanized steel sections,0.0
+39,Code_Carbon steel framed vertical section panels,0.0
+38,Code_Arrises,0.0
+37,Code_Aluminium-zinc coated retention grids,0.0
+36,Code_Aluminium trusses,0.0
+6,Material_Bonded surfacing decorative aggregates,0.0
+34,Code_Aluminium louvre blades,0.0
+50,Code_Grommets,0.0

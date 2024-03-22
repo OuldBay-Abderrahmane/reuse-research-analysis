@@ -1,0 +1,300 @@
+,Feature,Importance
+85,Code_Bidets,0.09900509
+20,Material_Fir,0.059744794
+195,Code_Pliable conduit,0.0568613
+0,Price,0.053957477
+141,Code_Fire detection and alarm devices and control equipment,0.048118316
+127,Code_Double slips,0.044577383
+297,"second_level_Stairs, Ramps, Lift, Hardware",0.044157933
+52,Material_Sitka spruce,0.038798615
+292,"second_level_Covering, Finish",0.037813738
+36,Material_Metal,0.037774187
+291,"second_level_Blocks, Panels, Fences, Bricks",0.036576536
+264,Code_Wardrobes,0.03149259
+293,"second_level_Door, Windows, Gates",0.030705905
+18,Material_Encaustic,0.029988144
+290,"first_level_Wall, Barriers, Pannels",0.023283232
+287,"first_level_Roof, Slabs, Stairs",0.022006277
+289,first_level_Technical elements,0.020102447
+25,Material_Gravel,0.017862344
+284,first_level_Furnishings,0.01748406
+296,second_level_Other,0.016828548
+76,Code_Arrises,0.015552235
+50,Material_Silt,0.015296953
+2,Width,0.0138976965
+49,Material_Safety glass,0.013214831
+286,first_level_Other,0.013152677
+295,second_level_Furnishings,0.011934871
+21,Material_Fire clay,0.011540692
+190,Code_Pedestal washbasins,0.011470569
+1,Length,0.011324349
+68,Code_Acoustic duct linings,0.011261958
+42,Material_Pisé,0.010398434
+3,Height,0.009860968
+257,Code_Voice alarm controllers,0.009057217
+90,Code_Cabinet and countertop hinges,0.008719549
+55,Material_Stainless steel,0.008438577
+294,"second_level_Floors, Ceiling",0.008176156
+6,Material_Aluminium,0.007085814
+163,Code_Lacquers,0.006451395
+174,Code_Manual trapdoors,0.005929216
+69,Code_Aluminium alloy hinged bollards,0.0057592425
+181,Code_Metal skirtings,0.0045471885
+53,Material_Soap,0.0043084137
+224,Code_Soap dispensers,0.0041074213
+43,Material_Plastics,0.004039658
+216,Code_Shower head holders,0.0036969956
+259,Code_WC pans,0.0036380223
+202,Code_Pump accessories,0.0
+217,Code_Shower heads,0.0
+201,Code_Pull handles,0.0
+199,Code_Primer-undercoats,0.0
+198,Code_Pressure relief valves,0.0
+197,Code_Preformed casings,0.0
+196,Code_Polyethylene packers,0.0
+200,Code_Puddle flanges,0.0
+205,Code_Rectifiers,0.0
+203,Code_Radio receivers,0.0
+218,Code_Shower manual water supply sets,0.0
+204,Code_Rail foot insulators,0.0
+206,Code_Sanitary accessories,0.0
+208,Code_Scagliola,0.0
+209,Code_Screening and ventilation access doors,0.0
+210,Code_Sedge,0.0
+211,Code_Shower beds,0.0
+212,Code_Shower curtains,0.0
+213,Code_Shower doors,0.0
+214,Code_Shower enclosures,0.0
+215,Code_Shower fittings package,0.0
+207,Code_Sanitary towel dispensers,0.0
+167,Code_Laundry washing machines,0.0
+194,Code_Plastics sleeving,0.0
+180,Code_Metal penstocks,0.0
+168,Code_Linen chute inlet doors,0.0
+169,Code_Linen containers,0.0
+170,Code_Lockers,0.0
+171,Code_Macerator and dewaterer tank wash,0.0
+172,Code_Machine parts cleaning washer units,0.0
+173,Code_Mail equipment,0.0
+175,Code_Masonry capping and coping units,0.0
+176,Code_Masonry dowels,0.0
+165,Code_Laundry troughs and cabinets,0.0
+177,Code_Medical and laboratory equipment,0.0
+178,Code_Medicine cabinets,0.0
+179,Code_Metal gate surrounds,0.0
+164,Code_Laundry troughs,0.0
+193,Code_Plastics skirtings,0.0
+182,Code_Metal suspended ceiling hangers,0.0
+183,Code_Metal tubes and hollow sections,0.0
+184,Code_Meter cabinets,0.0
+220,Code_Sink taps,0.0
+185,Code_Modular bearer tie plates,0.0
+186,Code_Office desks,0.0
+187,Code_Office equipment,0.0
+188,"Code_Packings, washers and spacers",0.0
+189,Code_Paper towel dispensers,0.0
+166,Code_Laundry washer-dryers,0.0
+191,Code_Pendant luminaires,0.0
+192,Code_Plastics dowel bar caps,0.0
+219,Code_Shower seats,0.0
+237,Code_Stainless steel stools,0.0
+221,Code_Slab urinals,0.0
+271,Code_Water extraction presses,0.0
+255,Code_Vehicle hoists,0.0
+256,Code_Ventilation ducts,0.0
+258,Code_Voice alarm power amplifiers,0.0
+260,Code_WC suites,0.0
+261,Code_Wall-hung WC support brackets,0.0
+262,Code_Wall-hung urinals,0.0
+263,Code_Wall-hung washbasins,0.0
+265,"Code_Wash basin, soap dispenser and hand dryer units",0.0
+266,Code_Washbasin spouts,0.0
+267,Code_Washers,0.0
+268,Code_Washing products,0.0
+269,Code_Waste bins,0.0
+270,Code_Water conditioners,0.0
+272,Code_Water fire-extinguishing outlets,0.0
+222,Code_Sliding shutter doorsets,0.0
+273,Code_Water heaters,0.0
+274,Code_Water strainers,0.0
+275,Code_Window sash fasteners,0.0
+276,Code_Window walls,0.0
+277,Code_Wood brise-soleil louvre blades,0.0
+278,Code_Wood fibres,0.0
+279,Code_Wood panelled door leaves,0.0
+280,Code_Wood screws,0.0
+281,Code_Wood skirtings,0.0
+282,Code_Wood veneers,0.0
+283,Code_Zinc plating,0.0
+285,first_level_Openings,0.0
+288,first_level_Structural elements,0.0
+254,Code_Vapour meters,0.0
+253,Code_Vanity and washroom furniture,0.0
+252,Code_Urinal dividers,0.0
+251,Code_Under-mounted washbasins,0.0
+223,Code_Soap dishes,0.0
+225,Code_Sprigs,0.0
+226,Code_Stainless steel balusters and newel posts,0.0
+227,Code_Stainless steel capping units,0.0
+228,Code_Stainless steel cappings and copings,0.0
+229,Code_Stainless steel clips,0.0
+230,Code_Stainless steel cycle lockers,0.0
+231,Code_Stainless steel door frames,0.0
+232,Code_Stainless steel door leaves,0.0
+233,Code_Stainless steel doorsets,0.0
+234,Code_Stainless steel fascias,0.0
+235,Code_Stainless steel hinged bollards,0.0
+236,Code_Stainless steel screws,0.0
+161,Code_Irrigation water outlets,0.0
+238,Code_Stainless steel traditional sheets,0.0
+239,Code_Steam traps and strainers,0.0
+240,Code_Steel plant containers,0.0
+241,Code_Steel security cabinets,0.0
+242,Code_Storage units and cupboards,0.0
+243,Code_Stretcher drive brackets,0.0
+244,Code_Strip ventilators,0.0
+245,Code_Toilet brush holders,0.0
+246,Code_Toilet paper dispensers,0.0
+247,Code_Toilet roll holders,0.0
+248,Code_Toilet showers,0.0
+249,Code_Tool chests,0.0
+250,Code_Towels,0.0
+162,Code_Lacquer resins,0.0
+149,Code_Flexible doorsets,0.0
+160,Code_Industrial bells,0.0
+58,Material_Terne-coated steel,0.0
+64,Material_Zinc,0.0
+63,Material_Wool,0.0
+62,Material_Wood,0.0
+61,Material_Weathering steel,0.0
+60,Material_Water,0.0
+59,Material_Urea formaldehyde resin,0.0
+57,Material_Steel-aluminium alloy,0.0
+87,Code_Boxed sash window hanging fittings,0.0
+56,Material_Steel,0.0
+54,Material_Solution,0.0
+51,Material_Sintered pulverized fuel ash,0.0
+48,Material_Resin,0.0
+47,Material_Reflective glass,0.0
+46,Material_Potable water,0.0
+65,Code_Abdominal machines,0.0
+66,Code_Accessible shower equipment packages,0.0
+67,Code_Acoustic batten cradles,0.0
+70,Code_Aluminium brise-soleil louvre blades,0.0
+71,Code_Aluminium door leaves,0.0
+72,Code_Aluminium doorsets,0.0
+73,Code_Aluminium skirtings,0.0
+74,Code_Aluminium trusses,0.0
+75,Code_Analogue metering equipment,0.0
+77,Code_Automatic revolving doorsets,0.0
+78,Code_Bath mixer taps,0.0
+79,Code_Bath panels,0.0
+80,Code_Bath wastes,0.0
+81,Code_Bathroom cabinets,0.0
+82,Code_Bathroom mirrors,0.0
+83,Code_Bathroom pods,0.0
+84,Code_Baths,0.0
+45,Material_Porcelain,0.0
+44,Material_Polypropylene resin,0.0
+41,Material_Petrol,0.0
+22,Material_Fluids,0.0
+4,Material_Air-cooled steel slag,0.0
+5,Material_Air-entrained concrete,0.0
+7,Material_Architectural glass,0.0
+8,"Material_Base, bed and fill aggregates",0.0
+9,Material_Brass,0.0
+10,Material_Cast iron,0.0
+11,Material_Ceramic,0.0
+12,Material_Clinker,0.0
+13,Material_Compressed air,0.0
+14,Material_Condensed silica fume,0.0
+15,Material_Copal resin,0.0
+16,Material_Daub,0.0
+17,Material_Dolerite,0.0
+19,Material_Fibre,0.0
+23,Material_Gas,0.0
+40,Material_Paper,0.0
+24,Material_Granule,0.0
+26,Material_Hydraulic lime,0.0
+27,Material_In situ concrete,0.0
+28,Material_Insulating concrete,0.0
+29,Material_Insulating glass,0.0
+30,Material_Lacquer resin,0.0
+31,Material_Leather,0.0
+32,Material_Lignite,0.0
+33,Material_Liquid crystal polymer resin,0.0
+34,Material_Marble,0.0
+35,Material_Mastic resin,0.0
+37,Material_Microemulsion,0.0
+38,Material_Neat cement,0.0
+39,Material_Normal-weight concrete,0.0
+86,Code_Bonding coats,0.0
+88,Code_Brass sections,0.0
+159,Code_Hydraulic power components,0.0
+133,Code_Engine exhausts,0.0
+139,Code_Filing cabinets,0.0
+138,Code_Fabric accessory products,0.0
+137,Code_Espresso machines,0.0
+136,Code_Equipment protection enclosures,0.0
+135,"Code_Equipment enclosures, cabinets, boxes and housings",0.0
+134,Code_Equipment,0.0
+132,Code_Emergency luminaires,0.0
+89,Code_Built-in gas hobs,0.0
+131,Code_Electric sliding door mechanisms,0.0
+130,Code_Electric doorbells,0.0
+129,Code_Ductwork accessories,0.0
+128,Code_Dovecotes,0.0
+126,Code_Door lever handle sets,0.0
+125,Code_Door hinges,0.0
+140,Code_Fire dampers,0.0
+142,Code_Fire protection safes,0.0
+143,Code_Firefighting alarm devices,0.0
+144,Code_Fishwashers,0.0
+145,Code_Flange adaptors,0.0
+146,Code_Flap control gates,0.0
+147,Code_Flap valves,0.0
+148,Code_Flat washers,0.0
+150,Code_Footstools,0.0
+151,Code_Garage door holders,0.0
+152,Code_Garage door operators,0.0
+153,Code_Grommets,0.0
+154,Code_Hand dryers,0.0
+155,Code_Hardwood cladding battens,0.0
+156,Code_Healthcare clinical washbasins,0.0
+157,Code_Hinges and hanging hardware,0.0
+158,Code_Hook and band hinges,0.0
+124,Code_Door frames and leaves,0.0
+123,Code_Door dampers,0.0
+122,Code_Domestic refrigerators and freezers,0.0
+105,Code_Composite sound-insulating panels,0.0
+91,Code_Cabinet locks,0.0
+92,Code_Carbon steel stools,0.0
+93,Code_Cast and wrought iron brackets,0.0
+94,Code_Ceramic sinks,0.0
+95,Code_Chemical disinfection devices,0.0
+96,Code_Chute automatic fire doors,0.0
+97,Code_Clamp brackets,0.0
+98,Code_Cleaning equipment,0.0
+99,Code_Coat racks,0.0
+100,Code_Commercial cooking equipment,0.0
+101,Code_Commercial freezer cabinets,0.0
+102,Code_Commercial gas cooking ranges,0.0
+103,Code_Commercial washers,0.0
+104,Code_Composite doorsets,0.0
+106,Code_Concealed hinges,0.0
+121,Code_Dish and utensil washers,0.0
+107,Code_Concrete bollards,0.0
+108,Code_Control and protection devices,0.0
+109,Code_Controlled door closers,0.0
+110,Code_Conveyor dishwashers,0.0
+111,Code_Corner cupboards,0.0
+112,Code_Corrugated fasteners,0.0
+113,Code_Countertop washbasins,0.0
+114,Code_Cranked hinges,0.0
+115,Code_Cupboard safes,0.0
+116,Code_Cupboards,0.0
+117,Code_Cylinder locks,0.0
+118,Code_Cylinders and buffer vessels,0.0
+119,Code_Defibrillator units,0.0
+120,Code_Desks,0.0
+298,third_level_Sanitary fittings and accessories,0.0

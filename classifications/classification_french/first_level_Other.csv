@@ -1,0 +1,23 @@
+,Code,report,features
+0,Other,"              precision    recall  f1-score   support
+
+           0       0.90      0.84      0.87       147
+           1       0.87      0.92      0.89       173
+
+    accuracy                           0.88       320
+   macro avg       0.88      0.88      0.88       320
+weighted avg       0.88      0.88      0.88       320
+","                              Feature  Importance
+529              material_emb_Clinker    0.044508
+483  location_PARIS-9E-ARRONDISSEMENT    0.034273
+467        location_NEUILLY-SUR-SEINE    0.026704
+486                  location_PUTEAUX    0.026364
+484                  location_PLOEREN    0.026031
+..                                ...         ...
+336            BIM_class_D.50.30.05.3    0.000000
+337            BIM_class_D.50.30.05.5    0.000000
+338              BIM_class_D.50.90.01    0.000000
+339              BIM_class_D.50.90.02    0.000000
+412           BIM_class_G.20.50.06.2e    0.000000
+
+[825 rows x 2 columns]"

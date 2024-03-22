@@ -1,0 +1,23 @@
+,Code,report,features
+0,Structural elements,"              precision    recall  f1-score   support
+
+           0       0.60      0.75      0.67         4
+           1       0.93      0.88      0.90        16
+
+    accuracy                           0.85        20
+   macro avg       0.77      0.81      0.78        20
+weighted avg       0.87      0.85      0.86        20
+","                                            Feature  Importance
+1                                            Length    0.157580
+75      second_level_Blocks, Panels, Fences, Bricks    0.152614
+22                             Material_Plate glass    0.136551
+0                                             Price    0.098459
+83   third_level_Floor plates, gratings and edgings    0.075815
+..                                              ...         ...
+37       Code_Aluminium-zinc coated retention grids    0.000000
+36                           Code_Aluminium trusses    0.000000
+6   Material_Bonded surfacing decorative aggregates    0.000000
+34                     Code_Aluminium louvre blades    0.000000
+50                                    Code_Grommets    0.000000
+
+[100 rows x 2 columns]"

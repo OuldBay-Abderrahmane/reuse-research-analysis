@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Blocks, Panels, Fences, Bricks","              precision    recall  f1-score   support
+
+           0       0.82      0.70      0.76        20
+           1       0.94      0.97      0.95        91
+
+    accuracy                           0.92       111
+   macro avg       0.88      0.83      0.85       111
+weighted avg       0.92      0.92      0.92       111
+","                                         Feature  Importance
+156              Condition_gebraucht & gereinigt    0.208492
+155                          Condition_gebraucht    0.128682
+241                              Material_Metall    0.127538
+179                    Subcategory_Einrichtungen    0.085536
+55                           Swiss_Raw_Glassware    0.057540
+..                                           ...         ...
+97             Swiss_Raw_Prefabricated balconies    0.000000
+98                  Swiss_Raw_Protective fencing    0.000000
+99                    Swiss_Raw_Pump accessories    0.000000
+100            Swiss_Raw_Rainwater storage butts    0.000000
+259  second_level_Blocks, Panels, Fences, Bricks    0.000000
+
+[260 rows x 2 columns]"

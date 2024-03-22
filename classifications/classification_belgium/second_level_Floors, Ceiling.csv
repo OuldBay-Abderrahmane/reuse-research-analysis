@@ -1,0 +1,23 @@
+,Code,report,features
+0,"Floors, Ceiling","              precision    recall  f1-score   support
+
+           0       0.79      0.94      0.86        33
+           1       0.71      0.38      0.50        13
+
+    accuracy                           0.78        46
+   macro avg       0.75      0.66      0.68        46
+weighted avg       0.77      0.78      0.76        46
+","                          Feature  Importance
+121    Belgium_Raw_Terrazzo tiles    0.217125
+82        material_emb_Terracotta    0.150072
+8                           Width    0.131547
+12                 Category_Floor    0.105277
+5                    Price_Change    0.101882
+..                            ...         ...
+68   material_emb_Patterned glass    0.000000
+69         material_emb_Polyester    0.000000
+70         material_emb_Porcelain    0.000000
+71   material_emb_Pozzolan cement    0.000000
+181     third_level_Walling units    0.000000
+
+[182 rows x 2 columns]"

@@ -1,0 +1,23 @@
+,Code,report,features
+0,Handrails,"              precision    recall  f1-score   support
+
+           0       0.80      0.44      0.57         9
+           1       0.69      0.92      0.79        12
+
+    accuracy                           0.71        21
+   macro avg       0.74      0.68      0.68        21
+weighted avg       0.74      0.71      0.69        21
+","                                 Feature  Importance
+93                     material_emb_Pisé    0.193562
+73      location_PARIS-9E-ARRONDISSEMENT    0.161897
+71     location_PARIS-1ER-ARRONDISSEMENT    0.157086
+63     location_LYON--6E--ARRONDISSEMENT    0.116584
+130  first_level_Wall, Barriers, Pannels    0.098247
+..                                   ...         ...
+45                BIM_class_C.30.30.05.1    0.000000
+44               BIM_class_C.30.20.05.1e    0.000000
+43               BIM_class_C.20.10.90.4e    0.000000
+42               BIM_class_C.20.10.90.4b    0.000000
+136                third_level_Handrails    0.000000
+
+[137 rows x 2 columns]"

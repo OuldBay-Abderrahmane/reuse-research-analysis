@@ -1,0 +1,23 @@
+,Code,report,features
+0,Space heating and cooling products,"              precision    recall  f1-score   support
+
+           0       0.74      0.82      0.78        17
+           1       0.94      0.91      0.92        53
+
+    accuracy                           0.89        70
+   macro avg       0.84      0.86      0.85        70
+weighted avg       0.89      0.89      0.89        70
+","                                            Feature  Importance
+12                               material_state_new    0.113572
+153                                 location_RENNES    0.079063
+109                                location_AUBAGNE    0.064051
+121                                location_EPERNAY    0.061515
+17                   category_blast_resistant_doors    0.053719
+..                                              ...         ...
+103                          BIM_class_E.10.90.02.7    0.000000
+104                          BIM_class_E.10.90.02.8    0.000000
+105                            BIM_class_F.10.40.90    0.000000
+106                            BIM_class_F.10.50.90    0.000000
+269  third_level_Space heating and cooling products    0.000000
+
+[270 rows x 2 columns]"

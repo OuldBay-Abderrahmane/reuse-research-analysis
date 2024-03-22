@@ -1,0 +1,23 @@
+,Code,report,features
+0,Space heating and cooling products,"              precision    recall  f1-score   support
+
+           0       0.89      0.50      0.64        16
+           1       0.89      0.98      0.93        63
+
+    accuracy                           0.89        79
+   macro avg       0.89      0.74      0.79        79
+weighted avg       0.89      0.89      0.87        79
+","                                            Feature  Importance
+112                               Material_gemischt    0.358603
+105                                 Material_Metall    0.130361
+76         Condition_gebraucht, gereinigt & geprüft    0.126300
+39                             Swiss_Raw_Heat pipes    0.062890
+104                                  Material_Metal    0.061565
+..                                              ...         ...
+38                          Swiss_Raw_Heat emitters    0.000000
+37                               Swiss_Raw_Grommets    0.000000
+36                 Swiss_Raw_Gas-fired unit heaters    0.000000
+35                      Swiss_Raw_Gas-fired boilers    0.000000
+118  third_level_Space heating and cooling products    0.000000
+
+[119 rows x 2 columns]"

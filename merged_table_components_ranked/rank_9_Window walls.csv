@@ -1,0 +1,104 @@
+,Title,Price,Material,Code,Sold,Days,Imagefile,first_level,second_level,third_level,Length,Width,Height
+164,Tablette de fenêtre,50.0,Sheet glass,Window walls,1.0,313.0,"['59ec262b-d6b0-4016-b82d-bbaf33a95827.png', '897ff3a3-a082-48db-a5c8-8d3341a4b78e.jpeg', 'd5b93542-ecf3-4af3-b7f3-8d79a61b7ee9.jpeg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+254,Barreaudage de fenêtre,20.0,Architectural glass,Window walls,1.0,398.0,['730a1386-f1f7-4206-96d7-a28542afa3fa.jpeg'],"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+442,Barreaudage de fenêtre,20.0,Architectural glass,Window walls,1.0,398.0,['a736adb1-f65b-40a2-a71f-7cdcc8105b20.jpeg'],"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+481,Porte vitrée,70.0,Sitka spruce,Window walls,1.0,70.0,"['67bc80a3-dbc2-4d6f-9f12-d36983abe631.jpeg', '6ae51492-c26c-4dcd-85e6-d6b28907bf09.jpeg', '8013c05e-183b-4794-b885-d2a6dfb8abac.jpeg', '5b507183-e28b-49db-8f7f-8103640b8631.jpeg']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+491,Barreaudage de fenêtre,20.0,Architectural glass,Window walls,1.0,398.0,['5683e2f1-f13b-446e-94e6-c9cbc0b76ee9.jpeg'],"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+530,Barreaudage de fenêtre,20.0,Architectural glass,Window walls,1.0,398.0,['dbb45f6e-13c4-4d58-8b1e-08f4fb5c302a.jpeg'],"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+533,Porte vitrée extérieure,45.0,Architectural glass,Window walls,1.0,398.0,['2c9fed9c-b9e8-4362-b932-10dbfe0d7a09.jpeg'],"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+544,Garde-corps de fenêtre,10.0,Architectural glass,Window walls,1.0,60.0,"['6dcd8497-0cda-4494-afbc-c1532fb64bf2.png', '7de9dddd-bc3d-4712-b150-48dcfca9c297.png']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+670,Barreaudage de fenêtre,20.0,Architectural glass,Window walls,1.0,398.0,['3d37ca1c-fb6f-4a84-84ab-1e0268ba1744.jpeg'],"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+704,Porte intérieure avec latéral fixe vitré,40.0,Architectural glass,Window walls,1.0,111.0,"['7dc54b2b-a2d9-4ecb-af6b-865e46502a23.png', 'de912cd4-033c-4b57-84c3-f15ca6f47352.png', '2e93d4bd-1e93-4b8e-953e-a6efc14ca157.png']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+872,Porte vitrée extérieure,57.0,Architectural glass,Window walls,1.0,-2.0,"['141cfe07-d6ff-4187-bce7-cb95bdf8b263.jpg', '99deac20-f876-445f-8e3a-d19b113e0623.png']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+1129,Porte fenêtre large,70.0,Architectural glass,Window walls,1.0,125.0,"['d24a4976-9b96-42fb-900c-8bf51416dd74.jpeg', 'd4cb0475-c4e3-4125-a660-db9887f710c9.jpeg', '32ef9808-82cc-47b1-9d40-a08a4e2d9048.jpeg']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+1180,Vitrine d'affichage,30.0,Architectural glass,Window walls,1.0,11.0,"['d4c99a1c-9356-4833-8fe8-6dcbe25f4c3d.jpeg', '8e2a40c9-6f05-4e15-b114-fd3d0f9b2c66.jpeg', '30f70dce-6e2b-4ed8-bd4d-7c728b68a0ff.jpeg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+1231,Vitrine d'affichage,30.0,Architectural glass,Window walls,1.0,11.0,"['897fdb0c-6dea-4515-b1f1-591bb444c156.jpeg', '49ad8a3e-9d94-41ab-8946-2f26b0b51a19.jpeg', 'f23b084b-e8b5-4d1f-8eef-850d05c491b4.jpeg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+1257,Revëtement façade vitré,20.0,Architectural glass,Window walls,1.0,126.0,"['fcff60e7-3a7a-4227-bc80-8e59936006a5.jpeg', '5624d45f-0924-4e98-937c-3ced10a694d3.jpeg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+1338,Vitrine d'affichage,7.0,Architectural glass,Window walls,1.0,11.0,"['dc3e8e1c-45aa-4539-97c8-c53a69baa7b7.jpeg', 'ee31ba9d-e595-44ff-b8e2-251d34af2cc5.jpeg', '5b0003fe-f822-4965-bfb2-566ac6024e38.jpeg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+2253,Porte vitrée,25.0,Sitka spruce,Window walls,1.0,118.0,['dad60353-cc6c-4479-94b6-e610e0feb772.jpeg'],Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+2344,Porte vitrée extérieure,40.0,Architectural glass,Window walls,1.0,88.0,['e1768754-f2ad-4286-a5a7-b9101ac7cde5.jpeg'],"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+2660,Porte vitrée extérieure,40.0,Architectural glass,Window walls,1.0,88.0,"['2c7a33e6-70c7-449a-a6ce-7a4168b51f34.jpeg', 'c2c67d19-c1fe-4b92-af4f-7ab66f4f2088.jpeg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+2762,Porte vitrée extérieure,30.0,Architectural glass,Window walls,1.0,100.0,['6953e1d1-4237-406f-80eb-fcae8c68d6ca.jpeg'],"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+2830,Porte intérieure vitrée double vitrage,100.0,Architectural glass,Window walls,0.0,226.0,['cb2cd14c-9fa1-46f3-9278-0866c9613e5b.png'],"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+3101,Porte vitrée extérieure,150.0,Architectural glass,Window walls,0.0,208.0,"['8013c8c0-e3a2-46a6-a321-06a0e6a15a82.jpeg', '7e3d7952-0c9a-4363-8745-1483b77b14d0.jpeg', 'b2afec51-aeb3-4653-a332-dc41be2bde1f.jpeg']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+3345,Porte vitrée extérieure,30.0,Architectural glass,Window walls,0.0,241.0,"['a5ce1377-cdb1-46db-917a-5c9e90be3eb3.png', '6cb6e643-026e-466e-aafc-602b885a4620.png', '72d02db7-c54e-49e6-8f37-0ce2af9d6787.png']","Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+4834,"Double painted door with glass panels , x cm",179.0,Architectural glass,Window walls,1.0,59.0,"['58382_7d27037.png', '6695_7ea4233.png', '6696_7ea4233.png', '6697_7ea4233.png', '6698_7ea4233.png', '6699_7ea4233.png']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5164,Porte vitrée,,Sitka spruce,Window walls,1.0,0.0,"['https://materiuum.ch/wp-content/uploads/2022/12/2208-4804-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2022/12/2208-4804-b-600x800.jpg']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+5167,Panneau de porte avec grande vitre,,Architectural glass,Window walls,1.0,0.0,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-a-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-c-600x338.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5168,Panneau de porte avec vitre,,Sitka spruce,Window walls,1.0,0.0,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-a.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-c.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5169,Panneau de porte avec vitre,,Sitka spruce,Window walls,1.0,0.0,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-a.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-c.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5177,Porte vitrée,,Sitka spruce,Window walls,1.0,0.0,"['https://materiuum.ch/wp-content/uploads/2023/01/2209-4955-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2209-4955-b-600x800.jpg', 'https://materiuum.ch/wp-content/uploads/2023/01/2209-4955-c-600x800.jpg']",Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+5458,Fenster -fache Festverglasung,,Insulating glass,Window walls,1.0,18.0,,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,,
+5463,-Flügel Fenster,,Silt,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5481,Fenster -flügelig,,Sitka spruce,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5494,-Flügel Fenster,,Silt,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5521,Glasfenster aus Innentür,,Architectural glass,Window walls,1.0,92.0,img_3943_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5672,Balkontüre -Flügelig,,Architectural glass,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units,,,
+5675,-Flügel Fenster,,Silt,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5676,-Flügel Fenster,,Silt,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5677,-Flügel Fenster,,Silt,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5678,Fenster -Flügelig ohne Stulp,,Sitka spruce,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5692,Fenster -flügelig mit Sprossen,,Architectural glass,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5694,Fenster -flügelig,,Sitka spruce,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5695,Fenster -flügelig,,Sitka spruce,Window walls,1.0,18.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5738,Fenster -flügelig,,Sitka spruce,Window walls,1.0,265.0,1_%2848%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,7.0,125.3,129.4
+5743,Fenster -Flügelig mit Stulp,,Sitka spruce,Window walls,1.0,265.0,hintergrund-horizontal-neu.1_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.5,117.0,168.0
+5749,Fenster -flügelig,,Sitka spruce,Window walls,1.0,265.0,1_570x570.png,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,7.5,108.8,133.8
+5772,-Flügel Fenster,,Silt,Window walls,1.0,265.0,sam_9052_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,166.4,149.5
+5788,-Flügel Fenster,,Silt,Window walls,1.0,265.0,sam_8839_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,119.0,128.0
+5803,-Flügel Fenster,,Silt,Window walls,1.0,265.0,sam_8854_%282%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,96.7,140.4
+5809,Fenster Neu,,Silt,Window walls,1.0,265.0,2c26b32c-108d-40ed-b888-743562b50919_570x570.jpeg,Openings,"Door, Windows, Gates",Glass blocks and panels,,,
+5823,-Flügel Fenster,,Silt,Window walls,1.0,265.0,sam_8839_%282%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,130.9,132.3
+5831,"Grosses , gebrauchtes , Fenster",,Architectural glass,Window walls,1.0,121.0,0b982ee9-fd64-4dfb-8042-e748728262ca_570x570.jpeg,Furnishings,"Door, Windows, Gates",Glass blocks and panels,,,
+5834,Fenster mit Unterlicht,,Prismatic glass,Window walls,1.0,265.0,hintergrund-horizontal_%283%29_570x570.png,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,7.0,118.0,247.0
+5842,Fenster -flügelig,,Sitka spruce,Window walls,1.0,271.0,1_%2880%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+5844,Fenster -flügelig,,Sitka spruce,Window walls,1.0,265.0,1_%2816%29_570x570.png,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.5,104.5,168.5
+5855,Fenster -Flügelig mit Stulp,,Sitka spruce,Window walls,1.0,265.0,hintergrund-horizontal-neu.2_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.0,127.0,134.5
+5872,Fenster -flügelig,,Sitka spruce,Window walls,1.0,265.0,1a_%281%29_570x570.png,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.5,101.8,169.3
+5873,Fenster -flügelig,,Sitka spruce,Window walls,1.0,265.0,1a_%282%29_570x570.png,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.5,101.3,169.0
+5908,Fenster mit Doppelverglasung,,Prismatic glass,Window walls,1.0,232.0,2628_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,6.0,93.0,125.0
+5916,Fenster,,Architectural glass,Window walls,1.0,265.0,20220621_135141_570x570.jpg,Openings,"Door, Windows, Gates",Glass blocks and panels,,120.0,150.0
+5943,antikes Fenster mit schönen Griffen,,Architectural glass,Window walls,1.0,250.0,20200831_151940_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,100.0,180.0
+6036,Fenster -flügelig mit Sichtschutz,,Architectural glass,Window walls,1.0,5.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6039,Fenster -flügelig,,Sitka spruce,Window walls,1.0,171.0,1_%28220%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6088,Glastrennwand mit Türen matt,,Architectural glass,Window walls,1.0,173.0,09.06.2015-011_570x570.jpg,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,,295.0,198.0
+6209,Hochschrank mit Glastür,,Architectural glass,Window walls,1.0,92.0,111789_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6225,Kippfenster mit Rahmen,,Architectural glass,Window walls,1.0,70.0,img_20220824_0956506_%282%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6226,Kippfenster mit Rahmen,,Architectural glass,Window walls,1.0,70.0,img_20220824_0956506_%283%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6227,Fensterläden Hoch Set,,Architectural glass,Window walls,1.0,70.0,111675_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6448,Glastür,,Glass,Window walls,1.0,173.0,112224_570x570.jpg,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,0.5,92.5,203.0
+6484,Diverse alte Fenster,,Architectural glass,Window walls,1.0,173.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6491,-flüglige Balkonfenster,,Architectural glass,Window walls,1.0,173.0,fenster01_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,110.5,7.6,234.0
+6498,Zweiflügelige Fenster,,Architectural glass,Window walls,1.0,173.0,xd_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6625,Balkontür doppeltverglast mit kleinem Sichtfenster,,Architectural glass,Window walls,1.0,127.0,2807_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,191.0,,223.0
+6631,Balkontür doppelverglast,,Architectural glass,Window walls,1.0,127.0,2801_2_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,101.5,,220.5
+6728,Fensterläden,,Architectural glass,Window walls,1.0,49.0,img_20230109_151749_%281%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,,,
+6955,Balkontüre / Fenstertüre,,Architectural glass,Window walls,1.0,64.0,1_%28341%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units,6.5,128.0,223.0
+6973,Innenfensterbank,,Sitka spruce,Window walls,1.0,58.0,112043_570x570.jpg,"Wall, Barriers, Pannels","Door, Windows, Gates",Glass blocks and panels,20.0,174.0,4.0
+6997,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28349%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,93.7,107.4
+6998,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28350%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,93.8,109.3
+6999,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28351%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,92.7,110.0
+7000,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28352%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,93.6,107.5
+7001,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28353%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,92.1,110.0
+7002,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28354%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,92.1,110.2
+7003,Fenster -flügelig,,Sitka spruce,Window walls,1.0,58.0,1_%28355%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,93.5,108.1
+7102,Panneau de porte avec vitre,,Sitka spruce,Window walls,1.0,17.0,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-a.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5949-c.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.0,4.8,95.0
+7103,Panneau de porte avec vitre,,Sitka spruce,Window walls,1.0,19.0,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-a.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5950-c.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.0,4.8,99.0
+7104,Panneau de porte avec grande vitre,,Architectural glass,Window walls,1.0,20.0,"['https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-a-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-b-600x338.jpg', 'https://materiuum.ch/wp-content/uploads/2023/02/2302-5951-c-600x338.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.0,4.1,95.6
+7145,Balkontüre,,Architectural glass,Window walls,1.0,12.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units,,80.0,200.0
+7168,Fenster -flügelig,,Sitka spruce,Window walls,1.0,0.0,1_%28364%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,7.5,197.0,105.0
+7177,Fenster -flügelig,,Sitka spruce,Window walls,1.0,51.0,1_%28361%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,123.7,148.6
+7178,Fenster -flügelig,,Sitka spruce,Window walls,1.0,51.0,1_%28360%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,123.7,150.4
+7179,Balkontüre / Fenstertüre -flügelig,,Architectural glass,Window walls,1.0,45.0,1_%28359%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units,5.8,100.7,222.3
+7189,Fenster -flügelig,,Sitka spruce,Window walls,1.0,51.0,1_%28362%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,120.3,149.9
+7203,Fenster -flügelig,,Sitka spruce,Window walls,1.0,51.0,1_%28363%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,123.7,150.5
+7204,Balkontüre / Fenstertüre -flügelig,,Architectural glass,Window walls,1.0,51.0,1_%28358%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Structural roofing units,5.8,101.4,219.8
+7205,Fenster -flügelig,,Sitka spruce,Window walls,1.0,51.0,1_%28367%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,124.2,153.6
+7208,Fenster,,Architectural glass,Window walls,1.0,45.0,8e8e8c7a-b9db-48ad-9092-37e4225a1519_570x570.jpg,Openings,"Door, Windows, Gates",Glass blocks and panels,135.0,135.0,135.0
+7212,Fenster -flügelig,,Sitka spruce,Window walls,1.0,51.0,1_%28369%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,126.2,148.0
+7213,Fenster -flügelig,,Sitka spruce,Window walls,1.0,45.0,1_%28370%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,93.7,149.7
+7214,Fenster -flügelig,,Sitka spruce,Window walls,1.0,45.0,1_%28371%29_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,5.8,93.4,153.1
+7259,Fensterläden,,Architectural glass,Window walls,1.0,33.0,20230401_115640_570x570.jpg,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,177.0,50.0,5.0
+7313,Cadre vitré,,Architectural glass,Window walls,1.0,0.0,"['https://materiuum.ch/wp-content/uploads/2023/04/2302-5824-a-600x450.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5824-b-600x800.jpg', 'https://materiuum.ch/wp-content/uploads/2023/04/2302-5824-c-600x800.jpg']","Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,0.0,90.0,50.0
+7351,"Fenstertüre Vollrahmen -flüglig neu , -fach Glas , weiss/aussen rot",,Architectural glass,Window walls,1.0,9.0,,"Roof, Slabs, Stairs","Door, Windows, Gates",Glass blocks and panels,7.0,108.0,217.0
+7440,Kleines Fenster / Toilettenfenster x cm,,Sitka spruce,Window walls,0.0,4.0,1_%28396%29_570x570.jpg,"Wall, Barriers, Pannels","Door, Windows, Gates",Sanitary fittings and accessories,6.0,60.0,40.0
