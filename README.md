@@ -81,3 +81,52 @@
 ### 3. Combination of all marketplaces
 
 
+import pandas as pd
+import numpy as np
+
+# Assuming swiss.dim and swiss.quantity_n are already defined and applied with eval
+swiss.dim = swiss.dim.apply(eval)
+swiss.quantity_n = swiss.quantity_n.apply(eval)
+
+swiss['quantity_score'] = swiss['quantity_n'].apply(lambda x: x.get('score', np.nan))
+quantity_rows_to_replace = swiss[(swiss['quantity_score'] > 0.5) & (swiss['Quantity'].isna())]
+
+# Replace NaN values in Quantity column with corresponding values from swiss.dim
+for index, row in quantity_rows_to_replace.iterrows():
+    swiss.at[index, 'Quantity'] = swiss.quantity_n[index]["answer"]  # Assuming Quantity is the first dimension
+
+
+def extract_first_three_numbers(input_string):
+    input_string = input_string["answer"]
+    numbers = []
+    # Regular expression to find the first three numbers in the string
+    matches = re.findall(r'\b\d+\b', input_string)
+    # Loop through the matches and convert them to integers
+    for match in matches:
+        number = int(match)
+        # Append the number to the list if it's not already present and the list has less than 3 elements
+        if number not in numbers and len(numbers) < 3:
+            numbers.append(number)
+    # If only one number is available, append its square root to the list until it reaches three numbers
+    if len(numbers) == 1:
+        square_root = np.sqrt(numbers[0])
+        numbers.extend([square_root] * 2)
+    # If less than three numbers are available, append NaN until it reaches three numbers
+    while len(numbers) < 3:
+        numbers.append(np.nan)
+    return numbers
+# Filter rows where quantity_score is superior to 0.5 and Length, Width, or Height is NaN
+dimension_rows_to_replace = swiss[(swiss['quantity_score'] > 0.5) & (swiss[['Length', 'Width', 'Height']].isna().any(axis=1))]
+
+# Replace NaN values in Length, Width, and Height columns with corresponding values from swiss.dim
+for index, row in dimension_rows_to_replace.iterrows():
+    dimensions = extract_first_three_numbers(swiss.dim[index])
+    swiss.at[index, 'Length'] = dimensions[2]
+    swiss.at[index, 'Height'] = dimensions[0]
+    swiss.at[index, 'Width'] = dimensions[1]
+swiss = swiss.drop(columns=['Unnamed: 0.1', 'Unnamed: 0'])
+
+percent_missing = swiss.isnull().sum() * 100 / len(swiss)
+missing_value_df = pd.DataFrame({'column_name': swiss.columns,
+                                 'percent_missing': percent_missing})
+missing_value_df.to_csv("missing_swiss.csv")
