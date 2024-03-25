@@ -1,216 +1,427 @@
 French_Raw,price_latest
-Heat pumps,69095.0
-Elevator bolts,49500.0
-Arrises,23054.16
-Door hinges,16798.5
-Stair trims,13598.0
-Sliding shutter doorsets,12800.0
+Fans,63670.64
+Elevator bolts,52500.0
+Heat pumps,38410.0
+Bunk beds,36000.0
+Manual revolving doorsets,24968.0
 Air-to-air heat pumps,12000.0
-Roof ventilator unit,9000.0
-Sprigs,8315.86
-Occasional tables,7460.0
-Double slips,6600.83
+Door catches,10997.5
+Frameless glass door leaves,9421.0
+Furnishings,9164.9
+Radiators,8520.62
+Office tables,7588.0
 Concrete helical stair flight units,6000.0
-Food preparation tables,5940.0
-Concealed hinges,4990.0
-Bidets,4834.1
-Pendant luminaires,4661.43
-Radiators,4023.0
-Furnishings,3795.0
-Equipment heaters,3410.0
-High-security doorsets,3390.0
-Metal skirtings,3348.86
-Lamps,3068.83
-Sauna room packages,3000.0
-Air compressors,3000.0
-Rigid stair nosings,3000.0
-Bureaux,2880.0
-Manual trapdoors,2842.5
-Desks,2822.0
-Suspended luminaires,2661.85
-Ventilation grilles,2547.0
-Cavity sliding doorsets,2460.0
-Gates and turnstiles,2257.5
-Reclining chairs,2107.0
-Soffit grilles,1999.6
-Cushions,1955.0
-Aluminium shutters,1854.0
-Murals,1805.83
-Kitchenette units,1740.0
-Aluminium skirtings,1660.0
-Baths,1520.0
-Recessed luminaires,1520.0
-Pre-blended concretes,1500.0
-Wood skirtings,1388.4
-Strip ventilators,1367.0
-Jumping equipment,1350.0
-Shower seats,1272.6599999999999
-Automatic revolving doorsets,1127.5
-Garage door holders,1110.0
-Heat pump dehumidifiers,1000.0
-Meeting room tables,945.0
-Window walls,944.0
-Boxed sash window hanging fittings,900.0
-Wood architraves,857.8
-Corner guards,849.2
-Prefabricated balconies,787.75
-Metal edgings,750.0
-Door and window weatherstrips and seals,750.0
-Gate surrounds and leaves,664.0
-Timber-framed and panelled shelters,650.0
-Bin stores,642.0
-Shower head holders,606.66
-Garden awnings,600.0
-Wood doorsets,537.0
-Footstools,525.0
-Metal sways,515.0
-Wood post and rail stiles,513.0
-Vanity and washroom furniture,460.0
-Circlips,430.0
-Column guards,425.2
-Acoustic duct linings,417.4
-Window casement fasteners,401.0
-Sink taps,396.0
-Curtain wall glazing and panel gaskets,383.0
-Window hinges,380.0
-Stools,380.0
-Towels,355.27
-Countertop washbasins,350.0
-Overchair tables,350.0
-Bolsters,348.14
-Pot bearings,345.0
-Acoustic batten cradles,340.0
-Rail pads,311.4
-Commodes,310.0
-Grommets,307.5
-Hardwood dowels,305.0
-Metal suspended ceiling hangers,296.49
-Pedestal washbasins,285.0
-Healthcare hand rinse basins,277.0
-Wood lathings,269.0
-Office chairs,259.8
-Wood gate surrounds,250.0
-Cranked hinges,250.0
-Office tables,250.0
-Stainless steel arris armourings,241.5
-Modular mezzanines,240.0
-Aluminium doorsets,235.0
-Metal gate surrounds,220.0
-WC pans,219.5
-Rack cabinets,200.0
-Sofas,200.0
-Air curtains,200.0
-Stone slabs,190.0
-Airbricks,175.0
-Doorsets,170.0
-Door dampers,170.0
-Controlled door closers,165.0
-WC suites,160.66
-Surveillance camera brackets,150.0
-Vision panels,150.0
-"Clips, clamps and couplers",150.0
-Extra-low-voltage occupancy detectors,150.0
-Bath mixer taps,141.0
-Ceramic sinks,135.0
-Shower enclosures,131.0
-Wood-burning stoves,130.0
-Tubular fluorescent lamps,130.0
-Flexible doorsets,130.0
-Clamp brackets,130.0
-Garden furnishings,120.0
-Chaises longues,115.0
-Glazed enclosures,113.0
-Shower heads,110.0
-Wood brise-soleil louvre blades,109.99
-Shower manual water supply sets,100.0
-Preformed casings,100.0
-Wood louvre frames,100.0
-Tee hinges,100.0
-Projection window hinges,95.0
-Steel spiles,92.5
-Glass blocks,91.63
-Screening and ventilation access doors,90.0
-Glass brise-soleil louvre blades,85.0
-Security shutters,85.0
-Stainless steel balusters and newel posts,84.2
-Stainless steel door leaves,80.0
-Uncontrolled door closers,75.95
-Wood window walls,75.0
-Collapsible timber bollards,75.0
-Hollow box galvanized steel brackets,70.0
-Desks and tables,70.0
-Toilet brush holders,70.0
-Freezer blinds,65.0
-Coffered ceiling infill units,62.0
-Frameless glass door leaves,61.0
-Downlights,60.0
-Classroom desks and tables,60.0
+Sinks,5518.6
+Library chairs,5000.0
+Electric sliding door mechanisms,3432.5
+Bath panels,3063.0
+Compressed air products,3000.0
+Toilet showers,2896.0
+Tripod turnstiles,2890.0
+Bureaux,2810.0
+Recessed downlights,2745.64
+Vertical lifting fabric doors,2600.0
+Wall-hung washbasins,2212.0
+Chaises longues,2180.5
+Sofas,2085.0
+Concrete stair risers,2050.0
+Roller shutters,2020.0
+Metal stair spines,1950.0
+Full-height access control gates,1890.0
+Aluminium patent glazing bars,1854.0
+Lantern lights,1844.0
+Reclining treatment armchairs,1772.1
+Concrete caisson rings,1689.0
+Waterless toilets,1596.6299999999999
+Marble dust,1506.42
+Centrifugal fans,1500.0
+Shelter structures,1500.0
+Powered smoke and heat exhaust ventilators,1500.0
+Console tables,1375.0
+Sectional overhead doorsets,1362.0
+Fireplace hearths,1300.0
+Shower beds,1296.6599999999999
+Suspended luminaires,1275.0
+Benches,1270.0
+Sliding folding doorsets,1190.0
+Handrails,1184.25
+Composite door leaves,1169.0
+Baths,1062.5
+Screening and ventilation access doors,1053.0
+Prestressed concrete T-beams,1050.0
+Corner guards,1024.4
+Fishplates,1000.0
+Meeting room tables,995.0
+Stair rods,959.0
+Area floodlights,900.0
+Urinal cisterns,883.0
+Dining chairs,882.0
+Pile carpet tiles,810.64
+Office chairs,795.0
+Refrigerated display cabinet doors,770.0
+Commodes,748.33
+Shower trays,746.66
+Packings,740.0
+Resilient bars,726.0
+Sliding door and partition sets,725.0
+Kitchen sinks,645.8
+Unit heaters,620.0
+Gate arches,620.0
+Profiled metal acoustic panels,617.4
+Folding tables,610.0
+Composite full-height turnstiles,600.0
+Glazed security window panels,550.0
+Wall hangings,507.8
+Refractory bricks,500.0
+Stand-up tables,500.0
+Furniture booths,460.0
+Lamps,450.33
+Metal gate surrounds,450.0
+Metal-framed structures,441.0
+Demountable suspended ceiling grids,440.99
+Stone slabs,432.5
+Air and fume distribution products,420.0
+Wood doorsets,420.0
+Footrests,420.0
+Stainless steel protection rails,416.5
+Portable fire extinguishers,405.0
+Aluminium door leaves,395.0
+Slings,365.4
+Ceramic sinks,360.38
+Lighting controls and lighting distribution products,355.0
+Lounge chairs,352.0
+Mixer taps,350.5
+Retaining wall tie rods,350.0
+Doorsets,350.0
+Commercial stainless steel sinks,345.01
+Castors,320.0
+Spotlights,317.4
+Glass blocks,311.63
+Concrete construction joint accessories,310.0
+Boardroom tables,305.0
+Concrete beams,300.0
+Sliding shutter doorsets,300.0
+Projection window hinges,300.0
+Placemats,297.0
+Gate hinges,290.0
+Glazed structures,285.0
+Hardwood cladding battens,283.0
+Towels,275.27
+Rack cabinets,270.0
+Wood door frames,265.0
+Shot-fire nails,256.4
+Controlled door closers,253.0
+Wood blocks,250.0
+Shower heads,248.0
+Single axis door hinges,245.0
+Steel frame roof window units,245.0
+Window walls,230.0
+Bath mixer taps,228.0
+Water fire extinguishers,223.0
+Mosaic tiles,221.33
+Composite door frames,210.0
+Awnings,200.0
+Dining benches,200.0
+Points heating kits,200.0
+Window panels,195.0
+Lighting control modules,191.0
+Shower thermostatic water supply sets,180.0
+Bidet over-rim supply mixer taps,179.0
+Cross-laminated timber beams,176.0
+Stainless steel solid metal plates,171.2
+Ceremonial chairs,170.0
+Pile carpets,168.0
+Underwater luminaires,165.0
+Wood frames,160.0
+Composite doorsets,160.0
+Wood panelled door leaves,160.0
+Wall-hung urinals,158.0
+Barrier rails,155.0
+Sink taps,155.0
+Glass block wall panels,150.0
+Accessible baths,150.0
+Brackets,149.64
+Foam fire extinguishers,145.0
+Space frames,141.0
+Tubular fluorescent lamps,140.0
+Toilet roll holders,136.79
+Metal sections,132.0
+Smooth rubber sheets,132.0
+Fibre washers,132.0
+Louvre doorsets,130.0
+Medical chairs and couches,130.0
+Steel wedges,124.0
+Suspended ceiling clips,122.0
+High chairs,120.0
+Door lever handle sets,118.95
+Bidet mixer for ascending spray taps,116.0
+Stools,115.0
+Shower doors,114.5
+Carbon steel subframes,110.0
+Up-and-over doorsets,110.0
+Solid rubber sheets,107.0
+Deckchairs,105.0
+Urinal and WC fittings,100.0
+Aluminium window units,100.0
+Air preparation units,100.0
+Shower screens,100.0
+Computer desks,100.0
+Occasional tables,100.0
+Clay bricks,100.0
+Wallcovering borders,99.0
+Ceramic tiles,99.0
+Door latches,98.0
+Ventilation ducts,95.0
+Wood handrails,92.0
+Bowl stands,90.0
+Steel pier caps,90.0
+Classroom seats,89.0
+Pea gravel,86.0
+Wall protection panels,81.0
+Tufted carpets,80.5
+Master clocks,80.0
+Concrete posts,80.0
+Gas fires,80.0
+Door locks,76.95
+Cellular rubber underlays,75.0
+Ceramic tile round edges,75.0
+Vanity units,75.0
+Carbon steel doorsets,73.33
+Wall and floor tile units,70.0
+Rocker bearings,70.0
+Aluminium wires,70.0
+Concrete planks,69.0
+Screen door closers,65.0
+Urinal flush pipes,63.0
+Bidets,62.0
+Cladding support products,60.0
 Cylinder locks,60.0
-Heat protective blankets,60.0
-Steel bearers,60.0
-Concrete-framed modules,60.0
-Wood window units,55.0
-Glass louvre window units,55.0
-Concrete bollards,54.0
-Conference tables,50.0
-Louvre doorsets,50.0
-Semi-tubular rivets,50.0
-Emergency luminaires,50.0
-Metal-framed structures,50.0
-Linen containers,50.0
-Sculptural reliefs,50.0
-Dining tables,50.0
-Roofing swags,45.0
-Ground-recessed luminaires,45.0
-Plaster cornices,45.0
-Mural roll coverings,41.0
-Roof terminals,41.0
-Ventilation ducts,40.0
+Classroom desks and tables,60.0
+LED light panels,60.0
+Panel partition closer pieces,60.0
+Blackout blinds,60.0
+Hardwood beams,59.0
+Cover strips,55.0
+Light-gauge steel floors and roofs,55.0
+Urinal dividers,55.0
+Composite tiles,55.0
+Lead cames,53.75
+Metal suspended ceiling hangers,53.33
+Lift landing doorsets,50.0
+Pavement heating products,50.0
+Access panels,50.0
+Antenna poles,50.0
+Ventilation grilles,50.0
+Tablecloths,50.0
+Valances,50.0
+Unit covering and finish products,50.0
+Carbon steel fencing and barrier rails,49.2
+Murals,47.0
+Flexible stair coverings,46.5
+Pedestrian security portals,45.0
+Surface luminaires,45.0
+Concrete tiles,45.0
+Door hinges,45.0
+Pull handles,45.0
+Auditorium chairs,45.0
+Dry powder fire extinguishers,40.0
+Pedestal washbasins,40.0
+Plaster of Paris,40.0
+Security shutters,40.0
+Security viewers,40.0
+Cellular glass thermal blocks,40.0
+Desks,40.0
+Terrazzo tiles,40.0
 Door coordinators,40.0
-Lantern lights,40.0
-Screen door closers,40.0
-Stone stair treads,40.0
-Glued laminated timber stair landing units,36.0
-Slab urinals,35.0
-Rail clips,35.0
-Clocks,35.0
-Equipment protection enclosures,32.5
-Sundials,31.0
-Flap control gates,30.0
-Roses,30.0
-Stone tiles,30.0
-Ferrules,30.0
-Bath panels,25.0
-Refractory bricks,20.0
-Turpentine resins,20.0
-Fishplates,20.0
-Canopy tubes,20.0
-Sanitary accessories,20.0
-Wood gates,20.0
-Up-and-over doorsets,16.0
-Door frames and leaves,16.0
-Stainless steel wire ropes,15.0
-Duvets,15.0
-Vinyl roll coverings,15.0
-Mosaic tiles,14.0
-Light-gauge steel floors and roofs,13.0
-Copper brackets,12.0
-"Luminaires, lighting track and lighting accessories",10.0
-Glazed half-height turnstiles,10.0
+Healthcare hand rinse basins,40.0
+Structure and general products,40.0
+Expanded glass aggregates,40.0
+Eye bolts,40.0
+Spittoons,40.0
+Concrete solid slabs,37.0
+Stone stair landing units,35.0
+Lighting tracks,35.0
+Natural convectors,35.0
+Porcelain tiles,35.0
+Copyholders,32.5
+Retaining wall units,32.0
+Electric fence ropes,30.6
+Grommets,30.0
+Bracketed angle supports,30.0
+Bullhead rail chairs,30.0
+Carbon steel hoops,30.0
+Stainless steel access hatches,30.0
+Uncontrolled door closers,30.0
+Mechanical clocks,30.0
+Synthetic rubber strips,30.0
+Lifting hoops,30.0
+Floor-standing urinals,29.0
+Glass wool cloth insulation protection,27.0
+Radiator pipe floor covers,25.0
+Sink supports,25.0
+Double beds,25.0
+Fire extinguisher cabinets,25.0
+Trolleys,25.0
+Light tables,23.0
+Climatic beams and ceilings,21.0
+Ceramic tile sit-on skirtings,20.0
+Aluminium cold drawn tubes,20.0
+Room heaters,20.0
+Ashtrays,20.0
+Cavity ventilators,20.0
+Prie-dieux,20.0
+Pendant luminaires,20.0
+Softwood posts,20.0
+Floor springs,20.0
+Rubber tiles,18.0
+"Carpets, carpet tiles, coverings, underlays and mats",16.0
+Linoleum tiles,16.0
+Softwood edgings,15.0
+Bin stores,15.0
+Stone tiles,15.0
+Sanitary accessories,15.0
+Timber sleepers,15.0
+Concrete floating slab foundations,15.0
+Cricket wicket stump boxes,15.0
+Elastomeric pads,15.0
+Natural stone wall and floor slabs,12.5
+Rooflights,12.0
+Roof ridge ventilator tiles,11.0
+Textile roll coverings,10.0
+Sanitary seats,10.0
+Window hinges,10.0
+Trickle vents,10.0
+Timber pales,10.0
+Light reflectors (motorized),10.0
+Brick slip adhesive mortars,10.0
 Metal tubes and hollow sections,10.0
-Deckchairs,10.0
-Pillar hinges,10.0
-Aluminium gates,7.0
-Aluminium door leaves,6.5
-Rail foot insulators,5.0
-Abutment ventilators,4.0
-Double-capped tubular LED lamps,3.0
-Tiered seating,3.0
-Ducted rail tracks,2.0
-Wall hangings,1.0
-Plastics sleeving,1.0
-Cycle ramps,1.0
-Aluminium louvre blades,1.0
-Hardwood cladding battens,0.0
-Telephone enclosures,0.0
-Wash troughs,0.0
+Dining tables,10.0
+Dormers,10.0
+External venetian blinds,10.0
+Fibre-reinforced polymer-modified cementitious mortars,10.0
+Glazed rooflight panels,10.0
+Climatic ceiling panels,8.0
+Wood skirtings,7.5
+Plugs,7.0
+Stainless steel door leaves,6.5
+Concrete plinth units,6.0
+Castle nuts,6.0
+Floor clips,6.0
+Wood-based floor transition strips,6.0
+Mortice locks,5.95
+Flush hinges,5.95
+Semi-flexible polyvinyl chloride (PVC) tiles,5.3
+Hardwood dowels,5.0
+Toilet brush holders,5.0
+Wood shutters,5.0
+Ferrules,5.0
+Cable strand sockets,5.0
+Mounting brackets,5.0
+Self-locking nuts,5.0
+Folding chairs,5.0
+Tile adhesives,5.0
+Stainless steel hook bolts,5.0
+Linked seats,3.0
+Terrazzo tile skirtings,3.0
+Aluminium lighting columns,3.0
+Rail rings,2.0
+Adjustable post bases,2.0
+Threaded anchors,1.0
+Plastics plugs,1.0
+Wood window subframes,1.0
+Aluminium curtain wall frame sections,1.0
+Flash tapes,0.05
+Aluminium handrails,0.0
+Ceiling insulation fasteners,0.0
+Cements and limes,0.0
+"Chairs, seats and benches",0.0
+Additives,0.0
+Concrete bridge pedestals,0.0
+Combination doorsets,0.0
+Compact fluorescent lamps,0.0
+Cast stone masonry units,0.0
+Concrete lighting columns,0.0
+Aluminium edging sections,0.0
+Concrete platform slabs,0.0
+Concretes,0.0
+Aluminium doorsets,0.0
+Cork cove skirtings,0.0
+Countertop washbasins,0.0
+Cast stone slabs,0.0
+Aluminium structural columns,0.0
+Air compressors,0.0
+Aluminium window walls,0.0
+Anti-burglar window bars,0.0
+"Washbasins, sinks and troughs",0.0
+Axial flow fans,0.0
+Wall hatches,0.0
+Aluminium structural beams,0.0
+Bath mixer taps with shower hose and hand sprays,0.0
+Beams and joists,0.0
+Brass handrails,0.0
+Brass sections,0.0
+Aluminium shutters,0.0
+Window latches,0.0
+Venetian blinds,0.0
+Cabinet locks,0.0
+Vanity and washroom furniture,0.0
+Aluminium lighting bollards,0.0
+Valve boxes,0.0
+Window sill boards,0.0
+Carbon steel door leaves,0.0
+Carbon steel gates,0.0
+Cast iron columns,0.0
+Resilient floor coverings,0.0
+Dimensioned stones,0.0
+Food service trolleys,0.0
+Glazed clay bricks,0.0
+Sofa beds,0.0
+Soap dishes,0.0
+Heel blocks,0.0
+High-security doorsets,0.0
+Interlocking laminate floor tiles,0.0
+Kitchenette units,0.0
+Lift barriers,0.0
+Access ramps,0.0
+Limestone fines,0.0
+Single axis window hinges,0.0
+Louvre door leaves,0.0
+Masonry cements,0.0
+Metal J hangers,0.0
+Metal halide lamps,0.0
+Metal stair stringers,0.0
+Napkins,0.0
+Plastics beams,0.0
+Screenprints,0.0
+Precast concrete bollards,0.0
+Sash window pulls,0.0
+Protective frames,0.0
+Quarry tile borders,0.0
+Garage door holders,0.0
+Food preparation trolleys,0.0
+Terracotta units,0.0
+Special lamps,0.0
+Tee hinges,0.0
+Divans,0.0
+Door frames and leaves,0.0
+Swing doorsets,0.0
+Double-capped tubular LED lamps,0.0
+Renewable powered lighting columns,0.0
+Electronic starters,0.0
+Emergency exit devices,0.0
+Engineering bricks,0.0
+Stone stair treads,0.0
+Entrance mats,0.0
+Steel window units,0.0
+Eye-wash fountains,0.0
+Steel lighting bollards,0.0
+Steel lattice frames,0.0
+Steel bearers,0.0
+Steam humidifiers,0.0
+Stands and holders,0.0
+Fire trolleys,0.0
+Flat-needled carpet tiles,0.0
+Stainless steel doorsets,0.0
+Stainless steel brackets,0.0
+Floor-mounted mobiles,0.0
+Electronic ballasts,0.0

@@ -1,8 +1,8 @@
-first_level,count
-"Wall, Barriers, Pannels",1863
-Other,1599
-Technical elements,1221
-"Roof, Slabs, Stairs",705
-Furnishings,558
-Openings,136
-Structural elements,65
+,first_level
+Other,3959
+"Openings - (Door, Windows)",1268
+Furnishings,912
+"Roof, Slabs, Stairs",528
+"Wall, Barriers, Pannels",230
+Structural elements,53
+Technical elements,48

@@ -1,8 +1,8 @@
-second_level,count
-"Door, Windows, Gates",1857
-Other,1512
-"Covering, Finish",976
-"Blocks, Panels, Fences, Bricks",783
-"Floors, Ceiling",339
-Furnishings,172
-"Stairs, Ramps, Lift, Hardware",81
+,second_level
+Other,2835
+"Door, Windows, Gates",2140
+"Blocks, Panels, Fences, Bricks",286
+Furnishings,209
+"Floors, Ceiling",120
+"Covering, Finish",75
+"Stairs, Ramps, Lift, Hardware",55
