@@ -1,8 +1,15 @@
 ,second_level
-Other,3938
-"Door, Windows, Gates",1274
-Furnishings,836
-"Floors, Ceiling",425
-"Blocks, Panels, Fences, Bricks",256
-"Stairs, Ramps, Lift, Hardware",175
-"Covering, Finish",94
+Other,3532
+"Door, Windows, Gates",1270
+"Lightings, Lamps",408
+"WC, Baths, Sinks",319
+"Chairs, Tables, Beds",316
+"Chimneys, Radiators",312
+"Floors, Ceiling",285
+"Blocks, Panels, Fences, Bricks",159
+"Stairs, Ramps, Lift, Hardware",142
+"Pipes, ovens, Humidifier",130
+"Trusses, Beam, Columns",51
+"Dock shelters, equipment boxes",51
+"Covering, Finish",22
+Fondation Components,1

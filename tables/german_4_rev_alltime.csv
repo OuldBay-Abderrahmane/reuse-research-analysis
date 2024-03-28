@@ -1,652 +1,124 @@
-German_Raw,LastAvailableNumeric
-Fans,1001925.0
-Engineering bricks,943264.0
-Clay brick slips,519889.0
-Refractory bricks,488468.0
-Clay bricks,342692.0
-Reclaimed clay bricks,300020.0
-Carbon steel fire buckets,200000.0
-Dimensioned stones,80084.0
-Concrete bund units,75010.0
-Etchings,50000.0
-Lead bricks,28000.0
-Wall protection panels,20003.0
-Porcelain tiles,18451.0
-Modular mezzanines,16001.0
-Space frames,15245.0
-J-pins,15000.0
-Mosaic tiles,14395.0
-Ceiling infill units,14181.0
-Ceramic tiles,12897.0
-Scuttles,10300.0
-Vinyl adhesives,10165.0
-Carbon steel doorsets,10026.0
-Tile adhesives,10011.0
-Cast stone masonry units,10000.0
-Dust suppression additives,10000.0
-Sheet metal screws,7400.0
-Granules and powders,7125.0
-Stone slabs,5144.0
-Tile matting,4859.0
-Polyester straps,4806.0
-Dowels and rods,4511.0
-"Carpets, carpet tiles, coverings, underlays and mats",4241.0
-Perlite aggregates,4000.0
-Designated concrete,4000.0
-Rail joint clamps,3600.0
-Wood skirtings,3224.0
-Fire-resisting mortars,3000.0
-Natural stone tiles,2523.0
-Roof hatches,2500.0
-Stone tiles,2453.0
-Roof ridge ventilator tiles,2125.0
-Marble dust,2100.0
-Timber sleepers,2038.0
-Concretes,2003.0
-Timber pales,2001.0
-Alkyd resins,2000.0
-Natural stone wall and floor slabs,1957.0
-Masonry repair ties,1933.0
-Wall and floor tile units,1844.0
-Podiatry chairs,1770.0
-Plastics skirtings,1700.0
-Concrete tiles,1339.0
-Natural rubble stones,1240.0
-Angles,1200.0
-Wall hangings,1200.0
-Fixing lugs,1160.0
-Rock dowels,1111.0
-Linoprints,1100.0
-Pile carpet tiles,1096.0
-Aluminium window units,1041.0
-Kitchen pods,1030.0
-Rock bolts,1021.0
-K-lock nuts,1001.0
-Ceramic tile round edges,1000.0
-Hydrated limes,1000.0
-Sealing washers,1000.0
-Bucket holders,1000.0
-Hardwood wedges,900.0
-Clamp brackets,822.0
-Masonry angle supports,800.0
-Heat protective blankets,780.0
-Profiled metal acoustic panels,780.0
-Radiators,772.0
-Composite tiles,707.0
-Concrete solid slabs,669.0
-Wallcovering borders,600.0
-"Metal dowels, pins and rods",580.0
-Hardwood structural columns,568.0
-Bureaux,552.0
-Carbon steel lateral restraint straps,505.0
-Carbon steel chemical anchor rods,500.0
-Hardwood rafters,500.0
-Flat and folded plate fasteners,500.0
-Manufactured stone blocks,500.0
-Beam clamps,500.0
-Wood frames,430.0
-Salvaged natural stones,411.0
-Plaster cornices,404.0
-Limestone fines,400.0
-Blind (pop) rivets,400.0
-Carbon steel pitched roof trusses,381.0
-Armourstone coarse aggregates,360.0
-Wedge anchors,350.0
-Rim locks,350.0
-Microsilica,347.0
-Window panels,346.0
-Concrete planks,344.0
-Door lever handle sets,342.0
-Hardwood dowels,303.0
-Preformed casings,300.0
-Aluminium bronze slot ties,300.0
-Aggregate concrete blocks,300.0
-Glazed clay brick slips,296.0
-Ceiling insulation fasteners,292.0
-Roofing clamps,287.0
-Roofing swags,281.0
-Washers,280.0
-Parchment size,280.0
-Edge trims,270.0
-Roof insulation fasteners,265.0
-Walings,260.0
-Junction work baseplates,259.0
-Hardwood packers,257.0
-Retaining wall tie rods,250.0
-Window units,248.0
-Masonry cements,240.0
-Ventilation ducts,237.0
-Gypsum,235.0
-Columns and column accessories,234.0
-Insulating strips,232.0
-Wood blocks,216.0
-Masonry dowels,210.0
-WC pans,205.0
-Low-temperature hot water underfloor heating,202.0
-Self-drilling screws,201.0
-Timber hand posts,200.0
-Ceramic tile step treads,200.0
-Baryte blocks,200.0
-Masonry flooring units,200.0
-Timber sections,200.0
-Self-tapping screws,200.0
-Grooved rails,200.0
-Wood louvre panel units,185.0
-Metal structural insulated panels (SIPs),182.0
-Glass blocks,171.0
-Glazed security window panels,169.0
-Soffit grilles,160.0
-Terrazzo tiles,159.0
-Insulation fasteners,155.0
-Fireplace hearths,152.0
-Aluminium extruded precision profiles,150.0
-Brick slip adhesive mortars,149.0
-Beams and joists,140.0
-Sleeve clamps,138.0
-Lightweight masonry mortars,135.0
-Tufted carpets,135.0
-Cladding support products,135.0
-Doorsets,133.0
-Stainless steel carrier rails,133.0
-Hex nuts,133.0
-Commodes,125.0
-Timber lintels,124.0
-Polyamide (PA) resins,123.0
-Rooflights,122.0
-Wood lathings,121.0
-Stainless steel door leaves,120.0
-Composition blocks,120.0
-Glazed structures,118.0
-Placemats,117.0
-Hardwood beams,115.0
-Cover strips,113.0
-Pea gravel,110.0
-Insulation fixing straps,110.0
-Aluminium frame roof window units,108.0
-Resilient bars,107.0
-Zinc powders,107.0
-Hardwood sections,105.0
-Door catches,103.0
-Stainless steel door frames,103.0
-Aggregate concrete bricks,101.0
-Spittoons,101.0
-Glass fibre-reinforced plastics (GRP) facade components,101.0
-Baryte bricks,100.0
-Chaises longues,100.0
-Concrete kentledge blocks,100.0
-Spring spikes,100.0
-Flexible elastomeric foam insulation,100.0
-Heel blocks,100.0
-Acoustic duct linings,100.0
-Fibre-reinforced plastics dowels,100.0
-Cavity sliding doorsets,100.0
-Dowel-retaining fasteners,100.0
-Paving jointing mortars,100.0
-Particle magnets,99.0
-Mineral fibre infill units,98.0
-Terracotta units,97.0
-Aluminium brise-soleil units,96.0
-Lamps,96.0
-Sound attenuators,95.0
-Roller shutters,92.0
-Eye bolts,90.0
-Intumescent mortars,89.0
-Kitchen sinks,89.0
-Wood doorsets,88.0
-Set screws,88.0
-Aluminium louvre panel units,87.0
-Quicklime,87.0
-Natural dimensioned stones,86.0
-Foamed concrete,84.0
-Wood door frames,83.0
-Lantern lights,83.0
-Recessed downlights,82.0
-Mosaic panels,82.0
-Wood window walls,81.0
-Radiator pipe floor covers,77.0
-Recessed luminaires,75.0
-Nails,73.0
-Ceramic tile borders,73.0
-Tile creasings,70.0
-Plastics palisades,70.0
-Wood architraves,70.0
-Frameless glass door leaves,70.0
-Shower doors,70.0
-Handrails,68.0
-Screening and ventilation access doors,68.0
-Vinyl roll coverings,67.0
-Natural stone lintels,63.0
-Plasterboard screws,62.0
-Valances,60.0
-Distance block bolts,60.0
-Thread-cutting machine screws,60.0
-Phenolic foam insulation,59.0
-Ferrules and sleeves,59.0
-Roofing clamping plates,58.0
-Aluminium expanded gratings,58.0
-Adjustable post bases,58.0
-Electric sliding door mechanisms,55.0
-Composite window walls,53.0
-Wood window units,53.0
-Sand bags,51.0
-Glazed clay bricks,51.0
-Carbon steel door frames,51.0
-Wood screws,50.0
-Socket anchors,50.0
-Granular cork aggregates,50.0
-Window locks,49.0
-Window walls,47.0
-Softwood balusters and newel posts,46.0
-Timber fillets,45.0
-Steel frame roof window units,45.0
-Tubular fluorescent lamps,45.0
-Insulated concrete blocks,45.0
-Brise-soleils and components,45.0
-Softwood roofing battens,45.0
-Fabric bags,45.0
-Shower heads,44.0
-Balance weights,44.0
-Floor cover strips,43.0
-Softwood post tops,43.0
-Sash window pulls,42.0
-Structural bearings,42.0
-Tension or compression bracing products,42.0
-Lintels,41.0
-Plaster of Paris,41.0
-Roller catches,40.0
-Weatherproof equipment enclosures,40.0
-Access panels,40.0
-Compression isolators,40.0
-Glazed rooflight panels,40.0
-Cross-laminated timber columns,40.0
-Copper alloy sections,40.0
-Existing wall tie isolating sleeves,40.0
-Ceramic tile cove skirtings,40.0
-Door frames and leaves,39.0
-Door stops,38.0
-U-pins,38.0
-Hardwood trussed rafters,37.0
-Composite door leaves,37.0
-Structural roofing units,36.0
-Carbon steel beams,35.0
-Wood window subframes,34.0
-Vertical blinds,31.0
-Terrazzo mix ,30.0
-High-bay luminaires,30.0
-Window remote manual openers,30.0
-Packaged components,30.0
-Services wire rope hangers,30.0
-Wood handrails,30.0
-Stainless steel cappings and copings,26.0
-Window sill boards,25.0
-Combined downlight and uplights,25.0
-Padstones,25.0
-Window casement stays,24.0
-Emergency luminaires,24.0
-Preformed butyl strip glazing trims,24.0
-Office desks,24.0
-Steel lattice frames,23.0
-Sinks,23.0
-Softwood rafters,23.0
-Corner guards,23.0
-Aluminium patent glazing bars,23.0
-Butyl rubber sealant tapes,22.0
-Foldaway beds,22.0
-Protective frames,22.0
-Quarry tile sit-on skirtings,22.0
-Wood shutters,22.0
-Ceramic sinks,22.0
-Toilet showers,22.0
-Bitumen rubber emulsion adhesives,22.0
-Sons et lumières,21.0
-Prie-dieux,21.0
-Zinc flashings,20.0
-Plastics brackets,20.0
-Metakaolin,20.0
-Stainless steel lateral restraint straps,20.0
-Fireplace surrounds,20.0
-Stainless steel solid metal plates,20.0
-Slings,19.0
-Sliding door and partition sets,19.0
-Shower trays,19.0
-Ferrules,19.0
-Stainless steel screws,19.0
-Heat pumps,18.0
-Struts and props,17.0
-Dining chairs,17.0
-Timber-frame floors and roofs,17.0
-Window latch and lock operating handles,17.0
-Kick plates,17.0
-Circlips,16.0
-Aluminium door leaves,16.0
-Waterproof mortars,15.0
-Stainless steel louvre blades,15.0
-Natural pozzolan,15.0
-Thixotropic resin grouts,15.0
-Sectional overhead doorsets,15.0
-Carbon steel vertical restraint straps,15.0
-Coffee tables,15.0
-Aerated lightweight concrete (ALC) blocks,15.0
-Stainless steel lintels,15.0
-Dormers,15.0
-Natural resins,14.0
-Masonry walling units,14.0
-Bullhead rails,14.0
-Glass block mortar joint spacers,14.0
-Composite door frames,13.0
-Aluminium doorsets,13.0
-Panel fenders,13.0
-Stainless steel stair landing units,13.0
-Controlled door closers,13.0
-Polypropylene (PP) rock rolls,12.0
-Sash window spiral balances,12.0
-Composite doorsets,12.0
-Concrete lighting bollards,12.0
-Installation pieces,12.0
-Hydraulic limes,12.0
-Stainless steel handrail brackets,11.0
-Skylights,11.0
-Carpet grippers,11.0
-Bollards and impact protectors,11.0
-Sawdust,10.0
-Urinal cisterns,10.0
-Roof membrane perimeter trims,10.0
-Aluminium foil tapes,10.0
-"Legs, pedestals, hangers and stringers",10.0
-Security window screens,10.0
-Door protection panels,10.0
-Loop connectors,10.0
-Shaft structure products,10.0
-Sintered pulverized fuel ash,10.0
-Composite window units,9.0
-Hammer-in fasteners,9.0
-Fishplate bolts,9.0
-Coffered ceiling infill units,9.0
-Special lamps,9.0
-Rigging screws,9.0
-Wood panelled door leaves,8.0
-Waste bins,8.0
-Medium-density fibreboard (MDF) skirtings,8.0
-Gate closers,8.0
-Ventilation grilles,8.0
-Galvanized steel slot ties,8.0
-Stainless steel rods,8.0
-Flashings,8.0
-Washbasin taps,7.0
-Boundary boxes,7.0
-Radiant tube heaters,7.0
-Self-adhesive insulation casing,7.0
-Wood brise-soleil louvre blades,7.0
-Aluminium alloy rails,7.0
-Statuary,7.0
-Stainless steel doorsets,7.0
-Grommets,7.0
-Stone columns,6.0
-Timber structural insulated panels (SIPs),6.0
-Glued laminated timber beams,6.0
-Aluminium flashings,6.0
-Liquid-absorbing barriers,6.0
-Framing anchors,6.0
-Aluminium wires,6.0
-Open cell infill units,6.0
-Wing nuts,6.0
-Unit heaters,6.0
-Plain angle supports,6.0
-Dedicated slave emergency luminaires,6.0
-Concrete structural insulated panels (SIPs),5.0
-Barrier rails,5.0
-Murals,5.0
-Baths,5.0
-Mortar fine aggregates,5.0
-Wood gates,5.0
-Kitchenette units,5.0
-Timber stair stringers,4.0
-Concrete stair flight units,4.0
-Entrance mats,4.0
-Countertop washbasins,4.0
-Epoxy mortars,4.0
-Stair rods,4.0
-Flush pull handles,4.0
-Stainless steel bollards,4.0
-Wall hatches,4.0
-Butyl rubber preformed strips,4.0
-Ashtrays,4.0
-Special purpose cements,4.0
-Thin-layer mortars,4.0
-Chandeliers,4.0
-Cylinder locks,4.0
-Louvre doorsets,4.0
-Bath panels,4.0
-Edge battens,4.0
-Healthcare hand rinse basins,4.0
-Door hinges,4.0
-Window latches,4.0
-Embroideries,4.0
-Drawing boards,4.0
-Wood-burning stoves,4.0
-Acrylic adhesive sealant tapes,3.0
-Spotlights,3.0
-Friction rivets,3.0
-All-purpose pastes,3.0
-Blackout blinds,3.0
-Sliding shutter doorsets,3.0
-Sliding element,3.0
-Silica fume,3.0
-Bidets,3.0
-Aluminium door frames,3.0
-Gate hinges,3.0
-Sockets for demountable lighting,3.0
-Decorative laminated papers,3.0
-Road and amenity lighting luminaires,3.0
-Gate springs,3.0
-Aluminium window walls,3.0
-Pendant luminaires,3.0
-Rail rings,3.0
-Centrifugal fans,2.0
-Gate surrounds and leaves,2.0
-Sink taps,2.0
-Minor flat roofing movement joints,2.0
-Bio-resin adhesives,2.0
-External venetian blinds,2.0
-Parallel strand lumber (PSL) sections,2.0
-Hospital bedheads,2.0
-Aluminium louvre frames,2.0
-Polymer-based adhesive fixing tapes,2.0
-Metal foil roll coverings,2.0
-Electronic starters,2.0
-Shower enclosures,2.0
-Flannels,2.0
-Switchgear extension frames,2.0
-Carbon steel struts,2.0
-Free-standing luminaires,2.0
-Structural wood-composite box beams,2.0
-Stainless steel rails,2.0
-Stainless steel shear load connectors,2.0
-Structural anchors,2.0
-Stone step units,2.0
-Carbon steel structural sealant glazing subframes,2.0
-Towels,2.0
-Girder clamps,2.0
-Shower screens,2.0
-WC cisterns,2.0
-Steel window walls,2.0
-Mounting plates,2.0
-Uncontrolled door closers,2.0
-Awnings,2.0
-Wall starters and connectors,2.0
-Two-part floor transition strips,2.0
-Vanity and washroom furniture,2.0
-Concrete dome units,2.0
-Epoxy resin ballast glues,2.0
-Shower beds,2.0
-Glass fibre-reinforced plastics (GRP) doorsets,2.0
-Door locks,2.0
-Integral washbasins and vanity tops,1.0
-Synthetic chains,1.0
-Vermiculite-based adhesives,1.0
-Swing doorsets,1.0
-Sunscreens,1.0
-Stud bolts,1.0
-Vinyl ester resins,1.0
-Glass fibre-reinforced plastics (GRP) door leaves,1.0
-Bands and hoops,1.0
-Tacks,1.0
-Lift landing doorsets,1.0
-Whole dwelling fan units,1.0
-High-performance ready-mixed adhesives,1.0
-Strip movement joints,1.0
-Carbon steel displacement piles,1.0
-Wrought iron gates,1.0
-Carbon steel door leaves,1.0
-Anti-burglar window bars,1.0
-Synthetic rubber strips,1.0
-Aluminium angles,1.0
-"Tapes, strips and profile fillers",1.0
-Venetian blinds,1.0
-Gate arches,1.0
-Toilet roll holders,1.0
-Glass blocks and panels,1.0
-Toilet brush holders,1.0
-Trolleys,1.0
-Gas-fired unit heaters,1.0
-Hardwood stair landing units,1.0
-Glass louvre blades,1.0
-Wood frame roof window units,1.0
-Unit covering and finish products,1.0
-Aluminium extruded tubes,1.0
-Joist hangers,1.0
-Aluminium structural sections,1.0
-Garage door holders,1.0
-Tile spacers,1.0
-High-security doorsets,1.0
-Interactive artworks,1.0
-Wood panel supports,1.0
-Knobs,1.0
-Adhesives and bonding compounds,1.0
-Wheelchair ramps,1.0
-Hard packing,1.0
-Carbon steel access hatches,1.0
-Canopy tubes,1.0
-Security shutters,1.0
-Steel window units,1.0
-Electric sheet underfloor heating elements,1.0
-Electronic ballasts,1.0
-Mineral wool pipe section insulation,1.0
-Mirror heaters,1.0
-Single-split water-to-air heat pumps,1.0
-External roller blinds,1.0
-Combination doorsets,1.0
-Shower head holders,1.0
-Shower fittings package,1.0
-Push plates,1.0
-Mortice locks,1.0
-Expansion joints,1.0
-Radiant luminous heaters,1.0
-Door dampers,1.0
-Divans,1.0
-Evaporative humidifiers,1.0
-Escalator shutters,1.0
-Recessed washbasins,1.0
-Crushed stone aggregates,1.0
-Composite steel sheet piles,1.0
-Rocker bearings,1.0
-Copper slates,1.0
-Sash locks,1.0
-Copper clips,1.0
-Roof equipment supports,1.0
-Sanitary fittings and accessories,1.0
-Sanitary accessories,1.0
-Overlap and border adhesives,1.0
-Panel blinds,1.0
-Concrete shaft landing slabs,1.0
-Pile carpets,1.0
-Soap dishes,1.0
-Padlock and key cabinets,1.0
-Flangeway bolts,1.0
-Polyisobutylene insulation protection,1.0
-Stainless steel hook bolts,1.0
-Cement-gauged mortars,1.0
-Polymer admixtures,1.0
-"Luminaires, lighting track and lighting accessories",1.0
-Spring hinges,1.0
-Luminaire smoke hoods,1.0
-Split rings,1.0
-Floor insulation fasteners,1.0
-Drainage pipe clips,1.0
-Plugs,1.0
-Stainless steel wind posts,1.0
-Accessible baths,1.0
-Mat well frames,1.0
-Stainless steel wires,1.0
-Downlights,1.0
-Framed rooflights,1.0
-Polyvinyl chloride (PVC) strip curtain sets,1.0
-Woven glass fibre fabric strips,0.0
-Pneumatic sliding door mechanisms,0.0
-Roller grilles,0.0
-Copal resins,0.0
-Whirlpool baths,0.0
-Emergency shower products,0.0
-Prefabricated buildings and structures,0.0
-Acetal resins,0.0
-Glass patch plates,0.0
-Door pivots,0.0
-Aluminium clips,0.0
-Roof slope terminals,0.0
-Electric heated towel rails,0.0
-Hardwood roofing battens,0.0
-Air curtains,0.0
-Polymer bollards,0.0
-Door track and running gear,0.0
-Glass stair landing units,0.0
-Pilasters,0.0
-Door knockers,0.0
-Glass fibre fleece reinforcement,0.0
-Preformed butyl shim glazing tapes,0.0
-Additives,0.0
-Glazed floorlight panels,0.0
-Epoxy resins,0.0
-Roof slope ventilator tiles,0.0
-Concrete panels,0.0
-Climatic ceiling panels,0.0
-Bronze window units,0.0
-Galvanized steel angle sections,0.0
-Metal sections,0.0
-Masonry grout,0.0
-Thermal storage heaters,0.0
-Cable junction boxes,0.0
-Cements and limes,0.0
-Tension straps,0.0
-Spring isolators,0.0
-Flash tapes,0.0
-Floor edging strips,0.0
-Manufactured stone lintels,0.0
-Swimming pool furnishings,0.0
-Swags,0.0
-Floor surface coating resins,0.0
-Folding chairs,0.0
-Stainless steel struts,0.0
-Stone stair landing units,0.0
-Brass handrails,0.0
-Fire protective blankets,0.0
-Garden furnishings,0.0
-Vanity units,0.0
-Arrises,0.0
-WC and washbasin combined units,0.0
-Sanitary towel disposal bins,0.0
-Concrete construction joint accessories,0.0
-Ogee washers,0.0
-North lights,0.0
-Screws,0.0
-Lighting control modules,0.0
-Equipment heaters,0.0
-Meter cabinets,0.0
-Unplasticized polyvinyl chloride (PVC-U) window walls,0.0
-Self-hardening slurry mixes,0.0
-Expanded glass aggregates,0.0
-Interior wall and ceiling trims,0.0
-Shaft-lining products,0.0
-Combined emergency luminaires,0.0
-Sheets,0.0
-Mineral pigments,0.0
-Plastics drainage weepholes,0.0
+uni,LastPriceNumeric
+Safety and protection,1250060.0
+"Roofs, floor and paving elements",888235.5
+Communication,123979.99
+Doors,114636.0
+Windows,70546.0
+Domed roofs,67333.27
+Roofs,38127.2
+Walls,30814.07
+Other,29433.01
+Arched roofs,19065.4
+Stairs,17066.0
+Furnishings,10954.0
+Drying,10791.0
+Gates,8212.0
+Artworks,8200.65
+Fences,7707.0
+Framed structures,7271.0
+Liquid detection and alarms,5999.0
+"Signage, fittings, furnishings and equipment",5790.98
+Solid structures,4758.26
+Heating,4336.5
+Ramps,4225.0
+Rail tracks,4021.9
+Lifts,4000.0
+"Metering, monitoring and management",4000.0
+"Tree, shrub and herbaceous plant elements",3678.85
+Openings,3530.0
+Lighting,3508.0
+Floors,3437.9300000000003
+Grass and meadow elements,3434.7
+Pavements,3346.7
+Louvres,3311.8
+Wall and barrier elements,3190.5
+External stairs,3072.0
+Water fire suppression supply,3000.0
+Cooling,2940.0
+Internal stairs,2800.0
+Drainage treatment and disposal,2480.0
+Pylons,2449.9
+Fittings,2285.0
+Parapet walls,2171.98
+Vents,2125.0
+Soffits,2003.0
+Vehicular space ventilation,2000.0
+Flat roofs,1842.0
+Structural elements,1701.0
+Rolling stock,1500.0
+Ventilation,1359.0
+Composite structures,1237.8600000000001
+Curved roofs,1234.0
+Chimneys,990.0
+Space heating and cooling,956.0
+Pavement heating,822.0
+Equipment,785.88
+Structural monitoring,750.0
+Bridge decks,664.0
+Protection,616.98
+Ceilings and soffits,565.0
+External ramps,554.0
+Ceilings,548.98
+Immersed tube tunnels,526.5
+External lighting,525.0
+Electricity transmission,510.0
+Internal walls,490.0
+Hatches,489.4
+Piers,465.0
+Mezzanine floors,412.75
+Gantries,405.98
+Water extraction and treatment,390.0
+Free-standing walls,367.08
+Pitched roofs,280.0
+Superstructure,270.0
+Fixed barriers,260.0
+Aeronautical lighting,251.0
+Building levels,212.0
+Bearings,168.0
+Security,165.0
+Signage,154.0
+Water supply,150.0
+Trenches,131.0
+Wastewater treatment and disposal,125.0
+Central air conditioning,125.0
+Masts,122.0
+Gaseous fire-extinguishing supply,115.0
+Wastewater treatment inlet works,110.0
+Towers,100.0
+Tramway heating,100.0
+Refrigeration,90.0
+Conveyors,90.0
+Cold storage,84.0
+Cable management,54.5
+Rail and paving heating,53.9
+Abutments,50.0
+Air conditioning,49.0
+Vehicular pavements,48.0
+"Combined heating, cooling and power",45.0
+Fire-extinguishing supply,45.0
+Basement level,40.0
+Cut-and-cover tunnels,38.879999999999995
+Sludge treatment,35.0
+Land fauna elements,29.0
+Bridge structures,20.0
+Personnel lifts,15.0
+Irrigation water supply,10.0
+Mezzanine level,10.0
+Dry waste collection,5.0
+Transmission switching,5.0
+Cable transport,2.0
+Ground level,1.79
+Decks,1.0
+"Remediation, repair and renovation",1.0
+Piped solids supply,1.0
+Cranes and hoists,0.1
+Foam fire-extinguishing supply,0.0
+External walls,0.0
+Stairs and ramps,0.0
+Waste disposal functions,0.0
+Upper floors,0.0
+Hot and cold water supply,0.0
+Membrane structures,0.0
+Process liquid supply,0.0
+"Towers, chimneys and masts",0.0
+Railway heating,0.0

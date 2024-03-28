@@ -1,8 +1,15 @@
-second_level,LastAvailableNumeric
-"Blocks, Panels, Fences, Bricks",3455443.0
-Other,1750466.0
-Furnishings,145101.0
-"Floors, Ceiling",78181.0
-"Door, Windows, Gates",17696.0
-"Covering, Finish",14648.0
-"Stairs, Ramps, Lift, Hardware",3736.0
+second_level,LastPriceNumeric
+Other,1449571.36
+"Blocks, Panels, Fences, Bricks",949599.1799999999
+"Door, Windows, Gates",326034.68
+"Trusses, Beam, Columns",31470.0
+"Stairs, Ramps, Lift, Hardware",22811.5
+"Chimneys, Radiators",9377.5
+"Covering, Finish",7177.36
+"Pipes, ovens, Humidifier",6659.0
+"Lightings, Lamps",5719.0
+"WC, Baths, Sinks",4112.0
+"Floors, Ceiling",3031.19
+Fondation Components,2283.0
+"Chairs, Tables, Beds",750.0
+"Dock shelters, equipment boxes",103.9
