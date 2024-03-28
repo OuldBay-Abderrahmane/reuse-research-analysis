@@ -1,21 +1,123 @@
-,Swiss_Raw
-Sinks,149
-Radiators,98
-Dishwashers,92
-Electric ovens,89
-Healthcare clinical washbasins,89
-Refrigerators,84
-Window panels,78
-Kitchen extractor hoods,73
-Washing products,64
-Urinal cisterns,57
-Commercial stainless steel sinks,48
-Toilet showers,43
-Laundry washing machines,35
-Wood-burning stoves,34
-Gas ovens,33
-Antique glass,32
-Glazed security window panels,29
-Wood window walls,29
-Ceramic panels,28
-Waterless toilets,28
+fourth_level,count
+Other,433
+Heating,184
+Artworks,169
+Cooling,145
+Cold storage,135
+Doors,120
+Domed roofs,59
+Free-standing walls,56
+Framed structures,51
+Mechanical below-ground drainage,50
+General space ventilation,49
+Wastewater treatment inlet works,42
+Chimneys,38
+External lighting,34
+Arched roofs,28
+Windows,27
+Water fire suppression supply,25
+Secondary wastewater treatment,24
+Fences,23
+Aeronautical lighting,19
+External walls,19
+Water firefighting supply,19
+Irrigation water supply,19
+Ground floors,18
+Goods lifts,18
+Personnel lifts,17
+Preliminary wastewater treatment,17
+Mechanical above-ground drainage,17
+Immersed tube tunnels,16
+Tramway heating,16
+Manufacturing processes,16
+Industrial fume extraction,16
+Gantries,16
+General space lighting,16
+Internal walls,14
+"Combined heating, cooling and power",14
+Solid structures,13
+External stairs,11
+Mezzanine floors,10
+Railway heating,10
+Local air conditioning,9
+Gaseous fire-extinguishing supply,9
+Transmission switching,9
+Ceilings,9
+Laboratory gas supply,9
+Medical gas and vacuum supply,9
+Sludge treatment,8
+Foam fire-extinguishing supply,8
+Vents,8
+Hot and cold water supply,7
+Primary wastewater treatment,7
+Composite structures,7
+Process gas supply,6
+Pylons,6
+Parapet walls,6
+Security screening,6
+Abutments,6
+Louvres,6
+Hatches,6
+"Metering, monitoring and management",6
+Bridge decks,6
+Upper level,5
+Pitched roofs,5
+Data distribution and telecommunications,5
+Vehicular lifts,5
+Internal stairs,5
+Renewable power generation,4
+Grass and meadow elements,4
+Pedestrian pavements,4
+Central air conditioning,4
+Upper floors,4
+Trenches,4
+Gates,4
+Monitoring,4
+Transmission circuit,3
+Rolling stock,3
+Towers,3
+Rail signals and controls,3
+Vessels,3
+Mechanical power,3
+Soffits,3
+"Remediation, repair and renovation",3
+External ramps,3
+Conductor rail traction power distribution,3
+Fixed barriers,3
+Curved roofs,3
+Gravity above-ground drainage,2
+Smoke extraction and control,2
+Gravity below-ground drainage,2
+Vehicular space ventilation,2
+Masts,2
+Piers,2
+Runway heating,2
+Ground level,2
+Liquid detection and alarms,2
+Groundworks and earthworks,2
+Fume extraction,2
+Small power supply,2
+Flat roofs,2
+Bearings,1
+Vehicular pavements,1
+Cable management,1
+Water supply and wastewater control,1
+Aquatic fauna elements,1
+Radio and television distribution,1
+Basement floors,1
+Emergency communications,1
+Controlled environments,1
+"Tree, shrub and herbaceous plant elements",1
+Spans,1
+High-voltage transformation,1
+Fire and smoke detection and alarms,1
+Shell structures,1
+Foundations,1
+Marine signals,1
+High-voltage electricity distribution,1
+Basement level,1
+Pavement heating,1
+Cut-and-cover tunnels,1
+Medium-voltage electricity distribution,1
+Fuel gas supply,1
+Robotics,1

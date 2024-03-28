@@ -1,29 +1,32 @@
 third_level,LastPriceNumeric
-Openings,7341.4
-Walls,5053.98
+Openings,28764.4
+Walls,8448.48
+Furnishings,5397.0
+Pavements,4518.0
 Lifts,4000.0
-Pavements,2040.0
-Superstructure,1512.0
-Other,1112.75
+Superstructure,3957.0
+Other,2117.75
+Rolling stock,1500.0
+Barriers,1031.0
+Cultural elements,1000.0
+Roofs,866.0
+Floors,849.5
 Communication,750.0
-Roofs,515.0
+Stairs,650.0
+Bridge structures,517.0
 Electricity transmission,510.0
-Barriers,441.0
-Floors,419.5
-Space heating and cooling,230.0
-Drainage treatment and disposal,195.0
+Fittings,440.0
+Equipment,425.0
+Space heating and cooling,395.0
 Ceilings and soffits,195.0
-Fittings,190.0
+Drainage treatment and disposal,195.0
+Vessels and trenches,175.0
 "Towers, chimneys and masts",136.0
-Bridge structures,126.0
 Rail tracks,100.0
-Furnishings,65.0
+Security,100.0
 Protection,65.0
 Wastewater treatment and disposal,35.0
 Lighting,30.0
 Drying,25.0
 Dry waste collection,5.0
-Air conditioning,0.0
-"Tree, shrub and herbaceous plant elements",0.0
-Fire-extinguishing supply,0.0
-Water supply,0.0
+"Remediation, repair and renovation",0.0

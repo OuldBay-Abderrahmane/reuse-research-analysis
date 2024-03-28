@@ -1,18 +1,17 @@
-,firstb_level
-Wall and barrier elements,471
-"Roofs, floor and paving elements",247
-Other,102
-"Heating, cooling and refrigeration functions",83
-Structural elements,73
-Waste disposal functions,63
-"Signage, fittings, furnishings and equipment",60
-Transport functions,56
-"Tunnel, vessel and tower elements",44
-Stairs and ramps,42
+firstb_level,count
+Wall and barrier elements,417
+"Roofs, floor and paving elements",206
+Other,79
+"Heating, cooling and refrigeration functions",72
+Waste disposal functions,61
+Structural elements,58
+Transport functions,53
+"Signage, fittings, furnishings and equipment",49
+"Tunnel, vessel and tower elements",40
 Electrical power and lighting functions,38
-"Communications, security, safety and protection functions",19
-Piped supply functions,14
+Stairs and ramps,38
+"Communications, security, safety and protection functions",16
 Flora and fauna elements,13
-Ventilation and air conditioning functions,10
-Earthworks and remediation,2
-Vehicle functions,1
+Piped supply functions,12
+Ventilation and air conditioning functions,8
+Earthworks and remediation,1

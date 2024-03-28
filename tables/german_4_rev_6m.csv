@@ -1,76 +1,74 @@
 fourth_level,LastPriceNumeric
-Security detection and alarms,1250025.0
-Pedestrian pavements,883454.7
-Monitoring,123229.99
-Doors,111838.0
-Domed roofs,99152.01999999999
-Windows,65181.0
-Fences,32747.79
-Other,28320.26
-Artworks,27915.51
-Arched roofs,26670.4
-External stairs,13962.0
-Cold storage,10174.0
-Internal stairs,8976.0
-Gates,8207.0
-Framed structures,7555.0
+Doors,97773.0
+Domed roofs,63752.020000000004
+Windows,48695.0
+Other,27315.26
+Artworks,20908.51
+External stairs,13812.0
+Arched roofs,11461.4
+Internal stairs,8476.0
+Fences,7747.79
 Liquid detection and alarms,6204.0
-Free-standing walls,4941.86
+Free-standing walls,4941.36
+Framed structures,4845.0
 External ramps,4779.0
-Solid structures,4632.26
+Solid structures,4506.26
 Heating,4402.5
 "Metering, monitoring and management",4000.0
-Cooling,3976.0
-Mezzanine floors,3786.25
+Cooling,3856.0
 "Tree, shrub and herbaceous plant elements",3678.85
 Personnel lifts,3498.0
 Grass and meadow elements,3434.7
-Louvres,3311.8
+Mezzanine floors,3356.25
 Water fire suppression supply,3000.0
 Flat roofs,2692.0
 Curved roofs,2565.9
 Parapet walls,2502.0
-Pylons,2343.9
+Pylons,2318.9
+Pedestrian pavements,2104.7
 Aeronautical lighting,2086.0
-Vents,2085.0
 Soffits,2003.0
 Vehicular space ventilation,2000.0
 Wastewater treatment inlet works,1910.0
-External walls,1775.0
-Rolling stock,1500.0
+Vents,1840.0
 General space ventilation,1408.0
+Gates,1310.0
+External walls,1305.0
 Composite structures,1212.8600000000001
 Internal walls,1161.0
 General space lighting,1138.0
-Vehicular pavements,1060.5
 Ceilings,1058.98
 External walls below ground,1047.0
 External lighting,1030.0
 Chimneys,990.0
 Structural monitoring,930.0
+Monitoring,909.99
 Pavement heating,875.9
+Louvres,811.8
 Piers,735.0
 Opening barriers,730.0
 Bridge decks,664.0
 Ground floors,578.48
 Goods lifts,531.0
 Immersed tube tunnels,526.5
-Hatches,487.0
-Gantries,405.98
 Hot and cold water supply,390.0
-"Combined heating, cooling and power",345.0
 Mechanical below-ground drainage,340.0
 Security screening,314.98
+"Combined heating, cooling and power",300.0
 Pitched roofs,280.0
 Fixed barriers,260.0
+Gantries,255.98
 Basement level,250.0
+Hatches,247.0
+Vehicular pavements,190.5
 Tramway heating,190.0
+Cold storage,174.0
 Bearings,168.0
 Irrigation water supply,160.0
 Mechanical above-ground drainage,145.0
 Trenches,131.0
-Central air conditioning,125.0
 Sludge treatment,125.0
+Central air conditioning,125.0
 Masts,122.0
 Gaseous fire-extinguishing supply,115.0
 Towers,70.0
@@ -79,17 +77,12 @@ Foam fire-extinguishing supply,45.0
 Access control,40.0
 Cut-and-cover tunnels,38.879999999999995
 Land fauna elements,29.0
+Security detection and alarms,25.0
 Tramway signals,12.0
 Mezzanine level,10.0
 Basement floors,9.0
 Transmission switching,5.0
 Upper floors,2.0
 Ground level,1.79
-"Remediation, repair and renovation",1.0
 Medical gas and vacuum supply,1.0
-Membrane structures,0.0
-Tertiary wastewater treatment,0.0
-Laboratory gas supply,0.0
-Local air conditioning,0.0
-Railway heating,0.0
-Abutments,0.0
+"Remediation, repair and renovation",1.0

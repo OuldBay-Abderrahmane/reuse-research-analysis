@@ -1,19 +1,15 @@
 fourth_level,LastPriceNumeric
-Security detection and alarms,1250025.0
-Pedestrian pavements,883454.7
-Monitoring,123979.99
 Doors,117436.0
-Domed roofs,101192.01999999999
-Windows,70546.0
-Fences,32757.79
+Domed roofs,66192.02
+Windows,55560.0
 Other,29433.01
 Artworks,28170.51
-Arched roofs,26980.4
 External stairs,13962.0
-Cold storage,10174.0
+Arched roofs,11980.4
 Framed structures,8992.0
 Internal stairs,8976.0
 Gates,8212.0
+Fences,7757.79
 Liquid detection and alarms,6269.0
 Free-standing walls,4941.86
 External ramps,4779.0
@@ -25,6 +21,7 @@ Cooling,4051.0
 Mezzanine floors,3786.25
 "Tree, shrub and herbaceous plant elements",3678.85
 Personnel lifts,3598.0
+Pedestrian pavements,3454.7
 Grass and meadow elements,3434.7
 Louvres,3311.8
 Water fire suppression supply,3000.0
@@ -38,6 +35,7 @@ Wastewater treatment inlet works,2045.0
 Soffits,2003.0
 Vehicular space ventilation,2000.0
 External walls,1775.0
+Monitoring,1659.99
 Rolling stock,1500.0
 General space ventilation,1408.0
 Composite structures,1237.8600000000001
@@ -66,6 +64,7 @@ Pitched roofs,280.0
 Fixed barriers,260.0
 Basement level,250.0
 Tramway heating,190.0
+Cold storage,174.0
 Bearings,168.0
 Irrigation water supply,160.0
 Sludge treatment,160.0
@@ -81,6 +80,7 @@ Foam fire-extinguishing supply,45.0
 Access control,40.0
 Cut-and-cover tunnels,38.879999999999995
 Land fauna elements,29.0
+Security detection and alarms,25.0
 Tramway signals,12.0
 Mezzanine level,10.0
 Basement floors,9.0
@@ -89,8 +89,3 @@ Upper floors,2.0
 Ground level,1.79
 Medical gas and vacuum supply,1.0
 "Remediation, repair and renovation",1.0
-Railway heating,0.0
-Local air conditioning,0.0
-Tertiary wastewater treatment,0.0
-Laboratory gas supply,0.0
-Membrane structures,0.0

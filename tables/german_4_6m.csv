@@ -1,95 +1,88 @@
-,fourth_level
-Windows,184
-Doors,165
-Domed roofs,108
-Other,102
-Artworks,60
+fourth_level,count
+Windows,171
+Doors,142
+Domed roofs,99
+Other,79
 Wastewater treatment inlet works,52
+Artworks,49
 Personnel lifts,48
-Cooling,45
-Arched roofs,38
-Framed structures,30
-Solid structures,30
-Free-standing walls,26
-External stairs,24
-Heating,21
-Fences,20
-Mezzanine floors,19
+Cooling,42
+Arched roofs,34
+Solid structures,28
+Free-standing walls,24
+External stairs,22
+Heating,20
 Aeronautical lighting,19
-Pylons,16
-Pedestrian pavements,15
-Internal stairs,15
-Parapet walls,14
-Vehicular pavements,14
-Gates,13
-Curved roofs,13
+Framed structures,19
+Fences,19
+Mezzanine floors,16
+Pylons,14
+Internal stairs,13
+Parapet walls,13
 External lighting,12
-Internal walls,12
-Ground floors,10
-Vents,9
+Curved roofs,12
+Internal walls,10
 Immersed tube tunnels,8
-Ceilings,8
-Grass and meadow elements,8
-Goods lifts,8
+Pedestrian pavements,8
 Flat roofs,8
-Gantries,8
-External walls,7
-Louvres,6
-General space ventilation,6
-Hot and cold water supply,5
-Soffits,5
+Grass and meadow elements,8
+Gantries,7
+Vents,7
+Ceilings,7
+Gates,7
+Ground floors,6
+Vehicular pavements,6
 Opening barriers,5
+General space ventilation,5
+Hot and cold water supply,5
+Goods lifts,5
 General space lighting,5
-Hatches,5
-Tramway heating,4
-Security screening,4
-Masts,4
-Mechanical below-ground drainage,4
+External walls,5
+Louvres,5
 Pavement heating,4
-Monitoring,4
+Mechanical below-ground drainage,4
 Composite structures,4
 "Tree, shrub and herbaceous plant elements",4
-Mechanical above-ground drainage,3
-Sludge treatment,3
-Chimneys,3
-"Combined heating, cooling and power",3
-Liquid detection and alarms,3
-Cold storage,3
+Hatches,4
 External walls below ground,3
-Structural monitoring,3
 Bridge decks,3
+Sludge treatment,3
+Security screening,3
 Piers,3
+Masts,3
 External ramps,3
-Railway heating,3
-Irrigation water supply,2
-Vehicular space ventilation,2
-Gaseous fire-extinguishing supply,2
-Foam fire-extinguishing supply,2
-Mezzanine level,2
-Security detection and alarms,2
-Fixed barriers,2
-Basement level,2
-"Remediation, repair and renovation",2
-Basement floors,2
+Soffits,3
+Monitoring,3
+Liquid detection and alarms,3
+Chimneys,3
+Structural monitoring,3
 Trenches,2
+Mechanical above-ground drainage,2
+Vehicular space ventilation,2
+"Combined heating, cooling and power",2
+Gaseous fire-extinguishing supply,2
+Irrigation water supply,2
 Cut-and-cover tunnels,2
-Local air conditioning,1
+Tramway heating,2
+Basement level,2
+Cold storage,2
+Fixed barriers,2
+Access control,1
 Water fire suppression supply,1
-Rolling stock,1
-Tertiary wastewater treatment,1
 Central air conditioning,1
 Towers,1
 Tramway signals,1
 Bearings,1
 Cable management,1
-Laboratory gas supply,1
-Membrane structures,1
-Access control,1
-Abutments,1
+Mezzanine level,1
+Security detection and alarms,1
 Medical gas and vacuum supply,1
+"Metering, monitoring and management",1
 Upper floors,1
+Foam fire-extinguishing supply,1
+Basement floors,1
 Transmission switching,1
 Pitched roofs,1
+"Remediation, repair and renovation",1
 Land fauna elements,1
-"Metering, monitoring and management",1
 Ground level,1

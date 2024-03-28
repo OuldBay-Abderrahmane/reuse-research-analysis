@@ -1,8 +1,19 @@
-first_level,LastPrice
-Other,685041.0
-Furnishings,285691.0
-"Openings - (Door, Windows)",140031.0
-"Roof, Slabs, Stairs",63696.0
-"Wall, Barriers, Pannels",56727.0
-Technical elements,5314.0
-Structural elements,4791.0
+firstb_level,LastPrice
+"Heating, cooling and refrigeration functions",104298.0
+"Signage, fittings, furnishings and equipment",77916.0
+Other,76426.0
+Wall and barrier elements,70738.0
+Piped supply functions,35861.0
+"Roofs, floor and paving elements",28372.0
+Waste disposal functions,26708.0
+Electrical power and lighting functions,20227.0
+Structural elements,17567.0
+Stairs and ramps,14139.0
+Ventilation and air conditioning functions,13640.0
+"Tunnel, vessel and tower elements",12464.0
+"Communications, security, safety and protection functions",10107.0
+Transport functions,7510.0
+Flora and fauna elements,6829.0
+Process engineering,5879.0
+Earthworks and remediation,1035.0
+Vehicle functions,330.0

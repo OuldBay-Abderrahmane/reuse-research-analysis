@@ -1,21 +1,21 @@
-,third_level
-Openings,23
-Walls,16
-Other,13
-Space heating and cooling,11
+third_level,count
+Openings,38
+Walls,26
+Other,15
+Superstructure,13
 Pavements,9
-Roofs,8
-Superstructure,5
+Roofs,7
 Drainage treatment and disposal,5
-Barriers,4
-Bridge structures,3
-Floors,3
+Barriers,5
+Space heating and cooling,5
+Furnishings,4
+Floors,4
+Bridge structures,4
+Stairs,3
+Vessels and trenches,2
 "Towers, chimneys and masts",2
-Furnishings,2
+Fittings,2
 Rail tracks,2
-Fittings,1
-Lighting,1
 Protection,1
-"Tree, shrub and herbaceous plant elements",1
-Fire-extinguishing supply,1
-Dry waste collection,1
+Cultural elements,1
+Security,1

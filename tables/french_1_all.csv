@@ -1,8 +1,19 @@
-,first_level
-Other,5343
-Openings,1085
-Furnishings,301
-"Roof, Slabs, Stairs",108
-"Wall, Barriers, Pannels",79
-Technical elements,48
-Structural elements,34
+firstb_level,count
+Wall and barrier elements,406
+"Roofs, floor and paving elements",273
+"Heating, cooling and refrigeration functions",220
+"Signage, fittings, furnishings and equipment",204
+Electrical power and lighting functions,197
+"Communications, security, safety and protection functions",166
+Other,111
+Transport functions,85
+Piped supply functions,66
+Waste disposal functions,62
+"Tunnel, vessel and tower elements",61
+Structural elements,47
+Stairs and ramps,32
+Ventilation and air conditioning functions,18
+Flora and fauna elements,9
+Process engineering,8
+Earthworks and remediation,8
+Vehicle functions,3

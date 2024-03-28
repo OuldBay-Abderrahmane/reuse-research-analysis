@@ -1,6 +1,8 @@
 ,column_name,percent_missing
+Unnamed: 0.3,Unnamed: 0.3,0.0
+Unnamed: 0.2,Unnamed: 0.2,0.0
 ID,ID,0.05065856129685917
-Title,Title,0.0
+Title,Title,0.05065856129685917
 Weight,Weight,6.079027355623101
 Weight_Units,Weight_Units,9.118541033434651
 Product_Units,Product_Units,9.118541033434651
@@ -30,12 +32,30 @@ Sold_After,Sold_After,63.88044579533941
 material,material,0.0
 dim,dim,0.0
 quantity_n,quantity_n,0.0
+Title_en,Title_en,0.10131712259371833
+Description_en,Description_en,100.0
 material_emb,material_emb,0.0
-Belgium_Raw,Belgium_Raw,45.2887537993921
-Belgium_Code,Belgium_Code,45.2887537993921
 first_level,first_level,0.0
 second_level,second_level,0.0
 third_level,third_level,0.0
+uni,uni,0.0
+code,code,0.0
+1b,1b,100.0
+4b,4b,100.0
+highest_similarity_code,highest_similarity_code,0.0
+highest_similarity_code_1,highest_similarity_code_1,100.0
+highest_similarity_code_2,highest_similarity_code_2,100.0
+highest_similarity_code_4,highest_similarity_code_4,100.0
+highest_similarity_code_1b,highest_similarity_code_1b,18.085106382978722
+highest_similarity_code_4b,highest_similarity_code_4b,0.0
+highest_similarity,highest_similarity,0.0
+highest_similarity_2,highest_similarity_2,0.0
+highest_similarity_1,highest_similarity_1,0.0
+highest_similarity_4,highest_similarity_4,0.0
+highest_similarity_1b,highest_similarity_1b,0.0
+highest_similarity_4b,highest_similarity_4b,0.0
+firstb_level,firstb_level,0.0
+fourth_level,fourth_level,0.0
 quantity_score,quantity_score,0.0
 Length,Length,95.0354609929078
 Width,Width,93.00911854103343

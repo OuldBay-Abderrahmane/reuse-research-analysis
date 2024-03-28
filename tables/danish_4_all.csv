@@ -1,21 +1,140 @@
-,Danish_Raw
-Wood door frames,1027
-Frameless glass door leaves,202
-Window panels,195
-Composite door frames,169
-Thermochromic glass,95
-Door hinges,75
-Lamps,58
-Double-pole switches,57
-Fuse holders,56
-Wood window subframes,52
-Special lamps,49
-Specialist socket outlets,47
-Wall protection panels,47
-Automatic swing-door operators,47
-Brass sections,35
-Window boxes,32
-Control panels,30
-Cupboards,30
-Barrel hinges,29
-Sectional overhead doorsets,28
+fourth_level,count
+Doors,1757
+Other,848
+Framed structures,331
+Artworks,245
+Cooling,139
+Windows,122
+Transmission switching,121
+External lighting,108
+Aeronautical lighting,100
+Personnel lifts,77
+Domed roofs,63
+Goods lifts,57
+Mezzanine floors,57
+Arched roofs,55
+External walls,51
+Transmission circuit,50
+Robotics,47
+General space lighting,37
+Abutments,36
+Gates,34
+Ground floors,34
+Small power supply,34
+Heating,34
+Ground level,34
+Fences,33
+Solid structures,31
+Bridge decks,28
+Parapet walls,28
+Towers,28
+Laboratory gas supply,27
+Rolling stock,27
+"Metering, monitoring and management",27
+Pitched roofs,26
+Free-standing walls,24
+External walls below DPC,24
+Marine signals,23
+Ceilings,23
+Masts,21
+Mechanical below-ground drainage,20
+Access control,20
+Mechanical power,19
+Upper floors,19
+Bearings,18
+Internal walls,18
+Groundworks and earthworks,18
+Cold storage,17
+Mechanical engineering services control and management,16
+Cable management,16
+Public communications,16
+Internal stairs,15
+Vessels,15
+Gaseous fire-extinguishing supply,14
+"Tree, shrub and herbaceous plant elements",14
+Composite structures,13
+Gantries,13
+Curved roofs,13
+Process gas supply,12
+External stairs,12
+Security screening,12
+Smoke extraction and control,12
+Manufacturing processes,12
+Pylons,11
+Wastewater treatment inlet works,10
+Monitoring,10
+Immersed tube tunnels,10
+Sludge treatment,10
+External walls below ground,10
+Hatches,9
+Conductor rail traction power distribution,9
+Emergency communications,9
+General space ventilation,9
+Vehicular space ventilation,9
+Rail signals and controls,9
+Trenches,9
+Upper level,9
+Chimneys,8
+Central air conditioning,8
+Fixed barriers,8
+Fume extraction,8
+Data distribution and telecommunications,8
+Security detection and alarms,8
+Foam fire-extinguishing supply,8
+High-voltage transformation,7
+Fossil fuel power generation,7
+Water firefighting supply,7
+Shell structures,7
+Grass and meadow elements,7
+Irrigation water supply,6
+Patient monitoring and telemetry,6
+Radio and television distribution,6
+Piers,6
+Opening barriers,6
+Bored tunnels,6
+Cut-and-cover tunnels,6
+Gravity above-ground drainage,6
+Vehicular pavements,6
+Vehicular lifts,5
+Medical gas and vacuum supply,5
+Road signals and controls,5
+Soffits,5
+Spans,5
+"Combined heating, cooling and power",5
+Vents,5
+High-voltage electricity distribution,5
+Waterway signals,4
+Gas detection and alarms,4
+Overhead line traction power distribution,4
+Mechanical above-ground drainage,4
+Internal ramps,4
+Transmission network control and protection,4
+Pedestrian pavements,4
+Pavement heating,3
+Preliminary wastewater treatment,3
+Tramway heating,3
+Membrane structures,3
+Louvres,3
+Tramway signals,3
+Structural monitoring,3
+Low-voltage electricity distribution,3
+Primary wastewater treatment,2
+Tertiary wastewater treatment,2
+Basement level,2
+Water fire suppression supply,2
+Liquid detection and alarms,2
+Hot and cold water supply,2
+External ramps,2
+Local air conditioning,2
+Industrial fume extraction,2
+Land fauna elements,1
+Aquatic fauna elements,1
+Basement floors,1
+Controlled environments,1
+Medium-voltage electricity distribution,1
+Renewable power generation,1
+Flat roofs,1
+Aquatic flora elements,1
+"Remediation, repair and renovation",1
+Mezzanine level,1
+Fire and smoke detection and alarms,1
