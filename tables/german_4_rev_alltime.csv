@@ -1,124 +1,96 @@
-uni,LastPriceNumeric
-Safety and protection,1250060.0
-"Roofs, floor and paving elements",888235.5
-Communication,123979.99
-Doors,114636.0
+fourth_level,LastPriceNumeric
+Security detection and alarms,1250025.0
+Pedestrian pavements,883454.7
+Monitoring,123979.99
+Doors,117436.0
+Domed roofs,101192.01999999999
 Windows,70546.0
-Domed roofs,67333.27
-Roofs,38127.2
-Walls,30814.07
+Fences,32757.79
 Other,29433.01
-Arched roofs,19065.4
-Stairs,17066.0
-Furnishings,10954.0
-Drying,10791.0
+Artworks,28170.51
+Arched roofs,26980.4
+External stairs,13962.0
+Cold storage,10174.0
+Framed structures,8992.0
+Internal stairs,8976.0
 Gates,8212.0
-Artworks,8200.65
-Fences,7707.0
-Framed structures,7271.0
-Liquid detection and alarms,5999.0
-"Signage, fittings, furnishings and equipment",5790.98
+Liquid detection and alarms,6269.0
+Free-standing walls,4941.86
+External ramps,4779.0
 Solid structures,4758.26
-Heating,4336.5
-Ramps,4225.0
-Rail tracks,4021.9
-Lifts,4000.0
+Heating,4582.5
+Goods lifts,4531.0
+Cooling,4051.0
 "Metering, monitoring and management",4000.0
+Mezzanine floors,3786.25
 "Tree, shrub and herbaceous plant elements",3678.85
-Openings,3530.0
-Lighting,3508.0
-Floors,3437.9300000000003
+Personnel lifts,3598.0
 Grass and meadow elements,3434.7
-Pavements,3346.7
 Louvres,3311.8
-Wall and barrier elements,3190.5
-External stairs,3072.0
 Water fire suppression supply,3000.0
-Cooling,2940.0
-Internal stairs,2800.0
-Drainage treatment and disposal,2480.0
+Parapet walls,2971.98
+Flat roofs,2842.0
+Curved roofs,2815.9
 Pylons,2449.9
-Fittings,2285.0
-Parapet walls,2171.98
 Vents,2125.0
+Aeronautical lighting,2116.0
+Wastewater treatment inlet works,2045.0
 Soffits,2003.0
 Vehicular space ventilation,2000.0
-Flat roofs,1842.0
-Structural elements,1701.0
+External walls,1775.0
 Rolling stock,1500.0
-Ventilation,1359.0
+General space ventilation,1408.0
 Composite structures,1237.8600000000001
-Curved roofs,1234.0
+Internal walls,1161.0
+General space lighting,1138.0
+External walls below ground,1133.0
+Vehicular pavements,1060.5
+Ceilings,1058.98
+External lighting,1030.0
+Ground floors,997.98
 Chimneys,990.0
-Space heating and cooling,956.0
-Pavement heating,822.0
-Equipment,785.88
-Structural monitoring,750.0
+Structural monitoring,930.0
+Pavement heating,875.9
+Piers,735.0
+Opening barriers,730.0
 Bridge decks,664.0
-Protection,616.98
-Ceilings and soffits,565.0
-External ramps,554.0
-Ceilings,548.98
 Immersed tube tunnels,526.5
-External lighting,525.0
-Electricity transmission,510.0
-Internal walls,490.0
+Transmission switching,515.0
 Hatches,489.4
-Piers,465.0
-Mezzanine floors,412.75
 Gantries,405.98
-Water extraction and treatment,390.0
-Free-standing walls,367.08
+Mechanical below-ground drainage,400.0
+Hot and cold water supply,390.0
+"Combined heating, cooling and power",345.0
+Security screening,314.98
 Pitched roofs,280.0
-Superstructure,270.0
 Fixed barriers,260.0
-Aeronautical lighting,251.0
-Building levels,212.0
+Basement level,250.0
+Tramway heating,190.0
 Bearings,168.0
-Security,165.0
-Signage,154.0
-Water supply,150.0
+Irrigation water supply,160.0
+Sludge treatment,160.0
+Mechanical above-ground drainage,145.0
 Trenches,131.0
-Wastewater treatment and disposal,125.0
 Central air conditioning,125.0
 Masts,122.0
 Gaseous fire-extinguishing supply,115.0
-Wastewater treatment inlet works,110.0
 Towers,100.0
-Tramway heating,100.0
-Refrigeration,90.0
-Conveyors,90.0
-Cold storage,84.0
 Cable management,54.5
-Rail and paving heating,53.9
 Abutments,50.0
-Air conditioning,49.0
-Vehicular pavements,48.0
-"Combined heating, cooling and power",45.0
-Fire-extinguishing supply,45.0
-Basement level,40.0
+Foam fire-extinguishing supply,45.0
+Access control,40.0
 Cut-and-cover tunnels,38.879999999999995
-Sludge treatment,35.0
 Land fauna elements,29.0
-Bridge structures,20.0
-Personnel lifts,15.0
-Irrigation water supply,10.0
+Tramway signals,12.0
 Mezzanine level,10.0
-Dry waste collection,5.0
-Transmission switching,5.0
-Cable transport,2.0
+Basement floors,9.0
+Gravity above-ground drainage,5.0
+Upper floors,2.0
 Ground level,1.79
-Decks,1.0
+Medical gas and vacuum supply,1.0
 "Remediation, repair and renovation",1.0
-Piped solids supply,1.0
-Cranes and hoists,0.1
-Foam fire-extinguishing supply,0.0
-External walls,0.0
-Stairs and ramps,0.0
-Waste disposal functions,0.0
-Upper floors,0.0
-Hot and cold water supply,0.0
-Membrane structures,0.0
-Process liquid supply,0.0
-"Towers, chimneys and masts",0.0
 Railway heating,0.0
+Local air conditioning,0.0
+Tertiary wastewater treatment,0.0
+Laboratory gas supply,0.0
+Membrane structures,0.0

@@ -1,36 +1,29 @@
 third_level,LastPriceNumeric
-Openings,10116.0
-Other,5073.75
-Lifts,4195.0
-Pavements,2000.0
-Robotics,750.0
+Openings,7341.4
+Walls,5053.98
+Lifts,4000.0
+Pavements,2040.0
+Superstructure,1512.0
+Other,1112.75
+Communication,750.0
+Roofs,515.0
 Electricity transmission,510.0
+Barriers,441.0
 Floors,419.5
-Cranes and hoists,281.0
-Rail tracks,280.0
-Roofs,253.0
+Space heating and cooling,230.0
+Drainage treatment and disposal,195.0
+Ceilings and soffits,195.0
 Fittings,190.0
-Space heating and cooling,180.0
-Conveyors,135.0
-Superstructure,126.0
-"Towers, chimneys and masts",108.4
-Air conditioning,90.0
+"Towers, chimneys and masts",136.0
+Bridge structures,126.0
+Rail tracks,100.0
 Furnishings,65.0
 Protection,65.0
-Piped solids supply,60.0
-Bridge structures,50.0
-Ceilings and soffits,38.98
 Wastewater treatment and disposal,35.0
 Lighting,30.0
 Drying,25.0
-Barriers,10.0
 Dry waste collection,5.0
-Grass and meadow elements,1.0
-Rail and paving heating,0.0
-Ramps,0.0
-Electrical power generation,0.0
-Signalling,0.0
-Decks,0.0
-Below-ground drainage collection,0.0
+Air conditioning,0.0
 "Tree, shrub and herbaceous plant elements",0.0
-Ventilation,0.0
+Fire-extinguishing supply,0.0
+Water supply,0.0

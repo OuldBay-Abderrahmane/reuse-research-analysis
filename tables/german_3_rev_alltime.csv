@@ -1,56 +1,57 @@
 third_level,LastPriceNumeric
-Control and management,1254700.0
-Rail and paving heating,882166.9
-Other,179188.73
-Openings,131297.8
-Robotics,124086.99
-Roofs,40188.9
-Barriers,32757.0
-"Towers, chimneys and masts",26108.28
-Stairs,23793.0
-Furnishings,13539.0
-Air conditioning,11180.0
-Drying,10941.0
-Protection,9949.98
-Ramps,8007.0
-Lifts,7445.0
-Pavements,5944.59
-Space heating and cooling,5290.9
-Lighting,5187.98
-Rail tracks,5077.88
-Superstructure,5036.86
-"Tree, shrub and herbaceous plant elements",4762.85
-Ventilation,4135.0
-Fittings,3070.0
-Safety and protection,3000.0
-Floors,2729.94
-Conveyors,2436.0
-Ceilings and soffits,2186.98
-Grass and meadow elements,1937.45
-Piped solids supply,1828.0
+Safety and protection,1250810.0
+Pavements,893384.92
+Openings,142219.4
+Roofs,125057.09999999999
+Communication,123979.99
+Walls,100267.45
+Other,29433.01
+Furnishings,23206.0
+Stairs,22938.0
+Drying,10791.0
+Superstructure,9669.0
+Space heating and cooling,8527.5
+Bridge structures,6896.12
+Environmental safety,5999.0
+Barriers,5363.98
+Floors,4932.2300000000005
+Ramps,4779.0
+Lighting,4284.0
+Rail tracks,4021.9
+Lifts,4015.0
+Control and management,4000.0
+"Tree, shrub and herbaceous plant elements",3678.85
+Grass and meadow elements,3434.7
+Ventilation,3359.0
+Fire-extinguishing supply,3160.0
+Ceilings and soffits,2945.98
+Fittings,2535.0
+Drainage treatment and disposal,2530.0
+"Towers, chimneys and masts",2491.9
 Rolling stock,1500.0
-Walls,1472.55
-Cultural elements,1291.67
-Tunnels and shafts,960.48
-Bridge structures,708.0
-Water extraction and treatment,640.0
-Refrigeration,595.5
-Electricity transmission,510.0
-Cranes and hoists,468.1
-Building levels,451.0
-Manufacturing processes,443.9
-Below-ground drainage collection,300.0
-Dry waste collection,255.0
-Land fauna elements,228.0
-Fire-extinguishing supply,195.98000000000002
-Equipment,189.98
-Wastewater treatment and disposal,185.0
-Vessels and trenches,130.0
-Signage,100.0
-Electricity distribution,54.5
-Signalling,40.0
-Cable transport,5.0
+Vessels and trenches,1463.46
+Cultural elements,1153.0
+Equipment,1080.8600000000001
+Tunnels and shafts,808.9
+Rail and paving heating,725.9
+Protection,616.98
+Electricity transmission,569.5
+Building levels,423.29
+Water extraction and treatment,390.0
+Wastewater treatment and disposal,220.0
+Signage,195.65
+Air conditioning,174.0
+Refrigeration,174.0
+Security,165.0
+Water supply,160.0
+Conveyors,90.0
+Substructure,40.0
+Land fauna elements,29.0
+Dry waste collection,5.0
+Cable transport,2.0
+"Remediation, repair and renovation",1.0
+Piped solids supply,1.0
 Decks,1.0
+Cranes and hoists,0.1
 Process liquid supply,0.0
-Electrical power generation,0.0
-Dry waste treatment and disposal,0.0
+Wet waste treatment and disposal,0.0
